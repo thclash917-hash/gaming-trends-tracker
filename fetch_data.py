@@ -22,7 +22,8 @@ def get_twitch_games(client_id, client_secret):
         if not access_token:
             return []
 
-        games_url = "https://api.twitch.tv/helix/games/top?first=50"
+        # 1. Récupérer le Top 100 de Twitch pour plus de choix
+        games_url = "https://api.twitch.tv/helix/games/top?first=100"
         req = urllib.request.Request(games_url, headers={
             'Client-ID': client_id,
             'Authorization': f'Bearer {access_token}'
@@ -32,8 +33,14 @@ def get_twitch_games(client_id, client_secret):
             twitch_data = json.loads(response.read().decode())
             
         twitch_list = []
-        for item in twitch_data.get('data', []):
+        fetched_game_names = set()
+
+        def process_game_item(item):
             name = item['name']
+            if name in fetched_game_names:
+                return
+            fetched_game_names.add(name)
+            
             box_art_url = item['box_art_url'].format(width=300, height=400)
             game_id = item['id']
             
@@ -60,6 +67,27 @@ def get_twitch_games(client_id, client_secret):
                 "trend": "+3%",
                 "image": box_art_url
             })
+
+        for item in twitch_data.get('data', []):
+            process_game_item(item)
+
+        # 2. Forcer l'ajout de jeux spécifiques s'ils ne sont pas dans le top (ex: Brawl Stars)
+        extra_games_to_fetch = ["Brawl Stars", "Fortnite", "Valorant", "Minecraft"]
+        for extra_game in extra_games_to_fetch:
+            if extra_game not in fetched_game_names:
+                try:
+                    search_url = f"https://api.twitch.tv/helix/games?name={urllib.parse.quote(extra_game)}"
+                    req_search = urllib.request.Request(search_url, headers={
+                        'Client-ID': client_id,
+                        'Authorization': f'Bearer {access_token}'
+                    })
+                    with urllib.request.urlopen(req_search, timeout=5) as resp_search:
+                        search_data = json.loads(resp_search.read().decode())
+                        if search_data.get('data'):
+                            process_game_item(search_data['data'][0])
+                except Exception as ex:
+                    print(f"Impossible de récupérer {extra_game}: {ex}")
+
         return twitch_list
     except Exception as e:
         print(f"Erreur Twitch: {e}")
@@ -115,9 +143,8 @@ if __name__ == "__main__":
     twitch_data = get_twitch_games(client_id, client_secret)
     
     all_games = steam_data + twitch_data
-    # Trier par volume décroissant et limiter au Top 50
     all_games.sort(key=lambda x: x["metric"], reverse=True)
-    all_games = all_games[:50]
+    all_games = all_games[:100]  # Garder un large top 100
     
     for idx, g in enumerate(all_games, 1):
         g["id"] = idx
