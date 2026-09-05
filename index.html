@@ -3,18 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gaming Trends Tracker - Top 100 & Recherche</title>
+    <title>Gaming Trends Tracker - Top & Liens</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-950 text-slate-100 min-h-screen font-sans">
     
-    <div class="max-w-4xl mx-auto px-4 py-12">
+    <div class="max-w-4xl mx-auto px-4 py-8">
+        
+        <!-- Barre de navigation / Onglets rapides -->
+        <nav class="flex flex-wrap justify-center gap-4 mb-8">
+            <a href="https://www.twitch.tv/fire_bs2" target="_blank" 
+               class="flex items-center gap-2 bg-purple-600/20 border border-purple-500/30 text-purple-400 hover:bg-purple-600/30 px-5 py-2.5 rounded-xl font-semibold transition shadow-lg">
+                🔴 Ma Chaîne Twitch
+            </a>
+            <a href="https://shop-fire-zeta.vercel.app/" target="_blank" 
+               class="flex items-center gap-2 bg-amber-500/20 border border-amber-500/30 text-amber-400 hover:bg-amber-500/30 px-5 py-2.5 rounded-xl font-semibold transition shadow-lg">
+                🛒 Boutique Supercell
+            </a>
+        </nav>
+
         <header class="mb-8 text-center">
             <h1 class="text-4xl font-extrabold tracking-tight text-indigo-400 mb-2">🎮 Gaming Trends Tracker</h1>
-            <p class="text-slate-400 mb-6">Suivi en direct des tendances Steam et Twitch</p>
+            <p class="text-slate-400 mb-6">Suivi en direct des tendances Steam et Twitch (Mise à jour toutes les 30 min)</p>
             
             <div class="max-w-md mx-auto">
-                <input type="text" id="search-input" placeholder="Rechercher un jeu (ex: Brawl Stars, Fortnite...)" 
+                <input type="text" id="search-input" placeholder="Rechercher un jeu (Brawl Stars, Pixel Gun 3D...)" 
                     class="w-full bg-slate-900 border border-slate-800 rounded-xl px-4 py-3 text-slate-100 placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition shadow-lg">
             </div>
         </header>
@@ -22,7 +35,7 @@
         <main class="bg-slate-900 border border-slate-800 rounded-xl shadow-xl overflow-hidden">
             <div class="p-6 border-b border-slate-800 flex justify-between items-center">
                 <h2 class="text-xl font-bold text-slate-200">Classement Global</h2>
-                <span class="text-xs bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 px-3 py-1 rounded-full">Top 100 en direct</span>
+                <span class="text-xs bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 px-3 py-1 rounded-full">Top en direct</span>
             </div>
             
             <div class="overflow-x-auto">
@@ -37,7 +50,7 @@
                         </tr>
                     </thead>
                     <tbody id="games-table-body" class="divide-y divide-slate-800 text-sm">
-                        <!-- Chargement -->
+                        <!-- Chargement dynamique -->
                     </tbody>
                 </table>
             </div>
