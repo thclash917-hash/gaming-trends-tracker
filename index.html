@@ -6,18 +6,18 @@
     <title>Gaming Trends Tracker - Top, Filtres & Favoris</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-slate-950 text-slate-100 min-h-screen font-sans">
+<body class="bg-slate-950 text-slate-100 min-h-screen font-sans selection:bg-indigo-500 selection:text-white">
     
     <div class="max-w-4xl mx-auto px-4 py-8">
         
         <!-- Barre de navigation / Liens rapides -->
         <nav class="flex flex-wrap justify-center gap-4 mb-8">
             <a href="https://www.twitch.tv/fire_bs2" target="_blank" 
-               class="flex items-center gap-2 bg-purple-600/20 border border-purple-500/30 text-purple-400 hover:bg-purple-600/30 px-5 py-2.5 rounded-xl font-semibold transition shadow-lg">
+               class="flex items-center gap-2 bg-purple-600/20 border border-purple-500/30 text-purple-400 hover:bg-purple-600/30 px-5 py-2.5 rounded-xl font-semibold transition-all duration-200 shadow-lg hover:scale-105">
                 🔴 Ma Chaîne Twitch
             </a>
             <a href="https://shop-fire-zeta.vercel.app/" target="_blank" 
-               class="flex items-center gap-2 bg-amber-500/20 border border-amber-500/30 text-amber-400 hover:bg-amber-500/30 px-5 py-2.5 rounded-xl font-semibold transition shadow-lg">
+               class="flex items-center gap-2 bg-amber-500/20 border border-amber-500/30 text-amber-400 hover:bg-amber-500/30 px-5 py-2.5 rounded-xl font-semibold transition-all duration-200 shadow-lg hover:scale-105">
                 🛒 Boutique Supercell
             </a>
         </nav>
@@ -29,15 +29,15 @@
             
             <div class="max-w-md mx-auto mb-6">
                 <input type="text" id="search-input" placeholder="Rechercher un jeu (Brawl Stars, Pixel Gun 3D...)" 
-                    class="w-full bg-slate-900 border border-slate-800 rounded-xl px-4 py-3 text-slate-100 placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition shadow-lg">
+                    class="w-full bg-slate-900 border border-slate-800 rounded-xl px-4 py-3 text-slate-100 placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition-all duration-200 shadow-lg">
             </div>
 
-            <!-- Filtres par plateforme et favoris -->
+            <!-- Filtres par plateforme et favoris fluides -->
             <div class="flex flex-wrap justify-center gap-2">
-                <button onclick="setPlatformFilter('all')" id="filter-all" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-indigo-600 text-white transition shadow">Tous</button>
-                <button onclick="setPlatformFilter('Twitch')" id="filter-twitch" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-slate-400 border border-slate-800 hover:border-slate-700 transition">Twitch</button>
-                <button onclick="setPlatformFilter('Steam')" id="filter-steam" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-slate-400 border border-slate-800 hover:border-slate-700 transition">Steam</button>
-                <button onclick="setPlatformFilter('favorites')" id="filter-fav" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-amber-400 border border-slate-800 hover:border-slate-700 transition">⭐ Favoris</button>
+                <button onclick="setPlatformFilter('all')" id="filter-all" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-indigo-600 text-white transition-all duration-200 shadow">Tous</button>
+                <button onclick="setPlatformFilter('Twitch')" id="filter-twitch" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-slate-400 border border-slate-800 hover:border-slate-700 transition-all duration-200">Twitch</button>
+                <button onclick="setPlatformFilter('Steam')" id="filter-steam" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-slate-400 border border-slate-800 hover:border-slate-700 transition-all duration-200">Steam</button>
+                <button onclick="setPlatformFilter('favorites')" id="filter-fav" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-amber-400 border border-slate-800 hover:border-slate-700 transition-all duration-200">⭐ Favoris</button>
             </div>
         </header>
 
@@ -59,7 +59,7 @@
                             <th class="py-4 px-6 cursor-pointer hover:text-white transition" onclick="sortData('trend')">Tendance ↕</th>
                         </tr>
                     </thead>
-                    <tbody id="games-table-body" class="divide-y divide-slate-800 text-sm">
+                    <tbody id="games-table-body" class="divide-y divide-slate-800 text-sm transition-opacity duration-300">
                         <!-- Chargement -->
                     </tbody>
                 </table>
@@ -89,19 +89,18 @@
         function setPlatformFilter(filter) {
             currentFilter = filter;
             
-            // Mise à jour du style des boutons de filtre
             ['all', 'twitch', 'steam', 'fav'].forEach(f => {
                 const btn = document.getElementById(`filter-${f}`);
                 if (btn) {
-                    btn.className = "px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-slate-400 border border-slate-800 hover:border-slate-700 transition";
+                    btn.className = "px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-slate-400 border border-slate-800 hover:border-slate-700 transition-all duration-200";
                 }
             });
             
             const activeBtn = document.getElementById(`filter-${filter === 'favorites' ? 'fav' : filter.toLowerCase()}`);
             if (activeBtn) {
                 activeBtn.className = filter === 'favorites' 
-                    ? "px-4 py-1.5 rounded-lg text-sm font-semibold bg-amber-500/20 text-amber-400 border border-amber-500/40 transition shadow"
-                    : "px-4 py-1.5 rounded-lg text-sm font-semibold bg-indigo-600 text-white transition shadow";
+                    ? "px-4 py-1.5 rounded-lg text-sm font-semibold bg-amber-500/20 text-amber-400 border border-amber-500/40 transition-all duration-200 shadow"
+                    : "px-4 py-1.5 rounded-lg text-sm font-semibold bg-indigo-600 text-white transition-all duration-200 shadow";
             }
 
             applyFiltersAndRender();
@@ -112,7 +111,7 @@
                 isAscending = !isAscending;
             } else {
                 currentSortColumn = column;
-                isAscending = column === 'name'; // Alphabétique par défaut ascendant, métrique descendant
+                isAscending = column === 'name';
             }
             applyFiltersAndRender();
         }
@@ -120,19 +119,16 @@
         function applyFiltersAndRender() {
             let data = [...allGamesData];
 
-            // 1. Filtrage par plateforme / favoris
             if (currentFilter === 'Twitch' || currentFilter === 'Steam') {
                 data = data.filter(game => game.platform === currentFilter);
             } else if (currentFilter === 'favorites') {
                 data = data.filter(game => favorites.includes(game.name));
             }
 
-            // 2. Filtrage par recherche texte
             if (currentSearchQuery) {
                 data = data.filter(game => game.name.toLowerCase().includes(currentSearchQuery));
             }
 
-            // 3. Tri des colonnes
             data.sort((a, b) => {
                 let valA = a[currentSortColumn];
                 let valB = b[currentSortColumn];
@@ -149,7 +145,12 @@
                 }
             });
 
-            renderTable(data);
+            const tbody = document.getElementById('games-table-body');
+            tbody.style.opacity = '0';
+            setTimeout(() => {
+                renderTable(data);
+                tbody.style.opacity = '1';
+            }, 150);
         }
 
         function renderTable(dataToDisplay) {
@@ -159,7 +160,7 @@
             document.getElementById('game-count').innerText = `${dataToDisplay.length} jeu${dataToDisplay.length > 1 ? 's' : ''}`;
 
             if (dataToDisplay.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="6" class="py-12 text-center text-slate-500">Aucun jeu trouvé</td></tr>`;
+                tbody.innerHTML = `<tr><td colspan="6" class="py-12 text-center text-slate-500">Aucun jeu trouvé. Vérifiez que votre fichier games.json contient bien des données.</td></tr>`;
                 return;
             }
 
@@ -172,7 +173,7 @@
                     : '<span class="bg-blue-500/10 text-blue-400 border border-blue-500/20 px-2.5 py-1 rounded-full text-xs font-semibold">Steam</span>';
 
                 const row = `
-                    <tr class="hover:bg-slate-800/50 transition">
+                    <tr class="hover:bg-slate-800/50 transition-colors duration-150">
                         <td class="py-4 px-4 text-center align-middle">
                             <button onclick="toggleFavorite('${game.name.replace(/'/g, "\\'")}', event)" class="p-1 transition focus:outline-none">
                                 <svg class="w-5 h-5 ${starColor} transition transform hover:scale-110" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -199,8 +200,7 @@
             });
         }
 
-        // Chargement des données et récupération de la date de dernière modification (Last-Modified)
-        fetch('games.json')
+        fetch('games.json?' + new Date().getTime())
             .then(response => {
                 const lastModified = response.headers.get('Last-Modified');
                 if (lastModified) {
@@ -220,7 +220,6 @@
                 document.getElementById('last-update').innerText = `Erreur lors du chargement des données`;
             });
 
-        // Gestion de la recherche interactive
         document.getElementById('search-input').addEventListener('input', (e) => {
             currentSearchQuery = e.target.value.toLowerCase().trim();
             applyFiltersAndRender();
