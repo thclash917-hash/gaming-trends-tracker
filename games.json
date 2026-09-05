@@ -1,50 +1,92 @@
 [
     {
-        "id": 1,
         "name": "Counter-Strike 2",
         "platform": "Steam",
-        "players": 1126256,
+        "metric": 1123350,
+        "metric_label": "Joueurs Actifs",
         "trend": "+3%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg"
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+        "id": 1
     },
     {
-        "id": 2,
         "name": "Dota 2",
         "platform": "Steam",
-        "players": 824271,
+        "metric": 811938,
+        "metric_label": "Joueurs Actifs",
         "trend": "-1%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg"
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
+        "id": 2
     },
     {
-        "id": 3,
         "name": "Grand Theft Auto V",
         "platform": "Steam",
-        "players": 73959,
+        "metric": 73191,
+        "metric_label": "Joueurs Actifs",
         "trend": "+2%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg"
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+        "id": 3
     },
     {
-        "id": 4,
         "name": "Cyberpunk 2077",
         "platform": "Steam",
-        "players": 45336,
+        "metric": 45332,
+        "metric_label": "Joueurs Actifs",
         "trend": "+5%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg"
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+        "id": 4
     },
     {
-        "id": 5,
         "name": "Baldur's Gate 3",
         "platform": "Steam",
-        "players": 67547,
+        "metric": 68144,
+        "metric_label": "Joueurs Actifs",
         "trend": "-2%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg"
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+        "id": 5
     },
     {
-        "id": 6,
-        "name": "Rust",
-        "platform": "Steam",
-        "players": 144506,
+        "name": "ZEVENT",
+        "platform": "Twitch",
+        "metric": 687782,
+        "metric_label": "Spectateurs",
         "trend": "+4%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg"
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/132735846-300x400.jpg",
+        "id": 6
+    },
+    {
+        "name": "Just Chatting",
+        "platform": "Twitch",
+        "metric": 227565,
+        "metric_label": "Spectateurs",
+        "trend": "+4%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/509658-300x400.jpg",
+        "id": 7
+    },
+    {
+        "name": "IRL",
+        "platform": "Twitch",
+        "metric": 135381,
+        "metric_label": "Spectateurs",
+        "trend": "+4%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/509672-300x400.jpg",
+        "id": 8
+    },
+    {
+        "name": "VALORANT",
+        "platform": "Twitch",
+        "metric": 100197,
+        "metric_label": "Spectateurs",
+        "trend": "+4%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/516575-300x400.jpg",
+        "id": 9
+    },
+    {
+        "name": "GeoGuessr",
+        "platform": "Twitch",
+        "metric": 94803,
+        "metric_label": "Spectateurs",
+        "trend": "+4%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/369418_IGDB-300x400.jpg",
+        "id": 10
     }
 ]
