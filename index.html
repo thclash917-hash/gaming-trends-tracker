@@ -200,7 +200,7 @@
             });
         }
 
-        fetch('games.json?' + new Date().getTime())
+        fetch('https://thclash917-hash.github.io/gaming-trends-tracker/games.json?' + new Date().getTime())
             .then(response => {
                 const lastModified = response.headers.get('Last-Modified');
                 if (lastModified) {
