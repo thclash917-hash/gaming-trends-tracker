@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Counter-Strike 2",
+        "players": 1250000,
+        "platform": "Steam",
+        "trend": "+5%"
+    },
+    {
+        "id": 2,
+        "name": "Dota 2",
+        "players": 680000,
+        "platform": "Steam",
+        "trend": "-2%"
+    },
+    {
+        "id": 3,
+        "name": "Grand Theft Auto V",
+        "players": 180000,
+        "platform": "Steam",
+        "trend": "+1%"
+    }
+]
