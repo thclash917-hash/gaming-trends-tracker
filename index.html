@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gaming Trends Tracker</title>
-    <!-- Utilisation de Tailwind CSS pour un design propre et rapide -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-950 text-slate-100 min-h-screen font-sans">
@@ -17,8 +16,8 @@
 
         <main class="bg-slate-900 border border-slate-800 rounded-xl shadow-xl overflow-hidden">
             <div class="p-6 border-b border-slate-800 flex justify-between items-center">
-                <h2 class="text-xl font-bold text-slate-200">Top des Jeux duMoment</h2>
-                <span class="text-xs bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 px-3 py-1 rounded-full">Mis à jour en direct</span>
+                <h2 class="text-xl font-bold text-slate-200">Top des Jeux du Moment</h2>
+                <span class="text-xs bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 px-3 py-1 rounded-full">Données Steam en direct</span>
             </div>
             
             <div class="overflow-x-auto">
@@ -33,7 +32,7 @@
                         </tr>
                     </thead>
                     <tbody id="games-table-body" class="divide-y divide-slate-800 text-sm">
-                        <!-- Les données seront injectées ici par JavaScript -->
+                        <!-- Chargement -->
                     </tbody>
                 </table>
             </div>
@@ -41,7 +40,6 @@
     </div>
 
     <script>
-        // Charger le fichier games.json généré par le script Python
         fetch('games.json')
             .then(response => response.json())
             .then(data => {
@@ -52,20 +50,23 @@
                     const trendColor = game.trend.startsWith('+') ? 'text-emerald-400' : 'text-rose-400';
                     const row = `
                         <tr class="hover:bg-slate-800/50 transition">
-                            <td class="py-4 px-6 font-medium text-slate-400">${game.id}</td>
-                            <td class="py-4 px-6 font-semibold text-white">${game.name}</td>
-                            <td class="py-4 px-6 text-slate-300">${game.platform}</td>
-                            <td class="py-4 px-6 font-mono">${game.players.toLocaleString()}</td>
-                            <td class="py-4 px-6 font-bold ${trendColor}">${game.trend}</td>
+                            <td class="py-4 px-6 font-medium text-slate-400 align-middle">${game.id}</td>
+                            <td class="py-4 px-6 flex items-center gap-4 align-middle">
+                                <img src="${game.image}" alt="${game.name}" class="w-28 h-14 object-cover rounded shadow border border-slate-700">
+                                <span class="font-semibold text-white text-base">${game.name}</span>
+                            </td>
+                            <td class="py-4 px-6 text-slate-300 align-middle">${game.platform}</td>
+                            <td class="py-4 px-6 font-mono font-bold align-middle">${game.players.toLocaleString()}</td>
+                            <td class="py-4 px-6 font-bold ${trendColor} align-middle">${game.trend}</td>
                         </tr>
                     `;
                     tbody.innerHTML += row;
                 });
             })
             .catch(error => {
-                console.error('Erreur lors du chargement des données :', error);
+                console.error('Erreur :', error);
                 document.getElementById('games-table-body').innerHTML = `
-                    <tr><td colspan="5" class="py-6 text-center text-rose-400">Impossible de charger les données pour le moment.</td></tr>
+                    <tr><td colspan="5" class="py-6 text-center text-rose-400">Impossible de charger les données.</td></tr>
                 `;
             });
     </script>
