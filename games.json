@@ -2,22 +2,49 @@
     {
         "id": 1,
         "name": "Counter-Strike 2",
-        "players": 1250000,
         "platform": "Steam",
-        "trend": "+5%"
+        "players": 1126256,
+        "trend": "+3%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg"
     },
     {
         "id": 2,
         "name": "Dota 2",
-        "players": 680000,
         "platform": "Steam",
-        "trend": "-2%"
+        "players": 824271,
+        "trend": "-1%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg"
     },
     {
         "id": 3,
         "name": "Grand Theft Auto V",
-        "players": 180000,
         "platform": "Steam",
-        "trend": "+1%"
+        "players": 73959,
+        "trend": "+2%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cyberpunk 2077",
+        "platform": "Steam",
+        "players": 45336,
+        "trend": "+5%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Baldur's Gate 3",
+        "platform": "Steam",
+        "players": 67547,
+        "trend": "-2%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rust",
+        "platform": "Steam",
+        "players": 144506,
+        "trend": "+4%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg"
     }
 ]
