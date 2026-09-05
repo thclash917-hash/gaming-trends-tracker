@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gaming Trends Tracker - Top 50 & Recherche</title>
+    <title>Gaming Trends Tracker - Top 100 & Recherche</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-950 text-slate-100 min-h-screen font-sans">
@@ -13,9 +13,8 @@
             <h1 class="text-4xl font-extrabold tracking-tight text-indigo-400 mb-2">🎮 Gaming Trends Tracker</h1>
             <p class="text-slate-400 mb-6">Suivi en direct des tendances Steam et Twitch</p>
             
-            <!-- Barre de recherche -->
             <div class="max-w-md mx-auto">
-                <input type="text" id="search-input" placeholder="Rechercher un jeu (ex: Counter-Strike, Fortnite...)" 
+                <input type="text" id="search-input" placeholder="Rechercher un jeu (ex: Brawl Stars, Fortnite...)" 
                     class="w-full bg-slate-900 border border-slate-800 rounded-xl px-4 py-3 text-slate-100 placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition shadow-lg">
             </div>
         </header>
@@ -23,7 +22,7 @@
         <main class="bg-slate-900 border border-slate-800 rounded-xl shadow-xl overflow-hidden">
             <div class="p-6 border-b border-slate-800 flex justify-between items-center">
                 <h2 class="text-xl font-bold text-slate-200">Classement Global</h2>
-                <span class="text-xs bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 px-3 py-1 rounded-full">Top 50 en direct</span>
+                <span class="text-xs bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 px-3 py-1 rounded-full">Top 100 en direct</span>
             </div>
             
             <div class="overflow-x-auto">
@@ -67,7 +66,9 @@
                     <tr class="hover:bg-slate-800/50 transition">
                         <td class="py-4 px-6 font-medium text-slate-400 align-middle">${index + 1}</td>
                         <td class="py-4 px-6 flex items-center gap-4 align-middle">
-                            <img src="${game.image}" alt="${game.name}" class="w-20 h-24 object-cover rounded shadow border border-slate-700">
+                            <img src="${game.image}" alt="${game.name}" 
+                                 onerror="this.src='https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300&h=400&fit=crop'"
+                                 class="w-20 h-24 object-cover rounded shadow border border-slate-700">
                             <div>
                                 <span class="font-semibold text-white text-base block">${game.name}</span>
                                 <span class="text-xs text-slate-400">${game.metric_label}</span>
@@ -92,7 +93,6 @@
                 console.error('Erreur :', error);
             });
 
-        // Gestion de la recherche instantanée
         document.getElementById('search-input').addEventListener('input', (e) => {
             const query = e.target.value.toLowerCase();
             const filtered = allGamesData.filter(game => game.name.toLowerCase().includes(query));
