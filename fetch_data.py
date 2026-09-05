@@ -22,7 +22,7 @@ def get_twitch_games(client_id, client_secret):
         if not access_token:
             return []
 
-        games_url = "https://api.twitch.tv/helix/games/top?first=5"
+        games_url = "https://api.twitch.tv/helix/games/top?first=50"
         req = urllib.request.Request(games_url, headers={
             'Client-ID': client_id,
             'Authorization': f'Bearer {access_token}'
@@ -50,14 +50,14 @@ def get_twitch_games(client_id, client_secret):
                     for stream in streams_data.get('data', []):
                         viewers += stream.get('viewer_count', 0)
             except:
-                viewers = 25000
+                viewers = 5000
                 
             twitch_list.append({
                 "name": name,
                 "platform": "Twitch",
                 "metric": viewers,
                 "metric_label": "Spectateurs",
-                "trend": "+4%",
+                "trend": "+3%",
                 "image": box_art_url
             })
         return twitch_list
@@ -71,7 +71,16 @@ def get_steam_games():
         {"name": "Dota 2", "appid": 570, "trend": "-1%"},
         {"name": "Grand Theft Auto V", "appid": 271590, "trend": "+2%"},
         {"name": "Cyberpunk 2077", "appid": 1091500, "trend": "+5%"},
-        {"name": "Baldur's Gate 3", "appid": 1086940, "trend": "-2%"}
+        {"name": "Baldur's Gate 3", "appid": 1086940, "trend": "-2%"},
+        {"name": "Apex Legends", "appid": 1172470, "trend": "+1%"},
+        {"name": "PUBG: BATTLEGROUNDS", "appid": 578080, "trend": "+4%"},
+        {"name": "Palworld", "appid": 1623730, "trend": "-3%"},
+        {"name": "Helldivers 2", "appid": 553850, "trend": "+6%"},
+        {"name": "Monster Hunter: World", "appid": 582010, "trend": "+2%"},
+        {"name": "Terraria", "appid": 105600, "trend": "+1%"},
+        {"name": "Rust", "appid": 252490, "trend": "-2%"},
+        {"name": "Elden Ring", "appid": 1245620, "trend": "+4%"},
+        {"name": "Left 4 Dead 2", "appid": 550, "trend": "0%"}
     ]
     
     steam_list = []
@@ -85,7 +94,7 @@ def get_steam_games():
                 if data.get("response", {}).get("result") == 1:
                     players = data["response"].get("player_count", 0)
         except:
-            players = 100000
+            players = 20000
             
         image_url = f"https://cdn.cloudflare.steamstatic.com/steam/apps/{game['appid']}/header.jpg"
         steam_list.append({
@@ -106,6 +115,10 @@ if __name__ == "__main__":
     twitch_data = get_twitch_games(client_id, client_secret)
     
     all_games = steam_data + twitch_data
+    # Trier par volume décroissant et limiter au Top 50
+    all_games.sort(key=lambda x: x["metric"], reverse=True)
+    all_games = all_games[:50]
+    
     for idx, g in enumerate(all_games, 1):
         g["id"] = idx
         
