@@ -22,7 +22,7 @@ def get_twitch_games(client_id, client_secret):
         if not access_token:
             return []
 
-        # 1. Récupérer le Top 100 de Twitch pour plus de choix
+        # 1. Récupérer le Top 100 de Twitch
         games_url = "https://api.twitch.tv/helix/games/top?first=100"
         req = urllib.request.Request(games_url, headers={
             'Client-ID': client_id,
@@ -57,7 +57,7 @@ def get_twitch_games(client_id, client_secret):
                     for stream in streams_data.get('data', []):
                         viewers += stream.get('viewer_count', 0)
             except:
-                viewers = 5000
+                viewers = 100  # Valeur par défaut si aucun stream actif
                 
             twitch_list.append({
                 "name": name,
@@ -71,8 +71,25 @@ def get_twitch_games(client_id, client_secret):
         for item in twitch_data.get('data', []):
             process_game_item(item)
 
-        # 2. Forcer l'ajout de jeux spécifiques s'ils ne sont pas dans le top (ex: Brawl Stars)
-        extra_games_to_fetch = ["Brawl Stars", "Fortnite", "Valorant", "Minecraft"]
+        # 2. Forcer l'ajout de jeux spécifiques (Mobiles, Switch, Consoles, PC)
+        extra_games_to_fetch = [
+            # Jeux Mobiles
+            "Pixel Gun 3D", "Agar.io", "Nebulous", "Brawl Stars", "Clash of Clans", 
+            "Hay Day", "Clash Royale", "Roblox", "Genshin Impact", "Honkai: Star Rail", 
+            "PUBG Mobile", "Free Fire",
+            
+            # Nintendo Switch & Consoles
+            "The Legend of Zelda: Tears of the Kingdom", "Super Mario Bros. Wonder", 
+            "Mario Kart 8", "Super Smash Bros. Ultimate", "Pokémon", 
+            "EA Sports FC 25", "God of War", "Marvel's Spider-Man", "Halo",
+            
+            # PC & Multi-plateforme / E-sport
+            "League of Legends", "Valorant", "Fortnite", "Minecraft", 
+            "Grand Theft Auto V", "Call of Duty: Warzone", "Rocket League", 
+            "Counter-Strike 2", "Dota 2", "Apex Legends", "Overwatch 2", 
+            "Elden Ring", "Baldur's Gate 3", "Palworld", "Helldivers 2"
+        ]
+        
         for extra_game in extra_games_to_fetch:
             if extra_game not in fetched_game_names:
                 try:
@@ -144,7 +161,7 @@ if __name__ == "__main__":
     
     all_games = steam_data + twitch_data
     all_games.sort(key=lambda x: x["metric"], reverse=True)
-    all_games = all_games[:100]  # Garder un large top 100
+    all_games = all_games[:120]  # On élargit un peu pour stocker tous ces jeux
     
     for idx, g in enumerate(all_games, 1):
         g["id"] = idx
