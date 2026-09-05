@@ -20,6 +20,9 @@ jobs:
           python-version: '3.10'
 
       - name: Run fetch script
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
         run: python fetch_data.py
 
       - name: Commit and push changes
