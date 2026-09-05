@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaming Trends Tracker</title>
+    <!-- Utilisation de Tailwind CSS pour un design propre et rapide -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen font-sans">
+    
+    <div class="max-w-4xl mx-auto px-4 py-12">
+        <header class="mb-8 text-center">
+            <h1 class="text-4xl font-extrabold tracking-tight text-indigo-400 mb-2">🎮 Gaming Trends Tracker</h1>
+            <p class="text-slate-400">Suivi en direct des jeux les plus populaires</p>
+        </header>
+
+        <main class="bg-slate-900 border border-slate-800 rounded-xl shadow-xl overflow-hidden">
+            <div class="p-6 border-b border-slate-800 flex justify-between items-center">
+                <h2 class="text-xl font-bold text-slate-200">Top des Jeux duMoment</h2>
+                <span class="text-xs bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 px-3 py-1 rounded-full">Mis à jour en direct</span>
+            </div>
+            
+            <div class="overflow-x-auto">
+                <table class="w-full text-left border-collapse">
+                    <thead>
+                        <tr class="border-b border-slate-800 text-slate-400 text-sm bg-slate-950/50">
+                            <th class="py-4 px-6">#</th>
+                            <th class="py-4 px-6">Jeu</th>
+                            <th class="py-4 px-6">Plateforme</th>
+                            <th class="py-4 px-6">Joueurs Actifs</th>
+                            <th class="py-4 px-6">Tendance</th>
+                        </tr>
+                    </thead>
+                    <tbody id="games-table-body" class="divide-y divide-slate-800 text-sm">
+                        <!-- Les données seront injectées ici par JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // Charger le fichier games.json généré par le script Python
+        fetch('games.json')
+            .then(response => response.json())
+            .then(data => {
+                const tbody = document.getElementById('games-table-body');
+                tbody.innerHTML = '';
+                
+                data.forEach(game => {
+                    const trendColor = game.trend.startsWith('+') ? 'text-emerald-400' : 'text-rose-400';
+                    const row = `
+                        <tr class="hover:bg-slate-800/50 transition">
+                            <td class="py-4 px-6 font-medium text-slate-400">${game.id}</td>
+                            <td class="py-4 px-6 font-semibold text-white">${game.name}</td>
+                            <td class="py-4 px-6 text-slate-300">${game.platform}</td>
+                            <td class="py-4 px-6 font-mono">${game.players.toLocaleString()}</td>
+                            <td class="py-4 px-6 font-bold ${trendColor}">${game.trend}</td>
+                        </tr>
+                    `;
+                    tbody.innerHTML += row;
+                });
+            })
+            .catch(error => {
+                console.error('Erreur lors du chargement des données :', error);
+                document.getElementById('games-table-body').innerHTML = `
+                    <tr><td colspan="5" class="py-6 text-center text-rose-400">Impossible de charger les données pour le moment.</td></tr>
+                `;
+            });
+    </script>
+</body>
+</html>
