@@ -229,9 +229,25 @@
                 const isFav = favorites.includes(game.name);
                 const starColor = isFav ? 'text-amber-400 fill-amber-400' : 'text-slate-600 hover:text-slate-400';
                 const trendColor = game.trend.startsWith('+') ? 'text-emerald-400' : 'text-rose-400';
+                
                 const platformBadge = game.platform === 'Twitch' 
                     ? '<span class="bg-purple-500/10 text-purple-400 border border-purple-500/20 px-2.5 py-1 rounded-full text-xs font-semibold">Twitch</span>'
                     : '<span class="bg-blue-500/10 text-blue-400 border border-blue-500/20 px-2.5 py-1 rounded-full text-xs font-semibold">Steam</span>';
+
+                // Gestion des badges et drops en direct
+                const dropBadge = game.drops_enabled 
+                    ? '<span class="bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-2 py-0.5 rounded text-[10px] font-bold uppercase ml-2 animate-pulse">🎁 Drops</span>' 
+                    : '';
+                
+                const badgesHtml = (game.badges && Array.isArray(game.badges)) 
+                    ? game.badges.map(b => `<span title="${b.name || ''}" class="inline-flex items-center justify-center w-4 h-4 ml-1 text-[10px] bg-indigo-500/20 text-indigo-400 rounded">${b.icon || '⭐'}</span>`).join('') 
+                    : '';
+
+                const emotesHtml = (game.emotes && Array.isArray(game.emotes) && game.emotes.length > 0)
+                    ? `<div class="flex items-center gap-1 mt-1"><span class="text-[10px] text-slate-500">Émotes :</span>` + 
+                      game.emotes.map(e => `<img src="${e}" class="w-4 h-4 object-contain inline-block" title="Émote Twitch">`).join('') + 
+                      `</div>`
+                    : '';
 
                 const row = `
                     <tr class="hover:bg-slate-800/50 transition-colors duration-150">
@@ -248,8 +264,13 @@
                                  onerror="this.src='https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300&h=400&fit=crop'"
                                  class="w-12 h-16 md:w-16 md:h-20 object-cover rounded shadow border border-slate-700">
                             <div>
-                                <span class="font-semibold text-white text-sm md:text-base block">${game.name}</span>
+                                <div class="flex items-center flex-wrap gap-1">
+                                    <span class="font-semibold text-white text-sm md:text-base">${game.name}</span>
+                                    ${badgesHtml}
+                                    ${dropBadge}
+                                </div>
                                 <span class="text-xs text-slate-400">${game.metric_label}</span>
+                                ${emotesHtml}
                             </div>
                         </td>
                         <td class="py-3 px-4 align-middle">${platformBadge}</td>
@@ -261,25 +282,33 @@
             });
         }
 
-        fetch('games.json?' + new Date().getTime())
-            .then(response => {
-                const lastModified = response.headers.get('Last-Modified');
-                if (lastModified) {
-                    const date = new Date(lastModified);
-                    document.getElementById('last-update').innerText = `Dernière synchronisation : ${date.toLocaleTimeString('fr-FR', {hour: '2-digit', minute:'2-digit'})} (${date.toLocaleDateString('fr-FR')})`;
-                } else {
-                    document.getElementById('last-update').innerText = `Synchronisation automatique active`;
-                }
-                return response.json();
-            })
-            .then(data => {
-                allGamesData = data;
-                applyFiltersAndRender();
-            })
-            .catch(error => {
-                console.error('Erreur :', error);
-                document.getElementById('last-update').innerText = `Erreur lors du chargement des données`;
-            });
+        function loadGamingData() {
+            fetch('games.json?' + new Date().getTime())
+                .then(response => {
+                    const lastModified = response.headers.get('Last-Modified');
+                    if (lastModified) {
+                        const date = new Date(lastModified);
+                        document.getElementById('last-update').innerText = `Dernière synchronisation : ${date.toLocaleTimeString('fr-FR', {hour: '2-digit', minute:'2-digit'})} (${date.toLocaleDateString('fr-FR')})`;
+                    } else {
+                        document.getElementById('last-update').innerText = `Synchronisation automatique active`;
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    allGamesData = data;
+                    applyFiltersAndRender();
+                })
+                .catch(error => {
+                    console.error('Erreur :', error);
+                    document.getElementById('last-update').innerText = `Erreur lors du chargement des données`;
+                });
+        }
+
+        // Chargement initial des données
+        loadGamingData();
+
+        // Actualisation automatique toutes les 30 minutes sans recharger la page
+        setInterval(loadGamingData, 30 * 60 * 1000);
 
         document.getElementById('search-input').addEventListener('input', (e) => {
             currentSearchQuery = e.target.value.toLowerCase().trim();
