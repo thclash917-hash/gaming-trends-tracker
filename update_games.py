@@ -9,6 +9,7 @@ from datetime import datetime, timezone
 # ============================================================
 
 GAMES_FILE = "games.json"
+DROPS_FILE = "drops.json"
 
 TWITCH_CLIENT_ID = os.environ.get("TWITCH_CLIENT_ID")
 TWITCH_CLIENT_SECRET = os.environ.get("TWITCH_CLIENT_SECRET")
@@ -19,85 +20,36 @@ TWITCH_CLIENT_SECRET = os.environ.get("TWITCH_CLIENT_SECRET")
 # ============================================================
 
 STEAM_GAMES = [
-    {
-        "name": "Counter-Strike 2",
-        "appid": 730
-    },
-    {
-        "name": "Dota 2",
-        "appid": 570
-    },
-    {
-        "name": "PUBG: BATTLEGROUNDS",
-        "appid": 578080
-    },
-    {
-        "name": "Grand Theft Auto V",
-        "appid": 271590
-    },
-    {
-        "name": "Apex Legends",
-        "appid": 1172470
-    },
-    {
-        "name": "Rust",
-        "appid": 252490
-    },
-    {
-        "name": "Baldur's Gate 3",
-        "appid": 1086940
-    },
-    {
-        "name": "Cyberpunk 2077",
-        "appid": 1091500
-    },
-    {
-        "name": "Elden Ring",
-        "appid": 1245620
-    },
-    {
-        "name": "Helldivers 2",
-        "appid": 553850
-    },
-    {
-        "name": "Terraria",
-        "appid": 105600
-    },
-    {
-        "name": "Left 4 Dead 2",
-        "appid": 550
-    },
-    {
-        "name": "Monster Hunter: World",
-        "appid": 582010
-    },
-    {
-        "name": "Palworld",
-        "appid": 1623730
-    },
-    {
-        "name": "Dead by Daylight",
-        "appid": 381210
-    }
+    {"name": "Counter-Strike 2", "appid": 730},
+    {"name": "Dota 2", "appid": 570},
+    {"name": "PUBG: BATTLEGROUNDS", "appid": 578080},
+    {"name": "Grand Theft Auto V", "appid": 271590},
+    {"name": "Apex Legends", "appid": 1172470},
+    {"name": "Rust", "appid": 252490},
+    {"name": "Baldur's Gate 3", "appid": 1086940},
+    {"name": "Cyberpunk 2077", "appid": 1091500},
+    {"name": "Elden Ring", "appid": 1245620},
+    {"name": "Helldivers 2", "appid": 553850},
+    {"name": "Terraria", "appid": 105600},
+    {"name": "Left 4 Dead 2", "appid": 550},
+    {"name": "Monster Hunter: World", "appid": 582010},
+    {"name": "Palworld", "appid": 1623730},
+    {"name": "Dead by Daylight", "appid": 381210},
 ]
 
 
 def get_steam_players(appid):
-
     url = (
         "https://api.steampowered.com/"
         "ISteamUserStats/GetNumberOfCurrentPlayers/v1/"
     )
 
     try:
-
         response = requests.get(
             url,
-            params={
-                "appid": appid
-            },
+            params={"appid": appid},
             headers={
-                "User-Agent": "Gaming-Trends-Tracker"
+                "User-Agent": "Gaming-Trends-Tracker/1.0"
             },
             timeout=15
         )
@@ -120,18 +72,17 @@ def get_steam_players(appid):
         )
 
     except Exception as e:
-
         print(
             f"[STEAM] Erreur AppID {appid}: {e}"
         )
-
         return 0
 
 
 def get_steam_games():
 
+    print("")
     print("========================================")
-    print("MISE A JOUR STEAM")
+    print(" MISE A JOUR STEAM")
     print("========================================")
 
     steam_games = []
@@ -149,35 +100,21 @@ def get_steam_games():
         )
 
         steam_games.append({
-
             "name": name,
-
             "platform": "Steam",
-
             "metric": players,
-
             "metric_label": "Joueurs actifs",
-
             "trend": "+0%",
-
             "image": (
                 "https://cdn.cloudflare.steamstatic.com/"
                 f"steam/apps/{appid}/header.jpg"
             ),
-
             "appid": appid,
-
             "drops_enabled": False,
-
-            "drop": None,
-
+            "drops": [],
             "badges": [],
-
             "emotes": []
-
         })
-
-    # Plus gros nombre de joueurs en premier
 
     steam_games.sort(
         key=lambda game: game["metric"],
@@ -211,9 +148,13 @@ def get_twitch_token(client_id, client_secret):
 
         if response.status_code == 200:
 
-            return response.json().get(
+            token = response.json().get(
                 "access_token"
             )
+
+            if token:
+                print("[TWITCH] Token obtenu")
+                return token
 
         print(
             "[TWITCH] Erreur token:",
@@ -237,16 +178,21 @@ def get_twitch_token(client_id, client_secret):
 
 def get_twitch_games():
 
+    print("")
     print("========================================")
-    print("MISE A JOUR TWITCH")
+    print(" MISE A JOUR TWITCH")
     print("========================================")
 
     if not TWITCH_CLIENT_ID:
-        print("[TWITCH] TWITCH_CLIENT_ID manquant")
+        print(
+            "[TWITCH] TWITCH_CLIENT_ID manquant"
+        )
         return []
 
     if not TWITCH_CLIENT_SECRET:
-        print("[TWITCH] TWITCH_CLIENT_SECRET manquant")
+        print(
+            "[TWITCH] TWITCH_CLIENT_SECRET manquant"
+        )
         return []
 
     token = get_twitch_token(
@@ -255,20 +201,19 @@ def get_twitch_games():
     )
 
     if not token:
-        print("[TWITCH] Impossible d'obtenir le token")
+        print(
+            "[TWITCH] Impossible d'obtenir le token"
+        )
         return []
 
     headers = {
-
         "Client-ID": TWITCH_CLIENT_ID,
-
         "Authorization": f"Bearer {token}"
-
     }
 
-    # --------------------------------------------------------
-    # TOP 100 JEUX TWITCH
-    # --------------------------------------------------------
+    # ========================================================
+    # TOP 100 JEUX
+    # ========================================================
 
     games_url = (
         "https://api.twitch.tv/helix/games/top"
@@ -309,9 +254,13 @@ def get_twitch_games():
         []
     )
 
-    # --------------------------------------------------------
-    # STREAMS EN DIRECT
-    # --------------------------------------------------------
+    print(
+        f"[TWITCH] {len(twitch_games)} jeux récupérés"
+    )
+
+    # ========================================================
+    # STREAMS
+    # ========================================================
 
     streams_url = (
         "https://api.twitch.tv/helix/streams"
@@ -358,6 +307,17 @@ def get_twitch_games():
                         + viewers
                     )
 
+            print(
+                f"[TWITCH] {len(streams)} streams analysés"
+            )
+
+        else:
+
+            print(
+                "[TWITCH] Erreur streams:",
+                streams_response.status_code
+            )
+
     except Exception as e:
 
         print(
@@ -365,9 +325,9 @@ def get_twitch_games():
             e
         )
 
-    # --------------------------------------------------------
+    # ========================================================
     # FORMATAGE
-    # --------------------------------------------------------
+    # ========================================================
 
     formatted = []
 
@@ -402,31 +362,16 @@ def get_twitch_games():
 
         badges = []
 
-        # ----------------------------------------------------
+        # ====================================================
         # TENDANCE
-        # ----------------------------------------------------
+        # ====================================================
 
         if spectators > 50000:
 
             badges.append({
-
                 "name": "Tendance",
-
                 "icon": "🔥"
-
             })
-
-        # ----------------------------------------------------
-        # DROPS
-        #
-        # IMPORTANT :
-        # On ne prétend plus qu'un jeu possède un Drop
-        # simplement parce qu'il est dans une liste.
-        # ----------------------------------------------------
-
-        drops_enabled = False
-
-        drop = None
 
         formatted.append({
 
@@ -444,9 +389,9 @@ def get_twitch_games():
 
             "twitch_game_id": game_id,
 
-            "drops_enabled": drops_enabled,
+            "drops_enabled": False,
 
-            "drop": drop,
+            "drops": [],
 
             "badges": badges,
 
@@ -454,9 +399,9 @@ def get_twitch_games():
 
         })
 
-    # --------------------------------------------------------
-    # TRI PAR SPECTATEURS
-    # --------------------------------------------------------
+    # ========================================================
+    # TRI
+    # ========================================================
 
     formatted.sort(
         key=lambda game: game["metric"],
@@ -467,32 +412,112 @@ def get_twitch_games():
 
 
 # ============================================================
-# CHARGER DROPS
+# DROPS
 # ============================================================
+
+def parse_date(value):
+
+    if not value:
+        return None
+
+    try:
+
+        value = value.strip()
+
+        # Support YYYY-MM-DD
+        if len(value) == 10:
+            return datetime.fromisoformat(
+                value
+            ).replace(
+                tzinfo=timezone.utc
+            )
+
+        # Support ISO + Z
+        return datetime.fromisoformat(
+            value.replace(
+                "Z",
+                "+00:00"
+            )
+        )
+
+    except Exception as e:
+
+        print(
+            f"[DROPS] Date invalide '{value}': {e}"
+        )
+
+        return None
+
+
+def get_drop_status(drop):
+
+    """
+    Détermine automatiquement le statut :
+
+    upcoming = avant la date de début
+    live     = entre début et fin
+    expired  = après la date de fin
+    """
+
+    now = datetime.now(
+        timezone.utc
+    )
+
+    start = parse_date(
+        drop.get("start")
+    )
+
+    end = parse_date(
+        drop.get("end")
+    )
+
+    # Si les dates sont absentes,
+    # on utilise le status fourni.
+    if not start and not end:
+
+        status = str(
+            drop.get(
+                "status",
+                ""
+            )
+        ).lower()
+
+        if status in (
+            "live",
+            "active"
+        ):
+            return "live"
+
+        if status in (
+            "upcoming",
+            "coming"
+        ):
+            return "upcoming"
+
+        return "expired"
+
+    # Pas encore commencé
+    if start and now < start:
+        return "upcoming"
+
+    # Terminé
+    if end and now > end:
+        return "expired"
+
+    # En cours
+    return "live"
+
 
 def load_drops():
 
-    """
-    Charge drops.json s'il existe.
+    print("")
+    print("========================================")
+    print(" CHARGEMENT DES DROPS")
+    print("========================================")
 
-    Format attendu :
-
-    [
-        {
-            "game": "Minecraft",
-            "status": "live",
-            "campaign": "...",
-            "start": "...",
-            "end": "...",
-            "requirement": "...",
-            "rewards": [],
-            "connection": "...",
-            "url": "..."
-        }
-    ]
-    """
-
-    if not os.path.exists("drops.json"):
+    if not os.path.exists(
+        DROPS_FILE
+    ):
 
         print(
             "[DROPS] drops.json absent"
@@ -503,26 +528,97 @@ def load_drops():
     try:
 
         with open(
-            "drops.json",
+            DROPS_FILE,
             "r",
             encoding="utf-8"
         ) as f:
 
             drops = json.load(f)
 
+        if not isinstance(
+            drops,
+            list
+        ):
+
+            print(
+                "[DROPS] drops.json doit contenir une liste"
+            )
+
+            return []
+
+        valid_drops = []
+
+        for drop in drops:
+
             if not isinstance(
-                drops,
+                drop,
+                dict
+            ):
+                continue
+
+            game = drop.get(
+                "game"
+            )
+
+            if not game:
+                continue
+
+            status = get_drop_status(
+                drop
+            )
+
+            # ------------------------------------------------
+            # ON IGNORE LES DROPS EXPIRÉS
+            # ------------------------------------------------
+
+            if status == "expired":
+
+                print(
+                    f"[DROPS] Expiré : {game}"
+                )
+
+                continue
+
+            # ------------------------------------------------
+            # ON NORMALISE LE STATUS
+            # ------------------------------------------------
+
+            drop["status"] = status
+
+            # ------------------------------------------------
+            # Valeurs par défaut
+            # ------------------------------------------------
+
+            if not isinstance(
+                drop.get("rewards"),
                 list
             ):
+                drop["rewards"] = []
 
-                return []
+            if not isinstance(
+                drop.get("requirements"),
+                list
+            ):
+                drop["requirements"] = []
 
-            return drops
+            valid_drops.append(
+                drop
+            )
+
+            print(
+                f"[DROPS] {game} -> {status}"
+            )
+
+        print(
+            f"[DROPS] {len(valid_drops)} campagnes valides"
+        )
+
+        return valid_drops
 
     except Exception as e:
 
         print(
-            "[DROPS] Erreur:",
+            "[DROPS] Erreur lecture:",
             e
         )
 
@@ -530,92 +626,155 @@ def load_drops():
 
 
 # ============================================================
-# ASSOCIER LES DROPS AUX JEUX
+# ASSOCIATION DROPS
 # ============================================================
 
 def attach_drops(games, drops):
 
+    print("")
     print("========================================")
-    print("ASSOCIATION DES DROPS")
+    print(" ASSOCIATION DES DROPS")
     print("========================================")
 
-    now = datetime.now(
-        timezone.utc
-    )
+    # Dictionnaire :
+    #
+    # "valorant" -> [drop1, drop2]
+    #
+    drops_by_game = {}
+
+    for drop in drops:
+
+        game_name = str(
+            drop.get(
+                "game",
+                ""
+            )
+        ).lower().strip()
+
+        if not game_name:
+            continue
+
+        if game_name not in drops_by_game:
+            drops_by_game[game_name] = []
+
+        drops_by_game[
+            game_name
+        ].append(
+            drop
+        )
 
     for game in games:
 
-        game_name = game.get(
-            "name",
-            ""
+        game_name = str(
+            game.get(
+                "name",
+                ""
+            )
         ).lower().strip()
 
-        matching_drop = None
+        matching_drops = drops_by_game.get(
+            game_name,
+            []
+        )
 
-        for drop in drops:
+        # ----------------------------------------------------
+        # Aucun Drop
+        # ----------------------------------------------------
 
-            drop_game = drop.get(
-                "game",
-                ""
-            ).lower().strip()
-
-            if drop_game != game_name:
-                continue
-
-            status = drop.get(
-                "status"
-            )
-
-            # ------------------------------------------------
-            # ON GARDE :
-            # live = actif
-            # upcoming = à venir
-            # ------------------------------------------------
-
-            if status in (
-                "live",
-                "upcoming"
-            ):
-
-                matching_drop = drop
-
-                break
-
-        if matching_drop:
-
-            game["drops_enabled"] = True
-
-            game["drop"] = matching_drop
-
-            game["badges"] = game.get(
-                "badges",
-                []
-            )
-
-            game["badges"].append({
-
-                "name": (
-                    "Drop actif"
-                    if matching_drop.get("status") == "live"
-                    else "Drop à venir"
-                ),
-
-                "icon": "🎁"
-
-            })
-
-            print(
-                f"[DROPS] {game['name']} "
-                f"-> {matching_drop.get('status')}"
-            )
-
-        else:
+        if not matching_drops:
 
             game["drops_enabled"] = False
+            game["drops"] = []
 
-            game["drop"] = None
+            continue
+
+        # ----------------------------------------------------
+        # Drops trouvés
+        # ----------------------------------------------------
+
+        game["drops_enabled"] = True
+
+        game["drops"] = matching_drops
+
+        badges = game.get(
+            "badges",
+            []
+        )
+
+        # Évite les doublons
+        badges = [
+            badge
+            for badge in badges
+            if badge.get(
+                "name"
+            ) not in (
+                "Drop actif",
+                "Drop à venir",
+                "Drops disponibles"
+            )
+        ]
+
+        # ----------------------------------------------------
+        # Badge selon le statut
+        # ----------------------------------------------------
+
+        has_live = any(
+            drop.get("status") == "live"
+            for drop in matching_drops
+        )
+
+        has_upcoming = any(
+            drop.get("status") == "upcoming"
+            for drop in matching_drops
+        )
+
+        if has_live:
+
+            badges.append({
+                "name": "Drop actif",
+                "icon": "🎁"
+            })
+
+        elif has_upcoming:
+
+            badges.append({
+                "name": "Drop à venir",
+                "icon": "🎁"
+            })
+
+        game["badges"] = badges
+
+        print(
+            f"[DROPS] {game['name']} "
+            f"-> {len(matching_drops)} campagne(s)"
+        )
 
     return games
+
+
+# ============================================================
+# NETTOYAGE DES DOUBLONS
+# ============================================================
+
+def remove_duplicates(games):
+
+    unique_games = []
+    seen = set()
+
+    for game in games:
+
+        key = (
+            game.get("platform"),
+            game.get("name", "").lower().strip()
+        )
+
+        if key in seen:
+            continue
+
+        seen.add(key)
+        unique_games.append(game)
+
+    return unique_games
 
 
 # ============================================================
@@ -626,49 +785,57 @@ def update_games():
 
     print("")
     print("========================================")
-    print(" GAMING TRENDS TRACKER")
+    print("      GAMING TRENDS TRACKER")
     print("========================================")
     print("")
 
-    # --------------------------------------------------------
+    # ========================================================
     # STEAM
-    # --------------------------------------------------------
+    # ========================================================
 
     steam_games = get_steam_games()
 
-    # --------------------------------------------------------
+    # ========================================================
     # TWITCH
-    # --------------------------------------------------------
+    # ========================================================
 
     twitch_games = get_twitch_games()
 
-    # --------------------------------------------------------
+    # ========================================================
     # DROPS
-    # --------------------------------------------------------
+    # ========================================================
 
     drops = load_drops()
 
-    # --------------------------------------------------------
+    # ========================================================
     # COMBINAISON
-    # --------------------------------------------------------
+    # ========================================================
 
     all_games = (
         steam_games
         + twitch_games
     )
 
-    # --------------------------------------------------------
-    # ASSOCIATION DES DROPS
-    # --------------------------------------------------------
+    # ========================================================
+    # SUPPRESSION DES DOUBLONS
+    # ========================================================
+
+    all_games = remove_duplicates(
+        all_games
+    )
+
+    # ========================================================
+    # ASSOCIATION DROPS
+    # ========================================================
 
     all_games = attach_drops(
         all_games,
         drops
     )
 
-    # --------------------------------------------------------
+    # ========================================================
     # IDS
-    # --------------------------------------------------------
+    # ========================================================
 
     for index, game in enumerate(
         all_games,
@@ -677,45 +844,60 @@ def update_games():
 
         game["id"] = index
 
-    # --------------------------------------------------------
+    # ========================================================
     # SAUVEGARDE
-    # --------------------------------------------------------
+    # ========================================================
 
-    with open(
-        GAMES_FILE,
-        "w",
-        encoding="utf-8"
-    ) as f:
+    try:
 
-        json.dump(
-            all_games,
-            f,
-            ensure_ascii=False,
-            indent=2
+        with open(
+            GAMES_FILE,
+            "w",
+            encoding="utf-8"
+        ) as f:
+
+            json.dump(
+                all_games,
+                f,
+                ensure_ascii=False,
+                indent=2
+            )
+
+        print("")
+        print("========================================")
+        print(" MISE A JOUR TERMINEE")
+        print("========================================")
+
+        print(
+            f"Steam  : {len(steam_games)} jeux"
         )
 
-    print("")
-    print("========================================")
-    print(" MISE A JOUR TERMINEE")
-    print("========================================")
+        print(
+            f"Twitch : {len(twitch_games)} jeux"
+        )
 
-    print(
-        f"Steam : {len(steam_games)} jeux"
-    )
+        print(
+            f"Drops  : {len(drops)} campagnes"
+        )
 
-    print(
-        f"Twitch : {len(twitch_games)} jeux"
-    )
+        print(
+            f"Total  : {len(all_games)} jeux"
+        )
 
-    print(
-        f"Drops : {len(drops)} campagnes"
-    )
+        print(
+            f"Fichier : {GAMES_FILE}"
+        )
 
-    print(
-        f"Total : {len(all_games)} jeux"
-    )
+        print("")
 
-    print("")
+    except Exception as e:
+
+        print(
+            "[ERREUR] Impossible d'écrire games.json:",
+            e
+        )
+
+        raise
 
 
 # ============================================================
@@ -723,4 +905,5 @@ def update_games():
 # ============================================================
 
 if __name__ == "__main__":
+
     update_games()
