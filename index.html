@@ -234,17 +234,17 @@
                     ? '<span class="bg-purple-500/10 text-purple-400 border border-purple-500/20 px-2.5 py-1 rounded-full text-xs font-semibold">Twitch</span>'
                     : '<span class="bg-blue-500/10 text-blue-400 border border-blue-500/20 px-2.5 py-1 rounded-full text-xs font-semibold">Steam</span>';
 
-                // Gestion dynamique des badges (supporte URL image ou objet structuré)
-                const dropBadge = game.drops_enabled 
-                    ? '<span class="bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-2 py-0.5 rounded text-[10px] font-bold uppercase ml-2 animate-pulse">🎁 Drops</span>' 
-                    : '';
-                
+                // Gestion dynamique des badges avec support des liens cliquables (url)
                 const badgesHtml = (game.badges && Array.isArray(game.badges)) 
                     ? game.badges.map(b => {
                         if (typeof b === 'string') {
                             return `<img src="${b}" class="w-5 h-5 object-contain inline-block ml-1" title="Badge" onerror="this.style.display='none'">`;
                         } else {
-                            return `<span title="${b.name || ''}" class="inline-flex items-center justify-center w-5 h-5 ml-1 text-xs bg-indigo-500/20 text-indigo-400 rounded">${b.icon || '⭐'}</span>`;
+                            const badgeSpan = `<span title="${b.name || ''}" class="inline-flex items-center justify-center w-5 h-5 ml-1 text-xs bg-indigo-500/20 text-indigo-400 rounded hover:bg-indigo-500/30 transition">${b.icon || '⭐'}</span>`;
+                            if (b.url) {
+                                return `<a href="${b.url}" target="_blank" class="inline-block hover:scale-110 transition-transform">${badgeSpan}</a>`;
+                            }
+                            return badgeSpan;
                         }
                     }).join('') 
                     : '';
@@ -273,7 +273,6 @@
                                 <div class="flex items-center flex-wrap gap-1">
                                     <span class="font-semibold text-white text-sm md:text-base">${game.name}</span>
                                     ${badgesHtml}
-                                    ${dropBadge}
                                 </div>
                                 <span class="text-xs text-slate-400">${game.metric_label}</span>
                                 ${emotesHtml}
