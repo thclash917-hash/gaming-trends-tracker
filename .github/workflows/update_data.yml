@@ -1,37 +1,455 @@
-name: Auto-Update Gaming Data
+import json
+import os
+import requests
+from datetime import datetime, timezone
 
-on:
-  schedule:
-    - cron: '0 */6 * * *' # S'exécute toutes les 6 heures
-  workflow_dispatch: # Permet de le lancer manuellement
 
-jobs:
-  update-data:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
-    steps:
-      - name: Checkout du dépôt
-        uses: actions/checkout@v4
+# ============================================================
+# CONFIGURATION
+# ============================================================
 
-      - name: Configuration de Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+GAMES_FILE = "games.json"
 
-      - name: Installation des dépendances
-        run: pip install requests
+STEAMSPY_URL = "https://steamspy.com/api.php?request=top100in2weeks"
 
-      - name: Exécution du script de mise à jour
-        env:
-          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
-          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
-        run: python update_games.py
+TWITCH_TOKEN_URL = "https://id.twitch.tv/oauth2/token"
+TWITCH_GAMES_URL = "https://api.twitch.tv/helix/games/top"
+TWITCH_STREAMS_URL = "https://api.twitch.tv/helix/streams"
 
-      - name: Commit et Push automatiques si modifications
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add games.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour automatique de games.json [skip ci]" && git push)
+
+# ============================================================
+# OUTILS
+# ============================================================
+
+def safe_int(value):
+    try:
+        return int(value)
+    except:
+        return 0
+
+
+def load_existing_games():
+    try:
+        with open(GAMES_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return []
+
+
+# ============================================================
+# TWITCH TOKEN
+# ============================================================
+
+def get_twitch_token(client_id, client_secret):
+
+    response = requests.post(
+        TWITCH_TOKEN_URL,
+        params={
+            "client_id": client_id,
+            "client_secret": client_secret,
+            "grant_type": "client_credentials"
+        },
+        timeout=30
+    )
+
+    response.raise_for_status()
+
+    return response.json()["access_token"]
+
+
+# ============================================================
+# STEAM
+# ============================================================
+
+def get_steam_games():
+
+    print("Récupération des jeux Steam...")
+
+    try:
+
+        response = requests.get(
+            STEAMSPY_URL,
+            timeout=30
+        )
+
+        response.raise_for_status()
+
+        data = response.json()
+
+        games = []
+
+        for index, (appid, game) in enumerate(data.items(), start=1):
+
+            name = game.get("name")
+
+            if not name:
+                continue
+
+            players = safe_int(
+                game.get("ccu", 0)
+            )
+
+            image = (
+                f"https://cdn.cloudflare.steamstatic.com/"
+                f"steam/apps/{appid}/header.jpg"
+            )
+
+            games.append({
+                "id": index,
+                "name": name,
+                "platform": "Steam",
+                "metric": players,
+                "metric_label": "Joueurs",
+                "trend": "+0%",
+                "image": image,
+
+                "drops_enabled": False,
+                "drops": [],
+
+                "badges": [],
+                "emotes": []
+            })
+
+        print(f"Steam : {len(games)} jeux récupérés")
+
+        return games
+
+    except Exception as e:
+
+        print("Erreur Steam :", e)
+
+        return []
+
+
+# ============================================================
+# TWITCH
+# ============================================================
+
+def get_twitch_games(client_id, client_secret):
+
+    print("Récupération des jeux Twitch...")
+
+    token = get_twitch_token(
+        client_id,
+        client_secret
+    )
+
+    headers = {
+        "Client-ID": client_id,
+        "Authorization": f"Bearer {token}"
+    }
+
+    # --------------------------------------------------------
+    # TOP GAMES
+    # --------------------------------------------------------
+
+    response = requests.get(
+        TWITCH_GAMES_URL,
+        headers=headers,
+        params={
+            "first": 100
+        },
+        timeout=30
+    )
+
+    response.raise_for_status()
+
+    twitch_games = response.json().get("data", [])
+
+    # --------------------------------------------------------
+    # STREAMS
+    # --------------------------------------------------------
+
+    streams_response = requests.get(
+        TWITCH_STREAMS_URL,
+        headers=headers,
+        params={
+            "first": 100
+        },
+        timeout=30
+    )
+
+    viewer_counts = {}
+
+    if streams_response.ok:
+
+        streams = streams_response.json().get("data", [])
+
+        for stream in streams:
+
+            game_id = stream.get("game_id")
+
+            viewers = safe_int(
+                stream.get("viewer_count", 0)
+            )
+
+            viewer_counts[game_id] = (
+                viewer_counts.get(game_id, 0)
+                + viewers
+            )
+
+    # --------------------------------------------------------
+    # JEUX
+    # --------------------------------------------------------
+
+    games = []
+
+    for index, game in enumerate(
+        twitch_games,
+        start=1
+    ):
+
+        game_id = game.get("id")
+
+        name = game.get("name", "")
+
+        image = (
+            game.get("box_art_url", "")
+            .replace("{width}", "300")
+            .replace("{height}", "400")
+        )
+
+        viewers = viewer_counts.get(
+            game_id,
+            0
+        )
+
+        badges = []
+
+        if viewers >= 50000:
+
+            badges.append({
+                "name": "Très tendance",
+                "icon": "🔥"
+            })
+
+        games.append({
+
+            "id": index,
+
+            "name": name,
+
+            "platform": "Twitch",
+
+            "metric": viewers,
+
+            "metric_label": "Spectateurs",
+
+            "trend": "+0%",
+
+            "image": image,
+
+            "drops_enabled": False,
+
+            "drops": [],
+
+            "badges": badges,
+
+            "emotes": []
+
+        })
+
+    print(
+        f"Twitch : {len(games)} jeux récupérés"
+    )
+
+    return games
+
+
+# ============================================================
+# AJOUT DES DROPS
+# ============================================================
+
+def add_known_drops(games):
+
+    """
+    Ici on associe les campagnes Drops connues
+    aux jeux concernés.
+
+    Cette partie pourra ensuite être automatisée
+    avec une source de données Drops.
+    """
+
+    drops_database = {
+
+        "valorant": {
+
+            "title": "Valorant Twitch Drops",
+
+            "status": "active",
+
+            "watch_time": "Regarder les streams participants",
+
+            "requirements": [
+                "Compte Twitch",
+                "Compte Riot Games lié",
+                "Regarder un stream Valorant participant"
+            ],
+
+            "rewards": [
+                "Récompense Valorant"
+            ],
+
+            "url": "https://www.twitch.tv/drops"
+        },
+
+        "rust": {
+
+            "title": "Rust Twitch Drops",
+
+            "status": "active",
+
+            "watch_time": "Selon la campagne",
+
+            "requirements": [
+                "Compte Twitch",
+                "Compte Rust lié",
+                "Regarder un stream Rust participant"
+            ],
+
+            "rewards": [
+                "Skins Rust",
+                "Objets de jeu"
+            ],
+
+            "url": "https://www.twitch.tv/drops"
+        }
+
+    }
+
+    for game in games:
+
+        key = game["name"].lower()
+
+        if key in drops_database:
+
+            drop = drops_database[key]
+
+            game["drops_enabled"] = True
+
+            game["drops"] = [drop]
+
+            game["badges"].append({
+
+                "name": "Drops disponibles",
+
+                "icon": "🎁"
+
+            })
+
+    return games
+
+
+# ============================================================
+# UPDATE PRINCIPAL
+# ============================================================
+
+def update_games():
+
+    print("========================================")
+    print("MISE À JOUR GAMING TRENDS")
+    print("========================================")
+
+    twitch_client_id = os.environ.get(
+        "TWITCH_CLIENT_ID"
+    )
+
+    twitch_client_secret = os.environ.get(
+        "TWITCH_CLIENT_SECRET"
+    )
+
+    # --------------------------------------------------------
+    # STEAM
+    # --------------------------------------------------------
+
+    steam_games = get_steam_games()
+
+    # --------------------------------------------------------
+    # TWITCH
+    # --------------------------------------------------------
+
+    twitch_games = []
+
+    if twitch_client_id and twitch_client_secret:
+
+        try:
+
+            twitch_games = get_twitch_games(
+                twitch_client_id,
+                twitch_client_secret
+            )
+
+        except Exception as e:
+
+            print(
+                "Erreur Twitch :",
+                e
+            )
+
+    else:
+
+        print(
+            "Secrets Twitch absents"
+        )
+
+    # --------------------------------------------------------
+    # DROPS
+    # --------------------------------------------------------
+
+    steam_games = add_known_drops(
+        steam_games
+    )
+
+    twitch_games = add_known_drops(
+        twitch_games
+    )
+
+    # --------------------------------------------------------
+    # COMBINAISON
+    # --------------------------------------------------------
+
+    all_games = (
+        steam_games +
+        twitch_games
+    )
+
+    # --------------------------------------------------------
+    # IDS
+    # --------------------------------------------------------
+
+    for index, game in enumerate(
+        all_games,
+        start=1
+    ):
+
+        game["id"] = index
+
+    # --------------------------------------------------------
+    # SAUVEGARDE
+    # --------------------------------------------------------
+
+    with open(
+        GAMES_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            all_games,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+    print(
+        f"Total : {len(all_games)} jeux"
+    )
+
+    print(
+        "games.json mis à jour."
+    )
+
+
+if __name__ == "__main__":
+
+    update_games()
