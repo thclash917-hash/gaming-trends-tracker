@@ -1,33 +1,31 @@
-name: Update Gaming Data
+name: Auto-Update Gaming Data
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # S'exécute toutes les 6 heures
+  workflow_dispatch: # Permet de le lancer manuellement
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    
     steps:
-      - name: Checkout repository
+      - name: Checkout du dépôt
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Configuration de Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Run fetch script
-        env:
-          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
-          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
-        run: python fetch_data.py
+      - name: Exécution du script de mise à jour
+        run: python update_games.py
 
-      - name: Commit and push changes
+      - name: Commit et Push automatiques si modifications
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add games.json
-          git diff --staged --quiet || (git commit -m "Mise à jour automatique des données [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour automatique de games.json [skip ci]" && git push)
