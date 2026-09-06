@@ -58,14 +58,36 @@ def get_twitch_games(client_id, client_secret):
                         viewers += stream.get('viewer_count', 0)
             except:
                 viewers = 100  # Valeur par défaut si aucun stream actif
-                
+            
+            # Vérifier les Drops actifs via l'API Twitch Helix
+            drops_enabled = False
+            try:
+                drops_url = f"https://api.twitch.tv/helix/drops/campaigns?game_id={game_id}"
+                req_drops = urllib.request.Request(drops_url, headers={
+                    'Client-ID': client_id,
+                    'Authorization': f'Bearer {access_token}'
+                })
+                with urllib.request.urlopen(req_drops, timeout=5) as resp_drops:
+                    drops_data = json.loads(resp_drops.read().decode())
+                    if drops_data.get('data'):
+                        drops_enabled = True
+            except:
+                pass
+
+            badges = []
+            if drops_enabled:
+                badges.append({"name": "Drops Activés", "icon": "🎁"})
+
             twitch_list.append({
                 "name": name,
                 "platform": "Twitch",
                 "metric": viewers,
                 "metric_label": "Spectateurs",
                 "trend": "+3%",
-                "image": box_art_url
+                "image": box_art_url,
+                "drops_enabled": drops_enabled,
+                "badges": badges,
+                "emotes": []
             })
 
         for item in twitch_data.get('data', []):
@@ -148,7 +170,10 @@ def get_steam_games():
             "metric": players,
             "metric_label": "Joueurs Actifs",
             "trend": game["trend"],
-            "image": image_url
+            "image": image_url,
+            "drops_enabled": False,
+            "badges": [],
+            "emotes": []
         })
     return steam_list
 
@@ -161,7 +186,7 @@ if __name__ == "__main__":
     
     all_games = steam_data + twitch_data
     all_games.sort(key=lambda x: x["metric"], reverse=True)
-    all_games = all_games[:120]  # On élargit un peu pour stocker tous ces jeux
+    all_games = all_games[:120] 
     
     for idx, g in enumerate(all_games, 1):
         g["id"] = idx
