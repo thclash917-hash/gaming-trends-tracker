@@ -234,18 +234,24 @@
                     ? '<span class="bg-purple-500/10 text-purple-400 border border-purple-500/20 px-2.5 py-1 rounded-full text-xs font-semibold">Twitch</span>'
                     : '<span class="bg-blue-500/10 text-blue-400 border border-blue-500/20 px-2.5 py-1 rounded-full text-xs font-semibold">Steam</span>';
 
-                // Gestion des badges et drops en direct
+                // Gestion dynamique des badges (supporte URL image ou objet structuré)
                 const dropBadge = game.drops_enabled 
                     ? '<span class="bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-2 py-0.5 rounded text-[10px] font-bold uppercase ml-2 animate-pulse">🎁 Drops</span>' 
                     : '';
                 
                 const badgesHtml = (game.badges && Array.isArray(game.badges)) 
-                    ? game.badges.map(b => `<span title="${b.name || ''}" class="inline-flex items-center justify-center w-4 h-4 ml-1 text-[10px] bg-indigo-500/20 text-indigo-400 rounded">${b.icon || '⭐'}</span>`).join('') 
+                    ? game.badges.map(b => {
+                        if (typeof b === 'string') {
+                            return `<img src="${b}" class="w-5 h-5 object-contain inline-block ml-1" title="Badge" onerror="this.style.display='none'">`;
+                        } else {
+                            return `<span title="${b.name || ''}" class="inline-flex items-center justify-center w-5 h-5 ml-1 text-xs bg-indigo-500/20 text-indigo-400 rounded">${b.icon || '⭐'}</span>`;
+                        }
+                    }).join('') 
                     : '';
 
                 const emotesHtml = (game.emotes && Array.isArray(game.emotes) && game.emotes.length > 0)
                     ? `<div class="flex items-center gap-1 mt-1"><span class="text-[10px] text-slate-500">Émotes :</span>` + 
-                      game.emotes.map(e => `<img src="${e}" class="w-4 h-4 object-contain inline-block" title="Émote Twitch">`).join('') + 
+                      game.emotes.map(e => `<img src="${e}" class="w-4 h-4 object-contain inline-block" title="Émote Twitch" onerror="this.style.display='none'">`).join('') + 
                       `</div>`
                     : '';
 
