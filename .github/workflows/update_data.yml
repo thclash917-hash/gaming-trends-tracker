@@ -20,7 +20,13 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Installation des dépendances
+        run: pip install requests
+
       - name: Exécution du script de mise à jour
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
         run: python update_games.py
 
       - name: Commit et Push automatiques si modifications
