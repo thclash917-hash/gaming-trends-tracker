@@ -32,7 +32,8 @@ def fetch_live_games():
         "Authorization": f"Bearer {token}"
     }
 
-    url = "https://api.twitch.tv/helix/games/top?first=30"
+    # Récupère le top 100 des jeux pour ne plus perdre de jeux comme Brawl Stars
+    url = "https://api.twitch.tv/helix/games/top?first=100"
     response = requests.get(url, headers=headers)
     
     if response.status_code != 200:
@@ -51,7 +52,6 @@ def fetch_live_games():
             viewers = stream.get("viewer_count", 0)
             viewer_counts[game_id] = viewer_counts.get(game_id, 0) + viewers
 
-    # Liste des jeux qui proposent des drops (tu pourras l'ajuster ou l'enrichir)
     games_with_drops = ["valorant", "rust", "brawl stars", "minecraft", "counter-strike"]
 
     formatted_games = []
@@ -66,12 +66,16 @@ def fetch_live_games():
         if spectators > 50000:
             badges.append({"name": "Tendance", "icon": "🔥"})
             
-        # Activation automatique des drops selon les jeux ciblés
         drops_enabled = False
         name_lower = name.lower()
         if any(drop_game in name_lower for drop_game in games_with_drops):
             drops_enabled = True
-            badges.append({"name": "Drops officiels", "icon": "🎁"})
+            # Ajout d'un lien cliquable vers la page officielle des drops Twitch
+            badges.append({
+                "name": "Drops officiels", 
+                "icon": "🎁", 
+                "url": "https://www.twitch.tv/drops/campaigns"
+            })
             
         formatted_games.append({
             "id": index,
@@ -89,7 +93,7 @@ def fetch_live_games():
     with open("games.json", "w", encoding="utf-8") as f:
         json.dump(formatted_games, f, ensure_ascii=False, indent=2)
     
-    print("Fichier games.json mis à jour avec les drops !")
+    print("Fichier games.json mis à jour avec le top 100 et les liens de drops !")
 
 if __name__ == "__main__":
     fetch_live_games()
