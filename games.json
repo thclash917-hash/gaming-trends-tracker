@@ -2,7 +2,7 @@
     {
         "name": "Counter-Strike 2",
         "platform": "Steam",
-        "metric": 719869,
+        "metric": 778534,
         "metric_label": "Joueurs Actifs",
         "trend": "+3%",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
@@ -11,7 +11,7 @@
     {
         "name": "Dota 2",
         "platform": "Steam",
-        "metric": 554538,
+        "metric": 584032,
         "metric_label": "Joueurs Actifs",
         "trend": "-1%",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
@@ -20,7 +20,7 @@
     {
         "name": "PUBG: BATTLEGROUNDS",
         "platform": "Steam",
-        "metric": 460919,
+        "metric": 485371,
         "metric_label": "Joueurs Actifs",
         "trend": "+4%",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
@@ -29,7 +29,7 @@
     {
         "name": "Apex Legends",
         "platform": "Steam",
-        "metric": 177718,
+        "metric": 181431,
         "metric_label": "Joueurs Actifs",
         "trend": "+1%",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
@@ -38,115 +38,115 @@
     {
         "name": "Just Chatting",
         "platform": "Twitch",
-        "metric": 138222,
+        "metric": 135557,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/509658-300x400.jpg",
         "id": 5
     },
     {
-        "name": "Palworld",
-        "platform": "Steam",
-        "metric": 127744,
-        "metric_label": "Joueurs Actifs",
-        "trend": "-3%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
-        "id": 6
-    },
-    {
         "name": "ZEVENT",
         "platform": "Twitch",
-        "metric": 90268,
+        "metric": 131878,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/132735846-300x400.jpg",
+        "id": 6
+    },
+    {
+        "name": "Palworld",
+        "platform": "Steam",
+        "metric": 127731,
+        "metric_label": "Joueurs Actifs",
+        "trend": "-3%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
         "id": 7
     },
     {
         "name": "Rust",
         "platform": "Steam",
-        "metric": 83429,
+        "metric": 88135,
         "metric_label": "Joueurs Actifs",
         "trend": "-2%",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
         "id": 8
     },
     {
-        "name": "WARDOGS",
-        "platform": "Twitch",
-        "metric": 79033,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/743893402_IGDB-300x400.jpg",
-        "id": 9
-    },
-    {
-        "name": "Terraria",
-        "platform": "Steam",
-        "metric": 53937,
-        "metric_label": "Joueurs Actifs",
-        "trend": "+1%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
-        "id": 10
-    },
-    {
-        "name": "Grand Theft Auto V",
-        "platform": "Steam",
-        "metric": 48540,
-        "metric_label": "Joueurs Actifs",
-        "trend": "+2%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
-        "id": 11
-    },
-    {
         "name": "League of Legends",
         "platform": "Twitch",
-        "metric": 47462,
+        "metric": 82187,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/21779-300x400.jpg",
-        "id": 12
+        "id": 9
     },
     {
-        "name": "Helldivers 2",
-        "platform": "Steam",
-        "metric": 47304,
-        "metric_label": "Joueurs Actifs",
-        "trend": "+6%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
-        "id": 13
-    },
-    {
-        "name": "Baldur's Gate 3",
-        "platform": "Steam",
-        "metric": 40869,
-        "metric_label": "Joueurs Actifs",
-        "trend": "-2%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
-        "id": 14
-    },
-    {
-        "name": "Elden Ring",
-        "platform": "Steam",
-        "metric": 38691,
-        "metric_label": "Joueurs Actifs",
-        "trend": "+4%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
-        "id": 15
+        "name": "WARDOGS",
+        "platform": "Twitch",
+        "metric": 75200,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/743893402_IGDB-300x400.jpg",
+        "id": 10
     },
     {
         "name": "Street Fighter 6",
         "platform": "Twitch",
-        "metric": 37715,
+        "metric": 58989,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/55453844_IGDB-300x400.jpg",
+        "id": 11
+    },
+    {
+        "name": "Terraria",
+        "platform": "Steam",
+        "metric": 54188,
+        "metric_label": "Joueurs Actifs",
+        "trend": "+1%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+        "id": 12
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "platform": "Steam",
+        "metric": 51890,
+        "metric_label": "Joueurs Actifs",
+        "trend": "+2%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+        "id": 13
+    },
+    {
+        "name": "Helldivers 2",
+        "platform": "Steam",
+        "metric": 45875,
+        "metric_label": "Joueurs Actifs",
+        "trend": "+6%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+        "id": 14
+    },
+    {
+        "name": "Baldur's Gate 3",
+        "platform": "Steam",
+        "metric": 40408,
+        "metric_label": "Joueurs Actifs",
+        "trend": "-2%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+        "id": 15
+    },
+    {
+        "name": "Elden Ring",
+        "platform": "Steam",
+        "metric": 38423,
+        "metric_label": "Joueurs Actifs",
+        "trend": "+4%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
         "id": 16
     },
     {
         "name": "Cyberpunk 2077",
         "platform": "Steam",
-        "metric": 37288,
+        "metric": 37860,
         "metric_label": "Joueurs Actifs",
         "trend": "+5%",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
@@ -155,7 +155,7 @@
     {
         "name": "IRL",
         "platform": "Twitch",
-        "metric": 35205,
+        "metric": 36764,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/509672-300x400.jpg",
@@ -164,919 +164,919 @@
     {
         "name": "Minecraft",
         "platform": "Twitch",
-        "metric": 27639,
+        "metric": 32157,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-300x400.jpg",
         "id": 19
     },
     {
-        "name": "Left 4 Dead 2",
-        "platform": "Steam",
-        "metric": 26299,
-        "metric_label": "Joueurs Actifs",
-        "trend": "0%",
-        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
-        "id": 20
-    },
-    {
         "name": "VALORANT",
         "platform": "Twitch",
-        "metric": 25990,
+        "metric": 27926,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/516575-300x400.jpg",
-        "id": 21
+        "id": 20
     },
     {
         "name": "Path of Exile 2",
         "platform": "Twitch",
-        "metric": 25092,
+        "metric": 26367,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/1702520304_IGDB-300x400.jpg",
+        "id": 21
+    },
+    {
+        "name": "Dota 2",
+        "platform": "Twitch",
+        "metric": 24279,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/29595-300x400.jpg",
         "id": 22
     },
     {
-        "name": "Apex Legends",
-        "platform": "Twitch",
-        "metric": 23934,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/511224-300x400.jpg",
+        "name": "Left 4 Dead 2",
+        "platform": "Steam",
+        "metric": 23683,
+        "metric_label": "Joueurs Actifs",
+        "trend": "0%",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
         "id": 23
     },
     {
         "name": "Escape from Tarkov",
         "platform": "Twitch",
-        "metric": 22683,
+        "metric": 23065,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/491931_IGDB-300x400.jpg",
         "id": 24
     },
     {
-        "name": "Super Mario Maker 2",
+        "name": "World of Warcraft",
         "platform": "Twitch",
-        "metric": 19877,
+        "metric": 22753,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/511399_IGDB-300x400.jpg",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/18122-300x400.jpg",
         "id": 25
     },
     {
-        "name": "Dota 2",
+        "name": "Super Mario Maker 2",
         "platform": "Twitch",
-        "metric": 19112,
+        "metric": 19656,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/29595-300x400.jpg",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/511399_IGDB-300x400.jpg",
         "id": 26
     },
     {
         "name": "Monster Hunter: World",
         "platform": "Steam",
-        "metric": 18241,
+        "metric": 18571,
         "metric_label": "Joueurs Actifs",
         "trend": "+2%",
         "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
         "id": 27
     },
     {
-        "name": "Onimusha: Way of the Sword",
-        "platform": "Twitch",
-        "metric": 15693,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/327598602_IGDB-300x400.jpg",
-        "id": 28
-    },
-    {
-        "name": "World of Warcraft",
-        "platform": "Twitch",
-        "metric": 15421,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/18122-300x400.jpg",
-        "id": 29
-    },
-    {
         "name": "Counter-Strike",
         "platform": "Twitch",
-        "metric": 15146,
+        "metric": 17640,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/32399-300x400.jpg",
+        "id": 28
+    },
+    {
+        "name": "Halloween: The Game",
+        "platform": "Twitch",
+        "metric": 15963,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/902998079_IGDB-300x400.jpg",
+        "id": 29
+    },
+    {
+        "name": "The Blood of Dawnwalker",
+        "platform": "Twitch",
+        "metric": 14248,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1357871551_IGDB-300x400.jpg",
         "id": 30
     },
     {
         "name": "Slots",
         "platform": "Twitch",
-        "metric": 15072,
+        "metric": 13996,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/498566-300x400.jpg",
         "id": 31
     },
     {
-        "name": "Overwatch",
+        "name": "Fortnite",
         "platform": "Twitch",
-        "metric": 13634,
+        "metric": 13246,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/515025-300x400.jpg",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/33214-300x400.jpg",
         "id": 32
     },
     {
-        "name": "Halloween: The Game",
+        "name": "I'm Only Sleeping",
         "platform": "Twitch",
-        "metric": 13623,
+        "metric": 13100,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/902998079_IGDB-300x400.jpg",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/498592_IGDB-300x400.jpg",
         "id": 33
+    },
+    {
+        "name": "Onimusha: Way of the Sword",
+        "platform": "Twitch",
+        "metric": 12684,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/327598602_IGDB-300x400.jpg",
+        "id": 34
     },
     {
         "name": "NBA 2K27",
         "platform": "Twitch",
-        "metric": 13171,
+        "metric": 12275,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/602040818_IGDB-300x400.jpg",
-        "id": 34
-    },
-    {
-        "name": "Fortnite",
-        "platform": "Twitch",
-        "metric": 13003,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/33214-300x400.jpg",
         "id": 35
     },
     {
         "name": "Always On",
         "platform": "Twitch",
-        "metric": 12584,
+        "metric": 12208,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/499973-300x400.jpg",
         "id": 36
     },
     {
-        "name": "The Blood of Dawnwalker",
+        "name": "Overwatch",
         "platform": "Twitch",
-        "metric": 12376,
+        "metric": 11764,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1357871551_IGDB-300x400.jpg",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/515025-300x400.jpg",
         "id": 37
-    },
-    {
-        "name": "Marvel Rivals",
-        "platform": "Twitch",
-        "metric": 11735,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1264310518_IGDB-300x400.jpg",
-        "id": 38
-    },
-    {
-        "name": "Pokémon FireRed/LeafGreen",
-        "platform": "Twitch",
-        "metric": 11396,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/13332-300x400.jpg",
-        "id": 39
-    },
-    {
-        "name": "Teamfight Tactics",
-        "platform": "Twitch",
-        "metric": 11238,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/513143-300x400.jpg",
-        "id": 40
-    },
-    {
-        "name": "Mario Kart 8 Deluxe",
-        "platform": "Twitch",
-        "metric": 11194,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/941530474_IGDB-300x400.jpg",
-        "id": 41
-    },
-    {
-        "name": "ASMR",
-        "platform": "Twitch",
-        "metric": 10802,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/509659-300x400.jpg",
-        "id": 42
-    },
-    {
-        "name": "I'm Only Sleeping",
-        "platform": "Twitch",
-        "metric": 10676,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/498592_IGDB-300x400.jpg",
-        "id": 43
-    },
-    {
-        "name": "Kingdom Hearts Final Mix",
-        "platform": "Twitch",
-        "metric": 10659,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/597712627_IGDB-300x400.jpg",
-        "id": 44
-    },
-    {
-        "name": "Virtual Casino",
-        "platform": "Twitch",
-        "metric": 10418,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/29452_IGDB-300x400.jpg",
-        "id": 45
     },
     {
         "name": "Grand Theft Auto V",
         "platform": "Twitch",
-        "metric": 10240,
+        "metric": 11262,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-300x400.jpg",
-        "id": 46
+        "id": 38
+    },
+    {
+        "name": "Apex Legends",
+        "platform": "Twitch",
+        "metric": 10717,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/511224-300x400.jpg",
+        "id": 39
+    },
+    {
+        "name": "Kingdom Hearts Final Mix",
+        "platform": "Twitch",
+        "metric": 10262,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/597712627_IGDB-300x400.jpg",
+        "id": 40
+    },
+    {
+        "name": "Teamfight Tactics",
+        "platform": "Twitch",
+        "metric": 10190,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/513143-300x400.jpg",
+        "id": 41
+    },
+    {
+        "name": "Pokémon FireRed/LeafGreen",
+        "platform": "Twitch",
+        "metric": 9983,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/13332-300x400.jpg",
+        "id": 42
+    },
+    {
+        "name": "ASMR",
+        "platform": "Twitch",
+        "metric": 9915,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/509659-300x400.jpg",
+        "id": 43
+    },
+    {
+        "name": "Virtual Casino",
+        "platform": "Twitch",
+        "metric": 9606,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/29452_IGDB-300x400.jpg",
+        "id": 44
+    },
+    {
+        "name": "Marvel Rivals",
+        "platform": "Twitch",
+        "metric": 9495,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1264310518_IGDB-300x400.jpg",
+        "id": 45
     },
     {
         "name": "Pokémon",
         "platform": "Twitch",
-        "metric": 8972,
+        "metric": 8528,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/1982936547_IGDB-300x400.jpg",
-        "id": 47
+        "id": 46
     },
     {
         "name": "Hearthstone",
         "platform": "Twitch",
-        "metric": 8053,
+        "metric": 8447,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/138585-300x400.jpg",
-        "id": 48
+        "id": 47
     },
     {
         "name": "Dead by Daylight",
         "platform": "Twitch",
-        "metric": 7938,
+        "metric": 7904,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/491487-300x400.jpg",
-        "id": 49
+        "id": 48
     },
     {
         "name": "Retro",
         "platform": "Twitch",
-        "metric": 7744,
+        "metric": 7894,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/27284-300x400.jpg",
-        "id": 50
+        "id": 49
     },
     {
         "name": "Project Zomboid",
         "platform": "Twitch",
-        "metric": 7296,
+        "metric": 7329,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/31339_IGDB-300x400.jpg",
-        "id": 51
+        "id": 50
     },
     {
         "name": "Aliens: Fireteam Elite 2",
         "platform": "Twitch",
-        "metric": 6439,
+        "metric": 6304,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/1763844707_IGDB-300x400.jpg",
-        "id": 52
+        "id": 51
     },
     {
         "name": "Art",
         "platform": "Twitch",
-        "metric": 6375,
+        "metric": 6268,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/509660-300x400.jpg",
+        "id": 52
+    },
+    {
+        "name": "World of Tanks",
+        "platform": "Twitch",
+        "metric": 6238,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-300x400.jpg",
         "id": 53
     },
     {
         "name": "DJs",
         "platform": "Twitch",
-        "metric": 6274,
+        "metric": 6093,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/1669431183-300x400.jpg",
         "id": 54
     },
     {
-        "name": "World of Tanks",
-        "platform": "Twitch",
-        "metric": 5632,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/27546_IGDB-300x400.jpg",
-        "id": 55
-    },
-    {
         "name": "Call of Duty: Warzone",
         "platform": "Twitch",
-        "metric": 5380,
+        "metric": 5297,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/512710-300x400.jpg",
-        "id": 56
+        "id": 55
     },
     {
         "name": "Music",
         "platform": "Twitch",
-        "metric": 5324,
+        "metric": 4991,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/26936-300x400.jpg",
-        "id": 57
+        "id": 56
     },
     {
         "name": "Black Desert",
         "platform": "Twitch",
-        "metric": 5165,
+        "metric": 4918,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/386821_IGDB-300x400.jpg",
+        "id": 57
+    },
+    {
+        "name": "Once Human",
+        "platform": "Twitch",
+        "metric": 4865,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1441208453_IGDB-300x400.jpg",
         "id": 58
     },
     {
         "name": "Albion Online",
         "platform": "Twitch",
-        "metric": 5023,
+        "metric": 4709,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/417528_IGDB-300x400.jpg",
         "id": 59
     },
     {
-        "name": "Once Human",
-        "platform": "Twitch",
-        "metric": 5021,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1441208453_IGDB-300x400.jpg",
-        "id": 60
-    },
-    {
         "name": "ARC Raiders",
         "platform": "Twitch",
-        "metric": 4357,
+        "metric": 4514,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/464339927-300x400.jpg",
-        "id": 61
+        "id": 60
     },
     {
         "name": "Animals, Aquariums, and Zoos",
         "platform": "Twitch",
-        "metric": 3846,
+        "metric": 4186,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/272263131-300x400.jpg",
-        "id": 62
-    },
-    {
-        "name": "VRChat",
-        "platform": "Twitch",
-        "metric": 3770,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/499003_IGDB-300x400.jpg",
-        "id": 63
+        "id": 61
     },
     {
         "name": "Old School RuneScape",
         "platform": "Twitch",
-        "metric": 3762,
+        "metric": 3872,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/459931_IGDB-300x400.jpg",
-        "id": 64
-    },
-    {
-        "name": "Deadlock",
-        "platform": "Twitch",
-        "metric": 3674,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/2132205352_IGDB-300x400.jpg",
-        "id": 65
-    },
-    {
-        "name": "FINAL FANTASY XIV ONLINE",
-        "platform": "Twitch",
-        "metric": 3573,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/24241_IGDB-300x400.jpg",
-        "id": 66
-    },
-    {
-        "name": "Castlevania: Order of Ecclesia",
-        "platform": "Twitch",
-        "metric": 3514,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/18852_IGDB-300x400.jpg",
-        "id": 67
-    },
-    {
-        "name": "Palworld",
-        "platform": "Twitch",
-        "metric": 3358,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1036710512_IGDB-300x400.jpg",
-        "id": 68
+        "id": 62
     },
     {
         "name": "PUBG: BATTLEGROUNDS",
         "platform": "Twitch",
-        "metric": 3333,
+        "metric": 3817,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/493057-300x400.jpg",
-        "id": 69
+        "id": 63
     },
     {
-        "name": "Special Events",
+        "name": "FINAL FANTASY XIV ONLINE",
         "platform": "Twitch",
-        "metric": 3291,
+        "metric": 3680,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/509663-300x400.jpg",
-        "id": 70
-    },
-    {
-        "name": "ROBLOX",
-        "platform": "Twitch",
-        "metric": 3286,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/23020_IGDB-300x400.jpg",
-        "id": 71
-    },
-    {
-        "name": "Donkey Kong 64",
-        "platform": "Twitch",
-        "metric": 3070,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/13765_IGDB-300x400.jpg",
-        "id": 72
-    },
-    {
-        "name": "Can I Come In?",
-        "platform": "Twitch",
-        "metric": 3044,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/2010156204-300x400.jpg",
-        "id": 73
-    },
-    {
-        "name": "Tibia",
-        "platform": "Twitch",
-        "metric": 3036,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/19619_IGDB-300x400.jpg",
-        "id": 74
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/24241_IGDB-300x400.jpg",
+        "id": 64
     },
     {
         "name": "Sports",
         "platform": "Twitch",
-        "metric": 2871,
+        "metric": 3577,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/518203-300x400.jpg",
-        "id": 75
+        "id": 65
+    },
+    {
+        "name": "VRChat",
+        "platform": "Twitch",
+        "metric": 3552,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/499003_IGDB-300x400.jpg",
+        "id": 66
+    },
+    {
+        "name": "Palworld",
+        "platform": "Twitch",
+        "metric": 3490,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1036710512_IGDB-300x400.jpg",
+        "id": 67
+    },
+    {
+        "name": "Can I Come In?",
+        "platform": "Twitch",
+        "metric": 3489,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/2010156204-300x400.jpg",
+        "id": 68
+    },
+    {
+        "name": "Castlevania: Order of Ecclesia",
+        "platform": "Twitch",
+        "metric": 3452,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/18852_IGDB-300x400.jpg",
+        "id": 69
+    },
+    {
+        "name": "Rust",
+        "platform": "Twitch",
+        "metric": 3450,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/263490_IGDB-300x400.jpg",
+        "id": 70
+    },
+    {
+        "name": "Deadlock",
+        "platform": "Twitch",
+        "metric": 3372,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/2132205352_IGDB-300x400.jpg",
+        "id": 71
+    },
+    {
+        "name": "ROBLOX",
+        "platform": "Twitch",
+        "metric": 3324,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/23020_IGDB-300x400.jpg",
+        "id": 72
+    },
+    {
+        "name": "Special Events",
+        "platform": "Twitch",
+        "metric": 3048,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/509663-300x400.jpg",
+        "id": 73
+    },
+    {
+        "name": "Crypto",
+        "platform": "Twitch",
+        "metric": 2970,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/499634-300x400.jpg",
+        "id": 74
     },
     {
         "name": "Rainbow Six Siege",
         "platform": "Twitch",
-        "metric": 2858,
+        "metric": 2969,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/460630-300x400.jpg",
+        "id": 75
+    },
+    {
+        "name": "Warcraft III",
+        "platform": "Twitch",
+        "metric": 2777,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/12924-300x400.jpg",
         "id": 76
     },
     {
         "name": "ELDEN RING",
         "platform": "Twitch",
-        "metric": 2740,
+        "metric": 2650,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-300x400.jpg",
         "id": 77
     },
     {
-        "name": "Crypto",
+        "name": "Donkey Kong 64",
         "platform": "Twitch",
-        "metric": 2697,
+        "metric": 2577,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/499634-300x400.jpg",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/13765_IGDB-300x400.jpg",
         "id": 78
-    },
-    {
-        "name": "The Choicer Voicer",
-        "platform": "Twitch",
-        "metric": 2597,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/884569009_IGDB-300x400.jpg",
-        "id": 79
-    },
-    {
-        "name": "Rust",
-        "platform": "Twitch",
-        "metric": 2542,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/263490_IGDB-300x400.jpg",
-        "id": 80
-    },
-    {
-        "name": "Delta Force",
-        "platform": "Twitch",
-        "metric": 2515,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-300x400.jpg",
-        "id": 81
-    },
-    {
-        "name": "Call of Duty: Black Ops 7",
-        "platform": "Twitch",
-        "metric": 2378,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/2012789438-300x400.jpg",
-        "id": 82
     },
     {
         "name": "EA Sports FC 26",
         "platform": "Twitch",
-        "metric": 2369,
+        "metric": 2544,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/624536948_IGDB-300x400.jpg",
-        "id": 83
+        "id": 79
+    },
+    {
+        "name": "Tibia",
+        "platform": "Twitch",
+        "metric": 2536,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/19619_IGDB-300x400.jpg",
+        "id": 80
     },
     {
         "name": "Crimson Moon",
         "platform": "Twitch",
-        "metric": 2344,
+        "metric": 2522,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/1217150241_IGDB-300x400.jpg",
+        "id": 81
+    },
+    {
+        "name": "Delta Force",
+        "platform": "Twitch",
+        "metric": 2402,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1282866981_IGDB-300x400.jpg",
+        "id": 82
+    },
+    {
+        "name": "Star Citizen",
+        "platform": "Twitch",
+        "metric": 2312,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/71375_IGDB-300x400.jpg",
+        "id": 83
+    },
+    {
+        "name": "Call of Duty: Black Ops 7",
+        "platform": "Twitch",
+        "metric": 2271,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/2012789438-300x400.jpg",
         "id": 84
-    },
-    {
-        "name": "DayZ",
-        "platform": "Twitch",
-        "metric": 2339,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/65632_IGDB-300x400.jpg",
-        "id": 85
-    },
-    {
-        "name": "Warcraft III",
-        "platform": "Twitch",
-        "metric": 2290,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/12924-300x400.jpg",
-        "id": 86
     },
     {
         "name": "MapleStory",
         "platform": "Twitch",
-        "metric": 2253,
+        "metric": 2239,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/19976_IGDB-300x400.jpg",
+        "id": 85
+    },
+    {
+        "name": "Food & Drink",
+        "platform": "Twitch",
+        "metric": 2204,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/509667-300x400.jpg",
+        "id": 86
+    },
+    {
+        "name": "Hollow Knight: Silksong",
+        "platform": "Twitch",
+        "metric": 1968,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/511391_IGDB-300x400.jpg",
         "id": 87
     },
     {
         "name": "Marbles on Stream",
         "platform": "Twitch",
-        "metric": 2089,
+        "metric": 1964,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/509511_IGDB-300x400.jpg",
         "id": 88
     },
     {
-        "name": "Madden NFL 27",
+        "name": "Rocket League",
         "platform": "Twitch",
-        "metric": 1989,
+        "metric": 1917,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-300x400.jpg",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/30921-300x400.jpg",
         "id": 89
+    },
+    {
+        "name": "DayZ",
+        "platform": "Twitch",
+        "metric": 1884,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/65632_IGDB-300x400.jpg",
+        "id": 90
     },
     {
         "name": "R2 Online: Reign of Revolution",
         "platform": "Twitch",
-        "metric": 1937,
+        "metric": 1848,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/502829_IGDB-300x400.jpg",
-        "id": 90
-    },
-    {
-        "name": "Star Citizen",
-        "platform": "Twitch",
-        "metric": 1908,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/71375_IGDB-300x400.jpg",
         "id": 91
-    },
-    {
-        "name": "Chess",
-        "platform": "Twitch",
-        "metric": 1820,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/743-300x400.jpg",
-        "id": 92
-    },
-    {
-        "name": "Diablo IV",
-        "platform": "Twitch",
-        "metric": 1808,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/515024-300x400.jpg",
-        "id": 93
-    },
-    {
-        "name": "The Forest",
-        "platform": "Twitch",
-        "metric": 1792,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/7022_IGDB-300x400.jpg",
-        "id": 94
-    },
-    {
-        "name": "Food & Drink",
-        "platform": "Twitch",
-        "metric": 1733,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/509667-300x400.jpg",
-        "id": 95
     },
     {
         "name": "PEAK",
         "platform": "Twitch",
-        "metric": 1713,
+        "metric": 1830,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/1081998272_IGDB-300x400.jpg",
-        "id": 96
+        "id": 92
     },
     {
         "name": "Arena Breakout: Infinite",
         "platform": "Twitch",
-        "metric": 1710,
+        "metric": 1823,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/401587136_IGDB-300x400.jpg",
-        "id": 97
+        "id": 93
     },
     {
-        "name": "Rocket League",
+        "name": "Madden NFL 27",
         "platform": "Twitch",
-        "metric": 1679,
+        "metric": 1794,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/30921-300x400.jpg",
-        "id": 98
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/670138298_IGDB-300x400.jpg",
+        "id": 94
     },
     {
-        "name": "Among Us",
+        "name": "Diablo IV",
         "platform": "Twitch",
-        "metric": 1669,
+        "metric": 1776,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/919012536_IGDB-300x400.jpg",
-        "id": 99
-    },
-    {
-        "name": "Games + Demos",
-        "platform": "Twitch",
-        "metric": 1666,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/66082-300x400.jpg",
-        "id": 100
-    },
-    {
-        "name": "MARVEL Contest of Champions",
-        "platform": "Twitch",
-        "metric": 1615,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/461221_IGDB-300x400.jpg",
-        "id": 101
-    },
-    {
-        "name": "Fire Emblem: Three Houses",
-        "platform": "Twitch",
-        "metric": 1610,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/495202_IGDB-300x400.jpg",
-        "id": 102
-    },
-    {
-        "name": "Pokémon Black/White",
-        "platform": "Twitch",
-        "metric": 1595,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/27602-300x400.jpg",
-        "id": 103
-    },
-    {
-        "name": "Riftbound",
-        "platform": "Twitch",
-        "metric": 1573,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1751366933-300x400.jpg",
-        "id": 104
-    },
-    {
-        "name": "ARMORED CORE VI FIRES OF RUBICON",
-        "platform": "Twitch",
-        "metric": 1558,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/686119195_IGDB-300x400.jpg",
-        "id": 105
-    },
-    {
-        "name": "iRacing",
-        "platform": "Twitch",
-        "metric": 1553,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/19554_IGDB-300x400.jpg",
-        "id": 106
-    },
-    {
-        "name": "Withering Realms",
-        "platform": "Twitch",
-        "metric": 1538,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1038730744_IGDB-300x400.jpg",
-        "id": 107
-    },
-    {
-        "name": "Red Dead Redemption II",
-        "platform": "Twitch",
-        "metric": 1513,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/493959_IGDB-300x400.jpg",
-        "id": 108
-    },
-    {
-        "name": "Pokémon GO",
-        "platform": "Twitch",
-        "metric": 1476,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/490655_IGDB-300x400.jpg",
-        "id": 109
-    },
-    {
-        "name": "The Death Game Report",
-        "platform": "Twitch",
-        "metric": 1470,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/627281902-300x400.jpg",
-        "id": 110
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/515024-300x400.jpg",
+        "id": 95
     },
     {
         "name": "Hunt: Showdown 1896",
         "platform": "Twitch",
-        "metric": 1469,
+        "metric": 1646,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/500188_IGDB-300x400.jpg",
-        "id": 111
+        "id": 96
     },
     {
-        "name": "Warframe",
+        "name": "Riftbound",
         "platform": "Twitch",
-        "metric": 1428,
+        "metric": 1643,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-300x400.jpg",
-        "id": 112
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1751366933-300x400.jpg",
+        "id": 97
     },
     {
-        "name": "Battlefield 6",
+        "name": "MARVEL Contest of Champions",
         "platform": "Twitch",
-        "metric": 1422,
+        "metric": 1636,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/168648543_IGDB-300x400.jpg",
-        "id": 113
-    },
-    {
-        "name": "Genshin Impact",
-        "platform": "Twitch",
-        "metric": 1334,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/513181_IGDB-300x400.jpg",
-        "id": 114
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/461221_IGDB-300x400.jpg",
+        "id": 98
     },
     {
         "name": "Baldur's Gate 3",
         "platform": "Twitch",
-        "metric": 1235,
+        "metric": 1630,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/512923_IGDB-300x400.jpg",
-        "id": 115
+        "id": 99
+    },
+    {
+        "name": "Scavland",
+        "platform": "Twitch",
+        "metric": 1620,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1197780817_IGDB-300x400.jpg",
+        "id": 100
+    },
+    {
+        "name": "Fire Emblem: Three Houses",
+        "platform": "Twitch",
+        "metric": 1609,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/495202_IGDB-300x400.jpg",
+        "id": 101
+    },
+    {
+        "name": "Games + Demos",
+        "platform": "Twitch",
+        "metric": 1551,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/66082-300x400.jpg",
+        "id": 102
+    },
+    {
+        "name": "Pokémon GO",
+        "platform": "Twitch",
+        "metric": 1545,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/490655_IGDB-300x400.jpg",
+        "id": 103
+    },
+    {
+        "name": "Pokémon Black/White",
+        "platform": "Twitch",
+        "metric": 1541,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/27602-300x400.jpg",
+        "id": 104
+    },
+    {
+        "name": "Starbound",
+        "platform": "Twitch",
+        "metric": 1530,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/33945_IGDB-300x400.jpg",
+        "id": 105
+    },
+    {
+        "name": "Politics",
+        "platform": "Twitch",
+        "metric": 1492,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/515214-300x400.jpg",
+        "id": 106
+    },
+    {
+        "name": "Warframe",
+        "platform": "Twitch",
+        "metric": 1469,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/66170_IGDB-300x400.jpg",
+        "id": 107
+    },
+    {
+        "name": "Withering Realms",
+        "platform": "Twitch",
+        "metric": 1462,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1038730744_IGDB-300x400.jpg",
+        "id": 108
+    },
+    {
+        "name": "Mobile Legends: Bang Bang",
+        "platform": "Twitch",
+        "metric": 1449,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/494184_IGDB-300x400.jpg",
+        "id": 109
+    },
+    {
+        "name": "Genshin Impact",
+        "platform": "Twitch",
+        "metric": 1439,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/513181_IGDB-300x400.jpg",
+        "id": 110
+    },
+    {
+        "name": "Farming Simulator 25",
+        "platform": "Twitch",
+        "metric": 1424,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/262437666_IGDB-300x400.jpg",
+        "id": 111
+    },
+    {
+        "name": "Among Us",
+        "platform": "Twitch",
+        "metric": 1410,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/919012536_IGDB-300x400.jpg",
+        "id": 112
+    },
+    {
+        "name": "Red Dead Redemption II",
+        "platform": "Twitch",
+        "metric": 1399,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/493959_IGDB-300x400.jpg",
+        "id": 113
+    },
+    {
+        "name": "Battlefield 6",
+        "platform": "Twitch",
+        "metric": 1222,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/168648543_IGDB-300x400.jpg",
+        "id": 114
     },
     {
         "name": "HELLDIVERS 2",
         "platform": "Twitch",
-        "metric": 1015,
+        "metric": 928,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/766571430_IGDB-300x400.jpg",
-        "id": 116
+        "id": 115
     },
     {
         "name": "Honkai: Star Rail",
         "platform": "Twitch",
-        "metric": 833,
+        "metric": 813,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/213930085_IGDB-300x400.jpg",
-        "id": 117
-    },
-    {
-        "name": "PUBG MOBILE",
-        "platform": "Twitch",
-        "metric": 819,
-        "metric_label": "Spectateurs",
-        "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/505884-300x400.jpg",
-        "id": 118
+        "id": 116
     },
     {
         "name": "Clash Royale",
         "platform": "Twitch",
-        "metric": 772,
+        "metric": 779,
         "metric_label": "Spectateurs",
         "trend": "+3%",
         "image": "https://static-cdn.jtvnw.net/ttv-boxart/491168_IGDB-300x400.jpg",
+        "id": 117
+    },
+    {
+        "name": "Super Smash Bros. Ultimate",
+        "platform": "Twitch",
+        "metric": 575,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/504461_IGDB-300x400.jpg",
+        "id": 118
+    },
+    {
+        "name": "PUBG MOBILE",
+        "platform": "Twitch",
+        "metric": 449,
+        "metric_label": "Spectateurs",
+        "trend": "+3%",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/505884-300x400.jpg",
         "id": 119
     },
     {
-        "name": "Call of Duty",
+        "name": "Brawl Stars",
         "platform": "Twitch",
-        "metric": 631,
+        "metric": 391,
         "metric_label": "Spectateurs",
         "trend": "+3%",
-        "image": "https://static-cdn.jtvnw.net/ttv-boxart/1494_IGDB-300x400.jpg",
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/497497_IGDB-300x400.jpg",
         "id": 120
     }
 ]
