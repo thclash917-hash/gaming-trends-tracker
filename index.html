@@ -1,324 +1,2366 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gaming Trends Tracker - Top, Filtres & Favoris</title>
+
+    <title>Gaming Trends Tracker - Steam & Twitch</title>
+
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Inclusion de Chart.js pour les graphiques dynamiques -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
+
+
 <body class="bg-slate-950 text-slate-100 min-h-screen font-sans selection:bg-indigo-500 selection:text-white">
-    
-    <div class="max-w-4xl mx-auto px-4 py-6 md:py-8">
-        
-        <!-- Barre de navigation / Liens rapides -->
-        <nav class="flex flex-wrap justify-center gap-3 mb-6 md:mb-8">
-            <a href="https://www.twitch.tv/fire_bs2" target="_blank" 
-               class="flex items-center gap-2 bg-purple-600/20 border border-purple-500/30 text-purple-400 hover:bg-purple-600/30 px-4 py-2 md:px-5 md:py-2.5 rounded-xl font-semibold text-sm transition-all duration-200 shadow-lg hover:scale-105">
-                🔴 Ma Chaîne Twitch
-            </a>
-            <a href="https://shop-fire-zeta.vercel.app/" target="_blank" 
-               class="flex items-center gap-2 bg-amber-500/20 border border-amber-500/30 text-amber-400 hover:bg-amber-500/30 px-4 py-2 md:px-5 md:py-2.5 rounded-xl font-semibold text-sm transition-all duration-200 shadow-lg hover:scale-105">
-                🛒 Boutique Supercell
-            </a>
-        </nav>
 
-        <header class="mb-8 text-center">
-            <h1 class="text-3xl md:text-4xl font-extrabold tracking-tight text-indigo-400 mb-2">🎮 Gaming Trends Tracker</h1>
-            <p class="text-slate-400 mb-1 text-sm md:text-base">Suivi en direct des tendances Steam et Twitch (Mise à jour automatique toutes les 30 min)</p>
-            <p id="last-update" class="text-xs text-slate-500 mb-6">Dernière synchronisation : Chargement...</p>
-            
-            <div class="max-w-md mx-auto mb-6">
-                <input type="text" id="search-input" placeholder="Rechercher un jeu (Brawl Stars, Valorant...)" 
-                    class="w-full bg-slate-900 border border-slate-800 rounded-xl px-4 py-3 text-slate-100 placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition-all duration-200 shadow-lg text-sm">
+
+    <!-- =========================================================
+         POPUP DROP
+    ========================================================== -->
+
+    <div
+        id="drop-modal"
+        class="hidden fixed inset-0 z-50 bg-black/80 backdrop-blur-sm
+               items-center justify-center p-4">
+
+        <div
+            class="bg-slate-900 border border-slate-700 rounded-2xl
+                   shadow-2xl max-w-lg w-full max-h-[90vh]
+                   overflow-y-auto">
+
+            <!-- HEADER -->
+
+            <div
+                class="p-5 border-b border-slate-800
+                       flex justify-between items-start">
+
+                <div>
+
+                    <div
+                        id="drop-status"
+                        class="mb-2">
+                    </div>
+
+                    <h2
+                        id="drop-title"
+                        class="text-2xl font-extrabold text-white">
+                        Twitch Drops
+                    </h2>
+
+                </div>
+
+                <button
+                    onclick="closeDrop()"
+                    class="text-slate-400 hover:text-white
+                           text-3xl leading-none ml-4">
+
+                    ×
+
+                </button>
+
             </div>
 
-            <!-- Filtres par plateforme et favoris fluides -->
-            <div class="flex flex-wrap justify-center gap-2">
-                <button onclick="setPlatformFilter('all')" id="filter-all" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-indigo-600 text-white transition-all duration-200 shadow">Tous</button>
-                <button onclick="setPlatformFilter('Twitch')" id="filter-twitch" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-slate-400 border border-slate-800 hover:border-slate-700 transition-all duration-200">Twitch</button>
-                <button onclick="setPlatformFilter('Steam')" id="filter-steam" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-slate-400 border border-slate-800 hover:border-slate-700 transition-all duration-200">Steam</button>
-                <button onclick="setPlatformFilter('favorites')" id="filter-fav" class="px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-amber-400 border border-slate-800 hover:border-slate-700 transition-all duration-200">⭐ Favoris</button>
-            </div>
-        </header>
 
-        <!-- Tableau de bord dynamique : Graphique -->
-        <section class="mb-8 bg-slate-900 border border-slate-800 rounded-xl p-4 md:p-6 shadow-xl">
-            <div class="flex justify-between items-center mb-4">
-                <h2 class="text-lg md:text-xl font-bold text-slate-200">📊 Dynamique du Top</h2>
-                <span class="text-xs text-slate-400">Top 10 filtré</span>
-            </div>
-            <div class="relative w-full h-64 md:h-72">
-                <canvas id="trendsChart"></canvas>
-            </div>
-        </section>
+            <!-- CONTENU -->
 
-        <main class="bg-slate-900 border border-slate-800 rounded-xl shadow-xl overflow-hidden">
-            <div class="p-4 md:p-6 border-b border-slate-800 flex justify-between items-center">
-                <h2 class="text-lg md:text-xl font-bold text-slate-200">Classement Global</h2>
-                <span id="game-count" class="text-xs bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 px-3 py-1 rounded-full">0 jeu</span>
+            <div class="p-5 space-y-5">
+
+
+                <!-- RECOMPENSES -->
+
+                <div>
+
+                    <div
+                        class="text-xs uppercase tracking-wider
+                               text-slate-500 font-bold mb-2">
+
+                        🎁 Récompenses
+
+                    </div>
+
+                    <div
+                        id="drop-rewards"
+                        class="text-white space-y-1">
+
+                    </div>
+
+                </div>
+
+
+                <!-- CONDITION -->
+
+                <div>
+
+                    <div
+                        class="text-xs uppercase tracking-wider
+                               text-slate-500 font-bold mb-2">
+
+                        ⏱️ Condition
+
+                    </div>
+
+                    <div
+                        id="drop-requirement"
+                        class="bg-slate-950 border border-slate-800
+                               rounded-xl p-3 text-slate-200">
+
+                    </div>
+
+                </div>
+
+
+                <!-- DATES -->
+
+                <div>
+
+                    <div
+                        class="text-xs uppercase tracking-wider
+                               text-slate-500 font-bold mb-2">
+
+                        📅 Période
+
+                    </div>
+
+                    <div
+                        id="drop-dates"
+                        class="bg-slate-950 border border-slate-800
+                               rounded-xl p-3 text-slate-200">
+
+                    </div>
+
+                </div>
+
+
+                <!-- COMPTE / PREREQUIS -->
+
+                <div>
+
+                    <div
+                        class="text-xs uppercase tracking-wider
+                               text-slate-500 font-bold mb-2">
+
+                        🔗 À avoir
+
+                    </div>
+
+                    <div
+                        id="drop-connection"
+                        class="bg-slate-950 border border-slate-800
+                               rounded-xl p-3 text-slate-200">
+
+                    </div>
+
+                </div>
+
+
+                <!-- BOUTON TWITCH -->
+
+                <a
+                    id="drop-link"
+                    href="#"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="block text-center bg-purple-600
+                           hover:bg-purple-500 text-white
+                           font-bold py-3 px-4 rounded-xl
+                           transition">
+
+                    🎁 Voir le Drop sur Twitch
+
+                </a>
+
             </div>
-            
-            <div class="overflow-x-auto">
-                <table class="w-full text-left border-collapse min-w-[600px]">
-                    <thead>
-                        <tr class="border-b border-slate-800 text-slate-400 text-xs md:text-sm bg-slate-950/50">
-                            <th class="py-3 px-3 text-center">⭐</th>
-                            <th class="py-3 px-4 cursor-pointer hover:text-white transition" onclick="sortData('id')"># ↕</th>
-                            <th class="py-3 px-4 cursor-pointer hover:text-white transition" onclick="sortData('name')">Jeu ↕</th>
-                            <th class="py-3 px-4">Plateforme</th>
-                            <th class="py-3 px-4 cursor-pointer hover:text-white transition" onclick="sortData('metric')">Volume ↕</th>
-                            <th class="py-3 px-4 cursor-pointer hover:text-white transition" onclick="sortData('trend')">Tendance ↕</th>
-                        </tr>
-                    </thead>
-                    <tbody id="games-table-body" class="divide-y divide-slate-800 text-xs md:text-sm transition-opacity duration-300">
-                        <!-- Chargement -->
-                    </tbody>
-                </table>
-            </div>
-        </main>
+
+        </div>
+
     </div>
 
+
+
+    <!-- =========================================================
+         CONTENU PRINCIPAL
+    ========================================================== -->
+
+    <div class="max-w-5xl mx-auto px-4 py-6 md:py-8">
+
+
+        <!-- =====================================================
+             NAVIGATION
+        ====================================================== -->
+
+        <nav class="flex flex-wrap justify-center gap-3 mb-6 md:mb-8">
+
+            <a
+                href="https://www.twitch.tv/fire_bs2"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="flex items-center gap-2
+                       bg-purple-600/20 border border-purple-500/30
+                       text-purple-400 hover:bg-purple-600/30
+                       px-4 py-2 md:px-5 md:py-2.5
+                       rounded-xl font-semibold text-sm
+                       transition-all duration-200 shadow-lg
+                       hover:scale-105">
+
+                🔴 Ma Chaîne Twitch
+
+            </a>
+
+
+            <a
+                href="https://shop-fire-zeta.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="flex items-center gap-2
+                       bg-amber-500/20 border border-amber-500/30
+                       text-amber-400 hover:bg-amber-500/30
+                       px-4 py-2 md:px-5 md:py-2.5
+                       rounded-xl font-semibold text-sm
+                       transition-all duration-200 shadow-lg
+                       hover:scale-105">
+
+                🛒 Boutique Supercell
+
+            </a>
+
+        </nav>
+
+
+
+        <!-- =====================================================
+             HEADER
+        ====================================================== -->
+
+        <header class="mb-8 text-center">
+
+            <h1
+                class="text-3xl md:text-4xl font-extrabold
+                       tracking-tight text-indigo-400 mb-2">
+
+                🎮 Gaming Trends Tracker
+
+            </h1>
+
+
+            <p class="text-slate-400 mb-1 text-sm md:text-base">
+
+                Suivi en direct des tendances Steam et Twitch
+
+            </p>
+
+
+            <p
+                id="last-update"
+                class="text-xs text-slate-500 mb-6">
+
+                Dernière synchronisation : Chargement...
+
+            </p>
+
+
+
+            <!-- RECHERCHE -->
+
+            <div class="max-w-md mx-auto mb-6">
+
+                <input
+                    type="text"
+                    id="search-input"
+                    placeholder="Rechercher un jeu..."
+                    class="w-full bg-slate-900
+                           border border-slate-800
+                           rounded-xl px-4 py-3
+                           text-slate-100
+                           placeholder-slate-500
+                           focus:outline-none
+                           focus:border-indigo-500
+                           transition-all duration-200
+                           shadow-lg text-sm">
+
+            </div>
+
+
+
+            <!-- FILTRES -->
+
+            <div class="flex flex-wrap justify-center gap-2">
+
+                <button
+                    onclick="setPlatformFilter('all')"
+                    id="filter-all"
+                    class="px-4 py-1.5 rounded-lg text-sm
+                           font-semibold bg-indigo-600
+                           text-white transition-all duration-200 shadow">
+
+                    Tous
+
+                </button>
+
+
+                <button
+                    onclick="setPlatformFilter('Twitch')"
+                    id="filter-twitch"
+                    class="px-4 py-1.5 rounded-lg text-sm
+                           font-semibold bg-slate-900
+                           text-slate-400 border border-slate-800
+                           hover:border-slate-700 transition-all duration-200">
+
+                    🟣 Twitch
+
+                </button>
+
+
+                <button
+                    onclick="setPlatformFilter('Steam')"
+                    id="filter-steam"
+                    class="px-4 py-1.5 rounded-lg text-sm
+                           font-semibold bg-slate-900
+                           text-slate-400 border border-slate-800
+                           hover:border-slate-700 transition-all duration-200">
+
+                    🔵 Steam
+
+                </button>
+
+
+                <button
+                    onclick="setPlatformFilter('favorites')"
+                    id="filter-fav"
+                    class="px-4 py-1.5 rounded-lg text-sm
+                           font-semibold bg-slate-900
+                           text-amber-400 border border-slate-800
+                           hover:border-slate-700 transition-all duration-200">
+
+                    ⭐ Favoris
+
+                </button>
+
+            </div>
+
+        </header>
+
+
+
+        <!-- =====================================================
+             SECTION DROPS
+        ====================================================== -->
+
+        <section
+            id="drops-section"
+            class="hidden mb-8 bg-slate-900
+                   border border-slate-800
+                   rounded-xl shadow-xl overflow-hidden">
+
+            <div
+                class="p-4 md:p-6 border-b border-slate-800">
+
+                <h2
+                    class="text-lg md:text-xl font-bold text-slate-200">
+
+                    🎁 Twitch Drops
+
+                </h2>
+
+                <p class="text-xs text-slate-500 mt-1">
+
+                    Drops actifs et prochaines campagnes
+
+                </p>
+
+            </div>
+
+
+            <div class="p-4 md:p-6 space-y-6">
+
+
+                <!-- DROPS ACTIFS -->
+
+                <div id="active-drops-container">
+
+                    <h3
+                        class="text-sm font-bold text-emerald-400 mb-3">
+
+                        🟢 DROPS ACTIFS
+
+                    </h3>
+
+                    <div
+                        id="active-drops"
+                        class="grid md:grid-cols-2 gap-3">
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- DROPS A VENIR -->
+
+                <div id="upcoming-drops-container">
+
+                    <h3
+                        class="text-sm font-bold text-amber-400 mb-3">
+
+                        🟡 DROPS À VENIR
+
+                    </h3>
+
+                    <div
+                        id="upcoming-drops"
+                        class="grid md:grid-cols-2 gap-3">
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =====================================================
+             GRAPHIQUE
+        ====================================================== -->
+
+        <section
+            class="mb-8 bg-slate-900
+                   border border-slate-800
+                   rounded-xl p-4 md:p-6 shadow-xl">
+
+            <div
+                class="flex justify-between items-center mb-4">
+
+                <h2
+                    class="text-lg md:text-xl font-bold text-slate-200">
+
+                    📊 Dynamique du Top
+
+                </h2>
+
+                <span class="text-xs text-slate-400">
+
+                    Top 10 filtré
+
+                </span>
+
+            </div>
+
+
+            <div class="relative w-full h-64 md:h-72">
+
+                <canvas id="trendsChart"></canvas>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =====================================================
+             CLASSEMENT
+        ====================================================== -->
+
+        <main
+            class="bg-slate-900
+                   border border-slate-800
+                   rounded-xl shadow-xl overflow-hidden">
+
+
+            <div
+                class="p-4 md:p-6 border-b border-slate-800
+                       flex justify-between items-center">
+
+                <div>
+
+                    <h2
+                        class="text-lg md:text-xl font-bold text-slate-200">
+
+                        Classement Global
+
+                    </h2>
+
+                    <p class="text-xs text-slate-500 mt-1">
+
+                        Steam + Twitch
+
+                    </p>
+
+                </div>
+
+
+                <span
+                    id="game-count"
+                    class="text-xs bg-indigo-500/10
+                           text-indigo-400
+                           border border-indigo-500/20
+                           px-3 py-1 rounded-full">
+
+                    0 jeu
+
+                </span>
+
+            </div>
+
+
+
+            <div class="overflow-x-auto">
+
+                <table
+                    class="w-full text-left border-collapse min-w-[700px]">
+
+                    <thead>
+
+                        <tr
+                            class="border-b border-slate-800
+                                   text-slate-400 text-xs md:text-sm
+                                   bg-slate-950/50">
+
+                            <th class="py-3 px-3 text-center">
+
+                                ⭐
+
+                            </th>
+
+                            <th
+                                class="py-3 px-4 cursor-pointer
+                                       hover:text-white transition"
+                                onclick="sortData('id')">
+
+                                # ↕️
+
+                            </th>
+
+                            <th
+                                class="py-3 px-4 cursor-pointer
+                                       hover:text-white transition"
+                                onclick="sortData('name')">
+
+                                Jeu ↕️
+
+                            </th>
+
+                            <th class="py-3 px-4">
+
+                                Plateforme
+
+                            </th>
+
+                            <th
+                                class="py-3 px-4 cursor-pointer
+                                       hover:text-white transition"
+                                onclick="sortData('metric')">
+
+                                Volume ↕️
+
+                            </th>
+
+                            <th
+                                class="py-3 px-4 cursor-pointer
+                                       hover:text-white transition"
+                                onclick="sortData('trend')">
+
+                                Tendance ↕️
+
+                            </th>
+
+                        </tr>
+
+                    </thead>
+
+
+                    <tbody
+                        id="games-table-body"
+                        class="divide-y divide-slate-800
+                               text-xs md:text-sm
+                               transition-opacity duration-300">
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </main>
+
+    </div>
+
+
+
+    <!-- =========================================================
+         JAVASCRIPT
+    ========================================================== -->
+
     <script>
+
+
+        // ========================================================
+        // VARIABLES
+        // ========================================================
+
         let allGamesData = [];
+
         let currentFilter = 'all';
+
         let currentSearchQuery = '';
+
         let currentSortColumn = 'metric';
+
         let isAscending = false;
-        let favorites = JSON.parse(localStorage.getItem('gaming_tracker_favs')) || [];
+
+        let favorites =
+            JSON.parse(
+                localStorage.getItem(
+                    'gaming_tracker_favs'
+                )
+            ) || [];
+
         let trendsChart = null;
 
+
+
+        // ========================================================
+        // FAVORIS
+        // ========================================================
+
         function toggleFavorite(gameName, event) {
+
             event.stopPropagation();
+
             if (favorites.includes(gameName)) {
-                favorites = favorites.filter(fav => fav !== gameName);
+
+                favorites =
+                    favorites.filter(
+                        fav => fav !== gameName
+                    );
+
             } else {
+
                 favorites.push(gameName);
+
             }
-            localStorage.setItem('gaming_tracker_favs', JSON.stringify(favorites));
+
+            localStorage.setItem(
+                'gaming_tracker_favs',
+                JSON.stringify(favorites)
+            );
+
             applyFiltersAndRender();
+
         }
+
+
+
+        // ========================================================
+        // FILTRE
+        // ========================================================
 
         function setPlatformFilter(filter) {
+
             currentFilter = filter;
-            
-            ['all', 'twitch', 'steam', 'fav'].forEach(f => {
-                const btn = document.getElementById(`filter-${f}`);
-                if (btn) {
-                    btn.className = "px-4 py-1.5 rounded-lg text-sm font-semibold bg-slate-900 text-slate-400 border border-slate-800 hover:border-slate-700 transition-all duration-200";
-                }
+
+            const buttons = [
+                'all',
+                'twitch',
+                'steam',
+                'fav'
+            ];
+
+            buttons.forEach(id => {
+
+                const btn =
+                    document.getElementById(
+                        `filter-${id}`
+                    );
+
+                if (!btn) return;
+
+                btn.className =
+                    "px-4 py-1.5 rounded-lg text-sm " +
+                    "font-semibold bg-slate-900 " +
+                    "text-slate-400 border border-slate-800 " +
+                    "hover:border-slate-700 " +
+                    "transition-all duration-200";
+
             });
-            
-            const activeBtn = document.getElementById(`filter-${filter === 'favorites' ? 'fav' : filter.toLowerCase()}`);
+
+
+            const activeId =
+                filter === 'favorites'
+                    ? 'fav'
+                    : filter.toLowerCase();
+
+
+            const activeBtn =
+                document.getElementById(
+                    `filter-${activeId}`
+                );
+
+
             if (activeBtn) {
-                activeBtn.className = filter === 'favorites' 
-                    ? "px-4 py-1.5 rounded-lg text-sm font-semibold bg-amber-500/20 text-amber-400 border border-amber-500/40 transition-all duration-200 shadow"
-                    : "px-4 py-1.5 rounded-lg text-sm font-semibold bg-indigo-600 text-white transition-all duration-200 shadow";
+
+                activeBtn.className =
+                    filter === 'favorites'
+
+                        ? "px-4 py-1.5 rounded-lg text-sm " +
+                          "font-semibold bg-amber-500/20 " +
+                          "text-amber-400 " +
+                          "border border-amber-500/40 " +
+                          "transition-all duration-200 shadow"
+
+                        : "px-4 py-1.5 rounded-lg text-sm " +
+                          "font-semibold bg-indigo-600 " +
+                          "text-white " +
+                          "transition-all duration-200 shadow";
+
             }
 
+
             applyFiltersAndRender();
+
         }
+
+
+
+        // ========================================================
+        // TRI
+        // ========================================================
 
         function sortData(column) {
+
             if (currentSortColumn === column) {
+
                 isAscending = !isAscending;
+
             } else {
+
                 currentSortColumn = column;
+
                 isAscending = column === 'name';
+
             }
+
             applyFiltersAndRender();
+
         }
 
-        function applyFiltersAndRender() {
+
+
+        // ========================================================
+        // FILTRAGE
+        // ========================================================
+
+        function getFilteredData() {
+
             let data = [...allGamesData];
 
-            if (currentFilter === 'Twitch' || currentFilter === 'Steam') {
-                data = data.filter(game => game.platform === currentFilter);
-            } else if (currentFilter === 'favorites') {
-                data = data.filter(game => favorites.includes(game.name));
+
+            if (
+                currentFilter === 'Twitch' ||
+                currentFilter === 'Steam'
+            ) {
+
+                data =
+                    data.filter(
+                        game =>
+                            game.platform === currentFilter
+                    );
+
             }
+
+
+            else if (
+                currentFilter === 'favorites'
+            ) {
+
+                data =
+                    data.filter(
+                        game =>
+                            favorites.includes(
+                                game.name
+                            )
+                    );
+
+            }
+
 
             if (currentSearchQuery) {
-                data = data.filter(game => game.name.toLowerCase().includes(currentSearchQuery));
+
+                data =
+                    data.filter(
+                        game =>
+                            game.name
+                                .toLowerCase()
+                                .includes(
+                                    currentSearchQuery
+                                )
+                    );
+
             }
+
 
             data.sort((a, b) => {
-                let valA = a[currentSortColumn];
-                let valB = b[currentSortColumn];
 
-                if (currentSortColumn === 'trend') {
-                    valA = parseFloat(valA.replace('%', '').replace('+', '')) || 0;
-                    valB = parseFloat(valB.replace('%', '').replace('+', '')) || 0;
+                let valA =
+                    a[currentSortColumn];
+
+                let valB =
+                    b[currentSortColumn];
+
+
+                if (
+                    currentSortColumn === 'trend'
+                ) {
+
+                    valA =
+                        parseFloat(
+                            String(valA)
+                                .replace('%', '')
+                                .replace('+', '')
+                        ) || 0;
+
+                    valB =
+                        parseFloat(
+                            String(valB)
+                                .replace('%', '')
+                                .replace('+', '')
+                        ) || 0;
+
                 }
 
-                if (typeof valA === 'string') {
-                    return isAscending ? valA.localeCompare(valB) : valB.localeCompare(valA);
-                } else {
-                    return isAscending ? valA - valB : valB - valA;
+
+                if (
+                    typeof valA === 'string'
+                ) {
+
+                    return isAscending
+
+                        ? valA.localeCompare(valB)
+
+                        : valB.localeCompare(valA);
+
                 }
+
+
+                return isAscending
+                    ? valA - valB
+                    : valB - valA;
+
             });
 
-            const tbody = document.getElementById('games-table-body');
+
+            return data;
+
+        }
+
+
+
+        // ========================================================
+        // APPLICATION FILTRES
+        // ========================================================
+
+        function applyFiltersAndRender() {
+
+            const data =
+                getFilteredData();
+
+
+            const tbody =
+                document.getElementById(
+                    'games-table-body'
+                );
+
+
             tbody.style.opacity = '0';
+
+
             setTimeout(() => {
+
                 renderTable(data);
+
                 updateChartData(data);
+
                 tbody.style.opacity = '1';
-            }, 150);
+
+            }, 100);
+
         }
 
-        function updateChartData(dataToDisplay) {
-            const top10 = dataToDisplay.slice(0, 10);
-            const labels = top10.map(item => item.name);
-            const values = top10.map(item => item.metric);
 
-            const ctx = document.getElementById('trendsChart').getContext('2d');
 
-            if (trendsChart) {
-                trendsChart.data.labels = labels;
-                trendsChart.data.datasets[0].data = values;
-                trendsChart.update();
-            } else {
-                trendsChart = new Chart(ctx, {
-                    type: 'bar',
-                    data: {
-                        labels: labels,
-                        datasets: [{
-                            label: 'Volume',
-                            data: values,
-                            backgroundColor: 'rgba(129, 140, 248, 0.4)',
-                            borderColor: '#818cf8',
-                            borderWidth: 2,
-                            borderRadius: 6
-                        }]
-                    },
-                    options: {
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        plugins: {
-                            legend: { display: false }
-                        },
-                        scales: {
-                            x: { 
-                                ticks: { color: '#94a3b8', font: { size: 10 }, maxRotation: 45, minRotation: 45 }, 
-                                grid: { display: false } 
-                            },
-                            y: { 
-                                ticks: { color: '#94a3b8' }, 
-                                grid: { color: 'rgba(51, 65, 85, 0.2)' } 
-                            }
-                        }
-                    }
-                });
+        // ========================================================
+        // POPUP DROP
+        // ========================================================
+
+        function showDrop(drop, gameName = '') {
+
+            if (!drop) return;
+
+
+            const modal =
+                document.getElementById(
+                    'drop-modal'
+                );
+
+
+            document.getElementById(
+                'drop-title'
+            ).innerText =
+                drop.campaign ||
+                `${gameName} - Twitch Drops`;
+
+
+            // ----------------------------------------------------
+            // STATUT
+            // ----------------------------------------------------
+
+            const status =
+                drop.status === 'live'
+
+                    ? `
+                        <span
+                            class="inline-flex items-center
+                                   px-3 py-1 rounded-full
+                                   bg-emerald-500/10
+                                   border border-emerald-500/30
+                                   text-emerald-400
+                                   text-xs font-bold">
+                            🟢 DROP ACTIF
+                        </span>
+                      `
+
+                    : `
+                        <span
+                            class="inline-flex items-center
+                                   px-3 py-1 rounded-full
+                                   bg-amber-500/10
+                                   border border-amber-500/30
+                                   text-amber-400
+                                   text-xs font-bold">
+                            🟡 DROP À VENIR
+                        </span>
+                      `;
+
+
+            document.getElementById(
+                'drop-status'
+            ).innerHTML = status;
+
+
+
+            // ----------------------------------------------------
+            // RECOMPENSES
+            // ----------------------------------------------------
+
+            const rewards =
+                Array.isArray(
+                    drop.rewards
+                )
+                    ? drop.rewards
+                    : [];
+
+
+            document.getElementById(
+                'drop-rewards'
+            ).innerHTML =
+
+                rewards.length > 0
+
+                    ? rewards.map(
+                        reward =>
+                            `<div
+                                class="flex items-center gap-2
+                                       bg-slate-950
+                                       border border-slate-800
+                                       rounded-lg
+                                       px-3 py-2">
+                                <span>🎁</span>
+                                <span>${escapeHtml(reward)}</span>
+                             </div>`
+                      ).join('')
+
+                    : `
+                        <div class="text-slate-500">
+                            Informations non disponibles
+                        </div>
+                      `;
+
+
+
+            // ----------------------------------------------------
+            // CONDITION
+            // ----------------------------------------------------
+
+            document.getElementById(
+                'drop-requirement'
+            ).innerText =
+                drop.requirement ||
+                'Voir les conditions sur Twitch';
+
+
+
+            // ----------------------------------------------------
+            // DATES
+            // ----------------------------------------------------
+
+            const start =
+                formatDate(drop.start);
+
+            const end =
+                formatDate(drop.end);
+
+
+            document.getElementById(
+                'drop-dates'
+            ).innerText =
+                `${start} → ${end}`;
+
+
+
+            // ----------------------------------------------------
+            // CONNEXION
+            // ----------------------------------------------------
+
+            document.getElementById(
+                'drop-connection'
+            ).innerText =
+                drop.connection ||
+                'Compte Twitch requis';
+
+
+
+            // ----------------------------------------------------
+            // LIEN
+            // ----------------------------------------------------
+
+            document.getElementById(
+                'drop-link'
+            ).href =
+                drop.url ||
+                'https://www.twitch.tv/drops/campaigns';
+
+
+
+            modal.classList.remove(
+                'hidden'
+            );
+
+            modal.classList.add(
+                'flex'
+            );
+
+        }
+
+
+
+        // ========================================================
+        // FERMER POPUP
+        // ========================================================
+
+        function closeDrop() {
+
+            const modal =
+                document.getElementById(
+                    'drop-modal'
+                );
+
+            modal.classList.add(
+                'hidden'
+            );
+
+            modal.classList.remove(
+                'flex'
+            );
+
+        }
+
+
+
+        // Fermer en cliquant dehors
+
+        document.getElementById(
+            'drop-modal'
+        ).addEventListener(
+            'click',
+            function(event) {
+
+                if (
+                    event.target === this
+                ) {
+
+                    closeDrop();
+
+                }
+
             }
+        );
+
+
+
+        // ========================================================
+        // DATE
+        // ========================================================
+
+        function formatDate(date) {
+
+            if (!date) {
+
+                return 'Date inconnue';
+
+            }
+
+
+            try {
+
+                return new Date(
+                    date
+                ).toLocaleString(
+                    'fr-FR',
+                    {
+                        dateStyle: 'medium',
+                        timeStyle: 'short'
+                    }
+                );
+
+            } catch {
+
+                return date;
+
+            }
+
         }
+
+
+
+        // ========================================================
+        // SECURITE HTML
+        // ========================================================
+
+        function escapeHtml(value) {
+
+            return String(value)
+                .replace(
+                    /&/g,
+                    '&amp;'
+                )
+                .replace(
+                    /</g,
+                    '&lt;'
+                )
+                .replace(
+                    />/g,
+                    '&gt;'
+                )
+                .replace(
+                    /"/g,
+                    '&quot;'
+                )
+                .replace(
+                    /'/g,
+                    '&#039;'
+                );
+
+        }
+
+
+
+        // ========================================================
+        // BADGES
+        // ========================================================
+
+        function renderBadges(game) {
+
+            let html = '';
+
+
+            if (
+                game.badges &&
+                Array.isArray(game.badges)
+            ) {
+
+                game.badges.forEach(
+                    badge => {
+
+                        if (
+                            typeof badge ===
+                            'string'
+                        ) {
+
+                            html += `
+                                <img
+                                    src="${badge}"
+                                    class="w-5 h-5 object-contain"
+                                    title="Badge"
+                                    onerror="
+                                        this.style.display='none'
+                                    "
+                                >
+                            `;
+
+                            return;
+
+                        }
+
+
+                        html += `
+                            <span
+                                title="${escapeHtml(
+                                    badge.name || ''
+                                )}"
+                                class="inline-flex
+                                       items-center
+                                       justify-center
+                                       w-5 h-5
+                                       text-xs
+                                       bg-indigo-500/20
+                                       text-indigo-400
+                                       rounded
+                                       hover:bg-indigo-500/30
+                                       transition">
+
+                                ${badge.icon || '⭐'}
+
+                            </span>
+                        `;
+
+                    }
+                );
+
+            }
+
+
+            // ====================================================
+            // BOUTON DROP
+            // ====================================================
+
+            if (
+                game.drops_enabled &&
+                game.drop
+            ) {
+
+                const status =
+                    game.drop.status === 'live'
+                        ? 'Drop actif'
+                        : 'Drop à venir';
+
+
+                html += `
+                    <button
+                        onclick='showDrop(
+                            ${JSON.stringify(game.drop)},
+                            ${JSON.stringify(game.name)}
+                        )'
+                        title="${status}"
+                        class="inline-flex
+                               items-center
+                               justify-center
+                               w-6 h-6
+                               ml-1
+                               text-sm
+                               bg-purple-500/20
+                               border border-purple-500/20
+                               text-purple-300
+                               rounded-lg
+                               hover:bg-purple-500/40
+                               hover:scale-110
+                               transition">
+
+                        🎁
+
+                    </button>
+                `;
+
+            }
+
+
+            return html;
+
+        }
+
+
+
+        // ========================================================
+        // EMOTES
+        // ========================================================
+
+        function renderEmotes(game) {
+
+            if (
+                !game.emotes ||
+                !Array.isArray(game.emotes) ||
+                game.emotes.length === 0
+            ) {
+
+                return '';
+
+            }
+
+
+            return `
+                <div
+                    class="flex items-center gap-1 mt-1">
+
+                    <span
+                        class="text-[10px] text-slate-500">
+
+                        Émotes :
+
+                    </span>
+
+                    ${game.emotes.map(
+                        e =>
+                            `<img
+                                src="${e}"
+                                class="w-4 h-4
+                                       object-contain"
+                                title="Émote Twitch"
+                                onerror="
+                                    this.style.display='none'
+                                "
+                            >`
+                    ).join('')}
+
+                </div>
+            `;
+
+        }
+
+
+
+        // ========================================================
+        // TABLEAU
+        // ========================================================
 
         function renderTable(dataToDisplay) {
-            const tbody = document.getElementById('games-table-body');
+
+            const tbody =
+                document.getElementById(
+                    'games-table-body'
+                );
+
+
             tbody.innerHTML = '';
-            
-            document.getElementById('game-count').innerText = `${dataToDisplay.length} jeu${dataToDisplay.length > 1 ? 's' : ''}`;
 
-            if (dataToDisplay.length === 0) {
-                tbody.innerHTML = `<tr><td colspan="6" class="py-12 text-center text-slate-500">Aucun jeu trouvé. Vérifiez vos filtres ou le fichier games.json.</td></tr>`;
-                return;
-            }
 
-            dataToDisplay.forEach((game, index) => {
-                const isFav = favorites.includes(game.name);
-                const starColor = isFav ? 'text-amber-400 fill-amber-400' : 'text-slate-600 hover:text-slate-400';
-                const trendColor = game.trend.startsWith('+') ? 'text-emerald-400' : 'text-rose-400';
-                
-                const platformBadge = game.platform === 'Twitch' 
-                    ? '<span class="bg-purple-500/10 text-purple-400 border border-purple-500/20 px-2.5 py-1 rounded-full text-xs font-semibold">Twitch</span>'
-                    : '<span class="bg-blue-500/10 text-blue-400 border border-blue-500/20 px-2.5 py-1 rounded-full text-xs font-semibold">Steam</span>';
+            document.getElementById(
+                'game-count'
+            ).innerText =
 
-                // Gestion dynamique des badges avec support des liens cliquables (url)
-                const badgesHtml = (game.badges && Array.isArray(game.badges)) 
-                    ? game.badges.map(b => {
-                        if (typeof b === 'string') {
-                            return `<img src="${b}" class="w-5 h-5 object-contain inline-block ml-1" title="Badge" onerror="this.style.display='none'">`;
-                        } else {
-                            const badgeSpan = `<span title="${b.name || ''}" class="inline-flex items-center justify-center w-5 h-5 ml-1 text-xs bg-indigo-500/20 text-indigo-400 rounded hover:bg-indigo-500/30 transition">${b.icon || '⭐'}</span>`;
-                            if (b.url) {
-                                return `<a href="${b.url}" target="_blank" class="inline-block hover:scale-110 transition-transform">${badgeSpan}</a>`;
-                            }
-                            return badgeSpan;
-                        }
-                    }).join('') 
-                    : '';
+                `${dataToDisplay.length} jeu` +
 
-                const emotesHtml = (game.emotes && Array.isArray(game.emotes) && game.emotes.length > 0)
-                    ? `<div class="flex items-center gap-1 mt-1"><span class="text-[10px] text-slate-500">Émotes :</span>` + 
-                      game.emotes.map(e => `<img src="${e}" class="w-4 h-4 object-contain inline-block" title="Émote Twitch" onerror="this.style.display='none'">`).join('') + 
-                      `</div>`
-                    : '';
+                (
+                    dataToDisplay.length > 1
+                        ? 'x'
+                        : ''
+                );
 
-                const row = `
-                    <tr class="hover:bg-slate-800/50 transition-colors duration-150">
-                        <td class="py-3 px-3 text-center align-middle">
-                            <button onclick="toggleFavorite('${game.name.replace(/'/g, "\\'")}', event)" class="p-1 transition focus:outline-none">
-                                <svg class="w-5 h-5 ${starColor} transition transform hover:scale-110" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                                    <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
-                                </svg>
-                            </button>
+
+
+            if (
+                dataToDisplay.length === 0
+            ) {
+
+                tbody.innerHTML = `
+                    <tr>
+
+                        <td
+                            colspan="6"
+                            class="py-12
+                                   text-center
+                                   text-slate-500">
+
+                            Aucun jeu trouvé.
+                            Vérifiez vos filtres
+                            ou games.json.
+
                         </td>
-                        <td class="py-3 px-4 font-medium text-slate-400 align-middle">${game.id || index + 1}</td>
-                        <td class="py-3 px-4 flex items-center gap-3 align-middle">
-                            <img src="${game.image}" alt="${game.name}" 
-                                 onerror="this.src='https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300&h=400&fit=crop'"
-                                 class="w-12 h-16 md:w-16 md:h-20 object-cover rounded shadow border border-slate-700">
-                            <div>
-                                <div class="flex items-center flex-wrap gap-1">
-                                    <span class="font-semibold text-white text-sm md:text-base">${game.name}</span>
-                                    ${badgesHtml}
-                                </div>
-                                <span class="text-xs text-slate-400">${game.metric_label}</span>
-                                ${emotesHtml}
-                            </div>
-                        </td>
-                        <td class="py-3 px-4 align-middle">${platformBadge}</td>
-                        <td class="py-3 px-4 font-mono font-bold align-middle">${game.metric.toLocaleString()}</td>
-                        <td class="py-3 px-4 font-bold ${trendColor} align-middle">${game.trend}</td>
+
                     </tr>
                 `;
-                tbody.innerHTML += row;
-            });
+
+                return;
+
+            }
+
+
+
+            dataToDisplay.forEach(
+                (game, index) => {
+
+
+                    const isFav =
+                        favorites.includes(
+                            game.name
+                        );
+
+
+                    const starColor =
+                        isFav
+
+                            ? 'text-amber-400 fill-amber-400'
+
+                            : 'text-slate-600 hover:text-slate-400';
+
+
+
+                    const trend =
+                        String(
+                            game.trend || '+0%'
+                        );
+
+
+                    const trendColor =
+                        trend.startsWith('+')
+
+                            ? 'text-emerald-400'
+
+                            : 'text-rose-400';
+
+
+
+                    // =================================================
+                    // PLATEFORME
+                    // =================================================
+
+                    const platformBadge =
+                        game.platform === 'Twitch'
+
+                            ? `
+                                <span
+                                    class="bg-purple-500/10
+                                           text-purple-400
+                                           border border-purple-500/20
+                                           px-2.5 py-1
+                                           rounded-full
+                                           text-xs
+                                           font-semibold">
+
+                                    🟣 Twitch
+
+                                </span>
+                              `
+
+                            : `
+                                <span
+                                    class="bg-blue-500/10
+                                           text-blue-400
+                                           border border-blue-500/20
+                                           px-2.5 py-1
+                                           rounded-full
+                                           text-xs
+                                           font-semibold">
+
+                                    🔵 Steam
+
+                                </span>
+                              `;
+
+
+
+                    const badgesHtml =
+                        renderBadges(game);
+
+
+                    const emotesHtml =
+                        renderEmotes(game);
+
+
+
+                    // =================================================
+                    // IMAGE
+                    // =================================================
+
+                    const image =
+                        game.image ||
+                        'https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300&h=400&fit=crop';
+
+
+
+                    // =================================================
+                    // METRIQUE
+                    // =================================================
+
+                    const metric =
+                        Number(
+                            game.metric || 0
+                        ).toLocaleString(
+                            'fr-FR'
+                        );
+
+
+
+                    // =================================================
+                    // NOM
+                    // =================================================
+
+                    const safeName =
+                        escapeHtml(
+                            game.name
+                        );
+
+
+
+                    // =================================================
+                    // LIGNE
+                    // =================================================
+
+                    const row = `
+
+                        <tr
+                            class="hover:bg-slate-800/50
+                                   transition-colors
+                                   duration-150">
+
+
+                            <!-- FAVORI -->
+
+                            <td
+                                class="py-3 px-3
+                                       text-center
+                                       align-middle">
+
+                                <button
+                                    onclick='toggleFavorite(
+                                        ${JSON.stringify(game.name)},
+                                        event
+                                    )'
+                                    class="p-1
+                                           transition
+                                           focus:outline-none">
+
+                                    <svg
+                                        class="w-5 h-5
+                                               ${starColor}
+                                               transition
+                                               transform
+                                               hover:scale-110"
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        viewBox="0 0 24 24"
+                                        stroke="currentColor"
+                                        stroke-width="2">
+
+                                        <polygon
+                                            points="
+                                            12 2
+                                            15.09 8.26
+                                            22 9.27
+                                            17 14.14
+                                            18.18 21.02
+                                            12 17.77
+                                            5.82 21.02
+                                            7 14.14
+                                            2 9.27
+                                            8.91 8.26
+                                            12 2
+                                            " />
+
+                                    </svg>
+
+                                </button>
+
+                            </td>
+
+
+
+                            <!-- ID -->
+
+                            <td
+                                class="py-3 px-4
+                                       font-medium
+                                       text-slate-400
+                                       align-middle">
+
+                                ${game.id || index + 1}
+
+                            </td>
+
+
+
+                            <!-- JEU -->
+
+                            <td
+                                class="py-3 px-4
+                                       align-middle">
+
+                                <div
+                                    class="flex items-center
+                                           gap-3">
+
+
+                                    <img
+                                        src="${image}"
+                                        alt="${safeName}"
+
+                                        onerror="
+                                            this.src=
+                                            'https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300&h=400&fit=crop'
+                                        "
+
+                                        class="w-12 h-16
+                                               md:w-16 md:h-20
+                                               object-cover
+                                               rounded
+                                               shadow
+                                               border
+                                               border-slate-700"
+                                    >
+
+
+                                    <div>
+
+                                        <div
+                                            class="flex
+                                                   items-center
+                                                   flex-wrap
+                                                   gap-1">
+
+                                            <span
+                                                class="font-semibold
+                                                       text-white
+                                                       text-sm
+                                                       md:text-base">
+
+                                                ${safeName}
+
+                                            </span>
+
+                                            ${badgesHtml}
+
+                                        </div>
+
+
+                                        <span
+                                            class="text-xs
+                                                   text-slate-400">
+
+                                            ${escapeHtml(
+                                                game.metric_label ||
+                                                'Volume'
+                                            )}
+
+                                        </span>
+
+
+                                        ${emotesHtml}
+
+                                    </div>
+
+                                </div>
+
+                            </td>
+
+
+
+                            <!-- PLATEFORME -->
+
+                            <td
+                                class="py-3 px-4
+                                       align-middle">
+
+                                ${platformBadge}
+
+                            </td>
+
+
+
+                            <!-- VOLUME -->
+
+                            <td
+                                class="py-3 px-4
+                                       font-mono
+                                       font-bold
+                                       align-middle">
+
+                                ${metric}
+
+                            </td>
+
+
+
+                            <!-- TENDANCE -->
+
+                            <td
+                                class="py-3 px-4
+                                       font-bold
+                                       ${trendColor}
+                                       align-middle">
+
+                                ${trend}
+
+                            </td>
+
+
+                        </tr>
+
+                    `;
+
+
+                    tbody.innerHTML += row;
+
+                }
+            );
+
         }
+
+
+
+        // ========================================================
+        // GRAPHIQUE
+        // ========================================================
+
+        function updateChartData(
+            dataToDisplay
+        ) {
+
+            const top10 =
+                dataToDisplay.slice(
+                    0,
+                    10
+                );
+
+
+            const labels =
+                top10.map(
+                    item => item.name
+                );
+
+
+            const values =
+                top10.map(
+                    item =>
+                        Number(
+                            item.metric || 0
+                        )
+                );
+
+
+            const canvas =
+                document.getElementById(
+                    'trendsChart'
+                );
+
+
+            if (!canvas) return;
+
+
+            const ctx =
+                canvas.getContext('2d');
+
+
+            if (trendsChart) {
+
+                trendsChart.data.labels =
+                    labels;
+
+                trendsChart.data.datasets[0].data =
+                    values;
+
+                trendsChart.update();
+
+                return;
+
+            }
+
+
+
+            trendsChart =
+                new Chart(
+                    ctx,
+                    {
+
+                        type: 'bar',
+
+                        data: {
+
+                            labels: labels,
+
+                            datasets: [
+
+                                {
+
+                                    label: 'Volume',
+
+                                    data: values,
+
+                                    backgroundColor:
+                                        'rgba(129, 140, 248, 0.4)',
+
+                                    borderColor:
+                                        '#818cf8',
+
+                                    borderWidth: 2,
+
+                                    borderRadius: 6
+
+                                }
+
+                            ]
+
+                        },
+
+
+                        options: {
+
+                            responsive: true,
+
+                            maintainAspectRatio: false,
+
+
+                            plugins: {
+
+                                legend: {
+                                    display: false
+                                }
+
+                            },
+
+
+                            scales: {
+
+                                x: {
+
+                                    ticks: {
+
+                                        color:
+                                            '#94a3b8',
+
+                                        font: {
+                                            size: 10
+                                        },
+
+                                        maxRotation: 45,
+
+                                        minRotation: 45
+
+                                    },
+
+                                    grid: {
+                                        display: false
+                                    }
+
+                                },
+
+
+                                y: {
+
+                                    ticks: {
+
+                                        color:
+                                            '#94a3b8'
+
+                                    },
+
+                                    grid: {
+
+                                        color:
+                                            'rgba(51, 65, 85, 0.2)'
+
+                                    }
+
+                                }
+
+                            }
+
+                        }
+
+                    }
+                );
+
+        }
+
+
+
+        // ========================================================
+        // DROPS
+        // ========================================================
+
+        function renderDrops() {
+
+            const activeDrops =
+                document.getElementById(
+                    'active-drops'
+                );
+
+            const upcomingDrops =
+                document.getElementById(
+                    'upcoming-drops'
+                );
+
+
+            activeDrops.innerHTML = '';
+
+            upcomingDrops.innerHTML = '';
+
+
+            const active = [];
+
+            const upcoming = [];
+
+
+
+            allGamesData.forEach(
+                game => {
+
+                    if (
+                        !game.drops_enabled ||
+                        !game.drop
+                    ) {
+
+                        return;
+
+                    }
+
+
+                    const drop =
+                        game.drop;
+
+
+                    const item = {
+                        game: game,
+                        drop: drop
+                    };
+
+
+                    if (
+                        drop.status === 'live'
+                    ) {
+
+                        active.push(item);
+
+                    }
+
+
+                    else if (
+                        drop.status === 'upcoming'
+                    ) {
+
+                        upcoming.push(item);
+
+                    }
+
+                }
+            );
+
+
+
+            // =====================================================
+            // SECTION PRINCIPALE
+            // =====================================================
+
+            const section =
+                document.getElementById(
+                    'drops-section'
+                );
+
+
+            if (
+                active.length === 0 &&
+                upcoming.length === 0
+            ) {
+
+                section.classList.add(
+                    'hidden'
+                );
+
+                return;
+
+            }
+
+
+            section.classList.remove(
+                'hidden'
+            );
+
+
+
+            // =====================================================
+            // CARTE DROP
+            // =====================================================
+
+            function createDropCard(
+                item,
+                status
+            ) {
+
+                const game =
+                    item.game;
+
+                const drop =
+                    item.drop;
+
+
+                const isLive =
+                    status === 'live';
+
+
+                return `
+
+                    <button
+                        onclick='showDrop(
+                            ${JSON.stringify(drop)},
+                            ${JSON.stringify(game.name)}
+                        )'
+                        class="text-left
+                               w-full
+                               bg-slate-950
+                               border border-slate-800
+                               hover:border-purple-500/50
+                               rounded-xl
+                               p-4
+                               transition
+                               hover:-translate-y-0.5
+                               hover:bg-slate-900">
+
+
+                        <div
+                            class="flex
+                                   items-center
+                                   justify-between
+                                   gap-3">
+
+
+                            <div>
+
+                                <div
+                                    class="font-bold
+                                           text-white">
+
+                                    ${escapeHtml(
+                                        game.name
+                                    )}
+
+                                </div>
+
+
+                                <div
+                                    class="text-xs
+                                           text-slate-500
+                                           mt-1">
+
+                                    ${escapeHtml(
+                                        drop.campaign ||
+                                        'Twitch Drops'
+                                    )}
+
+                                </div>
+
+                            </div>
+
+
+                            <span
+                                class="
+                                    px-2 py-1
+                                    rounded-full
+                                    text-[10px]
+                                    font-bold
+
+                                    ${
+                                        isLive
+
+                                        ? `
+                                            bg-emerald-500/10
+                                            text-emerald-400
+                                            border
+                                            border-emerald-500/20
+                                          `
+
+                                        : `
+                                            bg-amber-500/10
+                                            text-amber-400
+                                            border
+                                            border-amber-500/20
+                                          `
+                                    }
+                                ">
+
+                                ${
+                                    isLive
+                                        ? '🟢 ACTIF'
+                                        : '🟡 À VENIR'
+                                }
+
+                            </span>
+
+                        </div>
+
+
+                        <div
+                            class="mt-3
+                                   text-xs
+                                   text-slate-400">
+
+                            🎁 ${
+                                Array.isArray(
+                                    drop.rewards
+                                )
+                                ? drop.rewards.length
+                                : 0
+                            } récompense(s)
+
+                        </div>
+
+
+                        <div
+                            class="mt-1
+                                   text-xs
+                                   text-slate-500">
+
+                            📅 ${
+                                formatDate(
+                                    isLive
+                                        ? drop.end
+                                        : drop.start
+                                )
+                            }
+
+                        </div>
+
+                    </button>
+
+                `;
+
+            }
+
+
+
+            // =====================================================
+            // ACTIFS
+            // =====================================================
+
+            active.forEach(
+                item => {
+
+                    activeDrops.innerHTML +=
+                        createDropCard(
+                            item,
+                            'live'
+                        );
+
+                }
+            );
+
+
+
+            // =====================================================
+            // A VENIR
+            // =====================================================
+
+            upcoming.forEach(
+                item => {
+
+                    upcomingDrops.innerHTML +=
+                        createDropCard(
+                            item,
+                            'upcoming'
+                        );
+
+                }
+            );
+
+
+
+            document.getElementById(
+                'active-drops-container'
+            ).classList.toggle(
+                'hidden',
+                active.length === 0
+            );
+
+
+            document.getElementById(
+                'upcoming-drops-container'
+            ).classList.toggle(
+                'hidden',
+                upcoming.length === 0
+            );
+
+        }
+
+
+
+        // ========================================================
+        // CHARGEMENT JSON
+        // ========================================================
 
         function loadGamingData() {
-            fetch('games.json?' + new Date().getTime())
-                .then(response => {
-                    const lastModified = response.headers.get('Last-Modified');
-                    if (lastModified) {
-                        const date = new Date(lastModified);
-                        document.getElementById('last-update').innerText = `Dernière synchronisation : ${date.toLocaleTimeString('fr-FR', {hour: '2-digit', minute:'2-digit'})} (${date.toLocaleDateString('fr-FR')})`;
-                    } else {
-                        document.getElementById('last-update').innerText = `Synchronisation automatique active`;
+
+            fetch(
+                'games.json?' +
+                new Date().getTime()
+            )
+
+                .then(
+                    response => {
+
+                        if (!response.ok) {
+
+                            throw new Error(
+                                'Impossible de charger games.json'
+                            );
+
+                        }
+
+
+                        const lastModified =
+                            response.headers.get(
+                                'Last-Modified'
+                            );
+
+
+                        if (lastModified) {
+
+                            const date =
+                                new Date(
+                                    lastModified
+                                );
+
+
+                            document.getElementById(
+                                'last-update'
+                            ).innerText =
+
+                                `Dernière synchronisation : ` +
+
+                                `${date.toLocaleTimeString(
+                                    'fr-FR',
+                                    {
+                                        hour: '2-digit',
+                                        minute: '2-digit'
+                                    }
+                                )} ` +
+
+                                `(${date.toLocaleDateString(
+                                    'fr-FR'
+                                )})`;
+
+                        }
+
+                        else {
+
+                            document.getElementById(
+                                'last-update'
+                            ).innerText =
+
+                                'Synchronisation automatique active';
+
+                        }
+
+
+                        return response.json();
+
                     }
-                    return response.json();
-                })
-                .then(data => {
-                    allGamesData = data;
-                    applyFiltersAndRender();
-                })
-                .catch(error => {
-                    console.error('Erreur :', error);
-                    document.getElementById('last-update').innerText = `Erreur lors du chargement des données`;
-                });
+                )
+
+
+                .then(
+                    data => {
+
+                        if (!Array.isArray(data)) {
+
+                            throw new Error(
+                                'games.json doit contenir un tableau'
+                            );
+
+                        }
+
+
+                        allGamesData =
+                            data;
+
+
+                        renderDrops();
+
+                        applyFiltersAndRender();
+
+                    }
+                )
+
+
+                .catch(
+                    error => {
+
+                        console.error(
+                            'Erreur :',
+                            error
+                        );
+
+
+                        document.getElementById(
+                            'last-update'
+                        ).innerText =
+
+                            '❌ Erreur lors du chargement des données';
+
+                    }
+                );
+
         }
 
-        // Chargement initial des données
+
+
+        // ========================================================
+        // RECHERCHE
+        // ========================================================
+
+        document.getElementById(
+            'search-input'
+        ).addEventListener(
+            'input',
+            event => {
+
+                currentSearchQuery =
+                    event.target.value
+                        .toLowerCase()
+                        .trim();
+
+
+                applyFiltersAndRender();
+
+            }
+        );
+
+
+
+        // ========================================================
+        // ESC POUR FERMER
+        // ========================================================
+
+        document.addEventListener(
+            'keydown',
+            event => {
+
+                if (
+                    event.key === 'Escape'
+                ) {
+
+                    closeDrop();
+
+                }
+
+            }
+        );
+
+
+
+        // ========================================================
+        // DEMARRAGE
+        // ========================================================
+
         loadGamingData();
 
-        // Actualisation automatique toutes les 30 minutes sans recharger la page
-        setInterval(loadGamingData, 30 * 60 * 1000);
 
-        document.getElementById('search-input').addEventListener('input', (e) => {
-            currentSearchQuery = e.target.value.toLowerCase().trim();
-            applyFiltersAndRender();
-        });
+
+        // Actualisation toutes les 30 minutes
+
+        setInterval(
+            loadGamingData,
+            30 * 60 * 1000
+        );
+
+
     </script>
+
 </body>
+
 </html>
