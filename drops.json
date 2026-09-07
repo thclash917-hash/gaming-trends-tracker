@@ -45,21 +45,6 @@
     "twitch_campaign_id": "c296c380-61d2-41e6-a461-fe2cfbec0233"
   },
   {
-    "game": "Apex Legends",
-    "status": "live",
-    "campaign": "ALGS Split 2 PL MD 9",
-    "start": "2026-09-06T04:00:00Z",
-    "end": "2026-09-07T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "ALGS Split 2 Pro League Match Day 10",
-    "image": "/media/campaigns/images/cadd3fbf-f0a5-4929-b240-1c212f25866b.png",
-    "url": "https://algs.ea.com/en/news/earning-drops",
-    "account_link": "https://ea.com/twitchlinking",
-    "twitch_campaign_id": "cadd3fbf-f0a5-4929-b240-1c212f25866b"
-  },
-  {
     "game": "ARC Raiders",
     "status": "live",
     "campaign": "Live Update 1.42.0",
@@ -315,21 +300,6 @@
     "twitch_campaign_id": "a3f7a56a-f943-46d2-a780-3700684883f1"
   },
   {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "ERCS S12 P1 Finals",
-    "start": "2026-09-06T19:00:00Z",
-    "end": "2026-09-07T02:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/9c02aec8-1288-496e-a5ef-4dc2005b6c1e.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "9c02aec8-1288-496e-a5ef-4dc2005b6c1e"
-  },
-  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "Union Day 2026 Drop 3",
@@ -418,21 +388,6 @@
     "url": "https://gz.ludenus.com/drops",
     "account_link": "https://gz-drops.masanggames.com/link",
     "twitch_campaign_id": "b3bf7ef1-3d9a-4438-8ef9-9fd6f8e92e26"
-  },
-  {
-    "game": "Halo Infinite",
-    "status": "live",
-    "campaign": "LVT Halo Pro League-SEP6",
-    "start": "2026-09-06T16:00:00Z",
-    "end": "2026-09-07T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
-    "image": "/media/campaigns/images/2433257b-00c1-45c0-af20-39e42b77b3e3.png",
-    "url": "https://www.halowaypoint.com",
-    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
-    "twitch_campaign_id": "2433257b-00c1-45c0-af20-39e42b77b3e3"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -720,6 +675,51 @@
     "twitch_campaign_id": "b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17"
   },
   {
+    "game": "Mobile Dungeon",
+    "status": "live",
+    "campaign": "MD Drops Set 1",
+    "start": "2026-09-07T00:00:00Z",
+    "end": "2026-09-13T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/75b83719-7a21-4c95-b16e-651a0b60026c.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
+    "account_link": "https://mobiledungeon.com/",
+    "twitch_campaign_id": "75b83719-7a21-4c95-b16e-651a0b60026c"
+  },
+  {
+    "game": "Modern Warships",
+    "status": "live",
+    "campaign": "Weekly Supply Drops #32",
+    "start": "2026-09-07T00:00:00Z",
+    "end": "2026-09-13T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "MW Weekly Supply Drops — watch Modern Warships streams and earn weekly useful bonuses with no long watch-time marathons.",
+    "image": "/media/campaigns/images/1d4cd712-c1e5-4059-9b88-a08b642ee87c.png",
+    "url": "https://artstorm.com/news/weekly-supply-drops-on-twitch",
+    "account_link": "https://artstorm.com/cabinet/connect-twitch",
+    "twitch_campaign_id": "1d4cd712-c1e5-4059-9b88-a08b642ee87c"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "JS1 Weekly 9.7",
+    "start": "2026-09-07T04:00:00Z",
+    "end": "2026-09-14T03:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/67a01754-5344-4815-9b30-db305e4e1de1.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "67a01754-5344-4815-9b30-db305e4e1de1"
+  },
+  {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
     "campaign": "JS1 PARTNERⅠ9.3",
@@ -733,21 +733,6 @@
     "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
     "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
     "twitch_campaign_id": "f3d76a78-6adb-4c42-a4d7-95462096ea67"
-  },
-  {
-    "game": "NARAKA: BLADEPOINT",
-    "status": "live",
-    "campaign": "JS1 Weekly 8.31",
-    "start": "2026-08-31T04:00:00Z",
-    "end": "2026-09-07T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/c523e70f-98d4-4432-b67e-2c500d3c770c.png",
-    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
-    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "c523e70f-98d4-4432-b67e-2c500d3c770c"
   },
   {
     "game": "NBA 2K27",
@@ -838,21 +823,6 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "1d5dbe4f-36c4-4dd1-a793-dd182fac3512"
-  },
-  {
-    "game": "Overwatch",
-    "status": "live",
-    "campaign": "CAH Championship Finals",
-    "start": "2026-09-05T17:30:00Z",
-    "end": "2026-09-07T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate Week 2 of the 2026 Calling All Heroes Season Championship with special viewer rewards. Watch for 1 hour to get the Pachimonarch Spray, 2 hours to get a Battle Pass Tier Skip, 3 hours to get the Purple Reign Name Card, 4 hours to get the Sugar Hop Spray, 5 hours to get the Boba Buddy Icon and 6 hours to get 1 Esports Loot Box.",
-    "image": "/media/campaigns/images/3e838897-2c97-4c32-ae05-851797c48842.png",
-    "url": "https://esports.overwatch.com/en-us/rewards",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "3e838897-2c97-4c32-ae05-851797c48842"
   },
   {
     "game": "Palia",
@@ -1007,17 +977,17 @@
   {
     "game": "Rainbow Six Siege",
     "status": "live",
-    "campaign": "R6S S2 2026 1",
-    "start": "2026-09-05T05:00:00Z",
-    "end": "2026-09-07T04:58:59.999Z",
+    "campaign": "R6S S2 2026 2",
+    "start": "2026-09-07T05:00:00Z",
+    "end": "2026-09-09T04:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Rainbow Six Siege - Stage 2",
-    "image": "/media/campaigns/images/897385d3-6900-427f-8b70-d90ab68e928e.png",
+    "image": "/media/campaigns/images/69545e1a-30da-40bf-afc3-465aa035048c.png",
     "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
     "account_link": "https://drops-register.ubi.com/#/en-US",
-    "twitch_campaign_id": "897385d3-6900-427f-8b70-d90ab68e928e"
+    "twitch_campaign_id": "69545e1a-30da-40bf-afc3-465aa035048c"
   },
   {
     "game": "Rainbow Six Siege",
@@ -1127,21 +1097,6 @@
   {
     "game": "Sid Meier's Civilization VII",
     "status": "live",
-    "campaign": "Civ VII Pax Livestream",
-    "start": "2026-09-05T16:30:00Z",
-    "end": "2026-10-03T16:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch for 30 minutes and claim the reward: Cavalry Charge Banner profile cosmetic!",
-    "image": "/media/campaigns/images/bf82818f-dba3-48fc-88c3-7472f577547e.png",
-    "url": "https://civilization.2k.com/twitch-drops/",
-    "account_link": "https://civilization.2k.com/twitch-drops/",
-    "twitch_campaign_id": "bf82818f-dba3-48fc-88c3-7472f577547e"
-  },
-  {
-    "game": "Sid Meier's Civilization VII",
-    "status": "live",
     "campaign": "Civ VII PAX 26 Livestream",
     "start": "2026-09-05T16:30:00Z",
     "end": "2026-10-03T16:29:59.999Z",
@@ -1153,6 +1108,21 @@
     "url": "https://civilization.2k.com/twitch-drops/",
     "account_link": "https://civilization.2k.com/twitch-drops/",
     "twitch_campaign_id": "a82abb82-628f-4df5-a2bb-5df8cc373983"
+  },
+  {
+    "game": "Sid Meier's Civilization VII",
+    "status": "live",
+    "campaign": "Civ VII Pax Livestream",
+    "start": "2026-09-05T16:30:00Z",
+    "end": "2026-10-03T16:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch for 30 minutes and claim the reward: Cavalry Charge Banner profile cosmetic!",
+    "image": "/media/campaigns/images/bf82818f-dba3-48fc-88c3-7472f577547e.png",
+    "url": "https://civilization.2k.com/twitch-drops/",
+    "account_link": "https://civilization.2k.com/twitch-drops/",
+    "twitch_campaign_id": "bf82818f-dba3-48fc-88c3-7472f577547e"
   },
   {
     "game": "Skull and Bones",
@@ -1543,20 +1513,5 @@
     "url": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
     "account_link": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
     "twitch_campaign_id": "a490aaea-7490-4f94-9066-7834653c0899"
-  },
-  {
-    "game": "ZEVENT",
-    "status": "live",
-    "campaign": "ZEVENT 2026",
-    "start": "2026-09-03T16:00:00Z",
-    "end": "2026-09-07T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch ZEVENT 2026 on /ZEVENT for 15 minutes to unlock the MegaphoneZ emote for a limited time.",
-    "image": "/media/campaigns/images/e292f2c5-996a-4dc1-ac1f-4c24251d393c.png",
-    "url": "https://help.twitch.tv/s/article/how-to-use-emotes",
-    "account_link": "https://help.twitch.tv/s/article/how-to-use-emotes",
-    "twitch_campaign_id": "e292f2c5-996a-4dc1-ac1f-4c24251d393c"
   }
 ]
