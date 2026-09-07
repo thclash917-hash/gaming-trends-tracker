@@ -150,21 +150,6 @@
     "twitch_campaign_id": "42fa626c-57c5-45f0-88fe-25e29819cd62"
   },
   {
-    "game": "Caliber",
-    "status": "live",
-    "campaign": "Пятница 04.09.2026",
-    "start": "2026-09-04T15:00:00Z",
-    "end": "2026-09-06T20:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотри прямые трансляции и получай награды!",
-    "image": "/media/campaigns/images/3894588c-1643-4642-ba80-e9c3d4132489.png",
-    "url": "https://playcaliber.com/",
-    "account_link": "https://playcaliber.com/",
-    "twitch_campaign_id": "3894588c-1643-4642-ba80-e9c3d4132489"
-  },
-  {
     "game": "Cash is King!",
     "status": "live",
     "campaign": "Demo Release 0.3",
@@ -178,21 +163,6 @@
     "url": "https://docs.google.com/document/d/1FELkhrUW6rpww1ksFqGXZOY37lrpZ0p3SZ6e30AgBPI/edit?usp=sharing",
     "account_link": "https://3rg.eu/cash-is-king/",
     "twitch_campaign_id": "9bdebdf9-91c0-4ebb-a929-95861608d905"
-  },
-  {
-    "game": "ChatTDT: Tower Defense Twitch",
-    "status": "live",
-    "campaign": "[Re-Drop] Tree Tower Skin",
-    "start": "2026-08-30T18:14:13Z",
-    "end": "2026-09-06T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Another chance to get the Tree Standard Tower Skin!",
-    "image": "/media/campaigns/images/6c8043e5-3d85-46ba-87d1-c770c4108f3d.png",
-    "url": "https://ayrtonalexis.com/tdt_drops.html",
-    "account_link": "https://ayrtonalexis.com/tdt_twitch_link.html",
-    "twitch_campaign_id": "6c8043e5-3d85-46ba-87d1-c770c4108f3d"
   },
   {
     "game": "Coin Pusher Live",
@@ -253,21 +223,6 @@
     "url": "https://account.bhvr.com/twitch/dbd",
     "account_link": "https://account.bhvr.com/twitch/dbd",
     "twitch_campaign_id": "05a8f884-cb18-4206-93fb-509264b6d5e0"
-  },
-  {
-    "game": "Delta Force",
-    "status": "live",
-    "campaign": "Season Meltdown Weekends",
-    "start": "2026-09-04T10:00:00Z",
-    "end": "2026-09-06T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Ready for the ongoing Meltdown season challenges? Delta Force Meltdown Weekend Drops are here to reward you every weekend on our Partner Creator channels.",
-    "image": "/media/campaigns/images/83b45ee6-2817-4512-9d2b-d09afa900d00.jpeg",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "83b45ee6-2817-4512-9d2b-d09afa900d00"
   },
   {
     "game": "Delta Force",
@@ -632,21 +587,6 @@
   {
     "game": "LEGO Batman: Legacy of the Dark Knight",
     "status": "live",
-    "campaign": "Harley Mayhem",
-    "start": "2026-09-01T07:00:00Z",
-    "end": "2026-09-20T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!",
-    "image": "/media/campaigns/images/7d64c672-6183-425b-92e2-57546404f25c.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
-  },
-  {
-    "game": "LEGO Batman: Legacy of the Dark Knight",
-    "status": "live",
     "campaign": "Mayhem Collection - DC",
     "start": "2026-09-01T07:00:00Z",
     "end": "2026-09-20T06:59:59.999Z",
@@ -658,6 +598,21 @@
     "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
     "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
     "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
+  },
+  {
+    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "status": "live",
+    "campaign": "Harley Mayhem",
+    "start": "2026-09-01T07:00:00Z",
+    "end": "2026-09-20T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!",
+    "image": "/media/campaigns/images/7d64c672-6183-425b-92e2-57546404f25c.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
   },
   {
     "game": "Lords Mobile",
@@ -765,36 +720,6 @@
     "twitch_campaign_id": "b97f4e6d-d5f2-48d7-b6c8-3d271ab5bf17"
   },
   {
-    "game": "Mobile Dungeon",
-    "status": "live",
-    "campaign": "MD Drops Set 4",
-    "start": "2026-08-31T00:00:00Z",
-    "end": "2026-09-06T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/36a8fac7-6588-45fc-8544-19eef52dac2a.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
-    "account_link": "https://mobiledungeon.com/",
-    "twitch_campaign_id": "36a8fac7-6588-45fc-8544-19eef52dac2a"
-  },
-  {
-    "game": "Modern Warships",
-    "status": "live",
-    "campaign": "Weekly Supply Drops #31",
-    "start": "2026-08-31T00:00:00Z",
-    "end": "2026-09-06T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "MW Weekly Supply Drops — watch Modern Warships streams and earn weekly useful bonuses with no long watch-time marathons.",
-    "image": "/media/campaigns/images/c000c894-58ae-4b2b-bf19-265f8d529737.png",
-    "url": "https://artstorm.com/news/weekly-supply-drops-on-twitch",
-    "account_link": "https://artstorm.com/cabinet/connect-twitch",
-    "twitch_campaign_id": "c000c894-58ae-4b2b-bf19-265f8d529737"
-  },
-  {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
     "campaign": "JS1 PARTNERⅠ9.3",
@@ -838,21 +763,6 @@
     "url": "https://nba.2k.com/twitch-drops/",
     "account_link": "https://nba.2k.com/twitch-drops/",
     "twitch_campaign_id": "55e4bee5-9ac5-4af9-97fa-4906e6468120"
-  },
-  {
-    "game": "North Hunt",
-    "status": "live",
-    "campaign": "North Hunt 1.0 Release",
-    "start": "2026-08-17T05:00:00Z",
-    "end": "2026-09-06T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "North Hunt 1.0 Release, we’re bringing the loot to YOU! Join your favorite streamers as they blend in or hunt the thieves hiding in our Viking village.  Watch to earn exclusive rewards and sharpen your axes for the ultimate social deduction showdown. ",
-    "image": "/media/campaigns/images/e7a34dde-0b5c-44cd-ac88-2525e49648fb.png",
-    "url": "https://newgen-studio.com",
-    "account_link": "https://newgen-studio.com",
-    "twitch_campaign_id": "e7a34dde-0b5c-44cd-ac88-2525e49648fb"
   },
   {
     "game": "Once Human",
@@ -1200,21 +1110,6 @@
     "twitch_campaign_id": "2b091931-e1ce-4239-a7ae-37e96c9ec03b"
   },
   {
-    "game": "Rocket League",
-    "status": "live",
-    "campaign": "CRL League Play",
-    "start": "2026-09-06T16:30:00Z",
-    "end": "2026-09-06T21:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the CRL League to earn RLCS Twitch Drops.\n\nWatch for 30 minutes and claim the RLCS 2025 Very Rare Drop. Watch for 1 hour and claim RLCS 2025 Import Drop.  Watch for 2 hours and claim the RLCS 2025 Exotic Drop.",
-    "image": "/media/campaigns/images/465fda64-4761-40c5-b31e-38ec96525f55.png",
-    "url": "https://www.epicgames.com/id/login",
-    "account_link": "https://www.epicgames.com/id/login",
-    "twitch_campaign_id": "465fda64-4761-40c5-b31e-38ec96525f55"
-  },
-  {
     "game": "Shakes and Fidget",
     "status": "live",
     "campaign": "S&F Droplets",
@@ -1230,49 +1125,19 @@
     "twitch_campaign_id": "5745990b-ede0-4b6f-a3a1-789d1b913d5a"
   },
   {
-    "game": "Shakes and Fidget",
+    "game": "Sid Meier's Civilization VII",
     "status": "live",
-    "campaign": "S&F Drops 3/3",
-    "start": "2026-09-04T14:00:00Z",
-    "end": "2026-09-06T21:58:59.999Z",
+    "campaign": "Civ VII Pax Livestream",
+    "start": "2026-09-05T16:30:00Z",
+    "end": "2026-10-03T16:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/54cfe1dd-cc8d-4767-b9dc-85e3a46ebe3d.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "54cfe1dd-cc8d-4767-b9dc-85e3a46ebe3d"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Drops 2/3",
-    "start": "2026-09-02T14:00:00Z",
-    "end": "2026-09-06T21:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/b9375269-631d-4e6d-87c7-036c9ec7f89d.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "b9375269-631d-4e6d-87c7-036c9ec7f89d"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Drops 1/3",
-    "start": "2026-08-31T14:00:00Z",
-    "end": "2026-09-06T21:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/c5383e3e-0a84-4cd8-b073-6f09cb489c74.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "c5383e3e-0a84-4cd8-b073-6f09cb489c74"
+    "description": "Watch for 30 minutes and claim the reward: Cavalry Charge Banner profile cosmetic!",
+    "image": "/media/campaigns/images/bf82818f-dba3-48fc-88c3-7472f577547e.png",
+    "url": "https://civilization.2k.com/twitch-drops/",
+    "account_link": "https://civilization.2k.com/twitch-drops/",
+    "twitch_campaign_id": "bf82818f-dba3-48fc-88c3-7472f577547e"
   },
   {
     "game": "Sid Meier's Civilization VII",
@@ -1288,21 +1153,6 @@
     "url": "https://civilization.2k.com/twitch-drops/",
     "account_link": "https://civilization.2k.com/twitch-drops/",
     "twitch_campaign_id": "a82abb82-628f-4df5-a2bb-5df8cc373983"
-  },
-  {
-    "game": "Sid Meier's Civilization VII",
-    "status": "live",
-    "campaign": "Civ VII Pax Livestream",
-    "start": "2026-09-05T16:30:00Z",
-    "end": "2026-10-03T16:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch for 30 minutes and claim the reward: Cavalry Charge Banner profile cosmetic!",
-    "image": "/media/campaigns/images/bf82818f-dba3-48fc-88c3-7472f577547e.png",
-    "url": "https://civilization.2k.com/twitch-drops/",
-    "account_link": "https://civilization.2k.com/twitch-drops/",
-    "twitch_campaign_id": "bf82818f-dba3-48fc-88c3-7472f577547e"
   },
   {
     "game": "Skull and Bones",
@@ -1425,21 +1275,6 @@
     "twitch_campaign_id": "2627f082-1448-4a4b-a721-41e942aa5bc6"
   },
   {
-    "game": "The Quinfall",
-    "status": "live",
-    "campaign": "September Drops",
-    "start": "2026-09-06T00:00:00Z",
-    "end": "2026-09-06T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/f4f50238-ed3d-4a4c-8532-8f5014c8338c.png",
-    "url": "https://www.quinfall.com/twitch-drops",
-    "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "f4f50238-ed3d-4a4c-8532-8f5014c8338c"
-  },
-  {
     "game": "The Seven Deadly Sins: Origin",
     "status": "live",
     "campaign": "7DS Origin Drops 4th",
@@ -1530,21 +1365,6 @@
     "twitch_campaign_id": "aa82829e-9f3c-4572-a120-39d2eb36729b"
   },
   {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "Community Drops #214",
-    "start": "2026-09-06T19:00:00Z",
-    "end": "2026-09-06T20:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch ViceroyCyndr for 30 minutes and get a White Velocipod Floof!",
-    "image": "/media/campaigns/images/f85c111f-7e2d-487c-ac85-bbfafc91d7f2.jpeg",
-    "url": "https://forums.warframe.com/topic/1522013-community-stream-schedule-aug-31st-sept-6th-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "f85c111f-7e2d-487c-ac85-bbfafc91d7f2"
-  },
-  {
     "game": "Where Winds Meet",
     "status": "live",
     "campaign": "Where Wind Meet Sept",
@@ -1577,6 +1397,21 @@
   {
     "game": "World of Tanks",
     "status": "live",
+    "campaign": "First Deployment #1",
+    "start": "2026-09-04T15:00:00Z",
+    "end": "2026-09-07T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "First Deployment #1",
+    "image": "/media/campaigns/images/c1426e42-3877-44a6-a422-8e7e75ca56aa.jpeg",
+    "url": "https://worldoftanks.eu/news/specials/first-deployment-2026/",
+    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
+    "twitch_campaign_id": "c1426e42-3877-44a6-a422-8e7e75ca56aa"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
     "campaign": "Jäger MouzAkrobat",
     "start": "2026-09-04T15:00:00Z",
     "end": "2026-09-07T14:59:59.999Z",
@@ -1603,21 +1438,6 @@
     "url": "https://worldoftanks.eu/news/specials/first-deployment-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "ac7c3239-e465-418e-97ce-4e937b2d0b77"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "First Deployment #1",
-    "start": "2026-09-04T15:00:00Z",
-    "end": "2026-09-07T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "First Deployment #1",
-    "image": "/media/campaigns/images/c1426e42-3877-44a6-a422-8e7e75ca56aa.jpeg",
-    "url": "https://worldoftanks.eu/news/specials/first-deployment-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "c1426e42-3877-44a6-a422-8e7e75ca56aa"
   },
   {
     "game": "World of Tanks Console",
@@ -1723,21 +1543,6 @@
     "url": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
     "account_link": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
     "twitch_campaign_id": "a490aaea-7490-4f94-9066-7834653c0899"
-  },
-  {
-    "game": "ZEVENT",
-    "status": "live",
-    "campaign": "ZEvent 2026",
-    "start": "2026-09-04T16:00:00Z",
-    "end": "2026-09-06T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Du 4 au 6 septembre, plusieurs créateurs et créatrices de contenu participant au ZEVENT se réuniront dans les locaux d’Ankama pour vivre ensemble l’ultime édition de ce marathon caritatif français afin de récolter un maximum de dons. ",
-    "image": "/media/campaigns/images/ed9254f4-53c5-490c-b001-224bf56676da.png",
-    "url": "https://account.ankama.com/fr/twitch",
-    "account_link": "https://account.ankama.com/fr/twitch",
-    "twitch_campaign_id": "ed9254f4-53c5-490c-b001-224bf56676da"
   },
   {
     "game": "ZEVENT",
