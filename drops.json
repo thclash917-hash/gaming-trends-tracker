@@ -17,21 +17,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 2 - #1/7",
-    "start": "2026-09-07T10:00:00Z",
-    "end": "2026-09-08T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/8addf9ca-191b-4589-b4d1-51dff65778c6.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "8addf9ca-191b-4589-b4d1-51dff65778c6"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "AOCP Flamescale 2 - #1/7",
     "start": "2026-09-07T10:00:00Z",
     "end": "2026-09-08T09:29:59.999Z",
@@ -43,6 +28,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "e71144f4-090b-4ec1-bf51-542dd0eddb99"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "Dragonfire 2 - #1/7",
+    "start": "2026-09-07T10:00:00Z",
+    "end": "2026-09-08T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+    "image": "/media/campaigns/images/8addf9ca-191b-4589-b4d1-51dff65778c6.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "8addf9ca-191b-4589-b4d1-51dff65778c6"
   },
   {
     "game": "ARC Raiders",
@@ -195,21 +195,6 @@
     "twitch_campaign_id": "05a8f884-cb18-4206-93fb-509264b6d5e0"
   },
   {
-    "game": "Delta Force",
-    "status": "live",
-    "campaign": "ANNIVERSARY PREVIEW SUB",
-    "start": "2026-09-01T14:45:00Z",
-    "end": "2026-09-07T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Join the streamer subscription program and earn high-value rewards.",
-    "image": "/media/campaigns/images/33e74b8b-b473-4f5c-bf91-a94a01f5302d.png",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "33e74b8b-b473-4f5c-bf91-a94a01f5302d"
-  },
-  {
     "game": "Don't Starve Together",
     "status": "live",
     "campaign": "Bugburst Waterballoon",
@@ -358,6 +343,21 @@
     "url": "https://gz.ludenus.com/drops",
     "account_link": "https://gz-drops.masanggames.com/link",
     "twitch_campaign_id": "b3bf7ef1-3d9a-4438-8ef9-9fd6f8e92e26"
+  },
+  {
+    "game": "Halo Infinite",
+    "status": "live",
+    "campaign": "UneeQ Customs Night-SEP7",
+    "start": "2026-09-07T20:00:00Z",
+    "end": "2026-09-08T03:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
+    "image": "/media/campaigns/images/c5ecb8d2-2b81-4ee4-a358-1816e6e5e0c3.png",
+    "url": "https://www.halowaypoint.com",
+    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
+    "twitch_campaign_id": "c5ecb8d2-2b81-4ee4-a358-1816e6e5e0c3"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -602,17 +602,17 @@
   {
     "game": "MARVEL Strike Force",
     "status": "live",
-    "campaign": "MSF | September Week 1",
-    "start": "2026-08-31T21:00:00Z",
-    "end": "2026-09-07T20:59:59.999Z",
+    "campaign": "MSF | September Week 2",
+    "start": "2026-09-07T21:00:00Z",
+    "end": "2026-09-14T20:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
-    "image": "/media/campaigns/images/b64521c4-a827-4533-a403-6bc3929fb216.png",
+    "image": "/media/campaigns/images/31f77cbd-c88a-4d20-985e-afcafa123980.png",
     "url": "https://marvelstrikeforce.com/en/twitch",
     "account_link": "https://marvelstrikeforce.com/en/twitch",
-    "twitch_campaign_id": "b64521c4-a827-4533-a403-6bc3929fb216"
+    "twitch_campaign_id": "31f77cbd-c88a-4d20-985e-afcafa123980"
   },
   {
     "game": "Mir Korabley",
@@ -840,21 +840,6 @@
     "twitch_campaign_id": "c00d237b-f273-4baf-9ea3-17e8d0a4be11"
   },
   {
-    "game": "Predecessor",
-    "status": "live",
-    "campaign": "Aegis of Dawn Drops ⚔️",
-    "start": "2026-08-11T15:00:00Z",
-    "end": "2026-09-07T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate the Aegis of Dawn update with brand-new drops!",
-    "image": "/media/campaigns/images/47172f4c-ad4a-4155-a20c-6e440102ff38.png",
-    "url": "https://predecessorgame.com/twitch-drops",
-    "account_link": "https://predecessorgame.com/link-accounts",
-    "twitch_campaign_id": "47172f4c-ad4a-4155-a20c-6e440102ff38"
-  },
-  {
     "game": "Rainbow Six Siege",
     "status": "live",
     "campaign": "R6S S2 2026 2",
@@ -928,6 +913,36 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "90589949-1d2e-4161-8def-3aee51e1f721"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 151",
+    "start": "2026-09-07T17:59:00Z",
+    "end": "2026-09-08T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/8e469836-d87b-4759-b24b-c4feba165f16.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "8e469836-d87b-4759-b24b-c4feba165f16"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 580",
+    "start": "2026-09-07T17:59:00Z",
+    "end": "2026-09-08T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/81571f82-5997-4e22-9477-2d8057cea495.png",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "81571f82-5997-4e22-9477-2d8057cea495"
   },
   {
     "game": "Shakes and Fidget",
@@ -1080,21 +1095,6 @@
     "twitch_campaign_id": "57c84a37-de55-4de4-ba40-331029d9cab7"
   },
   {
-    "game": "Tanki Online",
-    "status": "live",
-    "campaign": "WMR2 2026 R4 (1)",
-    "start": "2026-09-07T17:00:00Z",
-    "end": "2026-09-07T19:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Tanki Online eSports match livestreams and get Epic Keys in Tanki Online",
-    "image": "/media/campaigns/images/6064dd8d-b9fe-4593-a690-b315490f70c1.jpeg",
-    "url": "https://tankionline.com/",
-    "account_link": "https://tankionline.com/play/",
-    "twitch_campaign_id": "6064dd8d-b9fe-4593-a690-b315490f70c1"
-  },
-  {
     "game": "The Blood of Dawnwalker",
     "status": "live",
     "campaign": "Dawnwalker Launch",
@@ -1123,21 +1123,6 @@
     "url": "https://tfd.nexon.com/drops/twitch",
     "account_link": "https://tfd.nexon.com/drops/twitch",
     "twitch_campaign_id": "2627f082-1448-4a4b-a721-41e942aa5bc6"
-  },
-  {
-    "game": "The Quinfall",
-    "status": "live",
-    "campaign": "September Drops",
-    "start": "2026-09-07T00:00:00Z",
-    "end": "2026-09-07T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/74f9439a-0059-4583-99c1-ae23c0c8e795.png",
-    "url": "https://www.quinfall.com/twitch-drops",
-    "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "74f9439a-0059-4583-99c1-ae23c0c8e795"
   },
   {
     "game": "The Seven Deadly Sins: Origin",
