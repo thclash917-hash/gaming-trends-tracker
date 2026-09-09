@@ -17,32 +17,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 2 - #2/7",
-    "start": "2026-09-08T10:00:00Z",
-    "end": "2026-09-09T09:29:59.999Z",
+    "campaign": "Dragonfire 2 - #3/7",
+    "start": "2026-09-09T10:00:00Z",
+    "end": "2026-09-10T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/52a9edc4-ce3f-4368-a001-53ced269f5e7.png",
+    "image": "/media/campaigns/images/a56aa3ad-08c6-4eff-8e1d-e5e5536d91a6.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "52a9edc4-ce3f-4368-a001-53ced269f5e7"
+    "twitch_campaign_id": "a56aa3ad-08c6-4eff-8e1d-e5e5536d91a6"
   },
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 2 - #2/7",
-    "start": "2026-09-08T10:00:00Z",
-    "end": "2026-09-09T09:29:59.999Z",
+    "campaign": "AOCP Flamescale 2 - #3/7",
+    "start": "2026-09-09T10:00:00Z",
+    "end": "2026-09-10T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/1ce7121f-4a14-4819-b5b7-dfe8a9a6eb95.png",
+    "image": "/media/campaigns/images/ef4f1efc-7379-4783-825b-e8270266af29.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "1ce7121f-4a14-4819-b5b7-dfe8a9a6eb95"
+    "twitch_campaign_id": "ef4f1efc-7379-4783-825b-e8270266af29"
   },
   {
     "game": "ARC Raiders",
@@ -73,21 +73,6 @@
     "url": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "account_link": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "twitch_campaign_id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "2026 BDO Drops (Sep 8)",
-    "start": "2026-09-08T12:00:00Z",
-    "end": "2026-09-09T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/c49c1e46-e7a3-46b7-b9ed-1e4cc88c936d.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "c49c1e46-e7a3-46b7-b9ed-1e4cc88c936d"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -148,21 +133,6 @@
     "url": "https://crossout.net/en/news/600",
     "account_link": "https://gss.gaijin.net/",
     "twitch_campaign_id": "dadf9c86-4a1c-4de0-a079-49c1e2005edf"
-  },
-  {
-    "game": "Crystal of Atlan",
-    "status": "live",
-    "campaign": "New class & New collab",
-    "start": "2026-08-27T10:00:00Z",
-    "end": "2026-09-09T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Fan the Flames, Rock the Stage! New class, new collab—Crystal of Atlan's August 27 update arrives with a bang! The Fighter's third class branch, Sugariff, has officially arrived. Turning her fists into beats and sound into blades, she unleashes astonishing power with every drop. The King of Fighters '98 collab is officially live, as the popular character Mai Shiranui makes her cross-world debut in Atlan. She'll appear as a combat NPC on the battlefield, dancing through flames with her classic ninjutsu.",
-    "image": "/media/campaigns/images/5c4b74bc-71ee-4750-94e1-ea54f13ed42b.png",
-    "url": "https://twitch-drop.games.skystone.games/",
-    "account_link": "https://twitch-drop.games.skystone.games/",
-    "twitch_campaign_id": "5c4b74bc-71ee-4750-94e1-ea54f13ed42b"
   },
   {
     "game": "Delta Force",
@@ -242,17 +212,17 @@
   {
     "game": "EVE Online",
     "status": "live",
-    "campaign": "Union Day 2026 Drop 3",
-    "start": "2026-09-05T11:02:00Z",
-    "end": "2026-09-09T10:57:59.999Z",
+    "campaign": "Union Day 2026 Drop 4",
+    "start": "2026-09-09T11:02:00Z",
+    "end": "2026-09-13T10:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "You probably spend more time in a shuttle than you'd realise so SKINs for them are pretty neat!",
-    "image": "/media/campaigns/images/fb1b38fa-ce3b-45be-a20e-14657e05c5bf.jpeg",
+    "description": "Some EverMarks to get emblems for your favorite ships!",
+    "image": "/media/campaigns/images/91f3c658-5d3f-4ad1-85e0-bab63b1a34c1.jpeg",
     "url": "https://www.eveonline.com/twitch",
     "account_link": "https://www.eveonline.com/twitch",
-    "twitch_campaign_id": "fb1b38fa-ce3b-45be-a20e-14657e05c5bf"
+    "twitch_campaign_id": "91f3c658-5d3f-4ad1-85e0-bab63b1a34c1"
   },
   {
     "game": "FragPunk",
@@ -467,21 +437,6 @@
   {
     "game": "Legend of YMIR",
     "status": "live",
-    "campaign": "LOY DROPS_ALL (26_SEP)",
-    "start": "2026-09-08T09:00:00Z",
-    "end": "2026-09-29T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Share the loot, Share the glory.\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of Legend of YMIR showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/1c6330d1-3e5c-48a9-a07f-ee1058fe9765.jpeg",
-    "url": "https://www.legendofymir.com/en/news/notice/754689",
-    "account_link": "https://www.legendofymir.com/mypage/account",
-    "twitch_campaign_id": "1c6330d1-3e5c-48a9-a07f-ee1058fe9765"
-  },
-  {
-    "game": "Legend of YMIR",
-    "status": "live",
     "campaign": "LOY DROPS_SSS (26_SEP)",
     "start": "2026-09-08T09:00:00Z",
     "end": "2026-09-29T14:59:59.999Z",
@@ -495,19 +450,19 @@
     "twitch_campaign_id": "771ba310-56c6-4a12-94d2-a9deeca752e1"
   },
   {
-    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "game": "Legend of YMIR",
     "status": "live",
-    "campaign": "Mayhem Collection - DC",
-    "start": "2026-09-01T07:00:00Z",
-    "end": "2026-09-20T06:59:59.999Z",
+    "campaign": "LOY DROPS_ALL (26_SEP)",
+    "start": "2026-09-08T09:00:00Z",
+    "end": "2026-09-29T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Celebrate the release of the LEGO Batman: Legacy of the Dark Knight Mayhem Collection with another opportunity to earn exclusive Twitch Drops!",
-    "image": "/media/campaigns/images/796bdad1-10fd-4294-8277-6783723e14ff.png",
-    "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
-    "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
-    "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
+    "description": "Share the loot, Share the glory.\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of Legend of YMIR showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/1c6330d1-3e5c-48a9-a07f-ee1058fe9765.jpeg",
+    "url": "https://www.legendofymir.com/en/news/notice/754689",
+    "account_link": "https://www.legendofymir.com/mypage/account",
+    "twitch_campaign_id": "1c6330d1-3e5c-48a9-a07f-ee1058fe9765"
   },
   {
     "game": "LEGO Batman: Legacy of the Dark Knight",
@@ -523,6 +478,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
+  },
+  {
+    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "status": "live",
+    "campaign": "Mayhem Collection - DC",
+    "start": "2026-09-01T07:00:00Z",
+    "end": "2026-09-20T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate the release of the LEGO Batman: Legacy of the Dark Knight Mayhem Collection with another opportunity to earn exclusive Twitch Drops!",
+    "image": "/media/campaigns/images/796bdad1-10fd-4294-8277-6783723e14ff.png",
+    "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
+    "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
+    "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
   },
   {
     "game": "Lords Mobile",
@@ -1020,6 +990,21 @@
     "twitch_campaign_id": "72c07412-ffee-4c3d-b46d-ded8c8626aab"
   },
   {
+    "game": "Sonic Rumble Party",
+    "status": "live",
+    "campaign": "September 2026 Drops",
+    "start": "2026-09-09T08:00:00Z",
+    "end": "2026-09-30T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Sonic Rumble Party drops for September!",
+    "image": "/media/campaigns/images/4d11821c-2856-45c9-9a4d-fa1717d3aae0.png",
+    "url": "https://sonicrumble.sega.com/special/twitch-drops/en/",
+    "account_link": "https://sonicrumble.sega.com/special/twitch-drops/en/",
+    "twitch_campaign_id": "4d11821c-2856-45c9-9a4d-fa1717d3aae0"
+  },
+  {
     "game": "Special Events",
     "status": "live",
     "campaign": "Ironmouse Subathon 2026",
@@ -1183,6 +1168,21 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "def0cb17-fb59-46f3-95cd-770eb7f37ccf"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Dakillzor Drops",
+    "start": "2026-09-09T11:00:00Z",
+    "end": "2026-09-09T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Dakillzor Drops",
+    "image": "/media/campaigns/images/45079eca-91c8-4743-b842-ac8dd0c1dd07.png",
+    "url": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+    "twitch_campaign_id": "45079eca-91c8-4743-b842-ac8dd0c1dd07"
   },
   {
     "game": "World of Tanks",
