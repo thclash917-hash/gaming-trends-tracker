@@ -75,6 +75,21 @@
     "twitch_campaign_id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72"
   },
   {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "2026 BDO Drops (Sep 9)",
+    "start": "2026-09-09T12:00:00Z",
+    "end": "2026-09-10T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "image": "/media/campaigns/images/eb063be1-efc1-4f63-82b5-c5a3fc414a28.png",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
+    "twitch_campaign_id": "eb063be1-efc1-4f63-82b5-c5a3fc414a28"
+  },
+  {
     "game": "Blue Protocol: Star Resonance",
     "status": "live",
     "campaign": "Season 3 Special Drops",
@@ -225,6 +240,21 @@
     "twitch_campaign_id": "91f3c658-5d3f-4ad1-85e0-bab63b1a34c1"
   },
   {
+    "game": "For Honor",
+    "status": "live",
+    "campaign": "Warrior's Den Sep 26",
+    "start": "2026-09-09T15:50:00Z",
+    "end": "2026-09-09T19:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "A GUARANTEE of 1 SCAVENGER CRATE to each viewer for every 30 minutes of cumulative watching time. A CHANCE to earn the new Hero skin after 30 minutes of viewing time. A CHANCE to earn 100K Steel after 30 minutes of viewing time.",
+    "image": "/media/campaigns/images/47d06308-2684-4a77-b693-fcc056d4fee3.jpeg",
+    "url": "https://ubi.li/weQdL",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "47d06308-2684-4a77-b693-fcc056d4fee3"
+  },
+  {
     "game": "FragPunk",
     "status": "live",
     "campaign": "S6: Shard Voyagers",
@@ -283,6 +313,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://twitch.tv",
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
+  },
+  {
+    "game": "Hearthstone",
+    "status": "live",
+    "campaign": "HS Worlds 26 Groups Day 2",
+    "start": "2026-09-09T16:00:00Z",
+    "end": "2026-09-09T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The Hearthstone World Championship is here! During the group stage watch for an hour each day to earn 1 Escape from Violet Hold pack as our competitors fight for a place in the knockout stage at BlizzCon!",
+    "image": "/media/campaigns/images/e758eae0-d7fb-4da3-8a26-7df1b172ec37.png",
+    "url": "https://hearthstone.blizzard.com/news/24294372",
+    "account_link": "https://account.battle.net/connections",
+    "twitch_campaign_id": "e758eae0-d7fb-4da3-8a26-7df1b172ec37"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -467,21 +512,6 @@
   {
     "game": "LEGO Batman: Legacy of the Dark Knight",
     "status": "live",
-    "campaign": "Harley Mayhem",
-    "start": "2026-09-01T07:00:00Z",
-    "end": "2026-09-20T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!",
-    "image": "/media/campaigns/images/7d64c672-6183-425b-92e2-57546404f25c.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
-  },
-  {
-    "game": "LEGO Batman: Legacy of the Dark Knight",
-    "status": "live",
     "campaign": "Mayhem Collection - DC",
     "start": "2026-09-01T07:00:00Z",
     "end": "2026-09-20T06:59:59.999Z",
@@ -493,6 +523,21 @@
     "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
     "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
     "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
+  },
+  {
+    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "status": "live",
+    "campaign": "Harley Mayhem",
+    "start": "2026-09-01T07:00:00Z",
+    "end": "2026-09-20T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!",
+    "image": "/media/campaigns/images/7d64c672-6183-425b-92e2-57546404f25c.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
   },
   {
     "game": "Lords Mobile",
@@ -512,17 +557,17 @@
   {
     "game": "Marbles on Stream",
     "status": "live",
-    "campaign": "MarbleFest - Sept'26-Day2",
-    "start": "2026-09-08T14:00:00Z",
-    "end": "2026-09-09T13:59:59.999Z",
+    "campaign": "MarbleFest - Sept'26-Day3",
+    "start": "2026-09-09T14:00:00Z",
+    "end": "2026-09-10T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Marbles on Stream is the most welcoming stream interactive experience where a streamer can run the game and welcome anyone in their chat to participate with \"!play\". That's it!\n\nJoin in for exclusive prizes and keep an eye on our for how we evolve this event in the future. If you need assistance please join our discord. Discord.gg/pixelbypixelstudios ",
-    "image": "/media/campaigns/images/30dd6dfa-ac46-46bf-80d7-c2823993c8ec.png",
+    "image": "/media/campaigns/images/f91a5cf6-2bca-4dbe-9eef-cb30a1b23727.png",
     "url": "https://pixelbypixel.studio/twitch-drops/",
     "account_link": "https://pixelbypixel.studio/twitch-drops/connect",
-    "twitch_campaign_id": "30dd6dfa-ac46-46bf-80d7-c2823993c8ec"
+    "twitch_campaign_id": "f91a5cf6-2bca-4dbe-9eef-cb30a1b23727"
   },
   {
     "game": "MARVEL Contest of Champions",
@@ -553,6 +598,21 @@
     "url": "https://marvelstrikeforce.com/en/twitch",
     "account_link": "https://marvelstrikeforce.com/en/twitch",
     "twitch_campaign_id": "31f77cbd-c88a-4d20-985e-afcafa123980"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Lestakorabli - 26.9 #3",
+    "start": "2026-09-09T14:00:00Z",
+    "end": "2026-09-10T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Эсминец IX Velos;\n• Крейсер VIII Bayard;\n• Линкор VIII «Бородино».\n\nЗа просмотр 11 из 12 трансляций официального канала Lestakorabli в рамках версии 26.9 вы получаете «Большой набор». Подробности на портале «Мир кораблей».\n\nЖмите «Отслеживать» и получайте награду!",
+    "image": "/media/campaigns/images/3e1d96de-8166-415a-a738-6a888c8c9cfc.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "3e1d96de-8166-415a-a738-6a888c8c9cfc"
   },
   {
     "game": "Mir Korabley",
@@ -707,17 +767,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate 9/8/26",
-    "start": "2026-09-08T13:00:00Z",
-    "end": "2026-09-09T12:59:59.999Z",
+    "campaign": "Affiliate 9/9/26",
+    "start": "2026-09-09T13:00:00Z",
+    "end": "2026-09-10T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/9f24bc3f-9794-4245-89c8-93c55bec9a4e.png",
+    "image": "/media/campaigns/images/5ff97138-e8fe-4667-aeba-af4bbfda75d1.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "9f24bc3f-9794-4245-89c8-93c55bec9a4e"
+    "twitch_campaign_id": "5ff97138-e8fe-4667-aeba-af4bbfda75d1"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -782,6 +842,21 @@
   {
     "game": "Rainbow Six Siege",
     "status": "live",
+    "campaign": "R6S S2 2026 3",
+    "start": "2026-09-09T05:00:00Z",
+    "end": "2026-09-12T04:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Rainbow Six Siege - Stage 2",
+    "image": "/media/campaigns/images/2fdfd673-2ec7-4e76-bc4f-f0429bd41e92.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/#/en-US",
+    "twitch_campaign_id": "2fdfd673-2ec7-4e76-bc4f-f0429bd41e92"
+  },
+  {
+    "game": "Rainbow Six Siege",
+    "status": "live",
     "campaign": "R6S Y11S3",
     "start": "2026-09-01T13:00:00Z",
     "end": "2026-09-15T12:59:59.999Z",
@@ -840,34 +915,19 @@
     "twitch_campaign_id": "90589949-1d2e-4161-8def-3aee51e1f721"
   },
   {
-    "game": "Rise Online",
+    "game": "Shakes and Fidget",
     "status": "live",
-    "campaign": "ROW Drop 581",
-    "start": "2026-09-08T17:59:00Z",
-    "end": "2026-09-09T17:56:59.999Z",
+    "campaign": "S&F Drops 2/3",
+    "start": "2026-09-09T14:00:00Z",
+    "end": "2026-09-13T21:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/da448cba-0ece-4b6e-8143-75f5e4b9b41e.jpeg",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "da448cba-0ece-4b6e-8143-75f5e4b9b41e"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "Mobile Drop 152",
-    "start": "2026-09-08T17:59:00Z",
-    "end": "2026-09-09T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/7b72cafd-0561-4bce-b12c-5b06fc68cad7.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "7b72cafd-0561-4bce-b12c-5b06fc68cad7"
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/20dffd3a-9175-4ad3-8766-134c0cfb3f58.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "20dffd3a-9175-4ad3-8766-134c0cfb3f58"
   },
   {
     "game": "Shakes and Fidget",
@@ -1217,17 +1277,17 @@
   {
     "game": "World of Tanks: HEAT",
     "status": "live",
-    "campaign": "HEAT Season 2 - Week 1",
-    "start": "2026-09-02T16:00:00Z",
-    "end": "2026-09-09T15:58:59.999Z",
+    "campaign": "HEAT Season 2 - Week 2",
+    "start": "2026-09-09T16:00:00Z",
+    "end": "2026-09-16T15:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Season 2 Twitch Drops are here! Watch HEAT on Twitch to earn a Vehicle XP Booster, plus a Booster Pack and the M60A3E2 Broadcast Camo. Link your Twitch and Wargaming accounts to claim your rewards.",
-    "image": "/media/campaigns/images/c55b5ce6-d992-4d31-a8c7-f039525dfaf7.png",
-    "url": "https://cdn.wotheat.com/articles/season-2-kickoff/index.html",
+    "description": "Season 2 Twitch Drops! Watch HEAT on Twitch to earn a Vehicle XP Booster and a Booster Pack. Link your Twitch and Wargaming accounts to claim your rewards.",
+    "image": "/media/campaigns/images/f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7.png",
+    "url": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
     "account_link": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
-    "twitch_campaign_id": "c55b5ce6-d992-4d31-a8c7-f039525dfaf7"
+    "twitch_campaign_id": "f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7"
   },
   {
     "game": "World of Warships",
