@@ -105,21 +105,6 @@
     "twitch_campaign_id": "94084529-b24c-4d1a-9863-e815865f16f5"
   },
   {
-    "game": "Brawlhalla",
-    "status": "live",
-    "campaign": "Brawlhalla Q&B Drops",
-    "start": "2026-08-19T14:00:00Z",
-    "end": "2026-09-09T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Qinghua & BaoBao Drops -> 30 min: Artemis Esports v7  • 1h: Fait CCv2 Color  • 2h: Priya CCv2 Color • 3h: Ragnir CCv2 Color  • 4h: Qinghua & BaoBao CCv2",
-    "image": "/media/campaigns/images/42fa626c-57c5-45f0-88fe-25e29819cd62.png",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-    "account_link": "https://drops-register.ubi.com/#/en-US",
-    "twitch_campaign_id": "42fa626c-57c5-45f0-88fe-25e29819cd62"
-  },
-  {
     "game": "Cash is King!",
     "status": "live",
     "campaign": "Demo Release 0.3",
@@ -328,21 +313,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://twitch.tv",
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
-  },
-  {
-    "game": "Halo Infinite",
-    "status": "live",
-    "campaign": "Forge Showcase-SEP8",
-    "start": "2026-09-08T22:00:00Z",
-    "end": "2026-09-09T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
-    "image": "/media/campaigns/images/65b918af-6df1-4158-9a7b-3b3aa6d9e6c6.png",
-    "url": "https://www.halowaypoint.com",
-    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
-    "twitch_campaign_id": "65b918af-6df1-4158-9a7b-3b3aa6d9e6c6"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -568,36 +538,6 @@
     "url": "https://event.igg.com/twitch/drops?code=lo_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=lo_drops",
     "twitch_campaign_id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d"
-  },
-  {
-    "game": "Madden NFL 27",
-    "status": "live",
-    "campaign": "In The Huddle",
-    "start": "2026-09-09T00:00:00Z",
-    "end": "2026-09-09T02:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into In The Huddle to earn Twitch Drops to level up your Ultimate Team.",
-    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/default.png",
-    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-    "twitch_campaign_id": "5583638b-fcc6-49a8-a035-cb6ad03d1660"
-  },
-  {
-    "game": "Madden NFL 27",
-    "status": "live",
-    "campaign": "Good Morning Madden",
-    "start": "2026-09-08T22:30:00Z",
-    "end": "2026-09-09T01:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Good Morning Madden and earn some Twitch Drops to power up your Ultimate Team!",
-    "image": "/media/campaigns/images/08f9e598-a53d-45f3-9510-12a5c789ef58.png",
-    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-    "twitch_campaign_id": "08f9e598-a53d-45f3-9510-12a5c789ef58"
   },
   {
     "game": "Marbles on Stream",
@@ -872,21 +812,6 @@
   {
     "game": "Rainbow Six Siege",
     "status": "live",
-    "campaign": "R6S S2 2026 2",
-    "start": "2026-09-07T05:00:00Z",
-    "end": "2026-09-09T04:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Rainbow Six Siege - Stage 2",
-    "image": "/media/campaigns/images/69545e1a-30da-40bf-afc3-465aa035048c.png",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-    "account_link": "https://drops-register.ubi.com/#/en-US",
-    "twitch_campaign_id": "69545e1a-30da-40bf-afc3-465aa035048c"
-  },
-  {
-    "game": "Rainbow Six Siege",
-    "status": "live",
     "campaign": "R6S Y11S3",
     "start": "2026-09-01T13:00:00Z",
     "end": "2026-09-15T12:59:59.999Z",
@@ -1007,21 +932,6 @@
   {
     "game": "Sid Meier's Civilization VII",
     "status": "live",
-    "campaign": "Civ VII PAX 26 Livestream",
-    "start": "2026-09-05T16:30:00Z",
-    "end": "2026-10-03T16:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch for 15 minutes and claim the reward: Exploration Age Banner profile cosmetic!",
-    "image": "/media/campaigns/images/a82abb82-628f-4df5-a2bb-5df8cc373983.png",
-    "url": "https://civilization.2k.com/twitch-drops/",
-    "account_link": "https://civilization.2k.com/twitch-drops/",
-    "twitch_campaign_id": "a82abb82-628f-4df5-a2bb-5df8cc373983"
-  },
-  {
-    "game": "Sid Meier's Civilization VII",
-    "status": "live",
     "campaign": "Civ VII Pax Livestream",
     "start": "2026-09-05T16:30:00Z",
     "end": "2026-10-03T16:29:59.999Z",
@@ -1033,6 +943,21 @@
     "url": "https://civilization.2k.com/twitch-drops/",
     "account_link": "https://civilization.2k.com/twitch-drops/",
     "twitch_campaign_id": "bf82818f-dba3-48fc-88c3-7472f577547e"
+  },
+  {
+    "game": "Sid Meier's Civilization VII",
+    "status": "live",
+    "campaign": "Civ VII PAX 26 Livestream",
+    "start": "2026-09-05T16:30:00Z",
+    "end": "2026-10-03T16:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch for 15 minutes and claim the reward: Exploration Age Banner profile cosmetic!",
+    "image": "/media/campaigns/images/a82abb82-628f-4df5-a2bb-5df8cc373983.png",
+    "url": "https://civilization.2k.com/twitch-drops/",
+    "account_link": "https://civilization.2k.com/twitch-drops/",
+    "twitch_campaign_id": "a82abb82-628f-4df5-a2bb-5df8cc373983"
   },
   {
     "game": "Skull and Bones",
@@ -1164,7 +1089,7 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/e08c2c58-2abe-423e-a4a0-fa51513e6107.png",
+    "image": "/media/campaigns/images/8fcdfdeb-8f86-4849-a517-9e2e47ef84de.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
     "twitch_campaign_id": "8fcdfdeb-8f86-4849-a517-9e2e47ef84de"
@@ -1348,5 +1273,20 @@
     "url": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
     "account_link": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
     "twitch_campaign_id": "a490aaea-7490-4f94-9066-7834653c0899"
+  },
+  {
+    "game": "Zenless Zone Zero",
+    "status": "live",
+    "campaign": "V3.2 Zenless Zone Zero",
+    "start": "2026-09-09T02:00:00Z",
+    "end": "2026-09-30T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "V3.2 Zenless Zone Zero",
+    "image": "/media/campaigns/images/d9fa47ca-8cf5-4422-935f-38d8fdd3548a.png",
+    "url": "https://act.hoyoverse.com/puzzle/zzz/pz_5E9qxR7Ypm/index.html?game_biz=nap_global",
+    "account_link": "https://act.hoyoverse.com/puzzle/zzz/pz_5E9qxR7Ypm/index.html?game_biz=nap_global",
+    "twitch_campaign_id": "d9fa47ca-8cf5-4422-935f-38d8fdd3548a"
   }
 ]
