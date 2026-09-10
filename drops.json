@@ -300,21 +300,6 @@
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
   },
   {
-    "game": "Halo: The Master Chief Collection",
-    "status": "live",
-    "campaign": "HaloMCC ClassicNight-SEP9",
-    "start": "2026-09-09T19:00:00Z",
-    "end": "2026-09-10T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo MCC!",
-    "image": "/media/campaigns/images/ecc28914-e853-42f6-92f6-f80b5f567d63.png",
-    "url": "https://www.halowaypoint.com",
-    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
-    "twitch_campaign_id": "ecc28914-e853-42f6-92f6-f80b5f567d63"
-  },
-  {
     "game": "HITMAN World of Assassination",
     "status": "live",
     "campaign": "The Herbalist #2",
@@ -403,6 +388,21 @@
     "url": "https://www.kakele.io/?utm_source=drops",
     "account_link": "https://id.twitch.tv/oauth2/authorize?client_id=9awx3xtp59477gdaslg318amuimqp8&redirect_uri=https%3A%2F%2Fwww.kakele.io%2Fdrops&response_type=code&scope=user:read:email",
     "twitch_campaign_id": "2426fda9-8f15-43b6-9edb-2a6175fb204e"
+  },
+  {
+    "game": "Kirka.io",
+    "status": "live",
+    "campaign": "Madness",
+    "start": "2026-09-09T21:07:29Z",
+    "end": "2026-09-16T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Kirka.io drop for the Madness Unobtainable",
+    "image": "/media/campaigns/images/59863b78-3fa5-4609-9584-08e43420aba0.png",
+    "url": "https://kirka.io/connectTwitch=1",
+    "account_link": "https://kirka.io/connectTwitch=1",
+    "twitch_campaign_id": "59863b78-3fa5-4609-9584-08e43420aba0"
   },
   {
     "game": "Kirka.io",
@@ -587,21 +587,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Lestakorabli - 26.9 #3",
-    "start": "2026-09-09T14:00:00Z",
-    "end": "2026-09-10T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Эсминец IX Velos;\n• Крейсер VIII Bayard;\n• Линкор VIII «Бородино».\n\nЗа просмотр 11 из 12 трансляций официального канала Lestakorabli в рамках версии 26.9 вы получаете «Большой набор». Подробности на портале «Мир кораблей».\n\nЖмите «Отслеживать» и получайте награду!",
-    "image": "/media/campaigns/images/3e1d96de-8166-415a-a738-6a888c8c9cfc.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "3e1d96de-8166-415a-a738-6a888c8c9cfc"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Обновление 26.9: Часть 1",
     "start": "2026-09-04T15:00:00Z",
     "end": "2026-09-11T14:59:59.999Z",
@@ -707,21 +692,6 @@
   {
     "game": "Night Crows",
     "status": "live",
-    "campaign": "NC DROPS ALL (26_SEP)",
-    "start": "2026-09-08T09:00:00Z",
-    "end": "2026-09-29T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Black Wings of Freedom\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/e813f285-2992-4e0e-9b75-c20c2ec539a4.jpeg",
-    "url": "https://www.nightcrows.com/en/notice/notice/754719",
-    "account_link": "https://nightcrows.com/mypage/account",
-    "twitch_campaign_id": "e813f285-2992-4e0e-9b75-c20c2ec539a4"
-  },
-  {
-    "game": "Night Crows",
-    "status": "live",
     "campaign": "NC DROPS_SSS (26_SEP)",
     "start": "2026-09-08T09:00:00Z",
     "end": "2026-09-29T14:59:59.999Z",
@@ -733,6 +703,21 @@
     "url": "https://www.nightcrows.com/en/notice/notice/754719",
     "account_link": "https://nightcrows.com/mypage/account",
     "twitch_campaign_id": "0ea81c31-1547-485f-83c2-f93656dfa0fd"
+  },
+  {
+    "game": "Night Crows",
+    "status": "live",
+    "campaign": "NC DROPS ALL (26_SEP)",
+    "start": "2026-09-08T09:00:00Z",
+    "end": "2026-09-29T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Black Wings of Freedom\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/e813f285-2992-4e0e-9b75-c20c2ec539a4.jpeg",
+    "url": "https://www.nightcrows.com/en/notice/notice/754719",
+    "account_link": "https://nightcrows.com/mypage/account",
+    "twitch_campaign_id": "e813f285-2992-4e0e-9b75-c20c2ec539a4"
   },
   {
     "game": "Once Human",
@@ -1303,21 +1288,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "1a70d4b3-0ae2-4191-98cd-c21ae1946cc8"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "Update 15.7 Drop: Week 4",
-    "start": "2026-09-03T16:00:00Z",
-    "end": "2026-09-10T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The shortest war in recorded history was the Anglo-Zanzibar War of 1896, between the United Kingdom and the Sultanate of Zanzibar. It lasted approximately 38 to 45 minutes. The conflict began after the sultan died and his cousin seized the throne without British approval, prompting the British to issue an ultimatum. When it expired, the Royal Navy began shelling the sultan's palace, and the fighting was over before it really started, making it the shortest war on record.",
-    "image": "/media/campaigns/images/8fa76d92-9395-4d1a-a740-def06042106f.png",
-    "url": "https://worldofwarships.eu/en/news/community/community-drops-august-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "8fa76d92-9395-4d1a-a740-def06042106f"
   },
   {
     "game": "Wuthering Waves",
