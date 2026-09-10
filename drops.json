@@ -17,32 +17,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 2 - #3/7",
-    "start": "2026-09-09T10:00:00Z",
-    "end": "2026-09-10T09:29:59.999Z",
+    "campaign": "Dragonfire 2 - #4/7",
+    "start": "2026-09-10T10:00:00Z",
+    "end": "2026-09-11T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/a56aa3ad-08c6-4eff-8e1d-e5e5536d91a6.png",
+    "image": "/media/campaigns/images/0d965472-4715-43f0-81f0-c756e2892d9b.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "a56aa3ad-08c6-4eff-8e1d-e5e5536d91a6"
+    "twitch_campaign_id": "0d965472-4715-43f0-81f0-c756e2892d9b"
   },
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 2 - #3/7",
-    "start": "2026-09-09T10:00:00Z",
-    "end": "2026-09-10T09:29:59.999Z",
+    "campaign": "AOCP Flamescale 2 - #4/7",
+    "start": "2026-09-10T10:00:00Z",
+    "end": "2026-09-11T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/ef4f1efc-7379-4783-825b-e8270266af29.png",
+    "image": "/media/campaigns/images/f9864f1b-1de0-49c0-a5b4-3810aaa999ab.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "ef4f1efc-7379-4783-825b-e8270266af29"
+    "twitch_campaign_id": "f9864f1b-1de0-49c0-a5b4-3810aaa999ab"
   },
   {
     "game": "ARC Raiders",
@@ -73,21 +73,6 @@
     "url": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "account_link": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "twitch_campaign_id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "2026 BDO Drops (Sep 9)",
-    "start": "2026-09-09T12:00:00Z",
-    "end": "2026-09-10T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/eb063be1-efc1-4f63-82b5-c5a3fc414a28.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "eb063be1-efc1-4f63-82b5-c5a3fc414a28"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -208,6 +193,21 @@
     "url": "https://event.igg.com/twitch/drops?code=dls_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=dls_drops",
     "twitch_campaign_id": "89ce7f50-00c2-4029-b3ca-e54630cfafd4"
+  },
+  {
+    "game": "DRAGON BALL GEKISHIN SQUADRA",
+    "status": "live",
+    "campaign": "SQUADRA SEASON 7 Drops",
+    "start": "2026-09-10T06:00:00Z",
+    "end": "2026-10-08T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "“DRAGON BALL GEKISHIN SQUADRA” Season 7 Launch Celebration Twitch Drops Campaign!     \nDon’t miss your chance to earn an exclusive skin and icon to celebrate the start of Season 7!",
+    "image": "/media/campaigns/images/ce649625-7dae-4946-b60a-1b78285c4833.png",
+    "url": "https://dbg-squadra.bn-ent.net/en-us/news/dxp09wlzxs0",
+    "account_link": "https://account.bandainamcoid.com/sns.html?client_id=mZuOqUqgJHiT8phi9LkLQMrtVJbLNuWQwzIICHiE&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
+    "twitch_campaign_id": "ce649625-7dae-4946-b60a-1b78285c4833"
   },
   {
     "game": "ELDEN RING",
@@ -467,21 +467,6 @@
   {
     "game": "Legend of YMIR",
     "status": "live",
-    "campaign": "LOY DROPS_ALL (26_SEP)",
-    "start": "2026-09-08T09:00:00Z",
-    "end": "2026-09-29T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Share the loot, Share the glory.\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of Legend of YMIR showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/1c6330d1-3e5c-48a9-a07f-ee1058fe9765.jpeg",
-    "url": "https://www.legendofymir.com/en/news/notice/754689",
-    "account_link": "https://www.legendofymir.com/mypage/account",
-    "twitch_campaign_id": "1c6330d1-3e5c-48a9-a07f-ee1058fe9765"
-  },
-  {
-    "game": "Legend of YMIR",
-    "status": "live",
     "campaign": "LOY DROPS_SSS (26_SEP)",
     "start": "2026-09-08T09:00:00Z",
     "end": "2026-09-29T14:59:59.999Z",
@@ -495,19 +480,19 @@
     "twitch_campaign_id": "771ba310-56c6-4a12-94d2-a9deeca752e1"
   },
   {
-    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "game": "Legend of YMIR",
     "status": "live",
-    "campaign": "Harley Mayhem",
-    "start": "2026-09-01T07:00:00Z",
-    "end": "2026-09-20T06:59:59.999Z",
+    "campaign": "LOY DROPS_ALL (26_SEP)",
+    "start": "2026-09-08T09:00:00Z",
+    "end": "2026-09-29T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!",
-    "image": "/media/campaigns/images/7d64c672-6183-425b-92e2-57546404f25c.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
+    "description": "Share the loot, Share the glory.\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of Legend of YMIR showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/1c6330d1-3e5c-48a9-a07f-ee1058fe9765.jpeg",
+    "url": "https://www.legendofymir.com/en/news/notice/754689",
+    "account_link": "https://www.legendofymir.com/mypage/account",
+    "twitch_campaign_id": "1c6330d1-3e5c-48a9-a07f-ee1058fe9765"
   },
   {
     "game": "LEGO Batman: Legacy of the Dark Knight",
@@ -523,6 +508,21 @@
     "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
     "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
     "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
+  },
+  {
+    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "status": "live",
+    "campaign": "Harley Mayhem",
+    "start": "2026-09-01T07:00:00Z",
+    "end": "2026-09-20T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!",
+    "image": "/media/campaigns/images/7d64c672-6183-425b-92e2-57546404f25c.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
   },
   {
     "game": "Lords Mobile",
@@ -692,21 +692,6 @@
   {
     "game": "Night Crows",
     "status": "live",
-    "campaign": "NC DROPS_SSS (26_SEP)",
-    "start": "2026-09-08T09:00:00Z",
-    "end": "2026-09-29T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Black Wings of Freedom  Your view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!  Join the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/0ea81c31-1547-485f-83c2-f93656dfa0fd.jpeg",
-    "url": "https://www.nightcrows.com/en/notice/notice/754719",
-    "account_link": "https://nightcrows.com/mypage/account",
-    "twitch_campaign_id": "0ea81c31-1547-485f-83c2-f93656dfa0fd"
-  },
-  {
-    "game": "Night Crows",
-    "status": "live",
     "campaign": "NC DROPS ALL (26_SEP)",
     "start": "2026-09-08T09:00:00Z",
     "end": "2026-09-29T14:59:59.999Z",
@@ -718,6 +703,21 @@
     "url": "https://www.nightcrows.com/en/notice/notice/754719",
     "account_link": "https://nightcrows.com/mypage/account",
     "twitch_campaign_id": "e813f285-2992-4e0e-9b75-c20c2ec539a4"
+  },
+  {
+    "game": "Night Crows",
+    "status": "live",
+    "campaign": "NC DROPS_SSS (26_SEP)",
+    "start": "2026-09-08T09:00:00Z",
+    "end": "2026-09-29T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Black Wings of Freedom  Your view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!  Join the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/0ea81c31-1547-485f-83c2-f93656dfa0fd.jpeg",
+    "url": "https://www.nightcrows.com/en/notice/notice/754719",
+    "account_link": "https://nightcrows.com/mypage/account",
+    "twitch_campaign_id": "0ea81c31-1547-485f-83c2-f93656dfa0fd"
   },
   {
     "game": "Once Human",
@@ -1125,6 +1125,21 @@
     "twitch_campaign_id": "9b94b19f-17db-4edd-80dd-e2eca81f21df"
   },
   {
+    "game": "THE FINALS",
+    "status": "live",
+    "campaign": "RED BROADCAST BLAZE",
+    "start": "2026-09-10T10:30:00Z",
+    "end": "2026-09-24T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The Broadcast Blaze skins are back!\n\nEarn three Red Broadcast Blaze skins and let everyone know in the Arena you were there, tuned-in to the action.",
+    "image": "/media/campaigns/images/c8b36b61-cd45-447f-9be3-09e02ff85007.png",
+    "url": "https://www.reachthefinals.com/twitch",
+    "account_link": "https://embark-games.embark.net/",
+    "twitch_campaign_id": "c8b36b61-cd45-447f-9be3-09e02ff85007"
+  },
+  {
     "game": "The First Descendant",
     "status": "live",
     "campaign": "Conquest Mode Drops",
@@ -1168,6 +1183,21 @@
     "url": "https://7origin.netmarble.com/drops",
     "account_link": "https://7origin.netmarble.com/drops",
     "twitch_campaign_id": "454244f1-aeb4-427e-86d9-35b878bfd66a"
+  },
+  {
+    "game": "UFL",
+    "status": "live",
+    "campaign": "Sep #2",
+    "start": "2026-09-10T08:00:00Z",
+    "end": "2026-09-16T23:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
+    "image": "/media/campaigns/images/a4dedaec-6fb9-4a73-8e10-506206a016e4.png",
+    "url": "https://portal.uflgame.com/twitch/drops",
+    "account_link": "https://portal.uflgame.com/twitch",
+    "twitch_campaign_id": "a4dedaec-6fb9-4a73-8e10-506206a016e4"
   },
   {
     "game": "War Robots: Frontiers",
@@ -1273,6 +1303,36 @@
     "url": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
     "account_link": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
     "twitch_campaign_id": "f56928f8-700b-4f0f-abd0-dcd4a0b9a4b7"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "15.8 Salt for Subs #1",
+    "start": "2026-09-10T06:00:00Z",
+    "end": "2026-09-17T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
+    "image": "/media/campaigns/images/3fda61e2-5f57-4af7-92c8-56795d6b1f9e.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "3fda61e2-5f57-4af7-92c8-56795d6b1f9e"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "15.8 Worth Their Salt #1",
+    "start": "2026-09-10T06:00:00Z",
+    "end": "2026-09-17T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
+    "image": "/media/campaigns/images/bb8e3c61-a2b7-4d11-9f60-1f79160b3418.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "bb8e3c61-a2b7-4d11-9f60-1f79160b3418"
   },
   {
     "game": "World of Warships",
