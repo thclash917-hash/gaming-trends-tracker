@@ -17,21 +17,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 2 - #4/7",
-    "start": "2026-09-10T10:00:00Z",
-    "end": "2026-09-11T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/0d965472-4715-43f0-81f0-c756e2892d9b.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "0d965472-4715-43f0-81f0-c756e2892d9b"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "AOCP Flamescale 2 - #4/7",
     "start": "2026-09-10T10:00:00Z",
     "end": "2026-09-11T09:29:59.999Z",
@@ -43,6 +28,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "f9864f1b-1de0-49c0-a5b4-3810aaa999ab"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "Dragonfire 2 - #4/7",
+    "start": "2026-09-10T10:00:00Z",
+    "end": "2026-09-11T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+    "image": "/media/campaigns/images/0d965472-4715-43f0-81f0-c756e2892d9b.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "0d965472-4715-43f0-81f0-c756e2892d9b"
   },
   {
     "game": "ARC Raiders",
@@ -75,6 +75,21 @@
     "twitch_campaign_id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72"
   },
   {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "2026 BDO Drops (Sep 10)",
+    "start": "2026-09-10T12:00:00Z",
+    "end": "2026-09-11T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "image": "/media/campaigns/images/7ab1b3b0-9c61-49f9-8d14-3faef536dc63.png",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
+    "twitch_campaign_id": "7ab1b3b0-9c61-49f9-8d14-3faef536dc63"
+  },
+  {
     "game": "Blue Protocol: Star Resonance",
     "status": "live",
     "campaign": "Season 3 Special Drops",
@@ -90,21 +105,6 @@
     "twitch_campaign_id": "94084529-b24c-4d1a-9863-e815865f16f5"
   },
   {
-    "game": "Cash is King!",
-    "status": "live",
-    "campaign": "Demo Release 0.3",
-    "start": "2026-08-13T13:00:00Z",
-    "end": "2026-09-10T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Welcome to a place where the sun is guaranteed and money is basically part of the beachwear. In this cozy first-person simulation, you start out at Miami Beach, sell, invest, optimize, and make the cash register ring. Because in the end, only one thing counts: Cash is King. 4 weeks after the release of Demo Version 0.3, we'll be giving away an exclusive item to our fans on Twitch.",
-    "image": "/media/campaigns/images/9bdebdf9-91c0-4ebb-a929-95861608d905.jpeg",
-    "url": "https://docs.google.com/document/d/1FELkhrUW6rpww1ksFqGXZOY37lrpZ0p3SZ6e30AgBPI/edit?usp=sharing",
-    "account_link": "https://3rg.eu/cash-is-king/",
-    "twitch_campaign_id": "9bdebdf9-91c0-4ebb-a929-95861608d905"
-  },
-  {
     "game": "Coin Pusher Live",
     "status": "live",
     "campaign": "Fall 2026 Drops",
@@ -118,21 +118,6 @@
     "url": "https://littygames.net/drops",
     "account_link": "https://littygames.net/drops",
     "twitch_campaign_id": "1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f"
-  },
-  {
-    "game": "Crossout",
-    "status": "live",
-    "campaign": "'New Horizon' Drops II",
-    "start": "2026-09-06T16:00:00Z",
-    "end": "2026-09-10T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "A new season with new parts has started in Crossout, in which the Engineers, Steppenwolfs, and Scavengers will join forces to face off against the treacherous Aris and the Ravagers!",
-    "image": "/media/campaigns/images/dadf9c86-4a1c-4de0-a079-49c1e2005edf.jpeg",
-    "url": "https://crossout.net/en/news/600",
-    "account_link": "https://gss.gaijin.net/",
-    "twitch_campaign_id": "dadf9c86-4a1c-4de0-a079-49c1e2005edf"
   },
   {
     "game": "Delta Force",
@@ -163,21 +148,6 @@
     "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "twitch_campaign_id": "91c93cc2-c8cd-4538-8223-994461284d44"
-  },
-  {
-    "game": "Don't Starve Together",
-    "status": "live",
-    "campaign": "Bugburst Waterballoon",
-    "start": "2026-08-13T17:00:00Z",
-    "end": "2026-09-10T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The Bugburst Waterballoon is the fifth campaign in the Chitinous Collection. The campaign includes a Profile Icon, Portrait Frame, and Waterballoon skin.",
-    "image": "/media/campaigns/images/e221678f-3391-402d-8819-fd1783894746.png",
-    "url": "https://accounts.klei.com/account/rewards",
-    "account_link": "https://accounts.klei.com/account/rewards",
-    "twitch_campaign_id": "e221678f-3391-402d-8819-fd1783894746"
   },
   {
     "game": "Doomsday: Last Survivors",
@@ -240,6 +210,21 @@
     "twitch_campaign_id": "91f3c658-5d3f-4ad1-85e0-bab63b1a34c1"
   },
   {
+    "game": "For Honor",
+    "status": "live",
+    "campaign": "Entire Directory Sep 2026",
+    "start": "2026-09-10T16:00:00Z",
+    "end": "2026-10-01T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch 1 Hour - 2 XP Boosts & 1 Scav Crate. Watch 2 Hours - 4 XP Boosts & 2 Scav Crates + 3 Day Champion Status. Watch 4 Hours - 4 XP Boosts & 4 Scav Crates + 7 Day Champion Status",
+    "image": "/media/campaigns/images/788b1110-d24f-46d5-9659-badfa6acc93c.jpeg",
+    "url": "https://ubi.li/8N0Tk",
+    "account_link": "https://drops-register.ubi.com/#/en-US",
+    "twitch_campaign_id": "788b1110-d24f-46d5-9659-badfa6acc93c"
+  },
+  {
     "game": "FragPunk",
     "status": "live",
     "campaign": "S6: Shard Voyagers",
@@ -253,6 +238,21 @@
     "url": "https://www.fragpunk.com/twitchdrops/",
     "account_link": "https://www.fragpunk.com/account/",
     "twitch_campaign_id": "f6e63738-9f19-47e3-8336-9d31482e91ad"
+  },
+  {
+    "game": "GOALS",
+    "status": "live",
+    "campaign": "GOALS - 10-13 September",
+    "start": "2026-09-10T17:00:00Z",
+    "end": "2026-09-13T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "GOALS 2.0 is our biggest update since launch! Find all the information available in our website and get unique rewards!",
+    "image": "/media/campaigns/images/214153f3-689c-4ff3-a5b8-59407477c4df.png",
+    "url": "https://playgoals.com/twitch-drops",
+    "account_link": "https://playgoals.com/account",
+    "twitch_campaign_id": "214153f3-689c-4ff3-a5b8-59407477c4df"
   },
   {
     "game": "Goblin Cleanup",
@@ -298,6 +298,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://twitch.tv",
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
+  },
+  {
+    "game": "Hearthstone",
+    "status": "live",
+    "campaign": "HS Worlds 26 Groups Day 3",
+    "start": "2026-09-10T16:00:00Z",
+    "end": "2026-09-11T00:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The Hearthstone World Championship is here! During the group stage watch for an hour each day to earn 1 Escape from Violet Hold pack as our competitors fight for a place in the knockout stage at BlizzCon!",
+    "image": "/media/campaigns/images/636139d9-1ea2-428d-8eae-75fd69720775.png",
+    "url": "https://hearthstone.blizzard.com/news/24294372",
+    "account_link": "https://account.battle.net/connections",
+    "twitch_campaign_id": "636139d9-1ea2-428d-8eae-75fd69720775"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -467,21 +482,6 @@
   {
     "game": "Legend of YMIR",
     "status": "live",
-    "campaign": "LOY DROPS_SSS (26_SEP)",
-    "start": "2026-09-08T09:00:00Z",
-    "end": "2026-09-29T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Share the loot, Share the glory.\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of Legend of YMIR showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/771ba310-56c6-4a12-94d2-a9deeca752e1.jpeg",
-    "url": "https://www.legendofymir.com/en/news/notice/754689",
-    "account_link": "https://www.legendofymir.com/mypage/account",
-    "twitch_campaign_id": "771ba310-56c6-4a12-94d2-a9deeca752e1"
-  },
-  {
-    "game": "Legend of YMIR",
-    "status": "live",
     "campaign": "LOY DROPS_ALL (26_SEP)",
     "start": "2026-09-08T09:00:00Z",
     "end": "2026-09-29T14:59:59.999Z",
@@ -495,19 +495,19 @@
     "twitch_campaign_id": "1c6330d1-3e5c-48a9-a07f-ee1058fe9765"
   },
   {
-    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "game": "Legend of YMIR",
     "status": "live",
-    "campaign": "Mayhem Collection - DC",
-    "start": "2026-09-01T07:00:00Z",
-    "end": "2026-09-20T06:59:59.999Z",
+    "campaign": "LOY DROPS_SSS (26_SEP)",
+    "start": "2026-09-08T09:00:00Z",
+    "end": "2026-09-29T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Celebrate the release of the LEGO Batman: Legacy of the Dark Knight Mayhem Collection with another opportunity to earn exclusive Twitch Drops!",
-    "image": "/media/campaigns/images/796bdad1-10fd-4294-8277-6783723e14ff.png",
-    "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
-    "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
-    "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
+    "description": "Share the loot, Share the glory.\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of Legend of YMIR showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/771ba310-56c6-4a12-94d2-a9deeca752e1.jpeg",
+    "url": "https://www.legendofymir.com/en/news/notice/754689",
+    "account_link": "https://www.legendofymir.com/mypage/account",
+    "twitch_campaign_id": "771ba310-56c6-4a12-94d2-a9deeca752e1"
   },
   {
     "game": "LEGO Batman: Legacy of the Dark Knight",
@@ -525,6 +525,21 @@
     "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
   },
   {
+    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "status": "live",
+    "campaign": "Mayhem Collection - DC",
+    "start": "2026-09-01T07:00:00Z",
+    "end": "2026-09-20T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate the release of the LEGO Batman: Legacy of the Dark Knight Mayhem Collection with another opportunity to earn exclusive Twitch Drops!",
+    "image": "/media/campaigns/images/796bdad1-10fd-4294-8277-6783723e14ff.png",
+    "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
+    "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
+    "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
+  },
+  {
     "game": "Lords Mobile",
     "status": "live",
     "campaign": "Twitch Drops",
@@ -540,19 +555,34 @@
     "twitch_campaign_id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d"
   },
   {
+    "game": "Madden NFL 27",
+    "status": "live",
+    "campaign": "Madden Free Play Weekend",
+    "start": "2026-09-10T17:00:00Z",
+    "end": "2026-09-14T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch your favorite creators play Madden NFL 27 and earn some Twitch Drops to power up your Ultimate Team!",
+    "image": "/media/campaigns/images/5a48536b-bd6c-4723-b95f-8db9b65ef713.png",
+    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+    "twitch_campaign_id": "5a48536b-bd6c-4723-b95f-8db9b65ef713"
+  },
+  {
     "game": "Marbles on Stream",
     "status": "live",
-    "campaign": "MarbleFest - Sept'26-Day3",
-    "start": "2026-09-09T14:00:00Z",
-    "end": "2026-09-10T12:59:59.999Z",
+    "campaign": "MarbleFest - Sept'26-Day4",
+    "start": "2026-09-10T13:00:00Z",
+    "end": "2026-09-11T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Marbles on Stream is the most welcoming stream interactive experience where a streamer can run the game and welcome anyone in their chat to participate with \"!play\". That's it!\n\nJoin in for exclusive prizes and keep an eye on our for how we evolve this event in the future. If you need assistance please join our discord. Discord.gg/pixelbypixelstudios ",
-    "image": "/media/campaigns/images/f91a5cf6-2bca-4dbe-9eef-cb30a1b23727.png",
+    "image": "/media/campaigns/images/fe0fc844-5df4-42e4-b020-1e7bbb2f81a5.png",
     "url": "https://pixelbypixel.studio/twitch-drops/",
     "account_link": "https://pixelbypixel.studio/twitch-drops/connect",
-    "twitch_campaign_id": "f91a5cf6-2bca-4dbe-9eef-cb30a1b23727"
+    "twitch_campaign_id": "fe0fc844-5df4-42e4-b020-1e7bbb2f81a5"
   },
   {
     "game": "MARVEL Contest of Champions",
@@ -692,6 +722,21 @@
   {
     "game": "Night Crows",
     "status": "live",
+    "campaign": "NC DROPS_SSS (26_SEP)",
+    "start": "2026-09-08T09:00:00Z",
+    "end": "2026-09-29T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Black Wings of Freedom  Your view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!  Join the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/0ea81c31-1547-485f-83c2-f93656dfa0fd.jpeg",
+    "url": "https://www.nightcrows.com/en/notice/notice/754719",
+    "account_link": "https://nightcrows.com/mypage/account",
+    "twitch_campaign_id": "0ea81c31-1547-485f-83c2-f93656dfa0fd"
+  },
+  {
+    "game": "Night Crows",
+    "status": "live",
     "campaign": "NC DROPS ALL (26_SEP)",
     "start": "2026-09-08T09:00:00Z",
     "end": "2026-09-29T14:59:59.999Z",
@@ -705,19 +750,19 @@
     "twitch_campaign_id": "e813f285-2992-4e0e-9b75-c20c2ec539a4"
   },
   {
-    "game": "Night Crows",
+    "game": "No Man's Sky",
     "status": "live",
-    "campaign": "NC DROPS_SSS (26_SEP)",
-    "start": "2026-09-08T09:00:00Z",
-    "end": "2026-09-29T14:59:59.999Z",
+    "campaign": "Cosmos - Day 1",
+    "start": "2026-09-10T13:00:00Z",
+    "end": "2026-09-11T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Black Wings of Freedom  Your view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!  Join the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/0ea81c31-1547-485f-83c2-f93656dfa0fd.jpeg",
-    "url": "https://www.nightcrows.com/en/notice/notice/754719",
-    "account_link": "https://nightcrows.com/mypage/account",
-    "twitch_campaign_id": "0ea81c31-1547-485f-83c2-f93656dfa0fd"
+    "description": "To celebrate the launch of Cosmos, the latest free update to No Man's Sky, any No Man's Sky streamer with \"Drops Enabled\" during the weekend of 10th to 14th September will unlock in-game rewards for their viewers, from fireworks and pets to multi-tools and starships. New drops will be enabled each day starting at 13:00 UTC for 24 hours.",
+    "image": "/media/campaigns/images/b62dd239-45f2-4eb7-8d26-10d4c773a838.png",
+    "url": "https://twitch.nomanssky.com",
+    "account_link": "https://twitch.nomanssky.com",
+    "twitch_campaign_id": "b62dd239-45f2-4eb7-8d26-10d4c773a838"
   },
   {
     "game": "Once Human",
@@ -752,17 +797,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate 9/9/26",
-    "start": "2026-09-09T13:00:00Z",
-    "end": "2026-09-10T12:59:59.999Z",
+    "campaign": "Affiliate 9/10/26",
+    "start": "2026-09-10T13:00:00Z",
+    "end": "2026-09-11T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/5ff97138-e8fe-4667-aeba-af4bbfda75d1.png",
+    "image": "/media/campaigns/images/5e687ba1-a332-4595-816e-dc1bf515dd66.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "5ff97138-e8fe-4667-aeba-af4bbfda75d1"
+    "twitch_campaign_id": "5e687ba1-a332-4595-816e-dc1bf515dd66"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -898,36 +943,6 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "90589949-1d2e-4161-8def-3aee51e1f721"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "ROW Drop 582",
-    "start": "2026-09-09T17:59:00Z",
-    "end": "2026-09-10T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/58092c7b-251d-4493-8ef0-521dfb2026b9.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "58092c7b-251d-4493-8ef0-521dfb2026b9"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "Mobile Drop 153",
-    "start": "2026-09-09T17:59:00Z",
-    "end": "2026-09-10T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/38fb241f-2ed4-4726-a8b5-b1886432bd39.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "38fb241f-2ed4-4726-a8b5-b1886432bd39"
   },
   {
     "game": "Shakes and Fidget",
@@ -1095,6 +1110,21 @@
     "twitch_campaign_id": "4185d21c-7dd1-41f8-9e8f-4f52c7b27622"
   },
   {
+    "game": "Splinterlands",
+    "status": "live",
+    "campaign": "September Week 2",
+    "start": "2026-09-08T17:00:00Z",
+    "end": "2026-09-22T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "September Week #2 Splinterlands Drop Campaign",
+    "image": "/media/campaigns/images/e8f6e3c6-acc1-41da-9204-fe204cc2a812.png",
+    "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
+    "account_link": "https://splinterlands.com/user/account-socials",
+    "twitch_campaign_id": "e8f6e3c6-acc1-41da-9204-fe204cc2a812"
+  },
+  {
     "game": "Super Animal Royale",
     "status": "live",
     "campaign": "SAR Highland Drops",
@@ -1108,6 +1138,21 @@
     "url": "https://animalroyale.com/",
     "account_link": "https://drops.animalroyale.com/",
     "twitch_campaign_id": "57c84a37-de55-4de4-ba40-331029d9cab7"
+  },
+  {
+    "game": "Tanki Online",
+    "status": "live",
+    "campaign": "WMR2 2026 R5 (1)",
+    "start": "2026-09-10T17:00:00Z",
+    "end": "2026-09-10T19:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Tanki Online eSports match livestreams and get Epic Keys in Tanki Online",
+    "image": "/media/campaigns/images/30f3a433-ae4b-4bca-bb1e-971cdb67c9c8.jpeg",
+    "url": "https://tankionline.com/",
+    "account_link": "https://tankionline.com/play/",
+    "twitch_campaign_id": "30f3a433-ae4b-4bca-bb1e-971cdb67c9c8"
   },
   {
     "game": "The Blood of Dawnwalker",
@@ -1217,6 +1262,21 @@
   {
     "game": "WARDOGS",
     "status": "live",
+    "campaign": "Early Access 0.1",
+    "start": "2026-09-10T16:00:00Z",
+    "end": "2026-09-14T02:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Get access to gear, equipment, vehicles, and weapons into your WARDOGS Vault by watching streamers play WARDOGS.",
+    "image": "/media/campaigns/images/6c1160a5-10df-40bc-934a-eae97437b3ab.png",
+    "url": "https://drops.wardogs.com",
+    "account_link": "https://account.wardogs.com",
+    "twitch_campaign_id": "6c1160a5-10df-40bc-934a-eae97437b3ab"
+  },
+  {
+    "game": "WARDOGS",
+    "status": "live",
     "campaign": "WARDOGS Beta & Launch",
     "start": "2026-09-03T18:00:00Z",
     "end": "2026-09-30T17:59:59.999Z",
@@ -1258,6 +1318,21 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "def0cb17-fb59-46f3-95cd-770eb7f37ccf"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "AMD OLS#7 Phase 1 Day 2",
+    "start": "2026-09-10T16:00:00Z",
+    "end": "2026-09-10T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "AMD OLS#7 Phase 1 Day 2",
+    "image": "/media/campaigns/images/d49c950e-dcb8-4866-80b4-cd1ce3c758bf.png",
+    "url": "https://worldoftanks.eu/news/live-streams/token-store-september-2026/",
+    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+    "twitch_campaign_id": "d49c950e-dcb8-4866-80b4-cd1ce3c758bf"
   },
   {
     "game": "World of Tanks",
@@ -1307,17 +1382,17 @@
   {
     "game": "World of Warships",
     "status": "live",
-    "campaign": "15.8 Salt for Subs #1",
-    "start": "2026-09-10T06:00:00Z",
-    "end": "2026-09-17T05:59:59.999Z",
+    "campaign": "Update 15.8 Drop: Week 1",
+    "start": "2026-09-10T15:00:00Z",
+    "end": "2026-09-17T15:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
-    "image": "/media/campaigns/images/3fda61e2-5f57-4af7-92c8-56795d6b1f9e.png",
+    "image": "/media/campaigns/images/0ff7b58a-7b48-4d82-8e14-f833a5ba9195.png",
     "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
     "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "3fda61e2-5f57-4af7-92c8-56795d6b1f9e"
+    "twitch_campaign_id": "0ff7b58a-7b48-4d82-8e14-f833a5ba9195"
   },
   {
     "game": "World of Warships",
@@ -1333,6 +1408,21 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "bb8e3c61-a2b7-4d11-9f60-1f79160b3418"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "15.8 Salt for Subs #1",
+    "start": "2026-09-10T06:00:00Z",
+    "end": "2026-09-17T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
+    "image": "/media/campaigns/images/3fda61e2-5f57-4af7-92c8-56795d6b1f9e.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "3fda61e2-5f57-4af7-92c8-56795d6b1f9e"
   },
   {
     "game": "World of Warships",
