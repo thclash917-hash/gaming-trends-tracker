@@ -17,32 +17,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 2 - #4/7",
-    "start": "2026-09-10T10:00:00Z",
-    "end": "2026-09-11T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/f9864f1b-1de0-49c0-a5b4-3810aaa999ab.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "f9864f1b-1de0-49c0-a5b4-3810aaa999ab"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "Dragonfire 2 - #4/7",
-    "start": "2026-09-10T10:00:00Z",
-    "end": "2026-09-11T09:29:59.999Z",
+    "campaign": "Dragonfire 2 - #5/7",
+    "start": "2026-09-11T10:00:00Z",
+    "end": "2026-09-12T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/0d965472-4715-43f0-81f0-c756e2892d9b.png",
+    "image": "/media/campaigns/images/9feeda3c-39ca-425d-8ff4-a67d3c2348f9.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "0d965472-4715-43f0-81f0-c756e2892d9b"
+    "twitch_campaign_id": "9feeda3c-39ca-425d-8ff4-a67d3c2348f9"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 2 - #5/7",
+    "start": "2026-09-11T10:00:00Z",
+    "end": "2026-09-12T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/c6df9132-c054-4de2-a63e-50ac7bb729cd.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "c6df9132-c054-4de2-a63e-50ac7bb729cd"
   },
   {
     "game": "ARC Raiders",
@@ -77,17 +77,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "2026 BDO Drops (Sep 10)",
-    "start": "2026-09-10T12:00:00Z",
-    "end": "2026-09-11T11:59:59.999Z",
+    "campaign": "2026 BDO Drops (Sep 11)",
+    "start": "2026-09-11T12:00:00Z",
+    "end": "2026-09-12T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/7ab1b3b0-9c61-49f9-8d14-3faef536dc63.png",
+    "image": "/media/campaigns/images/9a00b794-bd4c-4b3b-b090-faa7769b51ba.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
     "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "7ab1b3b0-9c61-49f9-8d14-3faef536dc63"
+    "twitch_campaign_id": "9a00b794-bd4c-4b3b-b090-faa7769b51ba"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -118,6 +118,21 @@
     "url": "https://littygames.net/drops",
     "account_link": "https://littygames.net/drops",
     "twitch_campaign_id": "1f01d5b8-ae8a-4c70-8d2a-cc94e2bb135f"
+  },
+  {
+    "game": "Contractors Showdown: ExfilZone",
+    "status": "live",
+    "campaign": "EZ Campaign 1",
+    "start": "2026-09-11T12:00:00Z",
+    "end": "2026-09-12T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "EZ Campaign 1",
+    "image": "/media/campaigns/images/d1219cdd-76d2-4644-9a06-64eaee50b646.png",
+    "url": "https://connect.contractorsvr.com",
+    "account_link": "https://connect.contractorsvr.com",
+    "twitch_campaign_id": "d1219cdd-76d2-4644-9a06-64eaee50b646"
   },
   {
     "game": "Delta Force",
@@ -497,21 +512,6 @@
   {
     "game": "LEGO Batman: Legacy of the Dark Knight",
     "status": "live",
-    "campaign": "Mayhem Collection - DC",
-    "start": "2026-09-01T07:00:00Z",
-    "end": "2026-09-20T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate the release of the LEGO Batman: Legacy of the Dark Knight Mayhem Collection with another opportunity to earn exclusive Twitch Drops!",
-    "image": "/media/campaigns/images/796bdad1-10fd-4294-8277-6783723e14ff.png",
-    "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
-    "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
-    "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
-  },
-  {
-    "game": "LEGO Batman: Legacy of the Dark Knight",
-    "status": "live",
     "campaign": "Harley Mayhem",
     "start": "2026-09-01T07:00:00Z",
     "end": "2026-09-20T06:59:59.999Z",
@@ -523,6 +523,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
+  },
+  {
+    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "status": "live",
+    "campaign": "Mayhem Collection - DC",
+    "start": "2026-09-01T07:00:00Z",
+    "end": "2026-09-20T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate the release of the LEGO Batman: Legacy of the Dark Knight Mayhem Collection with another opportunity to earn exclusive Twitch Drops!",
+    "image": "/media/campaigns/images/796bdad1-10fd-4294-8277-6783723e14ff.png",
+    "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
+    "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
+    "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
   },
   {
     "game": "Lords Mobile",
@@ -583,6 +598,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "57d28902-3e1f-4430-8414-2a6b714e56ba"
+  },
+  {
+    "game": "Marvel Rivals",
+    "status": "live",
+    "campaign": "Season 10 Twitch Drops",
+    "start": "2026-09-11T12:00:00Z",
+    "end": "2026-10-09T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune into your favorite streamers and gain exclusive twitch drops",
+    "image": "/media/campaigns/images/87301354-542a-4bd8-b44e-5b21cc2fe2dd.png",
+    "url": "https://www.marvelrivals.com/twitchdrops/",
+    "account_link": "https://www.marvelrivals.com/twitchdrops/",
+    "twitch_campaign_id": "87301354-542a-4bd8-b44e-5b21cc2fe2dd"
   },
   {
     "game": "MARVEL Strike Force",
@@ -947,21 +977,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 583",
-    "start": "2026-09-10T17:59:00Z",
-    "end": "2026-09-11T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/9849bce3-8af6-48f2-8a0e-632adebd9e8f.jpeg",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "9849bce3-8af6-48f2-8a0e-632adebd9e8f"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "Mobile Drop 154",
     "start": "2026-09-10T17:59:00Z",
     "end": "2026-09-11T17:56:59.999Z",
@@ -973,6 +988,21 @@
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "4ff06764-fdbc-4eeb-8d15-4d72ae014f3c"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 583",
+    "start": "2026-09-10T17:59:00Z",
+    "end": "2026-09-11T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/9849bce3-8af6-48f2-8a0e-632adebd9e8f.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "9849bce3-8af6-48f2-8a0e-632adebd9e8f"
   },
   {
     "game": "Shakes and Fidget",
@@ -1382,21 +1412,6 @@
   {
     "game": "World of Warships",
     "status": "live",
-    "campaign": "15.8 Worth Their Salt #1",
-    "start": "2026-09-10T06:00:00Z",
-    "end": "2026-09-17T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
-    "image": "/media/campaigns/images/bb8e3c61-a2b7-4d11-9f60-1f79160b3418.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "bb8e3c61-a2b7-4d11-9f60-1f79160b3418"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
     "campaign": "15.8 Salt for Subs #1",
     "start": "2026-09-10T06:00:00Z",
     "end": "2026-09-17T05:59:59.999Z",
@@ -1408,6 +1423,21 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "3fda61e2-5f57-4af7-92c8-56795d6b1f9e"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "15.8 Worth Their Salt #1",
+    "start": "2026-09-10T06:00:00Z",
+    "end": "2026-09-17T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
+    "image": "/media/campaigns/images/bb8e3c61-a2b7-4d11-9f60-1f79160b3418.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "bb8e3c61-a2b7-4d11-9f60-1f79160b3418"
   },
   {
     "game": "World of Warships",
