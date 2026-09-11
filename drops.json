@@ -482,21 +482,6 @@
   {
     "game": "Legend of YMIR",
     "status": "live",
-    "campaign": "LOY DROPS_ALL (26_SEP)",
-    "start": "2026-09-08T09:00:00Z",
-    "end": "2026-09-29T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Share the loot, Share the glory.\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of Legend of YMIR showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/1c6330d1-3e5c-48a9-a07f-ee1058fe9765.jpeg",
-    "url": "https://www.legendofymir.com/en/news/notice/754689",
-    "account_link": "https://www.legendofymir.com/mypage/account",
-    "twitch_campaign_id": "1c6330d1-3e5c-48a9-a07f-ee1058fe9765"
-  },
-  {
-    "game": "Legend of YMIR",
-    "status": "live",
     "campaign": "LOY DROPS_SSS (26_SEP)",
     "start": "2026-09-08T09:00:00Z",
     "end": "2026-09-29T14:59:59.999Z",
@@ -510,19 +495,19 @@
     "twitch_campaign_id": "771ba310-56c6-4a12-94d2-a9deeca752e1"
   },
   {
-    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "game": "Legend of YMIR",
     "status": "live",
-    "campaign": "Harley Mayhem",
-    "start": "2026-09-01T07:00:00Z",
-    "end": "2026-09-20T06:59:59.999Z",
+    "campaign": "LOY DROPS_ALL (26_SEP)",
+    "start": "2026-09-08T09:00:00Z",
+    "end": "2026-09-29T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!",
-    "image": "/media/campaigns/images/7d64c672-6183-425b-92e2-57546404f25c.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
+    "description": "Share the loot, Share the glory.\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of Legend of YMIR showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/1c6330d1-3e5c-48a9-a07f-ee1058fe9765.jpeg",
+    "url": "https://www.legendofymir.com/en/news/notice/754689",
+    "account_link": "https://www.legendofymir.com/mypage/account",
+    "twitch_campaign_id": "1c6330d1-3e5c-48a9-a07f-ee1058fe9765"
   },
   {
     "game": "LEGO Batman: Legacy of the Dark Knight",
@@ -538,6 +523,21 @@
     "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
     "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
     "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
+  },
+  {
+    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "status": "live",
+    "campaign": "Harley Mayhem",
+    "start": "2026-09-01T07:00:00Z",
+    "end": "2026-09-20T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!",
+    "image": "/media/campaigns/images/7d64c672-6183-425b-92e2-57546404f25c.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
   },
   {
     "game": "Lords Mobile",
@@ -722,21 +722,6 @@
   {
     "game": "Night Crows",
     "status": "live",
-    "campaign": "NC DROPS_SSS (26_SEP)",
-    "start": "2026-09-08T09:00:00Z",
-    "end": "2026-09-29T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Black Wings of Freedom  Your view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!  Join the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/0ea81c31-1547-485f-83c2-f93656dfa0fd.jpeg",
-    "url": "https://www.nightcrows.com/en/notice/notice/754719",
-    "account_link": "https://nightcrows.com/mypage/account",
-    "twitch_campaign_id": "0ea81c31-1547-485f-83c2-f93656dfa0fd"
-  },
-  {
-    "game": "Night Crows",
-    "status": "live",
     "campaign": "NC DROPS ALL (26_SEP)",
     "start": "2026-09-08T09:00:00Z",
     "end": "2026-09-29T14:59:59.999Z",
@@ -748,6 +733,21 @@
     "url": "https://www.nightcrows.com/en/notice/notice/754719",
     "account_link": "https://nightcrows.com/mypage/account",
     "twitch_campaign_id": "e813f285-2992-4e0e-9b75-c20c2ec539a4"
+  },
+  {
+    "game": "Night Crows",
+    "status": "live",
+    "campaign": "NC DROPS_SSS (26_SEP)",
+    "start": "2026-09-08T09:00:00Z",
+    "end": "2026-09-29T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Black Wings of Freedom  Your view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!  Join the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/0ea81c31-1547-485f-83c2-f93656dfa0fd.jpeg",
+    "url": "https://www.nightcrows.com/en/notice/notice/754719",
+    "account_link": "https://nightcrows.com/mypage/account",
+    "twitch_campaign_id": "0ea81c31-1547-485f-83c2-f93656dfa0fd"
   },
   {
     "game": "No Man's Sky",
@@ -855,6 +855,21 @@
     "twitch_campaign_id": "9ff2d241-3b92-4f86-b625-1362dbbdbafc"
   },
   {
+    "game": "Path of Exile",
+    "status": "live",
+    "campaign": "PoE1 ExileCon 2/4",
+    "start": "2026-09-10T21:00:00Z",
+    "end": "2026-09-11T20:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Cheer on your favorite competitor to claim the Scavenger Helmet.",
+    "image": "/media/campaigns/images/8a782101-a1b3-4d58-8835-374455319c4c.png",
+    "url": "https://www.pathofexile.com/twitchdrops",
+    "account_link": "https://www.pathofexile.com/my-account/twitch",
+    "twitch_campaign_id": "8a782101-a1b3-4d58-8835-374455319c4c"
+  },
+  {
     "game": "Path of Exile 2",
     "status": "live",
     "campaign": "0.5.5 Launch Drops",
@@ -945,6 +960,36 @@
     "twitch_campaign_id": "90589949-1d2e-4161-8def-3aee51e1f721"
   },
   {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 154",
+    "start": "2026-09-10T17:59:00Z",
+    "end": "2026-09-11T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/4ff06764-fdbc-4eeb-8d15-4d72ae014f3c.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "4ff06764-fdbc-4eeb-8d15-4d72ae014f3c"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 583",
+    "start": "2026-09-10T17:59:00Z",
+    "end": "2026-09-11T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/9849bce3-8af6-48f2-8a0e-632adebd9e8f.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "9849bce3-8af6-48f2-8a0e-632adebd9e8f"
+  },
+  {
     "game": "Shakes and Fidget",
     "status": "live",
     "campaign": "S&F Drops 2/3",
@@ -973,21 +1018,6 @@
     "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
     "account_link": "https://sfgame.net/",
     "twitch_campaign_id": "0e143bca-9a05-43ca-8e78-430f27352814"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Droplets",
-    "start": "2026-09-04T14:00:00Z",
-    "end": "2026-09-10T21:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Droplets are additional drops to our main drop campaigns.",
-    "image": "/media/campaigns/images/5745990b-ede0-4b6f-a3a1-789d1b913d5a.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "5745990b-ede0-4b6f-a3a1-789d1b913d5a"
   },
   {
     "game": "Sid Meier's Civilization VII",
@@ -1140,21 +1170,6 @@
     "twitch_campaign_id": "57c84a37-de55-4de4-ba40-331029d9cab7"
   },
   {
-    "game": "Tanki Online",
-    "status": "live",
-    "campaign": "WMR2 2026 R5 (1)",
-    "start": "2026-09-10T17:00:00Z",
-    "end": "2026-09-10T19:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Tanki Online eSports match livestreams and get Epic Keys in Tanki Online",
-    "image": "/media/campaigns/images/30f3a433-ae4b-4bca-bb1e-971cdb67c9c8.jpeg",
-    "url": "https://tankionline.com/",
-    "account_link": "https://tankionline.com/play/",
-    "twitch_campaign_id": "30f3a433-ae4b-4bca-bb1e-971cdb67c9c8"
-  },
-  {
     "game": "The Blood of Dawnwalker",
     "status": "live",
     "campaign": "Dawnwalker Launch",
@@ -1203,16 +1218,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "September Drops",
-    "start": "2026-09-10T00:00:00Z",
-    "end": "2026-09-10T23:59:59.999Z",
+    "start": "2026-09-11T00:00:00Z",
+    "end": "2026-09-11T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/77d32ba4-f7aa-446d-a56c-2d2391df9335.png",
+    "image": "/media/campaigns/images/e1cd9250-bf5c-4156-8550-1768e3194724.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "77d32ba4-f7aa-446d-a56c-2d2391df9335"
+    "twitch_campaign_id": "e1cd9250-bf5c-4156-8550-1768e3194724"
   },
   {
     "game": "The Seven Deadly Sins: Origin",
@@ -1318,21 +1333,6 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "def0cb17-fb59-46f3-95cd-770eb7f37ccf"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "AMD OLS#7 Phase 1 Day 2",
-    "start": "2026-09-10T16:00:00Z",
-    "end": "2026-09-10T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "AMD OLS#7 Phase 1 Day 2",
-    "image": "/media/campaigns/images/d49c950e-dcb8-4866-80b4-cd1ce3c758bf.png",
-    "url": "https://worldoftanks.eu/news/live-streams/token-store-september-2026/",
-    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-    "twitch_campaign_id": "d49c950e-dcb8-4866-80b4-cd1ce3c758bf"
   },
   {
     "game": "World of Tanks",
