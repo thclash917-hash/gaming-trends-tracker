@@ -300,21 +300,6 @@
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
   },
   {
-    "game": "Hearthstone",
-    "status": "live",
-    "campaign": "HS Worlds 26 Groups Day 3",
-    "start": "2026-09-10T16:00:00Z",
-    "end": "2026-09-11T00:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The Hearthstone World Championship is here! During the group stage watch for an hour each day to earn 1 Escape from Violet Hold pack as our competitors fight for a place in the knockout stage at BlizzCon!",
-    "image": "/media/campaigns/images/636139d9-1ea2-428d-8eae-75fd69720775.png",
-    "url": "https://hearthstone.blizzard.com/news/24294372",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "636139d9-1ea2-428d-8eae-75fd69720775"
-  },
-  {
     "game": "HITMAN World of Assassination",
     "status": "live",
     "campaign": "The Herbalist #2",
@@ -962,21 +947,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 154",
-    "start": "2026-09-10T17:59:00Z",
-    "end": "2026-09-11T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/4ff06764-fdbc-4eeb-8d15-4d72ae014f3c.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "4ff06764-fdbc-4eeb-8d15-4d72ae014f3c"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "ROW Drop 583",
     "start": "2026-09-10T17:59:00Z",
     "end": "2026-09-11T17:56:59.999Z",
@@ -988,6 +958,21 @@
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "9849bce3-8af6-48f2-8a0e-632adebd9e8f"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 154",
+    "start": "2026-09-10T17:59:00Z",
+    "end": "2026-09-11T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/4ff06764-fdbc-4eeb-8d15-4d72ae014f3c.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "4ff06764-fdbc-4eeb-8d15-4d72ae014f3c"
   },
   {
     "game": "Shakes and Fidget",
