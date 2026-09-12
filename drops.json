@@ -180,21 +180,6 @@
     "twitch_campaign_id": "91c93cc2-c8cd-4538-8223-994461284d44"
   },
   {
-    "game": "Dofus",
-    "status": "live",
-    "campaign": "Ivory Token",
-    "start": "2026-09-11T14:00:00Z",
-    "end": "2026-09-11T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "As you've probably guessed if you've been watching our livestreams in recent months, this Ankama Live is a chance for you to get an Ivory token via Twitch Drops! To collect it, just watch the livestream on AnkamaLive for 30 minutes. To receive your Twitch Drops, you must link your Twitch and Ankama accounts. And once you've got your token, go and spin the wheel in the Ankama Launcher and Krosmoz app!",
-    "image": "/media/campaigns/images/276dd33c-1c7f-47f2-a0ca-8677a7fd47eb.png",
-    "url": "https://account.ankama.com/fr/twitch",
-    "account_link": "https://account.ankama.com/fr/twitch",
-    "twitch_campaign_id": "276dd33c-1c7f-47f2-a0ca-8677a7fd47eb"
-  },
-  {
     "game": "Doomsday: Last Survivors",
     "status": "live",
     "campaign": "Twitch Drops",
@@ -495,21 +480,6 @@
     "twitch_campaign_id": "9b86cdad-631c-4fc9-bff8-ce1c13e75444"
   },
   {
-    "game": "Krunker",
-    "status": "live",
-    "campaign": "September Spins Update",
-    "start": "2026-09-02T16:30:00Z",
-    "end": "2026-09-11T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The new September Spin Update is now live! \nPlay Krunker and Spin your way into awesome skins!",
-    "image": "/media/campaigns/images/273782f3-2251-4510-9d8f-920b37f6b7bb.png",
-    "url": "https://krunker.io/",
-    "account_link": "https://krunker.io/?twitch_auth",
-    "twitch_campaign_id": "273782f3-2251-4510-9d8f-920b37f6b7bb"
-  },
-  {
     "game": "League of Legends",
     "status": "live",
     "campaign": "Split 3 - Sub Drop (Pt.2)",
@@ -632,21 +602,6 @@
   {
     "game": "MARVEL Contest of Champions",
     "status": "live",
-    "campaign": "September Week 2 - CCP",
-    "start": "2026-09-11T17:00:00Z",
-    "end": "2026-09-18T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/b9a06b09-c07f-4390-8271-913c215b64f1.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "b9a06b09-c07f-4390-8271-913c215b64f1"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
     "campaign": "September Week 2",
     "start": "2026-09-11T17:00:00Z",
     "end": "2026-09-18T16:44:59.999Z",
@@ -658,6 +613,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "1ddc3cde-7cc0-45b5-ad54-a97bff2e30a1"
+  },
+  {
+    "game": "MARVEL Contest of Champions",
+    "status": "live",
+    "campaign": "September Week 2 - CCP",
+    "start": "2026-09-11T17:00:00Z",
+    "end": "2026-09-18T16:44:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
+    "image": "/media/campaigns/images/b9a06b09-c07f-4390-8271-913c215b64f1.png",
+    "url": "https://kid.kabam.com/v1/kid/account/login",
+    "account_link": "https://kid.kabam.com/v1/kid/account/login",
+    "twitch_campaign_id": "b9a06b09-c07f-4390-8271-913c215b64f1"
   },
   {
     "game": "Marvel Rivals",
@@ -943,36 +913,6 @@
     "url": "https://palia.com/news/206-twitch-drops",
     "account_link": "https://accounts.palia.com",
     "twitch_campaign_id": "9ff2d241-3b92-4f86-b625-1362dbbdbafc"
-  },
-  {
-    "game": "Path of Exile",
-    "status": "live",
-    "campaign": "PoE1 ExileCon 2/4",
-    "start": "2026-09-10T21:00:00Z",
-    "end": "2026-09-11T20:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Cheer on your favorite competitor to claim the Scavenger Helmet.",
-    "image": "/media/campaigns/images/8a782101-a1b3-4d58-8835-374455319c4c.png",
-    "url": "https://www.pathofexile.com/twitchdrops",
-    "account_link": "https://www.pathofexile.com/my-account/twitch",
-    "twitch_campaign_id": "8a782101-a1b3-4d58-8835-374455319c4c"
-  },
-  {
-    "game": "Path of Exile 2",
-    "status": "live",
-    "campaign": "0.5.5 Launch Drops",
-    "start": "2026-09-04T20:00:00Z",
-    "end": "2026-09-11T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate the launch of Path of Exile 2: Forbidden Rites with us! Watch and earn the Balde of the Champion Pet.",
-    "image": "/media/campaigns/images/c00d237b-f273-4baf-9ea3-17e8d0a4be11.png",
-    "url": "https://www.pathofexile.com/twitchdrops",
-    "account_link": "https://www.pathofexile.com/my-account/twitch",
-    "twitch_campaign_id": "c00d237b-f273-4baf-9ea3-17e8d0a4be11"
   },
   {
     "game": "Rainbow Six Siege",
@@ -1290,21 +1230,6 @@
     "twitch_campaign_id": "57c84a37-de55-4de4-ba40-331029d9cab7"
   },
   {
-    "game": "Tanki Online",
-    "status": "live",
-    "campaign": "WMR2 2026 R5 (2)",
-    "start": "2026-09-11T17:00:00Z",
-    "end": "2026-09-11T19:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Tanki Online eSports match livestreams and get Epic Keys in Tanki Online",
-    "image": "/media/campaigns/images/de783060-9a10-40be-8f3a-c84ac35331f8.jpeg",
-    "url": "https://tankionline.com/",
-    "account_link": "https://tankionline.com/play/",
-    "twitch_campaign_id": "de783060-9a10-40be-8f3a-c84ac35331f8"
-  },
-  {
     "game": "The Blood of Dawnwalker",
     "status": "live",
     "campaign": "Dawnwalker Launch",
@@ -1348,21 +1273,6 @@
     "url": "https://tfd.nexon.com/drops/twitch",
     "account_link": "https://tfd.nexon.com/drops/twitch",
     "twitch_campaign_id": "2627f082-1448-4a4b-a721-41e942aa5bc6"
-  },
-  {
-    "game": "The Quinfall",
-    "status": "live",
-    "campaign": "September Drops",
-    "start": "2026-09-11T00:00:00Z",
-    "end": "2026-09-11T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/e1cd9250-bf5c-4156-8550-1768e3194724.png",
-    "url": "https://www.quinfall.com/twitch-drops",
-    "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "e1cd9250-bf5c-4156-8550-1768e3194724"
   },
   {
     "game": "The Seven Deadly Sins: Origin",
@@ -1438,6 +1348,21 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "aa82829e-9f3c-4572-a120-39d2eb36729b"
+  },
+  {
+    "game": "Warframe",
+    "status": "live",
+    "campaign": "Community Drops #215",
+    "start": "2026-09-11T23:00:00Z",
+    "end": "2026-09-12T00:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch KenshinWF for 30 minutes to receive a Domestik Caliber Drone decoration!",
+    "image": "/media/campaigns/images/a355b707-775e-4f81-a3e9-d0bdc7feff36.jpeg",
+    "url": "https://forums.warframe.com/topic/1522823-community-stream-schedule-september-8-13-prime-time-postponed/",
+    "account_link": "https://www.warframe.com/user",
+    "twitch_campaign_id": "a355b707-775e-4f81-a3e9-d0bdc7feff36"
   },
   {
     "game": "Where Winds Meet",
@@ -1562,21 +1487,6 @@
   {
     "game": "World of Warships",
     "status": "live",
-    "campaign": "15.8 Salt for Subs #1",
-    "start": "2026-09-10T06:00:00Z",
-    "end": "2026-09-17T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
-    "image": "/media/campaigns/images/3fda61e2-5f57-4af7-92c8-56795d6b1f9e.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "3fda61e2-5f57-4af7-92c8-56795d6b1f9e"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
     "campaign": "15.8 Worth Their Salt #1",
     "start": "2026-09-10T06:00:00Z",
     "end": "2026-09-17T05:59:59.999Z",
@@ -1588,6 +1498,21 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "bb8e3c61-a2b7-4d11-9f60-1f79160b3418"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "15.8 Salt for Subs #1",
+    "start": "2026-09-10T06:00:00Z",
+    "end": "2026-09-17T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
+    "image": "/media/campaigns/images/3fda61e2-5f57-4af7-92c8-56795d6b1f9e.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "3fda61e2-5f57-4af7-92c8-56795d6b1f9e"
   },
   {
     "game": "World of Warships",
