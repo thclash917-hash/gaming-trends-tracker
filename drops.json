@@ -17,32 +17,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 2 - #6/7",
-    "start": "2026-09-12T10:00:00Z",
-    "end": "2026-09-13T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/ab4e4ceb-d7dd-4f6a-8f82-5ebb0e053333.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "ab4e4ceb-d7dd-4f6a-8f82-5ebb0e053333"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "Dragonfire 2 - #6/7",
-    "start": "2026-09-12T10:00:00Z",
-    "end": "2026-09-13T09:29:59.999Z",
+    "campaign": "Dragonfire 2 - #7/7",
+    "start": "2026-09-13T10:00:00Z",
+    "end": "2026-09-14T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/ffe59f26-3307-4892-afbd-6938e2058ed9.png",
+    "image": "/media/campaigns/images/935f6a65-7eb8-41dc-b672-59a5fcbe75eb.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "ffe59f26-3307-4892-afbd-6938e2058ed9"
+    "twitch_campaign_id": "935f6a65-7eb8-41dc-b672-59a5fcbe75eb"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 2 - #7/7",
+    "start": "2026-09-13T10:00:00Z",
+    "end": "2026-09-14T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/84e68238-c6fe-402a-aedf-2db18c1e7759.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "84e68238-c6fe-402a-aedf-2db18c1e7759"
   },
   {
     "game": "Apex Legends",
@@ -88,21 +88,6 @@
     "url": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "account_link": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "twitch_campaign_id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "2026 BDO Drops (Sep 12)",
-    "start": "2026-09-12T12:00:00Z",
-    "end": "2026-09-13T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/ef3fb880-49d4-4ff0-a4d7-826012d19229.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "ef3fb880-49d4-4ff0-a4d7-826012d19229"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -285,6 +270,21 @@
     "twitch_campaign_id": "a3f7a56a-f943-46d2-a780-3700684883f1"
   },
   {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "EJC S12 Phase 1 - Day 2",
+    "start": "2026-09-13T07:30:00Z",
+    "end": "2026-09-13T13:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/9cff02fd-d66b-449b-aca2-1196e6061c36.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "9cff02fd-d66b-449b-aca2-1196e6061c36"
+  },
+  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "ATXXII Preliminaries W3",
@@ -298,21 +298,6 @@
     "url": "https://www.eveonline.com/twitch",
     "account_link": "https://www.eveonline.com/twitch",
     "twitch_campaign_id": "3b352412-f24e-4602-ae88-3e893fd917d2"
-  },
-  {
-    "game": "EVE Online",
-    "status": "live",
-    "campaign": "Union Day 2026 Drop 4",
-    "start": "2026-09-09T11:02:00Z",
-    "end": "2026-09-13T10:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Some EverMarks to get emblems for your favorite ships!",
-    "image": "/media/campaigns/images/91f3c658-5d3f-4ad1-85e0-bab63b1a34c1.jpeg",
-    "url": "https://www.eveonline.com/twitch",
-    "account_link": "https://www.eveonline.com/twitch",
-    "twitch_campaign_id": "91f3c658-5d3f-4ad1-85e0-bab63b1a34c1"
   },
   {
     "game": "For Honor",
@@ -403,6 +388,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://twitch.tv",
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
+  },
+  {
+    "game": "Halo Infinite",
+    "status": "live",
+    "campaign": "LVTProLeague-SEP13",
+    "start": "2026-09-13T11:00:00Z",
+    "end": "2026-09-14T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
+    "image": "/media/campaigns/images/c84ce565-b7a9-42ee-9c7d-fca39d9d0ed6.png",
+    "url": "https://www.halowaypoint.com",
+    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
+    "twitch_campaign_id": "c84ce565-b7a9-42ee-9c7d-fca39d9d0ed6"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -932,21 +932,6 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Carini 9/12/26",
-    "start": "2026-09-12T13:00:00Z",
-    "end": "2026-09-13T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/3c64b051-71c9-4843-9541-13f33b618da0.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "3c64b051-71c9-4843-9541-13f33b618da0"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
     "campaign": "CWhit 9/12/26",
     "start": "2026-09-12T13:00:00Z",
     "end": "2026-09-13T12:59:59.999Z",
@@ -958,21 +943,6 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "729d9818-f061-4720-9841-ecf0c91f025c"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
-    "campaign": "Aydubby 9/12/26",
-    "start": "2026-09-12T13:00:00Z",
-    "end": "2026-09-13T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/53f5fb8d-d38e-4420-bb41-7636dd337d91.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "53f5fb8d-d38e-4420-bb41-7636dd337d91"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -992,17 +962,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "FTM 9/12/26",
+    "campaign": "Aydubby 9/12/26",
     "start": "2026-09-12T13:00:00Z",
     "end": "2026-09-13T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/3eafeba6-be37-42ee-8a96-74f6d12f9e73.png",
+    "image": "/media/campaigns/images/53f5fb8d-d38e-4420-bb41-7636dd337d91.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "3eafeba6-be37-42ee-8a96-74f6d12f9e73"
+    "twitch_campaign_id": "53f5fb8d-d38e-4420-bb41-7636dd337d91"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1018,6 +988,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "cea24e49-7569-458c-bdbc-2f951470c10f"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "FTM 9/12/26",
+    "start": "2026-09-12T13:00:00Z",
+    "end": "2026-09-13T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/3eafeba6-be37-42ee-8a96-74f6d12f9e73.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "3eafeba6-be37-42ee-8a96-74f6d12f9e73"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1048,6 +1033,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "43f2f757-64f7-455d-ab04-995d6bfc85e4"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "Carini 9/12/26",
+    "start": "2026-09-12T13:00:00Z",
+    "end": "2026-09-13T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/3c64b051-71c9-4843-9541-13f33b618da0.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "3c64b051-71c9-4843-9541-13f33b618da0"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1637,21 +1637,6 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "First Deployment #3",
-    "start": "2026-09-11T15:00:00Z",
-    "end": "2026-09-14T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "First Deployment #3",
-    "image": "/media/campaigns/images/f3e8e677-13d3-4818-ad83-2794e988e2c6.jpeg",
-    "url": "https://worldoftanks.eu/news/specials/first-deployment-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "f3e8e677-13d3-4818-ad83-2794e988e2c6"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
     "campaign": "Mailand & MouzAkrobat",
     "start": "2026-09-11T15:00:00Z",
     "end": "2026-09-13T14:59:59.999Z",
@@ -1663,6 +1648,21 @@
     "url": "https://worldoftanks.eu/news/specials/first-deployment-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "72a393cb-7bff-44ec-8c8f-c5601268caa7"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "First Deployment #3",
+    "start": "2026-09-11T15:00:00Z",
+    "end": "2026-09-14T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "First Deployment #3",
+    "image": "/media/campaigns/images/f3e8e677-13d3-4818-ad83-2794e988e2c6.jpeg",
+    "url": "https://worldoftanks.eu/news/specials/first-deployment-2026/",
+    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
+    "twitch_campaign_id": "f3e8e677-13d3-4818-ad83-2794e988e2c6"
   },
   {
     "game": "World of Tanks Console",
