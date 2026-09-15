@@ -17,21 +17,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 3 - #1/7",
-    "start": "2026-09-14T10:00:00Z",
-    "end": "2026-09-15T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/9c195f89-7ac5-463f-b732-ef70b7c4a70c.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "9c195f89-7ac5-463f-b732-ef70b7c4a70c"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "Dragonfire 3 - #1/7",
     "start": "2026-09-14T10:00:00Z",
     "end": "2026-09-15T09:29:59.999Z",
@@ -43,6 +28,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "42f794b4-6b53-4926-a4a9-19f3b1ed4a1a"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 3 - #1/7",
+    "start": "2026-09-14T10:00:00Z",
+    "end": "2026-09-15T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/9c195f89-7ac5-463f-b732-ef70b7c4a70c.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "9c195f89-7ac5-463f-b732-ef70b7c4a70c"
   },
   {
     "game": "ARC Raiders",
@@ -298,21 +298,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://twitch.tv",
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
-  },
-  {
-    "game": "Halo Infinite",
-    "status": "live",
-    "campaign": "LATAM Halo Night-SEP14",
-    "start": "2026-09-14T19:00:00Z",
-    "end": "2026-09-15T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
-    "image": "/media/campaigns/images/c24dfd48-4204-4515-8b69-ae68de6ce13f.png",
-    "url": "https://www.halowaypoint.com",
-    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
-    "twitch_campaign_id": "c24dfd48-4204-4515-8b69-ae68de6ce13f"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -632,21 +617,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Lestakorabli - 26.9 #5",
-    "start": "2026-09-14T14:00:00Z",
-    "end": "2026-09-15T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Эсминец IX Velos;\n• Крейсер VIII Bayard;\n• Линкор VIII «Бородино».\n\nЗа просмотр 11 из 12 трансляций официального канала Lestakorabli в рамках версии 26.9 вы получаете «Большой набор». Подробности на портале «Мир кораблей».\n\nЖмите «Отслеживать» и получайте награду!",
-    "image": "/media/campaigns/images/f11eef13-08c3-4903-bd7a-18f2c32755fa.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "f11eef13-08c3-4903-bd7a-18f2c32755fa"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Обновление 26.9: Часть 2",
     "start": "2026-09-11T15:00:00Z",
     "end": "2026-09-18T14:59:59.999Z",
@@ -827,21 +797,6 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate 9/14/26",
-    "start": "2026-09-14T13:00:00Z",
-    "end": "2026-09-15T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/01fe3543-d275-46fb-b605-2efe98319a25.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "01fe3543-d275-46fb-b605-2efe98319a25"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
     "campaign": "Official 19",
     "start": "2026-09-14T13:00:00Z",
     "end": "2026-09-21T12:59:59.999Z",
@@ -853,6 +808,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "00e654bb-eef4-4e90-a4e4-d36d920b075b"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "Affiliate 9/14/26",
+    "start": "2026-09-14T13:00:00Z",
+    "end": "2026-09-15T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/01fe3543-d275-46fb-b605-2efe98319a25.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "01fe3543-d275-46fb-b605-2efe98319a25"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1198,6 +1168,21 @@
     "url": "https://tfd.nexon.com/drops/twitch",
     "account_link": "https://tfd.nexon.com/drops/twitch",
     "twitch_campaign_id": "2627f082-1448-4a4b-a721-41e942aa5bc6"
+  },
+  {
+    "game": "The Quinfall",
+    "status": "live",
+    "campaign": "September Drops",
+    "start": "2026-09-15T00:00:00Z",
+    "end": "2026-09-15T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+    "image": "/media/campaigns/images/2b73ed68-a3dd-4bcc-88ac-16e77be72a65.png",
+    "url": "https://www.quinfall.com/twitch-drops",
+    "account_link": "https://www.quinfall.com/twitch-drops",
+    "twitch_campaign_id": "2b73ed68-a3dd-4bcc-88ac-16e77be72a65"
   },
   {
     "game": "The Seven Deadly Sins: Origin",
