@@ -300,6 +300,21 @@
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
   },
   {
+    "game": "Halo Infinite",
+    "status": "live",
+    "campaign": "LATAM Halo Night-SEP14",
+    "start": "2026-09-14T19:00:00Z",
+    "end": "2026-09-15T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
+    "image": "/media/campaigns/images/c24dfd48-4204-4515-8b69-ae68de6ce13f.png",
+    "url": "https://www.halowaypoint.com",
+    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
+    "twitch_campaign_id": "c24dfd48-4204-4515-8b69-ae68de6ce13f"
+  },
+  {
     "game": "HITMAN World of Assassination",
     "status": "live",
     "campaign": "The Herbalist #2",
@@ -587,17 +602,17 @@
   {
     "game": "MARVEL Strike Force",
     "status": "live",
-    "campaign": "MSF | September Week 2",
-    "start": "2026-09-07T21:00:00Z",
-    "end": "2026-09-14T20:59:59.999Z",
+    "campaign": "MSF | September Week 3",
+    "start": "2026-09-14T21:00:00Z",
+    "end": "2026-09-21T20:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
-    "image": "/media/campaigns/images/31f77cbd-c88a-4d20-985e-afcafa123980.png",
+    "image": "/media/campaigns/images/0a717971-f9d4-47e1-bf0a-fb9301b45a6e.png",
     "url": "https://marvelstrikeforce.com/en/twitch",
     "account_link": "https://marvelstrikeforce.com/en/twitch",
-    "twitch_campaign_id": "31f77cbd-c88a-4d20-985e-afcafa123980"
+    "twitch_campaign_id": "0a717971-f9d4-47e1-bf0a-fb9301b45a6e"
   },
   {
     "game": "Marvel's Wolverine",
@@ -827,21 +842,6 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Laptophound 19",
-    "start": "2026-09-14T13:00:00Z",
-    "end": "2026-09-21T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/73c3cf98-4a9d-4673-bae6-2b4418d97fc6.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "73c3cf98-4a9d-4673-bae6-2b4418d97fc6"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
     "campaign": "Official 19",
     "start": "2026-09-14T13:00:00Z",
     "end": "2026-09-21T12:59:59.999Z",
@@ -853,6 +853,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "00e654bb-eef4-4e90-a4e4-d36d920b075b"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "Laptophound 19",
+    "start": "2026-09-14T13:00:00Z",
+    "end": "2026-09-21T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/73c3cf98-4a9d-4673-bae6-2b4418d97fc6.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "73c3cf98-4a9d-4673-bae6-2b4418d97fc6"
   },
   {
     "game": "Palia",
@@ -945,6 +960,36 @@
     "twitch_campaign_id": "90589949-1d2e-4161-8def-3aee51e1f721"
   },
   {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 587",
+    "start": "2026-09-14T17:59:00Z",
+    "end": "2026-09-15T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/c06c80d6-b17a-486d-9d79-a1edce21d24b.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "c06c80d6-b17a-486d-9d79-a1edce21d24b"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 158",
+    "start": "2026-09-14T17:59:00Z",
+    "end": "2026-09-15T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/2574416b-d0aa-44a2-8328-ef3e306dd9ea.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "2574416b-d0aa-44a2-8328-ef3e306dd9ea"
+  },
+  {
     "game": "Shakes and Fidget",
     "status": "live",
     "campaign": "S&F Drops 1/3",
@@ -1018,21 +1063,6 @@
     "url": "https://www.ubisoft.com/help/article/000065532",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "3ab19dc2-6a8b-4370-8d7f-0b8ab1e25abf"
-  },
-  {
-    "game": "Skull and Bones",
-    "status": "live",
-    "campaign": "Skull and Bones - Y3S2",
-    "start": "2026-08-18T07:00:00Z",
-    "end": "2026-09-14T21:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Skull And Bones - Year 3 Season 2 - 4 rewards",
-    "image": "/media/campaigns/images/3595f84e-98bc-423d-9853-30dcebbf7481.jpeg",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-    "account_link": "https://drops-register.ubi.com/#/en-US",
-    "twitch_campaign_id": "3595f84e-98bc-423d-9853-30dcebbf7481"
   },
   {
     "game": "SMITE 2",
@@ -1125,21 +1155,6 @@
     "twitch_campaign_id": "57c84a37-de55-4de4-ba40-331029d9cab7"
   },
   {
-    "game": "Tanki Online",
-    "status": "live",
-    "campaign": "WMR2 2026 R6 (2)",
-    "start": "2026-09-14T17:00:00Z",
-    "end": "2026-09-14T19:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Tanki Online eSports match livestreams and get Epic Keys in Tanki Online",
-    "image": "/media/campaigns/images/f0130ec5-3836-4ac7-a046-6549d6249092.jpeg",
-    "url": "https://tankionline.com/",
-    "account_link": "https://tankionline.com/play/",
-    "twitch_campaign_id": "f0130ec5-3836-4ac7-a046-6549d6249092"
-  },
-  {
     "game": "The Blood of Dawnwalker",
     "status": "live",
     "campaign": "Dawnwalker Launch",
@@ -1183,21 +1198,6 @@
     "url": "https://tfd.nexon.com/drops/twitch",
     "account_link": "https://tfd.nexon.com/drops/twitch",
     "twitch_campaign_id": "2627f082-1448-4a4b-a721-41e942aa5bc6"
-  },
-  {
-    "game": "The Quinfall",
-    "status": "live",
-    "campaign": "September Drops",
-    "start": "2026-09-14T00:00:00Z",
-    "end": "2026-09-14T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/8b2578ff-3444-4113-ba54-21392e51ab1b.png",
-    "url": "https://www.quinfall.com/twitch-drops",
-    "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "8b2578ff-3444-4113-ba54-21392e51ab1b"
   },
   {
     "game": "The Seven Deadly Sins: Origin",
