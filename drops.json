@@ -17,21 +17,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 3 - #2/7",
-    "start": "2026-09-15T10:00:00Z",
-    "end": "2026-09-16T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/f8d47bc7-98c5-4300-b59d-05d2b8109a61.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "f8d47bc7-98c5-4300-b59d-05d2b8109a61"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "AOCP Flamescale 3 - #2/7",
     "start": "2026-09-15T10:00:00Z",
     "end": "2026-09-16T09:29:59.999Z",
@@ -43,6 +28,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "3cf440b9-0a2c-467d-8b4e-598ef8d1fc24"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "Dragonfire 3 - #2/7",
+    "start": "2026-09-15T10:00:00Z",
+    "end": "2026-09-16T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+    "image": "/media/campaigns/images/f8d47bc7-98c5-4300-b59d-05d2b8109a61.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "f8d47bc7-98c5-4300-b59d-05d2b8109a61"
   },
   {
     "game": "ARKNIGHTS: ENDFIELD",
@@ -137,6 +137,21 @@
   {
     "game": "Diablo IV",
     "status": "live",
+    "campaign": "S15 Launch Drops",
+    "start": "2026-09-15T18:00:00Z",
+    "end": "2026-09-29T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Welcome Season 15 and earn the Deforestation axe! ",
+    "image": "/media/campaigns/images/bee9dbba-cc7e-42d8-9bfa-ef40a5073342.png",
+    "url": "https://news.blizzard.com/article/24295394/",
+    "account_link": "https://account.battle.net/connections",
+    "twitch_campaign_id": "bee9dbba-cc7e-42d8-9bfa-ef40a5073342"
+  },
+  {
+    "game": "Diablo IV",
+    "status": "live",
     "campaign": "Diablo Badge",
     "start": "2026-09-11T17:00:00Z",
     "end": "2026-09-26T16:59:59.999Z",
@@ -152,17 +167,17 @@
   {
     "game": "DOFUS Touch",
     "status": "live",
-    "campaign": "J1 - Temporix Cps",
-    "start": "2026-09-15T16:00:00Z",
-    "end": "2026-09-15T21:59:59.999Z",
+    "campaign": "J2 - Temporix Cps",
+    "start": "2026-09-15T22:00:00Z",
+    "end": "2026-09-16T21:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Pour accompagner le lancement de nos serveurs temporaires, l’événement TemporiX au cœur de l’anniversaire de DOFUS Touch, nous organisons une nouvelle campagne de Twitch Drops qui se déroulera du mardi 15 septembre à 18 h au lundi 12 octobre à 23 h 59 (heure de Paris).",
-    "image": "/media/campaigns/images/64f05bff-322f-4f39-91a4-465531c22a8b.png",
+    "image": "/media/campaigns/images/f7e9139b-bab1-47b4-af78-901b511b5440.png",
     "url": "https://account.ankama.com/fr/twitch",
     "account_link": "https://account.ankama.com/fr/twitch",
-    "twitch_campaign_id": "64f05bff-322f-4f39-91a4-465531c22a8b"
+    "twitch_campaign_id": "f7e9139b-bab1-47b4-af78-901b511b5440"
   },
   {
     "game": "Doomsday: Last Survivors",
@@ -315,6 +330,21 @@
     "twitch_campaign_id": "7b6d0110-60f1-4aa4-9ee6-ae2f78e2cd08"
   },
   {
+    "game": "Halo: The Master Chief Collection",
+    "status": "live",
+    "campaign": "MCC Warthog Racing-SEP15",
+    "start": "2026-09-15T22:00:00Z",
+    "end": "2026-09-16T02:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo MCC!",
+    "image": "/media/campaigns/images/ff23c9db-ffcc-41ab-8b86-89c8c18d8c5a.png",
+    "url": "https://www.halowaypoint.com",
+    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
+    "twitch_campaign_id": "ff23c9db-ffcc-41ab-8b86-89c8c18d8c5a"
+  },
+  {
     "game": "HITMAN World of Assassination",
     "status": "live",
     "campaign": "The Herbalist #2",
@@ -388,21 +418,6 @@
     "url": "https://www.kakele.io/?utm_source=drops",
     "account_link": "https://id.twitch.tv/oauth2/authorize?client_id=9awx3xtp59477gdaslg318amuimqp8&redirect_uri=https%3A%2F%2Fwww.kakele.io%2Fdrops&response_type=code&scope=user:read:email",
     "twitch_campaign_id": "ac324042-c913-470a-8b19-6018446878ca"
-  },
-  {
-    "game": "Kakele Online - MMORPG",
-    "status": "live",
-    "campaign": "Kakele Online - September",
-    "start": "2026-09-01T06:00:00Z",
-    "end": "2026-09-15T20:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "🎮 Announcing Kakele Online's Epic Twitch Drops!  Embark on a unique journey in Kakele's realm. Dive into mystical lands, conquer quests, and enjoy our exciting Twitch Drops for enhanced gaming. Unlock rewards, including teleports, herbs, potions, and materials.  🕒 Timed Rewards: Enjoy cities Teleports, Ultra potions, Gold Refiner Kits and collect Dog Cards and Trophies.  💰 Prosperity Path: Gain Copper, Tin, Silver, Iron, Gold, Life Herbs, Mana Herbs for success. Accumulate Reputation Coins.  🎈 Grand Finale: End with an exclusive Twitch Drop and Bacon Extravaganza surprise! Link accounts, watch streams, and claim rewards for an unforgettable RPG experience.  🌟 How to Join:  Link Accounts: Connect your account and Twitch in the game app. Watch Streams: Tune in during to your favorite Kakele streamer. Claim Rewards: Receive Twitch Drop notifications claim in the game app.  Influencers: To enable drops on your stream, email us!  Don't miss the chance to enrich your journey with Twitch Drops!",
-    "image": "/media/campaigns/images/2426fda9-8f15-43b6-9edb-2a6175fb204e.png",
-    "url": "https://www.kakele.io/?utm_source=drops",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?client_id=9awx3xtp59477gdaslg318amuimqp8&redirect_uri=https%3A%2F%2Fwww.kakele.io%2Fdrops&response_type=code&scope=user:read:email",
-    "twitch_campaign_id": "2426fda9-8f15-43b6-9edb-2a6175fb204e"
   },
   {
     "game": "Kirka.io",
@@ -568,6 +583,21 @@
     "url": "https://event.igg.com/twitch/drops?code=lo_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=lo_drops",
     "twitch_campaign_id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d"
+  },
+  {
+    "game": "Madden NFL 27",
+    "status": "live",
+    "campaign": "MCS Pro League",
+    "start": "2026-09-15T22:00:00Z",
+    "end": "2026-09-16T02:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the first week of the Pro League in Madden NFL 27 and earn some Twitch Drops to power up your Ultimate Team!",
+    "image": "/media/campaigns/images/989e48b1-d222-4c26-8e4e-1dc7e62c022c.png",
+    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+    "twitch_campaign_id": "989e48b1-d222-4c26-8e4e-1dc7e62c022c"
   },
   {
     "game": "MARVEL Contest of Champions",
@@ -930,19 +960,34 @@
     "twitch_campaign_id": "90589949-1d2e-4161-8def-3aee51e1f721"
   },
   {
-    "game": "Rise of Agon",
+    "game": "Rise Online",
     "status": "live",
-    "campaign": "Lizard on Stick - Test",
-    "start": "2026-09-15T13:00:00Z",
-    "end": "2026-09-15T21:59:59.999Z",
+    "campaign": "Mobile Drop 159",
+    "start": "2026-09-15T17:59:00Z",
+    "end": "2026-09-16T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "1 Lizard on stick per reward",
-    "image": "/media/campaigns/images/387ea0f0-178b-4959-83bd-c8ef73ef6f73.png",
-    "url": "https://www.riseofagon.com/account/twitch",
-    "account_link": "https://www.riseofagon.com/account/twitch",
-    "twitch_campaign_id": "387ea0f0-178b-4959-83bd-c8ef73ef6f73"
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/1ad6d2c5-eecb-412d-9fc5-0432cebcb468.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "1ad6d2c5-eecb-412d-9fc5-0432cebcb468"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 588",
+    "start": "2026-09-15T17:59:00Z",
+    "end": "2026-09-16T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/abd18425-6585-4685-8852-dd40750a5ac6.png",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "abd18425-6585-4685-8852-dd40750a5ac6"
   },
   {
     "game": "Rocket League",
@@ -1185,21 +1230,6 @@
     "twitch_campaign_id": "2627f082-1448-4a4b-a721-41e942aa5bc6"
   },
   {
-    "game": "The Quinfall",
-    "status": "live",
-    "campaign": "September Drops",
-    "start": "2026-09-15T00:00:00Z",
-    "end": "2026-09-15T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/2b73ed68-a3dd-4bcc-88ac-16e77be72a65.png",
-    "url": "https://www.quinfall.com/twitch-drops",
-    "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "2b73ed68-a3dd-4bcc-88ac-16e77be72a65"
-  },
-  {
     "game": "The Seven Deadly Sins: Origin",
     "status": "live",
     "campaign": "7DS Origin Drops 4th",
@@ -1277,21 +1307,6 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "AMD OLS#7 Phase 1 Day 4",
-    "start": "2026-09-15T16:00:00Z",
-    "end": "2026-09-15T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "AMD OLS#7 Phase 1 Day 4",
-    "image": "/media/campaigns/images/04c75095-d98d-41a3-8f05-f8faf60355f4.png",
-    "url": "https://worldoftanks.eu/news/live-streams/token-store-september-2026/",
-    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-    "twitch_campaign_id": "04c75095-d98d-41a3-8f05-f8faf60355f4"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
     "campaign": "Back in Action #4",
     "start": "2026-09-14T15:00:00Z",
     "end": "2026-09-16T14:59:59.999Z",
@@ -1303,21 +1318,6 @@
     "url": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "f91ea6b5-a67e-430f-ae7e-d2666c9537f9"
-  },
-  {
-    "game": "World of Tanks Console",
-    "status": "live",
-    "campaign": "HMS Tog Sets Sail!",
-    "start": "2026-09-15T15:30:00Z",
-    "end": "2026-09-15T18:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "HMS Tog II* Sets Sail once one, are you  ready to conquer the high seas? ",
-    "image": "/media/campaigns/images/5b222056-d3df-491e-9855-674bef779e4f.png",
-    "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
-    "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
-    "twitch_campaign_id": "5b222056-d3df-491e-9855-674bef779e4f"
   },
   {
     "game": "World of Tanks Console",
