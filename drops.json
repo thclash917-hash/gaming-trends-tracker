@@ -98,21 +98,6 @@
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including Bruking, So1oCtrl,  samoylov___, and Zeegers—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/90dbc764-d4ab-4929-8167-abbee3030c70.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
-    "campaign": "S7 Support ABI Streamers",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
     "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including ImOw, HITBOXKING, GL40LabsRaT, and Arven93—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
     "image": "/media/campaigns/images/60d49775-74c0-4821-91d0-5fd5e7ac0506.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
@@ -135,6 +120,21 @@
     "twitch_campaign_id": "c21130db-734b-433a-a9fa-38d8c50194a1"
   },
   {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Support ABI Streamers",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including Bruking, So1oCtrl,  samoylov___, and Zeegers—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/90dbc764-d4ab-4929-8167-abbee3030c70.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
+  },
+  {
     "game": "ARKNIGHTS: ENDFIELD",
     "status": "live",
     "campaign": "Wind and Snow Dreamscape",
@@ -148,6 +148,21 @@
     "url": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "account_link": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "twitch_campaign_id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "2026 BDO Drops (Sep 17)",
+    "start": "2026-09-17T12:00:00Z",
+    "end": "2026-09-18T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "image": "/media/campaigns/images/d7ea57c4-b9af-4c28-b7a7-74f8153dab34.png",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
+    "twitch_campaign_id": "d7ea57c4-b9af-4c28-b7a7-74f8153dab34"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -630,6 +645,21 @@
     "twitch_campaign_id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d"
   },
   {
+    "game": "Madden NFL 27",
+    "status": "live",
+    "campaign": "Madden Live",
+    "start": "2026-09-17T17:00:00Z",
+    "end": "2026-09-18T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch your favorite creators play Madden NFL 27 and earn some Twitch Drops to power up your Ultimate Team!",
+    "image": "/media/campaigns/images/52c9d724-90b3-4a40-a304-ed302fb8c0b2.png",
+    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+    "twitch_campaign_id": "52c9d724-90b3-4a40-a304-ed302fb8c0b2"
+  },
+  {
     "game": "MARVEL Contest of Champions",
     "status": "live",
     "campaign": "September Week 2",
@@ -718,6 +748,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "22b93373-f8da-490f-a1bb-9a12239fe2de"
+  },
+  {
+    "game": "Minecraft",
+    "status": "live",
+    "campaign": "Blue Creeper Boss Badge",
+    "start": "2026-09-17T18:00:00Z",
+    "end": "2026-09-22T06:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Purchase or gift one subscription during a Minecraft stream to earn the Blue Creeper Boss chat badge!",
+    "image": "/media/campaigns/images/f6e4c513-5c61-4d58-aac6-1c009c25add7.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "f6e4c513-5c61-4d58-aac6-1c009c25add7"
   },
   {
     "game": "Mir Korabley",
@@ -887,32 +932,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate 9/16/26",
-    "start": "2026-09-16T13:00:00Z",
-    "end": "2026-09-17T12:59:59.999Z",
+    "campaign": "Affiliate 9/17/26",
+    "start": "2026-09-17T13:00:00Z",
+    "end": "2026-09-18T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/2193e380-59cf-4c9f-9ff3-560d07d80733.png",
+    "image": "/media/campaigns/images/6ee7fb10-78a6-45b5-9ba1-aa20dac942f3.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "2193e380-59cf-4c9f-9ff3-560d07d80733"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
-    "campaign": "Official 19",
-    "start": "2026-09-14T13:00:00Z",
-    "end": "2026-09-21T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/00e654bb-eef4-4e90-a4e4-d36d920b075b.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "00e654bb-eef4-4e90-a4e4-d36d920b075b"
+    "twitch_campaign_id": "6ee7fb10-78a6-45b5-9ba1-aa20dac942f3"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -928,6 +958,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "73c3cf98-4a9d-4673-bae6-2b4418d97fc6"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "Official 19",
+    "start": "2026-09-14T13:00:00Z",
+    "end": "2026-09-21T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/00e654bb-eef4-4e90-a4e4-d36d920b075b.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "00e654bb-eef4-4e90-a4e4-d36d920b075b"
   },
   {
     "game": "Rainbow Six Siege",
@@ -992,32 +1037,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 589",
-    "start": "2026-09-16T17:59:00Z",
-    "end": "2026-09-17T17:56:59.999Z",
+    "campaign": "ROW Drop 590",
+    "start": "2026-09-17T17:59:00Z",
+    "end": "2026-09-18T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/8d23b577-cba1-4cbe-940f-ed4699b99f68.jpeg",
+    "image": "/media/campaigns/images/3a35c18d-bd00-47b6-9c53-500ab4554623.png",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "8d23b577-cba1-4cbe-940f-ed4699b99f68"
+    "twitch_campaign_id": "3a35c18d-bd00-47b6-9c53-500ab4554623"
   },
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 160",
-    "start": "2026-09-16T17:59:00Z",
-    "end": "2026-09-17T17:56:59.999Z",
+    "campaign": "Mobile Drop 161",
+    "start": "2026-09-17T17:59:00Z",
+    "end": "2026-09-18T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/41fa5b14-4625-4ff0-a2de-5d44fc245852.png",
+    "image": "/media/campaigns/images/bf5d4022-9640-45db-b293-a82bcc5463a6.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "41fa5b14-4625-4ff0-a2de-5d44fc245852"
+    "twitch_campaign_id": "bf5d4022-9640-45db-b293-a82bcc5463a6"
   },
   {
     "game": "Rocket League",
@@ -1365,6 +1410,21 @@
     "twitch_campaign_id": "def0cb17-fb59-46f3-95cd-770eb7f37ccf"
   },
   {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "AMD OLS#7 Phase 1 Day 5",
+    "start": "2026-09-17T16:00:00Z",
+    "end": "2026-09-17T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "AMD OLS#7 Phase 1 Day 5",
+    "image": "/media/campaigns/images/05c8da52-be28-4469-82d4-6ceba430ba9f.png",
+    "url": "https://worldoftanks.eu/news/live-streams/token-store-september-2026/",
+    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+    "twitch_campaign_id": "05c8da52-be28-4469-82d4-6ceba430ba9f"
+  },
+  {
     "game": "World of Tanks Console",
     "status": "live",
     "campaign": "Masters of Mayhem Week 8",
@@ -1412,6 +1472,36 @@
   {
     "game": "World of Warships",
     "status": "live",
+    "campaign": "Update 15.8 Drop: Week 2",
+    "start": "2026-09-17T16:00:00Z",
+    "end": "2026-09-24T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
+    "image": "/media/campaigns/images/a75637d9-b720-4f97-8156-a8444a760505.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "a75637d9-b720-4f97-8156-a8444a760505"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "15.8 11th Anniversary",
+    "start": "2026-09-17T16:00:00Z",
+    "end": "2026-09-18T03:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
+    "image": "/media/campaigns/images/b1e2da71-4f83-43d7-a799-7efe6609b260.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "b1e2da71-4f83-43d7-a799-7efe6609b260"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
     "campaign": "15.8 Worth Their Salt #2",
     "start": "2026-09-17T06:00:00Z",
     "end": "2026-09-24T05:59:59.999Z",
@@ -1453,21 +1543,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "6bbab6fc-5e17-490d-8e2f-0d4260c00e4e"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "Update 15.8 Drop: Week 1",
-    "start": "2026-09-10T15:00:00Z",
-    "end": "2026-09-17T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
-    "image": "/media/campaigns/images/0ff7b58a-7b48-4d82-8e14-f833a5ba9195.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "0ff7b58a-7b48-4d82-8e14-f833a5ba9195"
   },
   {
     "game": "Zenless Zone Zero",
