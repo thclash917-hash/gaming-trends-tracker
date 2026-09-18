@@ -83,21 +83,6 @@
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including  Recrent, Buggyman,shamixx, and TrakasSinN—while they are live and streaming ABI content to earn the corresponding sticker. Note that viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops/en/index.html  , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/3f5f575f-47d0-4856-88eb-a635b8ec6037.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
-    "campaign": "S7 Support ABI Streamers",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
     "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including ImOw, HITBOXKING, GL40LabsRaT, and Arven93—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
     "image": "/media/campaigns/images/60d49775-74c0-4821-91d0-5fd5e7ac0506.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
@@ -133,6 +118,21 @@
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
+  },
+  {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Support ABI Streamers",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including  Recrent, Buggyman,shamixx, and TrakasSinN—while they are live and streaming ABI content to earn the corresponding sticker. Note that viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops/en/index.html  , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/3f5f575f-47d0-4856-88eb-a635b8ec6037.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
   },
   {
     "game": "ARKNIGHTS: ENDFIELD",
@@ -272,17 +272,17 @@
   {
     "game": "DOFUS Touch",
     "status": "live",
-    "campaign": "J3 - Temporix Cps",
-    "start": "2026-09-16T22:00:00Z",
-    "end": "2026-09-17T21:59:59.999Z",
+    "campaign": "J4 - Temporix Cps",
+    "start": "2026-09-17T22:00:00Z",
+    "end": "2026-09-18T21:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Pour accompagner le lancement de nos serveurs temporaires, l’événement TemporiX au cœur de l’anniversaire de DOFUS Touch, nous organisons une nouvelle campagne de Twitch Drops qui se déroulera du mardi 15 septembre à 18 h au lundi 12 octobre à 23 h 59 (heure de Paris).",
-    "image": "/media/campaigns/images/8d4f4824-8821-4309-aa54-04e0c043c691.png",
+    "image": "/media/campaigns/images/f9b3662b-fa6f-4fe7-9597-c95755c46de9.png",
     "url": "https://account.ankama.com/fr/twitch",
     "account_link": "https://account.ankama.com/fr/twitch",
-    "twitch_campaign_id": "8d4f4824-8821-4309-aa54-04e0c043c691"
+    "twitch_campaign_id": "f9b3662b-fa6f-4fe7-9597-c95755c46de9"
   },
   {
     "game": "Doomsday: Last Survivors",
@@ -347,17 +347,17 @@
   {
     "game": "Eternal Return",
     "status": "live",
-    "campaign": "MID SEASON DROPS [0917]",
-    "start": "2026-09-17T06:00:00Z",
-    "end": "2026-09-17T19:59:59.999Z",
+    "campaign": "MID SEASON DROPS [0918]",
+    "start": "2026-09-17T20:00:00Z",
+    "end": "2026-09-18T19:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/9662a5f8-2792-486a-9529-7f2697c42058.png",
+    "image": "/media/campaigns/images/c2d5e267-55a7-4bf9-a09f-9fb839b59c78.png",
     "url": "https://twitch.playeternalreturn.com/",
     "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "9662a5f8-2792-486a-9529-7f2697c42058"
+    "twitch_campaign_id": "c2d5e267-55a7-4bf9-a09f-9fb839b59c78"
   },
   {
     "game": "For Honor",
@@ -602,21 +602,6 @@
   {
     "game": "LEGO Batman: Legacy of the Dark Knight",
     "status": "live",
-    "campaign": "Harley Mayhem",
-    "start": "2026-09-01T07:00:00Z",
-    "end": "2026-09-20T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!",
-    "image": "/media/campaigns/images/7d64c672-6183-425b-92e2-57546404f25c.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
-  },
-  {
-    "game": "LEGO Batman: Legacy of the Dark Knight",
-    "status": "live",
     "campaign": "Mayhem Collection - DC",
     "start": "2026-09-01T07:00:00Z",
     "end": "2026-09-20T06:59:59.999Z",
@@ -628,6 +613,21 @@
     "url": "https://rewards.wbgames.com/games/lego-batman-legacy-of-the-dark-knight/twitch-drops/game-launch",
     "account_link": "https://account.wbgames.com/connect/twitch?entry=rewards-wbgames-com-lego-batman-twitch-drops",
     "twitch_campaign_id": "796bdad1-10fd-4294-8277-6783723e14ff"
+  },
+  {
+    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "status": "live",
+    "campaign": "Harley Mayhem",
+    "start": "2026-09-01T07:00:00Z",
+    "end": "2026-09-20T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by subscribing or gifting a sub to a LEGO® Batman™: Legacy of the Dark Knight streamer!",
+    "image": "/media/campaigns/images/7d64c672-6183-425b-92e2-57546404f25c.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "7d64c672-6183-425b-92e2-57546404f25c"
   },
   {
     "game": "Lords Mobile",
@@ -975,6 +975,21 @@
     "twitch_campaign_id": "00e654bb-eef4-4e90-a4e4-d36d920b075b"
   },
   {
+    "game": "Path of Exile",
+    "status": "live",
+    "campaign": "PoE1 ExileCon 3/4",
+    "start": "2026-09-17T21:00:00Z",
+    "end": "2026-09-18T20:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Cheer on your favorite competitor to claim the Darkshard Helmet Attachment.",
+    "image": "/media/campaigns/images/597f0267-3963-450d-a6ef-919190a6d423.png",
+    "url": "https://www.pathofexile.com/twitchdrops",
+    "account_link": "https://www.pathofexile.com/my-account/twitch",
+    "twitch_campaign_id": "597f0267-3963-450d-a6ef-919190a6d423"
+  },
+  {
     "game": "Rainbow Six Siege",
     "status": "live",
     "campaign": "R6S S2 2026 6",
@@ -1138,21 +1153,6 @@
     "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
     "account_link": "https://sfgame.net/",
     "twitch_campaign_id": "174fd699-3230-4076-b542-c15a8dcb4ab1"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Droplets",
-    "start": "2026-09-11T14:00:00Z",
-    "end": "2026-09-17T21:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Droplets are additional drops to our main drop campaigns.",
-    "image": "/media/campaigns/images/326c19f0-772d-4e6b-bbf7-fc1940e8707f.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "326c19f0-772d-4e6b-bbf7-fc1940e8707f"
   },
   {
     "game": "Sid Meier's Civilization VII",
@@ -1320,21 +1320,6 @@
     "twitch_campaign_id": "2627f082-1448-4a4b-a721-41e942aa5bc6"
   },
   {
-    "game": "The Quinfall",
-    "status": "live",
-    "campaign": "September Drops",
-    "start": "2026-09-17T00:00:00Z",
-    "end": "2026-09-17T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/eef05792-a9c4-4556-b9a2-d621ea3f6af8.png",
-    "url": "https://www.quinfall.com/twitch-drops",
-    "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "eef05792-a9c4-4556-b9a2-d621ea3f6af8"
-  },
-  {
     "game": "The Seven Deadly Sins: Origin",
     "status": "live",
     "campaign": "7DS Origin Drops 4th",
@@ -1408,21 +1393,6 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "def0cb17-fb59-46f3-95cd-770eb7f37ccf"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "AMD OLS#7 Phase 1 Day 5",
-    "start": "2026-09-17T16:00:00Z",
-    "end": "2026-09-17T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "AMD OLS#7 Phase 1 Day 5",
-    "image": "/media/campaigns/images/05c8da52-be28-4469-82d4-6ceba430ba9f.png",
-    "url": "https://worldoftanks.eu/news/live-streams/token-store-september-2026/",
-    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-    "twitch_campaign_id": "05c8da52-be28-4469-82d4-6ceba430ba9f"
   },
   {
     "game": "World of Tanks Console",
