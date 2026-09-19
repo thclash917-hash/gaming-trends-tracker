@@ -32,32 +32,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 3 - #5/7",
-    "start": "2026-09-18T10:00:00Z",
-    "end": "2026-09-19T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/13280127-a2ec-46c4-b1cd-528a9fba46a4.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "13280127-a2ec-46c4-b1cd-528a9fba46a4"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "Dragonfire 3 - #5/7",
-    "start": "2026-09-18T10:00:00Z",
-    "end": "2026-09-19T09:29:59.999Z",
+    "campaign": "Dragonfire 3 - #6/7",
+    "start": "2026-09-19T10:00:00Z",
+    "end": "2026-09-20T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/998c5c83-3c54-44d9-9358-c887193316d1.png",
+    "image": "/media/campaigns/images/3c0af844-0d75-4239-9a26-f27c252068d6.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "998c5c83-3c54-44d9-9358-c887193316d1"
+    "twitch_campaign_id": "3c0af844-0d75-4239-9a26-f27c252068d6"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 3 - #6/7",
+    "start": "2026-09-19T10:00:00Z",
+    "end": "2026-09-20T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/fae03928-50c8-46a8-b21e-ea7f64639853.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "fae03928-50c8-46a8-b21e-ea7f64639853"
   },
   {
     "game": "Aniimo",
@@ -163,21 +163,6 @@
     "url": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "account_link": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "twitch_campaign_id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "2026 BDO Drops (Sep 18)",
-    "start": "2026-09-18T12:00:00Z",
-    "end": "2026-09-19T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/0bd787cf-abf0-4188-809d-544458983bc6.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "0bd787cf-abf0-4188-809d-544458983bc6"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -1365,21 +1350,6 @@
     "twitch_campaign_id": "08012a89-858e-47ca-8dad-5aa11587a233"
   },
   {
-    "game": "SMITE 2",
-    "status": "live",
-    "campaign": "September Week 2!",
-    "start": "2026-09-12T11:00:00Z",
-    "end": "2026-09-19T10:57:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
-    "image": "/media/campaigns/images/ce4adff7-7fd5-46c6-8f5c-0a507a514d8b.jpeg",
-    "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
-    "account_link": "https://link.smite2.com/",
-    "twitch_campaign_id": "ce4adff7-7fd5-46c6-8f5c-0a507a514d8b"
-  },
-  {
     "game": "Solasta II",
     "status": "live",
     "campaign": "Solasta II Game Launch",
@@ -1573,6 +1543,21 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "def0cb17-fb59-46f3-95cd-770eb7f37ccf"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Skill4ltu Drops",
+    "start": "2026-09-19T10:00:00Z",
+    "end": "2026-09-19T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Skill4ltu Drops",
+    "image": "/media/campaigns/images/9a91f43d-8af8-470f-bd67-6e59b32a8ae4.png",
+    "url": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+    "twitch_campaign_id": "9a91f43d-8af8-470f-bd67-6e59b32a8ae4"
   },
   {
     "game": "World of Tanks",
