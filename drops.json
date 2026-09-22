@@ -213,16 +213,16 @@
     "game": "Delta Force",
     "status": "live",
     "campaign": "DF Streamer Ladder Drops",
-    "start": "2026-09-21T00:00:00Z",
-    "end": "2026-09-21T23:59:59.999Z",
+    "start": "2026-09-22T00:00:00Z",
+    "end": "2026-09-22T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "50+ streamers from North America, Europe, Korea, Japan and beyond — ZywOo, ImperialHal, summit1g and more — are all climbing one ladder for a $52,500 prize pool. Only one team walks away champion.\nClimbing Sept 19–26. Finals on Sept 26, starting at 11:00 AM PT. Watch it live!\nAlso — Win It All on September 26. Earn anniversary-exclusive red loot, 3,900 Limited-Time Delta Tickets, and more throughout the 2nd Anniversary Celebration!",
-    "image": "/media/campaigns/images/40b0356e-82f1-48a1-bc5e-1fac11de1325.png",
+    "image": "/media/campaigns/images/d8710c01-432e-463c-b132-b9078567f2f5.png",
     "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "40b0356e-82f1-48a1-bc5e-1fac11de1325"
+    "twitch_campaign_id": "d8710c01-432e-463c-b132-b9078567f2f5"
   },
   {
     "game": "Delta Force",
@@ -302,17 +302,17 @@
   {
     "game": "DOFUS Touch",
     "status": "live",
-    "campaign": "J7 - Temporix Cps",
-    "start": "2026-09-20T22:00:00Z",
-    "end": "2026-09-21T21:59:59.999Z",
+    "campaign": "J8 - 2x Temporix Cps",
+    "start": "2026-09-21T22:00:00Z",
+    "end": "2026-09-22T21:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Pour accompagner le lancement de nos serveurs temporaires, l’événement TemporiX au cœur de l’anniversaire de DOFUS Touch, nous organisons une nouvelle campagne de Twitch Drops qui se déroulera du mardi 15 septembre à 18 h au lundi 12 octobre à 23 h 59 (heure de Paris).",
-    "image": "/media/campaigns/images/90005bd5-ae38-447a-b755-35924ce7d337.png",
+    "image": "/media/campaigns/images/f41cd7a5-568e-4232-8027-073f56b5721c.png",
     "url": "https://account.ankama.com/fr/twitch",
     "account_link": "https://account.ankama.com/fr/twitch",
-    "twitch_campaign_id": "90005bd5-ae38-447a-b755-35924ce7d337"
+    "twitch_campaign_id": "f41cd7a5-568e-4232-8027-073f56b5721c"
   },
   {
     "game": "Doomsday: Last Survivors",
@@ -377,17 +377,17 @@
   {
     "game": "Eternal Return",
     "status": "live",
-    "campaign": "MID SEASON DROPS [0921]",
-    "start": "2026-09-20T20:00:00Z",
-    "end": "2026-09-21T19:59:59.999Z",
+    "campaign": "MID SEASON DROPS [0922]",
+    "start": "2026-09-21T20:00:00Z",
+    "end": "2026-09-22T19:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/7a6f1dfc-2994-4bd1-acf2-b166e85c5eed.png",
+    "image": "/media/campaigns/images/9620cb71-d446-438c-952b-cdcfaac496ef.png",
     "url": "https://twitch.playeternalreturn.com/",
     "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "7a6f1dfc-2994-4bd1-acf2-b166e85c5eed"
+    "twitch_campaign_id": "9620cb71-d446-438c-952b-cdcfaac496ef"
   },
   {
     "game": "For Honor",
@@ -692,17 +692,17 @@
   {
     "game": "MARVEL Strike Force",
     "status": "live",
-    "campaign": "MSF | September Week 3",
-    "start": "2026-09-14T21:00:00Z",
-    "end": "2026-09-21T20:59:59.999Z",
+    "campaign": "MSF | September Week 4",
+    "start": "2026-09-21T21:00:00Z",
+    "end": "2026-09-28T20:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
-    "image": "/media/campaigns/images/0a717971-f9d4-47e1-bf0a-fb9301b45a6e.png",
+    "image": "/media/campaigns/images/acfe75f6-bbbe-41d5-a0b6-f42a4807845e.png",
     "url": "https://marvelstrikeforce.com/en/twitch",
     "account_link": "https://marvelstrikeforce.com/en/twitch",
-    "twitch_campaign_id": "0a717971-f9d4-47e1-bf0a-fb9301b45a6e"
+    "twitch_campaign_id": "acfe75f6-bbbe-41d5-a0b6-f42a4807845e"
   },
   {
     "game": "Marvel's Wolverine",
@@ -960,21 +960,6 @@
     "twitch_campaign_id": "d13db74f-a56d-4985-af69-3bf01adde336"
   },
   {
-    "game": "Phasmophobia",
-    "status": "live",
-    "campaign": "6th Anniversary",
-    "start": "2026-09-18T11:00:00Z",
-    "end": "2026-09-21T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This week marks 6 years of Phasmophobia. Thank you to each & every Ghost Hunter that has joined us so far. To celebrate, the 6th Anniversary Charm can be earned by watching a total of 2 hours of any Phasmophobia stream.",
-    "image": "/media/campaigns/images/99e24677-c5c8-4c03-8fa9-f6aefa9a015f.png",
-    "url": "https://x.com/PlayPhasmo/status/2100540328956551529",
-    "account_link": "https://kineticgames.co.uk/twitch-drops",
-    "twitch_campaign_id": "99e24677-c5c8-4c03-8fa9-f6aefa9a015f"
-  },
-  {
     "game": "Rainbow Six Siege",
     "status": "live",
     "campaign": "R6S S2 2026 8",
@@ -1033,6 +1018,36 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "90589949-1d2e-4161-8def-3aee51e1f721"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 165",
+    "start": "2026-09-21T17:59:00Z",
+    "end": "2026-09-22T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/7f311245-0054-4b7e-8a97-2286f1604146.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "7f311245-0054-4b7e-8a97-2286f1604146"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 594",
+    "start": "2026-09-21T17:59:00Z",
+    "end": "2026-09-22T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/6be3d4ef-cadc-4c41-871a-9fda8dc0b2c3.png",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "6be3d4ef-cadc-4c41-871a-9fda8dc0b2c3"
   },
   {
     "game": "Rocket League",
@@ -1288,21 +1303,6 @@
     "url": "https://tfd.nexon.com/drops/twitch",
     "account_link": "https://tfd.nexon.com/drops/twitch",
     "twitch_campaign_id": "2627f082-1448-4a4b-a721-41e942aa5bc6"
-  },
-  {
-    "game": "The Quinfall",
-    "status": "live",
-    "campaign": "September Drops",
-    "start": "2026-09-21T00:00:00Z",
-    "end": "2026-09-21T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/888a1ffb-9dbd-4d0b-98b2-7d20707e9f00.png",
-    "url": "https://www.quinfall.com/twitch-drops",
-    "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "888a1ffb-9dbd-4d0b-98b2-7d20707e9f00"
   },
   {
     "game": "UFL",
