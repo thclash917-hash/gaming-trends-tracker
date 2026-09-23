@@ -17,17 +17,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 4 - #2/7",
-    "start": "2026-09-22T10:00:00Z",
-    "end": "2026-09-23T09:29:59.999Z",
+    "campaign": "Dragonfire 4 - #3/7",
+    "start": "2026-09-23T10:00:00Z",
+    "end": "2026-09-24T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/224f5058-1190-4784-90d1-23b5badee1ed.png",
+    "image": "/media/campaigns/images/bc3e9e8e-b253-4baa-927e-8eae8bec43fd.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "224f5058-1190-4784-90d1-23b5badee1ed"
+    "twitch_campaign_id": "bc3e9e8e-b253-4baa-927e-8eae8bec43fd"
   },
   {
     "game": "Aniimo",
@@ -152,17 +152,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "2026 BDO Drops (Sep 22)",
-    "start": "2026-09-22T12:00:00Z",
-    "end": "2026-09-23T11:59:59.999Z",
+    "campaign": "2026 BDO Drops (Sep 23)",
+    "start": "2026-09-23T12:00:00Z",
+    "end": "2026-09-24T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/080472e7-c756-4052-9c27-c066e9bf5daf.png",
+    "image": "/media/campaigns/images/1818752e-119d-4213-9ab1-22891204f8ff.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
     "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "080472e7-c756-4052-9c27-c066e9bf5daf"
+    "twitch_campaign_id": "1818752e-119d-4213-9ab1-22891204f8ff"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -178,6 +178,21 @@
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
     "twitch_campaign_id": "e75d8e5e-f588-4850-8a62-773fe3492998"
+  },
+  {
+    "game": "Caliber",
+    "status": "live",
+    "campaign": "Twitch Drops Autumn Watch",
+    "start": "2026-09-23T08:00:00Z",
+    "end": "2026-09-27T20:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Смотрите прямые трансляции официальных партнёров «Калибра», получайте награды за просмотр и знакомьтесь с обновлением 1.4.2!",
+    "image": "/media/campaigns/images/9edec8ee-fef9-4d71-97aa-c4bb18855788.png",
+    "url": "https://playcaliber.com/ru/news/1329/twitch-drops-osennii-dozor/",
+    "account_link": "https://playcaliber.com/ru/",
+    "twitch_campaign_id": "9edec8ee-fef9-4d71-97aa-c4bb18855788"
   },
   {
     "game": "Coin Pusher Live",
@@ -257,21 +272,6 @@
   {
     "game": "Delta Force",
     "status": "live",
-    "campaign": "2NDANNIVERSARY-WARFARE",
-    "start": "2026-09-08T02:00:00Z",
-    "end": "2026-09-23T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate Delta Force's 2nd Anniversary with the new Season: Reorientation — good vibes & Twitch Drops included!",
-    "image": "/media/campaigns/images/91c93cc2-c8cd-4538-8223-994461284d44.png",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "91c93cc2-c8cd-4538-8223-994461284d44"
-  },
-  {
-    "game": "Delta Force",
-    "status": "live",
     "campaign": "2NDANNIVERSARY-OPERATIONS",
     "start": "2026-09-08T02:00:00Z",
     "end": "2026-09-23T23:59:59.999Z",
@@ -283,6 +283,21 @@
     "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "twitch_campaign_id": "b7bcd558-6964-461c-a1a0-503eeba1871e"
+  },
+  {
+    "game": "Delta Force",
+    "status": "live",
+    "campaign": "2NDANNIVERSARY-WARFARE",
+    "start": "2026-09-08T02:00:00Z",
+    "end": "2026-09-23T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate Delta Force's 2nd Anniversary with the new Season: Reorientation — good vibes & Twitch Drops included!",
+    "image": "/media/campaigns/images/91c93cc2-c8cd-4538-8223-994461284d44.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "91c93cc2-c8cd-4538-8223-994461284d44"
   },
   {
     "game": "Diablo IV",
@@ -478,21 +493,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://twitch.tv",
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
-  },
-  {
-    "game": "Hunt Club On Stream",
-    "status": "live",
-    "campaign": "Drops",
-    "start": "2026-09-20T04:17:52Z",
-    "end": "2026-09-23T10:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Hunting & Fishing Drops ",
-    "image": "/media/campaigns/images/1af19995-9b5e-4320-a2c2-a83804c68b9d.png",
-    "url": "https://huntclubonstream.lovable.app/legal",
-    "account_link": "https://huntclubonstream.lovable.app/auth-twitch",
-    "twitch_campaign_id": "1af19995-9b5e-4320-a2c2-a83804c68b9d"
   },
   {
     "game": "Infinity Nikki",
@@ -797,21 +797,6 @@
   {
     "game": "Night Crows",
     "status": "live",
-    "campaign": "NC DROPS ALL (26_SEP)",
-    "start": "2026-09-08T09:00:00Z",
-    "end": "2026-09-29T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Black Wings of Freedom\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/e813f285-2992-4e0e-9b75-c20c2ec539a4.jpeg",
-    "url": "https://www.nightcrows.com/en/notice/notice/754719",
-    "account_link": "https://nightcrows.com/mypage/account",
-    "twitch_campaign_id": "e813f285-2992-4e0e-9b75-c20c2ec539a4"
-  },
-  {
-    "game": "Night Crows",
-    "status": "live",
     "campaign": "NC DROPS_SSS (26_SEP)",
     "start": "2026-09-08T09:00:00Z",
     "end": "2026-09-29T14:59:59.999Z",
@@ -823,6 +808,21 @@
     "url": "https://www.nightcrows.com/en/notice/notice/754719",
     "account_link": "https://nightcrows.com/mypage/account",
     "twitch_campaign_id": "0ea81c31-1547-485f-83c2-f93656dfa0fd"
+  },
+  {
+    "game": "Night Crows",
+    "status": "live",
+    "campaign": "NC DROPS ALL (26_SEP)",
+    "start": "2026-09-08T09:00:00Z",
+    "end": "2026-09-29T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Black Wings of Freedom\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/e813f285-2992-4e0e-9b75-c20c2ec539a4.jpeg",
+    "url": "https://www.nightcrows.com/en/notice/notice/754719",
+    "account_link": "https://nightcrows.com/mypage/account",
+    "twitch_campaign_id": "e813f285-2992-4e0e-9b75-c20c2ec539a4"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -977,21 +977,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 595",
-    "start": "2026-09-22T17:59:00Z",
-    "end": "2026-09-23T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/17049efb-2ed2-4b90-8cf0-6142ca0f51c8.jpeg",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "17049efb-2ed2-4b90-8cf0-6142ca0f51c8"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "Mobile Drop 166",
     "start": "2026-09-22T17:59:00Z",
     "end": "2026-09-23T17:56:59.999Z",
@@ -1003,6 +988,21 @@
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "15f2e716-46e0-4dbd-8074-1e4890dfbbe9"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 595",
+    "start": "2026-09-22T17:59:00Z",
+    "end": "2026-09-23T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/17049efb-2ed2-4b90-8cf0-6142ca0f51c8.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "17049efb-2ed2-4b90-8cf0-6142ca0f51c8"
   },
   {
     "game": "Rocket League",
@@ -1050,21 +1050,6 @@
     "twitch_campaign_id": "b4555531-3be8-44f7-8ff2-0e4cdfe0dfdb"
   },
   {
-    "game": "Sea of Thieves",
-    "status": "live",
-    "campaign": "Season 21 Launch Drops!",
-    "start": "2026-09-18T10:00:00Z",
-    "end": "2026-09-23T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "There’s nothing a pirate on the Sea of Thieves likes more than free loot – and with Twitch Drops, you can claim some just by linking your Twitch account to your Sea of Thieves account and tuning in to our special events! Twitch Drops are free items awarded to players for watching participating streamers during promotional activities. Sign up now to be eligible for the latest Twitch Drops event!",
-    "image": "/media/campaigns/images/91f15164-33d7-4230-85a8-2934e089bb2f.jpeg",
-    "url": "https://www.seaofthieves.com/twitch-drops",
-    "account_link": "https://www.seaofthieves.com/twitch-drops",
-    "twitch_campaign_id": "91f15164-33d7-4230-85a8-2934e089bb2f"
-  },
-  {
     "game": "Shakes and Fidget",
     "status": "live",
     "campaign": "S&F Drops 1/3",
@@ -1097,21 +1082,6 @@
   {
     "game": "Sid Meier's Civilization VII",
     "status": "live",
-    "campaign": "Civ VII PAX 26 Livestream",
-    "start": "2026-09-05T16:30:00Z",
-    "end": "2026-10-03T16:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch for 15 minutes and claim the reward: Exploration Age Banner profile cosmetic!",
-    "image": "/media/campaigns/images/a82abb82-628f-4df5-a2bb-5df8cc373983.png",
-    "url": "https://civilization.2k.com/twitch-drops/",
-    "account_link": "https://civilization.2k.com/twitch-drops/",
-    "twitch_campaign_id": "a82abb82-628f-4df5-a2bb-5df8cc373983"
-  },
-  {
-    "game": "Sid Meier's Civilization VII",
-    "status": "live",
     "campaign": "Civ VII Pax Livestream",
     "start": "2026-09-05T16:30:00Z",
     "end": "2026-10-03T16:29:59.999Z",
@@ -1123,6 +1093,21 @@
     "url": "https://civilization.2k.com/twitch-drops/",
     "account_link": "https://civilization.2k.com/twitch-drops/",
     "twitch_campaign_id": "bf82818f-dba3-48fc-88c3-7472f577547e"
+  },
+  {
+    "game": "Sid Meier's Civilization VII",
+    "status": "live",
+    "campaign": "Civ VII PAX 26 Livestream",
+    "start": "2026-09-05T16:30:00Z",
+    "end": "2026-10-03T16:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch for 15 minutes and claim the reward: Exploration Age Banner profile cosmetic!",
+    "image": "/media/campaigns/images/a82abb82-628f-4df5-a2bb-5df8cc373983.png",
+    "url": "https://civilization.2k.com/twitch-drops/",
+    "account_link": "https://civilization.2k.com/twitch-drops/",
+    "twitch_campaign_id": "a82abb82-628f-4df5-a2bb-5df8cc373983"
   },
   {
     "game": "Skull and Bones",
