@@ -68,11 +68,11 @@
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including BakedJake, Kritikal, QuattroAce, LVNDMARK, and Ralisco—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.\t",
-    "image": "/media/campaigns/images/c21130db-734b-433a-a9fa-38d8c50194a1.png",
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including  Recrent, Buggyman,shamixx, and TrakasSinN—while they are live and streaming ABI content to earn the corresponding sticker. Note that viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops/en/index.html  , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/3f5f575f-47d0-4856-88eb-a635b8ec6037.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "c21130db-734b-433a-a9fa-38d8c50194a1"
+    "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -83,11 +83,26 @@
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including  Recrent, Buggyman,shamixx, and TrakasSinN—while they are live and streaming ABI content to earn the corresponding sticker. Note that viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops/en/index.html  , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/3f5f575f-47d0-4856-88eb-a635b8ec6037.png",
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including BakedJake, Kritikal, QuattroAce, LVNDMARK, and Ralisco—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.\t",
+    "image": "/media/campaigns/images/c21130db-734b-433a-a9fa-38d8c50194a1.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
+    "twitch_campaign_id": "c21130db-734b-433a-a9fa-38d8c50194a1"
+  },
+  {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Launch Drops",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
+    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -118,21 +133,6 @@
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
-    "campaign": "S7 Launch Drops",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
-    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
   },
   {
     "game": "ARKNIGHTS: ENDFIELD",
@@ -242,6 +242,21 @@
   {
     "game": "Delta Force",
     "status": "live",
+    "campaign": "DF Streamer Ladder Drops",
+    "start": "2026-09-24T00:00:00Z",
+    "end": "2026-09-24T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "50+ streamers from North America, Europe, Korea, Japan and beyond — ZywOo, ImperialHal, summit1g and more — are all climbing one ladder for a $52,500 prize pool. Only one team walks away champion. Climbing Sept 19–26. Finals on Sept 26, starting at 11:00 AM PT. Watch it live! Also — Win It All on September 26. Earn anniversary-exclusive red loot, 3,900 Limited-Time Delta Tickets, and more throughout the 2nd Anniversary Celebration!",
+    "image": "/media/campaigns/images/4b434b61-8954-4157-911a-04143d62a084.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "4b434b61-8954-4157-911a-04143d62a084"
+  },
+  {
+    "game": "Delta Force",
+    "status": "live",
     "campaign": "DF Streamer Ladder FINNAL",
     "start": "2026-09-19T00:00:00Z",
     "end": "2026-09-27T23:59:59.999Z",
@@ -315,19 +330,34 @@
     "twitch_campaign_id": "ce649625-7dae-4946-b60a-1b78285c4833"
   },
   {
-    "game": "EA Sports College Football 27",
+    "game": "Dungeons & Dragons",
     "status": "live",
-    "campaign": "CFB Rundown",
-    "start": "2026-09-23T23:30:00Z",
-    "end": "2026-09-24T02:59:59.999Z",
+    "campaign": "D&D Ampersand Badge",
+    "start": "2026-09-24T01:15:00Z",
+    "end": "2026-10-21T06:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch the CFB Rundown and earn some Twitch Drops to power up your Ultimate Team!",
-    "image": "/media/campaigns/images/60e5f1bd-b15e-4da8-9c96-24fb9bb33bfc.png",
-    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-    "twitch_campaign_id": "60e5f1bd-b15e-4da8-9c96-24fb9bb33bfc"
+    "description": "Purchase or gift one subscription during a Dungeons & Dragons stream to earn the Ampersand chat badge!",
+    "image": "/media/campaigns/images/69e7d15e-b1e0-40d8-9c4b-a71446896005.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "69e7d15e-b1e0-40d8-9c4b-a71446896005"
+  },
+  {
+    "game": "Dungeons & Dragons",
+    "status": "live",
+    "campaign": "/dnd d20 Badge",
+    "start": "2026-09-24T01:15:00Z",
+    "end": "2026-10-21T06:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch 30 minutes of Dungeon Masters on /dnd in the Dungeons & Dragons category to unlock the d20 chat badge!",
+    "image": "/media/campaigns/images/4820ce0c-0ef5-4f53-bf68-b9e03a6acee0.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0"
   },
   {
     "game": "EA Sports FC 27",
@@ -465,21 +495,6 @@
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
   },
   {
-    "game": "Infinity Nikki",
-    "status": "live",
-    "campaign": "V2.9 Infinity Nikki",
-    "start": "2026-08-28T03:00:00Z",
-    "end": "2026-09-24T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Infinity Nikki on Twitch and earn exclusive in-game rewards!\n\nWatch Time Rewards:\n⏱️ Watch 15 mins – Diamond ×10\n⏱️ Watch 30 mins – Diamond ×20\n⏱️ Watch 45 mins – Bling ×20,000\n⏱️ Watch 1 hour – Thread of Purity ×100\n⏱️ Watch 1.5 hours – Shining Particle ×100\n⏱️ Watch 2 hours – Shiny Bubbles x100",
-    "image": "/media/campaigns/images/a32d43f5-2c18-4205-9480-d1149b3558d2.png",
-    "url": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
-    "account_link": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
-    "twitch_campaign_id": "a32d43f5-2c18-4205-9480-d1149b3558d2"
-  },
-  {
     "game": "Kakele Online - MMORPG",
     "status": "live",
     "campaign": "Kakele Online September 2",
@@ -600,21 +615,6 @@
     "twitch_campaign_id": "4cd6da06-5e0c-449a-88ae-58fe1d3b502e"
   },
   {
-    "game": "Lords Mobile",
-    "status": "live",
-    "campaign": "Twitch Drops",
-    "start": "2026-08-27T03:45:15Z",
-    "end": "2026-09-24T03:43:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Join our Drops to earn rewards and an exclusive Scuba Emote! Please note that each IGG ID can redeem the rewards only once across all Drops.",
-    "image": "/media/campaigns/images/98193e83-2c11-4a0f-831a-d5fbd2651f5d.png",
-    "url": "https://event.igg.com/twitch/drops?code=lo_drops",
-    "account_link": "https://event.igg.com/twitch/drops?code=lo_drops",
-    "twitch_campaign_id": "98193e83-2c11-4a0f-831a-d5fbd2651f5d"
-  },
-  {
     "game": "MARVEL Contest of Champions",
     "status": "live",
     "campaign": "September Week 3",
@@ -673,21 +673,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "22b93373-f8da-490f-a1bb-9a12239fe2de"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
-    "campaign": "Lestakorabli - 26.9 #9",
-    "start": "2026-09-23T14:00:00Z",
-    "end": "2026-09-24T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Эсминец IX Velos;\n• Крейсер VIII Bayard;\n• Линкор VIII «Бородино».\n\nЗа просмотр 11 из 12 трансляций официального канала Lestakorabli в рамках версии 26.9 вы получаете «Большой набор». Подробности на портале «Мир кораблей».\n\nЖмите «Отслеживать» и получайте награду!",
-    "image": "/media/campaigns/images/cedaee9c-efb1-4bfe-9f22-41de9b5d54c7.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "cedaee9c-efb1-4bfe-9f22-41de9b5d54c7"
   },
   {
     "game": "Mir Korabley",
@@ -1290,6 +1275,21 @@
     "twitch_campaign_id": "2627f082-1448-4a4b-a721-41e942aa5bc6"
   },
   {
+    "game": "The Quinfall",
+    "status": "live",
+    "campaign": "September Drops",
+    "start": "2026-09-24T00:00:00Z",
+    "end": "2026-09-24T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+    "image": "/media/campaigns/images/134c7031-eada-46af-b96c-f7039c478801.png",
+    "url": "https://www.quinfall.com/twitch-drops",
+    "account_link": "https://www.quinfall.com/twitch-drops",
+    "twitch_campaign_id": "134c7031-eada-46af-b96c-f7039c478801"
+  },
+  {
     "game": "War Robots: Frontiers",
     "status": "live",
     "campaign": "Shadowed Bastion",
@@ -1453,36 +1453,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "a75637d9-b720-4f97-8156-a8444a760505"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "15.8 Worth Their Salt #2",
-    "start": "2026-09-17T06:00:00Z",
-    "end": "2026-09-24T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
-    "image": "/media/campaigns/images/bbbf1ac4-0098-42ea-a97e-91cdfa86038b.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "bbbf1ac4-0098-42ea-a97e-91cdfa86038b"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "15.8 Salt for Subs #2",
-    "start": "2026-09-17T06:00:00Z",
-    "end": "2026-09-24T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The idea to build an aircraft carrier out of ice and sawdust was officially known as Project Habakkuk. It was the brainchild of a British inventor named Geoffrey Pyke in 1942, during the height of World War II when German U-boats were sinking Allied supply ships faster than they could be replaced.",
-    "image": "/media/campaigns/images/8e351ef6-791e-4d7a-85d2-2a75081a03b6.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "8e351ef6-791e-4d7a-85d2-2a75081a03b6"
   },
   {
     "game": "Zenless Zone Zero",
