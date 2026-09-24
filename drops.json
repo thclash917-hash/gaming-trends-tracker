@@ -17,17 +17,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 4 - #3/7",
-    "start": "2026-09-23T10:00:00Z",
-    "end": "2026-09-24T09:29:59.999Z",
+    "campaign": "Dragonfire 4 - #4/7",
+    "start": "2026-09-24T10:00:00Z",
+    "end": "2026-09-25T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/bc3e9e8e-b253-4baa-927e-8eae8bec43fd.png",
+    "image": "/media/campaigns/images/93001378-02cd-4b83-871b-8a96653935bb.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "bc3e9e8e-b253-4baa-927e-8eae8bec43fd"
+    "twitch_campaign_id": "93001378-02cd-4b83-871b-8a96653935bb"
   },
   {
     "game": "Aniimo",
@@ -68,11 +68,26 @@
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including  Recrent, Buggyman,shamixx, and TrakasSinN—while they are live and streaming ABI content to earn the corresponding sticker. Note that viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops/en/index.html  , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/3f5f575f-47d0-4856-88eb-a635b8ec6037.png",
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including Bruking, So1oCtrl,  samoylov___, and Zeegers—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/90dbc764-d4ab-4929-8167-abbee3030c70.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
+    "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
+  },
+  {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Support ABI Streamers",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including ImOw, HITBOXKING, GL40LabsRaT, and Arven93—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/60d49775-74c0-4821-91d0-5fd5e7ac0506.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "60d49775-74c0-4821-91d0-5fd5e7ac0506"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -113,26 +128,11 @@
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including ImOw, HITBOXKING, GL40LabsRaT, and Arven93—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/60d49775-74c0-4821-91d0-5fd5e7ac0506.png",
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including  Recrent, Buggyman,shamixx, and TrakasSinN—while they are live and streaming ABI content to earn the corresponding sticker. Note that viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops/en/index.html  , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/3f5f575f-47d0-4856-88eb-a635b8ec6037.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "60d49775-74c0-4821-91d0-5fd5e7ac0506"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
-    "campaign": "S7 Support ABI Streamers",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including Bruking, So1oCtrl,  samoylov___, and Zeegers—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/90dbc764-d4ab-4929-8167-abbee3030c70.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
+    "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
   },
   {
     "game": "ARKNIGHTS: ENDFIELD",
@@ -148,21 +148,6 @@
     "url": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "account_link": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "twitch_campaign_id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "2026 BDO Drops (Sep 23)",
-    "start": "2026-09-23T12:00:00Z",
-    "end": "2026-09-24T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/1818752e-119d-4213-9ab1-22891204f8ff.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "1818752e-119d-4213-9ab1-22891204f8ff"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -332,21 +317,6 @@
   {
     "game": "Dungeons & Dragons",
     "status": "live",
-    "campaign": "D&D Ampersand Badge",
-    "start": "2026-09-24T01:15:00Z",
-    "end": "2026-10-21T06:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Purchase or gift one subscription during a Dungeons & Dragons stream to earn the Ampersand chat badge!",
-    "image": "/media/campaigns/images/69e7d15e-b1e0-40d8-9c4b-a71446896005.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "69e7d15e-b1e0-40d8-9c4b-a71446896005"
-  },
-  {
-    "game": "Dungeons & Dragons",
-    "status": "live",
     "campaign": "/dnd d20 Badge",
     "start": "2026-09-24T01:15:00Z",
     "end": "2026-10-21T06:58:59.999Z",
@@ -358,6 +328,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0"
+  },
+  {
+    "game": "Dungeons & Dragons",
+    "status": "live",
+    "campaign": "D&D Ampersand Badge",
+    "start": "2026-09-24T01:15:00Z",
+    "end": "2026-10-21T06:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Purchase or gift one subscription during a Dungeons & Dragons stream to earn the Ampersand chat badge!",
+    "image": "/media/campaigns/images/69e7d15e-b1e0-40d8-9c4b-a71446896005.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "69e7d15e-b1e0-40d8-9c4b-a71446896005"
   },
   {
     "game": "EA Sports FC 27",
@@ -975,21 +960,6 @@
     "twitch_campaign_id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4"
   },
   {
-    "game": "Rise of Agon",
-    "status": "live",
-    "campaign": "Rise of Agon: Server Slam",
-    "start": "2026-09-23T19:00:00Z",
-    "end": "2026-09-24T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Rise of Agon: Reforged first server slam for 64bit version!",
-    "image": "/media/campaigns/images/61c74d49-7963-4f4a-a422-54c3eae7d4ed.png",
-    "url": "https://www.riseofagon.com/account/twitch",
-    "account_link": "https://www.riseofagon.com/account/twitch",
-    "twitch_campaign_id": "61c74d49-7963-4f4a-a422-54c3eae7d4ed"
-  },
-  {
     "game": "Rise Online",
     "status": "live",
     "campaign": "ROW Drop 596",
@@ -1245,21 +1215,6 @@
     "twitch_campaign_id": "9b94b19f-17db-4edd-80dd-e2eca81f21df"
   },
   {
-    "game": "THE FINALS",
-    "status": "live",
-    "campaign": "RED BROADCAST BLAZE",
-    "start": "2026-09-10T10:30:00Z",
-    "end": "2026-09-24T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The Broadcast Blaze skins are back!\n\nEarn three Red Broadcast Blaze skins and let everyone know in the Arena you were there, tuned-in to the action.",
-    "image": "/media/campaigns/images/c8b36b61-cd45-447f-9be3-09e02ff85007.png",
-    "url": "https://www.reachthefinals.com/twitch",
-    "account_link": "https://embark-games.embark.net/",
-    "twitch_campaign_id": "c8b36b61-cd45-447f-9be3-09e02ff85007"
-  },
-  {
     "game": "The First Descendant",
     "status": "live",
     "campaign": "Conquest Mode Drops",
@@ -1288,6 +1243,36 @@
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
     "twitch_campaign_id": "134c7031-eada-46af-b96c-f7039c478801"
+  },
+  {
+    "game": "UFL",
+    "status": "live",
+    "campaign": "Sept #4",
+    "start": "2026-09-24T08:05:00Z",
+    "end": "2026-09-30T23:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
+    "image": "/media/campaigns/images/a08129f9-86ff-4200-b503-38d8816b661b.png",
+    "url": "https://portal.uflgame.com/twitch/drops",
+    "account_link": "https://portal.uflgame.com/twitch",
+    "twitch_campaign_id": "a08129f9-86ff-4200-b503-38d8816b661b"
+  },
+  {
+    "game": "VALORANT",
+    "status": "live",
+    "campaign": "VCT26 Champs Shanghai",
+    "start": "2026-09-24T09:00:00Z",
+    "end": "2026-10-17T10:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "VALORANT Champs has arrived in Shanghai! For the Champs 2026, the best 16 teams from around the world face off to determine who is the Champions winner for 2026.\t\t\t\t\t \t\t\t\t\t \t\t\t\t \t\t\t\t\t \t\t\t\t\t",
+    "image": "/media/campaigns/images/e50f291f-c1e8-4610-b456-f32c96346a89.png",
+    "url": "https://www.riotgames.com/en",
+    "account_link": "https://twitch.tv/settings/connections#riot-connection",
+    "twitch_campaign_id": "e50f291f-c1e8-4610-b456-f32c96346a89"
   },
   {
     "game": "War Robots: Frontiers",
@@ -1423,6 +1408,21 @@
     "url": "https://worldofwarcraft.blizzard.com/news/24295396",
     "account_link": "https://account.battle.net/connections",
     "twitch_campaign_id": "b49fb9b7-4084-45b0-8c2d-ca811de26680"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "15.8 Worth Their Salt #3",
+    "start": "2026-09-24T06:00:00Z",
+    "end": "2026-10-01T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
+    "image": "/media/campaigns/images/a87b9bd2-dfcb-400a-aeec-4f208e72be76.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "a87b9bd2-dfcb-400a-aeec-4f208e72be76"
   },
   {
     "game": "World of Warships",
