@@ -32,17 +32,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 4 - #4/7",
-    "start": "2026-09-24T10:00:00Z",
-    "end": "2026-09-25T09:29:59.999Z",
+    "campaign": "Dragonfire 4 - #5/7",
+    "start": "2026-09-25T10:00:00Z",
+    "end": "2026-09-26T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/93001378-02cd-4b83-871b-8a96653935bb.png",
+    "image": "/media/campaigns/images/e63f8d3e-8dc3-4df1-ad44-821c05249d83.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "93001378-02cd-4b83-871b-8a96653935bb"
+    "twitch_campaign_id": "e63f8d3e-8dc3-4df1-ad44-821c05249d83"
   },
   {
     "game": "Aniimo",
@@ -73,6 +73,21 @@
     "url": "https://www.ea.com/games/apex-legends/apex-legends/news/street-fighter-6-event",
     "account_link": "https://www.ea.com/twitchlinking",
     "twitch_campaign_id": "131e1b3d-c580-4f4f-93de-b1f7bbb5e317"
+  },
+  {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Support ABI Streamers",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including  Recrent, Buggyman,shamixx, and TrakasSinN—while they are live and streaming ABI content to earn the corresponding sticker. Note that viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops/en/index.html  , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/3f5f575f-47d0-4856-88eb-a635b8ec6037.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -122,21 +137,6 @@
   {
     "game": "Arena Breakout: Infinite",
     "status": "live",
-    "campaign": "S7 Support ABI Streamers",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including  Recrent, Buggyman,shamixx, and TrakasSinN—while they are live and streaming ABI content to earn the corresponding sticker. Note that viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops/en/index.html  , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/3f5f575f-47d0-4856-88eb-a635b8ec6037.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
     "campaign": "S7 Launch Drops",
     "start": "2026-09-16T09:00:00Z",
     "end": "2026-10-13T08:59:59.999Z",
@@ -165,19 +165,34 @@
     "twitch_campaign_id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72"
   },
   {
+    "game": "Big Walk",
+    "status": "live",
+    "campaign": "Big Walk badge",
+    "start": "2026-09-25T07:00:00Z",
+    "end": "2026-10-04T06:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Big Walk category.",
+    "image": "/media/campaigns/images/1455b54f-00c4-4df6-a4d2-e1a05c879369.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "1455b54f-00c4-4df6-a4d2-e1a05c879369"
+  },
+  {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "Donghwa's Gift (Sep 24)",
-    "start": "2026-09-24T12:00:00Z",
-    "end": "2026-09-25T11:59:59.999Z",
+    "campaign": "Donghwa's Gift (Sep 25)",
+    "start": "2026-09-25T12:00:00Z",
+    "end": "2026-09-26T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10608",
-    "image": "/media/campaigns/images/23176dc8-75fe-4f58-86e0-6e3636254448.png",
+    "image": "/media/campaigns/images/30661251-1c97-46b4-bf1d-b3667cbca0c7.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10608",
     "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "23176dc8-75fe-4f58-86e0-6e3636254448"
+    "twitch_campaign_id": "30661251-1c97-46b4-bf1d-b3667cbca0c7"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -193,6 +208,21 @@
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
     "twitch_campaign_id": "e75d8e5e-f588-4850-8a62-773fe3492998"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "AUTUMN DOUBLES",
+    "start": "2026-09-25T11:00:00Z",
+    "end": "2026-09-29T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Autumn Doubles Drops",
+    "image": "/media/campaigns/images/5519254f-3747-4b0e-a021-9fd74f5e4581.png",
+    "url": "https://www.ubisoft.com/help/article/000065532",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "5519254f-3747-4b0e-a021-9fd74f5e4581"
   },
   {
     "game": "Caliber",
@@ -272,21 +302,6 @@
   {
     "game": "Delta Force",
     "status": "live",
-    "campaign": "AM&EMEA Group Stage D3-4",
-    "start": "2026-09-25T00:00:00Z",
-    "end": "2026-09-27T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "2026 DELTA FORCE RISE SERIES - AMERICAS&EMEA OPEN QUALIFIER S2 is now live on Twitch. Come watch and earn rewards!",
-    "image": "/media/campaigns/images/5e51bea9-6f05-4d84-9d90-0f35d3bed668.png",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "5e51bea9-6f05-4d84-9d90-0f35d3bed668"
-  },
-  {
-    "game": "Delta Force",
-    "status": "live",
     "campaign": "DF Streamer Ladder Drops",
     "start": "2026-09-25T00:00:00Z",
     "end": "2026-09-25T23:59:59.999Z",
@@ -298,6 +313,21 @@
     "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "twitch_campaign_id": "3b2982ca-5a52-4d53-8ffe-9da4c8a3b5aa"
+  },
+  {
+    "game": "Delta Force",
+    "status": "live",
+    "campaign": "AM&EMEA Group Stage D3-4",
+    "start": "2026-09-25T00:00:00Z",
+    "end": "2026-09-27T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "2026 DELTA FORCE RISE SERIES - AMERICAS&EMEA OPEN QUALIFIER S2 is now live on Twitch. Come watch and earn rewards!",
+    "image": "/media/campaigns/images/5e51bea9-6f05-4d84-9d90-0f35d3bed668.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "5e51bea9-6f05-4d84-9d90-0f35d3bed668"
   },
   {
     "game": "Delta Force",
@@ -392,21 +422,6 @@
   {
     "game": "Dungeons & Dragons",
     "status": "live",
-    "campaign": "D&D Ampersand Badge",
-    "start": "2026-09-24T01:15:00Z",
-    "end": "2026-10-21T06:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Purchase or gift one subscription during a Dungeons & Dragons stream to earn the Ampersand chat badge!",
-    "image": "/media/campaigns/images/69e7d15e-b1e0-40d8-9c4b-a71446896005.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "69e7d15e-b1e0-40d8-9c4b-a71446896005"
-  },
-  {
-    "game": "Dungeons & Dragons",
-    "status": "live",
     "campaign": "/dnd d20 Badge",
     "start": "2026-09-24T01:15:00Z",
     "end": "2026-10-21T06:58:59.999Z",
@@ -418,6 +433,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0"
+  },
+  {
+    "game": "Dungeons & Dragons",
+    "status": "live",
+    "campaign": "D&D Ampersand Badge",
+    "start": "2026-09-24T01:15:00Z",
+    "end": "2026-10-21T06:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Purchase or gift one subscription during a Dungeons & Dragons stream to earn the Ampersand chat badge!",
+    "image": "/media/campaigns/images/69e7d15e-b1e0-40d8-9c4b-a71446896005.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "69e7d15e-b1e0-40d8-9c4b-a71446896005"
   },
   {
     "game": "EA Sports FC 27",
@@ -722,6 +752,21 @@
   {
     "game": "Marvel Rivals",
     "status": "live",
+    "campaign": "Ignite Stage2 W2",
+    "start": "2026-09-25T08:00:00Z",
+    "end": "2026-09-28T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch exciting Ignite tournaments and earn exclusive drop rewards",
+    "image": "/media/campaigns/images/52e2bff5-077c-41bb-864c-a4911bbe89af.png",
+    "url": "https://www.marvelrivals.com/twitchdrops/",
+    "account_link": "https://www.marvelrivals.com/twitchdrops/",
+    "twitch_campaign_id": "52e2bff5-077c-41bb-864c-a4911bbe89af"
+  },
+  {
+    "game": "Marvel Rivals",
+    "status": "live",
     "campaign": "Season 10 Twitch Drops",
     "start": "2026-09-11T12:00:00Z",
     "end": "2026-10-09T08:59:59.999Z",
@@ -763,6 +808,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "22b93373-f8da-490f-a1bb-9a12239fe2de"
+  },
+  {
+    "game": "Medivia Online",
+    "status": "live",
+    "campaign": "Blood Moon Event",
+    "start": "2026-09-25T08:00:00Z",
+    "end": "2026-09-28T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Participate in the Blood Moon Event! Kill hostile Blood-tainted creatures or rare Blood Heralds and receive Tears of the Blood Moon. Tears of the Blood Moon can be spent on temporarily buffs or a one-time Resurrection when event is active. Watch participating streams, link your Medivia account, and earn Twitch Drops - including Mana Coins, Skill & XP boosts, Premium Time, and launch rewards to start your adventure.",
+    "image": "/media/campaigns/images/7d105aa8-74af-4606-ae64-a1660768c6c2.png",
+    "url": "https://wiki.medivia.online/Twitch_Drops",
+    "account_link": "https://medivia.online/twitch/connect",
+    "twitch_campaign_id": "7d105aa8-74af-4606-ae64-a1660768c6c2"
   },
   {
     "game": "Metaphor: ReFantazio",
@@ -1052,21 +1112,6 @@
   {
     "game": "Rainbow Six Siege",
     "status": "live",
-    "campaign": "R6S Wasteland circuit",
-    "start": "2026-09-23T14:00:00Z",
-    "end": "2026-10-13T13:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Wasteland Circuit",
-    "image": "/media/campaigns/images/ca5a0e74-fbc4-4281-b234-44ed2e4ba594.png",
-    "url": "https://www.ubisoft.com/help/article/000065532",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "ca5a0e74-fbc4-4281-b234-44ed2e4ba594"
-  },
-  {
-    "game": "Rainbow Six Siege",
-    "status": "live",
     "campaign": "DRON-E Chat Badge",
     "start": "2026-09-23T14:00:00Z",
     "end": "2026-10-13T13:59:59.999Z",
@@ -1078,6 +1123,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "3376e74e-68e8-45b9-a147-ef80b16a6c93"
+  },
+  {
+    "game": "Rainbow Six Siege",
+    "status": "live",
+    "campaign": "R6S Wasteland circuit",
+    "start": "2026-09-23T14:00:00Z",
+    "end": "2026-10-13T13:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Wasteland Circuit",
+    "image": "/media/campaigns/images/ca5a0e74-fbc4-4281-b234-44ed2e4ba594.png",
+    "url": "https://www.ubisoft.com/help/article/000065532",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "ca5a0e74-fbc4-4281-b234-44ed2e4ba594"
   },
   {
     "game": "Rainbow Six Siege",
