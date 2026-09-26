@@ -32,17 +32,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 4 - #5/7",
-    "start": "2026-09-25T10:00:00Z",
-    "end": "2026-09-26T09:29:59.999Z",
+    "campaign": "Dragonfire 4 - #6/7",
+    "start": "2026-09-26T10:00:00Z",
+    "end": "2026-09-27T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/e63f8d3e-8dc3-4df1-ad44-821c05249d83.png",
+    "image": "/media/campaigns/images/3497580a-93c3-4981-aaa9-7695a97182e1.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "e63f8d3e-8dc3-4df1-ad44-821c05249d83"
+    "twitch_campaign_id": "3497580a-93c3-4981-aaa9-7695a97182e1"
   },
   {
     "game": "Aniimo",
@@ -92,21 +92,6 @@
   {
     "game": "Arena Breakout: Infinite",
     "status": "live",
-    "campaign": "S7 Launch Drops",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
-    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
     "campaign": "S7 Support ABI Streamers",
     "start": "2026-09-16T09:00:00Z",
     "end": "2026-10-13T08:59:59.999Z",
@@ -118,6 +103,21 @@
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
+  },
+  {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Launch Drops",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
+    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -193,21 +193,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "1455b54f-00c4-4df6-a4d2-e1a05c879369"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "Donghwa's Gift (Sep 25)",
-    "start": "2026-09-25T12:00:00Z",
-    "end": "2026-09-26T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10608",
-    "image": "/media/campaigns/images/30661251-1c97-46b4-bf1d-b3667cbca0c7.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10608",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "30661251-1c97-46b4-bf1d-b3667cbca0c7"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -298,6 +283,21 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "84f27bd4-9c9f-4a03-acc5-096b84081db8"
+  },
+  {
+    "game": "Coryphaeus Championships",
+    "status": "live",
+    "campaign": "Summer Drops Fall",
+    "start": "2026-09-26T10:04:46Z",
+    "end": "2026-10-03T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Coryphaeus Fall Drops",
+    "image": "/media/campaigns/images/14e2c1b8-6730-4edf-b46f-92f6926d4565.png",
+    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+    "twitch_campaign_id": "14e2c1b8-6730-4edf-b46f-92f6926d4565"
   },
   {
     "game": "Delta Force",
@@ -613,6 +613,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://twitch.tv",
     "twitch_campaign_id": "de253dac-3f0e-4a55-8daf-432da97ef8da"
+  },
+  {
+    "game": "Infinity Nikki",
+    "status": "live",
+    "campaign": "V2.10 Infinity Nikki",
+    "start": "2026-09-24T03:00:00Z",
+    "end": "2026-10-22T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Infinity Nikki on Twitch and earn exclusive in-game rewards! Watch Time Rewards: ⏱️ Watch 15 mins – Diamond ×10 ⏱️ Watch 30 mins – Diamond ×20 ⏱️ Watch 45 mins – Bling ×20,000 ⏱️ Watch 1 hour – Thread of Purity ×100 ⏱️ Watch 1.5 hours – Shining Particle ×100 ⏱️ Watch 2 hours – Shiny Bubbles x100",
+    "image": "/media/campaigns/images/65f8f2a5-074c-48ca-8505-f525bb8d75f5.png",
+    "url": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
+    "account_link": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
+    "twitch_campaign_id": "65f8f2a5-074c-48ca-8505-f525bb8d75f5"
   },
   {
     "game": "Kakele Online - MMORPG",
@@ -1712,17 +1727,17 @@
   {
     "game": "SMITE 2",
     "status": "live",
-    "campaign": "Sept Week 3!",
-    "start": "2026-09-19T11:00:00Z",
-    "end": "2026-09-26T10:57:59.999Z",
+    "campaign": "Sept Wk 4 Blue Lotus!",
+    "start": "2026-09-26T11:00:00Z",
+    "end": "2026-10-03T10:57:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
-    "image": "/media/campaigns/images/92a7189f-2cf4-4313-b790-43d2ab5cb84e.jpeg",
+    "image": "/media/campaigns/images/542a2fb4-97d1-427c-861b-3ebc5229a0e1.png",
     "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
     "account_link": "https://link.smite2.com/",
-    "twitch_campaign_id": "92a7189f-2cf4-4313-b790-43d2ab5cb84e"
+    "twitch_campaign_id": "542a2fb4-97d1-427c-861b-3ebc5229a0e1"
   },
   {
     "game": "Solasta II",
@@ -1783,6 +1798,21 @@
     "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
     "account_link": "https://splinterlands.com/user/account-socials",
     "twitch_campaign_id": "1445f6b3-c20d-4a8a-bfc1-7af87d697e9c"
+  },
+  {
+    "game": "Standoff 2",
+    "status": "live",
+    "campaign": "SO2 JumbleRumble: S7",
+    "start": "2026-09-26T10:45:00Z",
+    "end": "2026-09-26T20:54:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени.    \nКак получить награды:         \n– Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.     \n– Накопите необходимое время просмотра на официальном канале Standoff 2.       \n– Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
+    "image": "/media/campaigns/images/445ffafc-81d2-4a32-b77b-8ab927edfb03.png",
+    "url": "https://install.standoff2.com/ru/twitch-drops",
+    "account_link": "https://link.standoff2.com/twitch/link/",
+    "twitch_campaign_id": "445ffafc-81d2-4a32-b77b-8ab927edfb03"
   },
   {
     "game": "The Blood of Dawnwalker",
@@ -1952,21 +1982,6 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "Agent Skill4ltu",
-    "start": "2026-09-25T15:00:00Z",
-    "end": "2026-09-29T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Agent Skill4ltu",
-    "image": "/media/campaigns/images/3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5.png",
-    "url": "https://worldoftanks.eu/news/general-news/waffentrager-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
     "campaign": "Agent QuickyBaby",
     "start": "2026-09-25T15:00:00Z",
     "end": "2026-09-29T09:59:59.999Z",
@@ -1978,6 +1993,21 @@
     "url": "https://worldoftanks.eu/news/general-news/waffentrager-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "d089b7f1-9eb4-4183-bcae-7f431f72ac36"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Agent Skill4ltu",
+    "start": "2026-09-25T15:00:00Z",
+    "end": "2026-09-29T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Agent Skill4ltu",
+    "image": "/media/campaigns/images/3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5.png",
+    "url": "https://worldoftanks.eu/news/general-news/waffentrager-2026/",
+    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
+    "twitch_campaign_id": "3cdc51e6-dc09-44ee-b0a9-3f6f710c9bf5"
   },
   {
     "game": "World of Tanks",
