@@ -32,17 +32,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 4 - #6/7",
-    "start": "2026-09-26T10:00:00Z",
-    "end": "2026-09-27T09:29:59.999Z",
+    "campaign": "Dragonfire 4 - #7/7",
+    "start": "2026-09-27T10:00:00Z",
+    "end": "2026-09-28T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/3497580a-93c3-4981-aaa9-7695a97182e1.png",
+    "image": "/media/campaigns/images/578f05a3-fb04-4f05-8b85-980e96232272.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "3497580a-93c3-4981-aaa9-7695a97182e1"
+    "twitch_campaign_id": "578f05a3-fb04-4f05-8b85-980e96232272"
   },
   {
     "game": "Aniimo",
@@ -77,21 +77,6 @@
   {
     "game": "Arena Breakout: Infinite",
     "status": "live",
-    "campaign": "S7 Launch Drops",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
-    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
     "campaign": "S7 Support ABI Streamers",
     "start": "2026-09-16T09:00:00Z",
     "end": "2026-10-13T08:59:59.999Z",
@@ -103,6 +88,21 @@
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
+  },
+  {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Launch Drops",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
+    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -165,21 +165,6 @@
     "twitch_campaign_id": "e0ed32bc-7ecb-451b-8b1a-7953847dcb72"
   },
   {
-    "game": "Battlefield REDSEC",
-    "status": "live",
-    "campaign": "Season 4 Cash Cup #2",
-    "start": "2026-09-26T04:00:00Z",
-    "end": "2026-09-27T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune in and support your favorite creators streaming Battlefield 6 to unlock Twitch Drops.",
-    "image": "/media/campaigns/images/9b2567ec-d2db-4faf-8b63-39ca6b3a805a.png",
-    "url": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
-    "account_link": "https://ea.com/twitchlinking",
-    "twitch_campaign_id": "9b2567ec-d2db-4faf-8b63-39ca6b3a805a"
-  },
-  {
     "game": "Big Walk",
     "status": "live",
     "campaign": "Big Walk badge",
@@ -193,21 +178,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "1455b54f-00c4-4df6-a4d2-e1a05c879369"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "Donghwa's Gift (Sep 26)",
-    "start": "2026-09-26T12:00:00Z",
-    "end": "2026-09-27T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10608",
-    "image": "/media/campaigns/images/26db9699-42b1-4069-9061-18f9eca54cf7.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10608",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "26db9699-42b1-4069-9061-18f9eca54cf7"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -1813,6 +1783,36 @@
     "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
     "account_link": "https://splinterlands.com/user/account-socials",
     "twitch_campaign_id": "1445f6b3-c20d-4a8a-bfc1-7af87d697e9c"
+  },
+  {
+    "game": "Standoff 2",
+    "status": "live",
+    "campaign": "SO2 JumbleRumble: S7",
+    "start": "2026-09-27T10:45:00Z",
+    "end": "2026-09-27T20:54:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени. \nКак получить награды:          \n– Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.     \n– Накопите необходимое время просмотра на официальном канале Standoff 2.        \n– Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
+    "image": "/media/campaigns/images/c78dbbcc-7c67-4990-968a-8f270628999b.png",
+    "url": "https://install.standoff2.com/ru/twitch-drops",
+    "account_link": "https://link.standoff2.com/twitch/link/",
+    "twitch_campaign_id": "c78dbbcc-7c67-4990-968a-8f270628999b"
+  },
+  {
+    "game": "Storm Striker",
+    "status": "live",
+    "campaign": "Storm Striker JP Drops",
+    "start": "2026-09-27T07:32:54Z",
+    "end": "2026-09-30T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Storm Striker 日本向けTwitch Dropsキャンペーンです。 対象チャンネルを視聴すると、視聴時間に応じてゲーム内報酬を獲得できます。",
+    "image": "/media/campaigns/images/76baafb0-89ae-4e0a-b3c0-08c02c09ef11.jpeg",
+    "url": "https://portal.storm-striker.com/drops?server=JP",
+    "account_link": "https://portal.storm-striker.com/drops?server=JP",
+    "twitch_campaign_id": "76baafb0-89ae-4e0a-b3c0-08c02c09ef11"
   },
   {
     "game": "The Blood of Dawnwalker",
