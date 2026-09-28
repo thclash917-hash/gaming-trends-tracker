@@ -2,7 +2,7 @@
   {
     "name": "Counter-Strike 2",
     "platform": "Steam",
-    "metric": 1198631,
+    "metric": 548624,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
@@ -16,7 +16,7 @@
   {
     "name": "Dota 2",
     "platform": "Steam",
-    "metric": 836163,
+    "metric": 421330,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
@@ -30,7 +30,7 @@
   {
     "name": "PUBG: BATTLEGROUNDS",
     "platform": "Steam",
-    "metric": 278871,
+    "metric": 88642,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
@@ -40,17 +40,17 @@
       {
         "game": "PUBG: BATTLEGROUNDS",
         "status": "live",
-        "campaign": "PEC: Fall Playoffs 2_DAY3",
-        "start": "2026-09-27T15:30:00Z",
-        "end": "2026-09-27T21:00:59.999Z",
+        "campaign": "PAS2 Playoffs 2_DAY3",
+        "start": "2026-09-27T22:30:00Z",
+        "end": "2026-09-28T04:30:59.999Z",
         "watch_time": "",
         "requirements": [],
         "rewards": [],
         "description": "Tune in to the Twitch streams for PEC Fall 2026 and PAS2 2026 to earn yourself some Drops! Watch participating channels to claim your rewards and support your favourite teams and streamers throughout the events.",
-        "image": "/media/campaigns/images/5479e613-9eed-40df-8054-b2acbc8926ac.png",
-        "url": "https://pubgesports.com/en/tournament/164",
+        "image": "/media/campaigns/images/6f5a5ad7-8719-44a0-8985-d6790a5e059c.png",
+        "url": "https://pubgesports.com/en/tournament/163?detailType=match&NEWS_SIZE=10&MATCH_BIG=378&STAT_TYPE=player&STAT_TOP5_TYPE=kill-top",
         "account_link": "https://accounts.krafton.com",
-        "twitch_campaign_id": "5479e613-9eed-40df-8054-b2acbc8926ac"
+        "twitch_campaign_id": "6f5a5ad7-8719-44a0-8985-d6790a5e059c"
       }
     ],
     "badges": [
@@ -63,9 +63,44 @@
     "id": 3
   },
   {
+    "name": "Apex Legends",
+    "platform": "Steam",
+    "metric": 58204,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+    "appid": 1172470,
+    "drops_enabled": true,
+    "drops": [
+      {
+        "game": "Apex Legends",
+        "status": "live",
+        "campaign": "Apex vs Street Fighter 6",
+        "start": "2026-09-22T17:00:00Z",
+        "end": "2026-09-29T16:59:59.999Z",
+        "watch_time": "",
+        "requirements": [],
+        "rewards": [],
+        "description": "Tune in to any Apex Legends or Street Fighter 6 Twitch streams between September 22 and September 29 to earn a cosmetic.",
+        "image": "/media/campaigns/images/131e1b3d-c580-4f4f-93de-b1f7bbb5e317.png",
+        "url": "https://www.ea.com/games/apex-legends/apex-legends/news/street-fighter-6-event",
+        "account_link": "https://www.ea.com/twitchlinking",
+        "twitch_campaign_id": "131e1b3d-c580-4f4f-93de-b1f7bbb5e317"
+      }
+    ],
+    "badges": [
+      {
+        "name": "Drop actif",
+        "icon": "🎁"
+      }
+    ],
+    "emotes": [],
+    "id": 4
+  },
+  {
     "name": "Rust",
     "platform": "Steam",
-    "metric": 112108,
+    "metric": 52602,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
@@ -335,47 +370,12 @@
       }
     ],
     "emotes": [],
-    "id": 4
-  },
-  {
-    "name": "Apex Legends",
-    "platform": "Steam",
-    "metric": 104531,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
-    "appid": 1172470,
-    "drops_enabled": true,
-    "drops": [
-      {
-        "game": "Apex Legends",
-        "status": "live",
-        "campaign": "Apex vs Street Fighter 6",
-        "start": "2026-09-22T17:00:00Z",
-        "end": "2026-09-29T16:59:59.999Z",
-        "watch_time": "",
-        "requirements": [],
-        "rewards": [],
-        "description": "Tune in to any Apex Legends or Street Fighter 6 Twitch streams between September 22 and September 29 to earn a cosmetic.",
-        "image": "/media/campaigns/images/131e1b3d-c580-4f4f-93de-b1f7bbb5e317.png",
-        "url": "https://www.ea.com/games/apex-legends/apex-legends/news/street-fighter-6-event",
-        "account_link": "https://www.ea.com/twitchlinking",
-        "twitch_campaign_id": "131e1b3d-c580-4f4f-93de-b1f7bbb5e317"
-      }
-    ],
-    "badges": [
-      {
-        "name": "Drop actif",
-        "icon": "🎁"
-      }
-    ],
-    "emotes": [],
     "id": 5
   },
   {
     "name": "Baldur's Gate 3",
     "platform": "Steam",
-    "metric": 69385,
+    "metric": 51025,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
@@ -387,9 +387,65 @@
     "id": 6
   },
   {
+    "name": "Palworld",
+    "platform": "Steam",
+    "metric": 49160,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
+    "appid": 1623730,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 7
+  },
+  {
+    "name": "Helldivers 2",
+    "platform": "Steam",
+    "metric": 48287,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+    "appid": 553850,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 8
+  },
+  {
+    "name": "Dead by Daylight",
+    "platform": "Steam",
+    "metric": 44281,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
+    "appid": 381210,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 9
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "platform": "Steam",
+    "metric": 31117,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
+    "appid": 550,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 10
+  },
+  {
     "name": "Grand Theft Auto V",
     "platform": "Steam",
-    "metric": 67458,
+    "metric": 28952,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
@@ -434,72 +490,16 @@
       }
     ],
     "emotes": [],
-    "id": 7
-  },
-  {
-    "name": "Palworld",
-    "platform": "Steam",
-    "metric": 66576,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
-    "appid": 1623730,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 8
-  },
-  {
-    "name": "Dead by Daylight",
-    "platform": "Steam",
-    "metric": 64686,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
-    "appid": 381210,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 9
-  },
-  {
-    "name": "Helldivers 2",
-    "platform": "Steam",
-    "metric": 60075,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
-    "appid": 553850,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 10
+    "id": 11
   },
   {
     "name": "Terraria",
     "platform": "Steam",
-    "metric": 39118,
+    "metric": 26708,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
     "appid": 105600,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 11
-  },
-  {
-    "name": "Cyberpunk 2077",
-    "platform": "Steam",
-    "metric": 38860,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
-    "appid": 1091500,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -509,7 +509,7 @@
   {
     "name": "Elden Ring",
     "platform": "Steam",
-    "metric": 37084,
+    "metric": 25744,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
@@ -542,13 +542,13 @@
     "id": 13
   },
   {
-    "name": "Left 4 Dead 2",
+    "name": "Cyberpunk 2077",
     "platform": "Steam",
-    "metric": 27472,
+    "metric": 25263,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
-    "appid": 550,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+    "appid": 1091500,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -558,7 +558,7 @@
   {
     "name": "Monster Hunter: World",
     "platform": "Steam",
-    "metric": 14177,
+    "metric": 8944,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
