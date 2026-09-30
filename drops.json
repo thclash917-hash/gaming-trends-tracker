@@ -62,32 +62,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 5 - #2/7",
-    "start": "2026-09-29T10:00:00Z",
-    "end": "2026-09-30T09:29:59.999Z",
+    "campaign": "Dragonfire 5 - #3/7",
+    "start": "2026-09-30T10:00:00Z",
+    "end": "2026-10-01T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/c353737c-c0ee-4b43-9fdd-4b75b1656bb0.png",
+    "image": "/media/campaigns/images/9b78ba94-fb93-4b5b-8ef5-859a15b066ef.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "c353737c-c0ee-4b43-9fdd-4b75b1656bb0"
+    "twitch_campaign_id": "9b78ba94-fb93-4b5b-8ef5-859a15b066ef"
   },
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 4 - #2/7",
-    "start": "2026-09-29T10:00:00Z",
-    "end": "2026-09-30T09:29:59.999Z",
+    "campaign": "AOCP Flamescale 4 - #3/7",
+    "start": "2026-09-30T10:00:00Z",
+    "end": "2026-10-01T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/6824f425-66de-4313-bdf7-b4dee9b90b29.png",
+    "image": "/media/campaigns/images/ee36be6f-0383-48ed-b051-1bb4e6ddb298.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "6824f425-66de-4313-bdf7-b4dee9b90b29"
+    "twitch_campaign_id": "ee36be6f-0383-48ed-b051-1bb4e6ddb298"
   },
   {
     "game": "Aniimo",
@@ -195,21 +195,6 @@
     "twitch_campaign_id": "1455b54f-00c4-4df6-a4d2-e1a05c879369"
   },
   {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "2026 BDO Drops (Sep 29)",
-    "start": "2026-09-29T12:00:00Z",
-    "end": "2026-09-30T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/a8709daa-2057-4499-a928-16fbab9a4009.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "a8709daa-2057-4499-a928-16fbab9a4009"
-  },
-  {
     "game": "Blue Protocol: Star Resonance",
     "status": "live",
     "campaign": "Season 3 Special Drops",
@@ -285,6 +270,21 @@
     "twitch_campaign_id": "88a95cd1-65ac-452a-b821-32293f2406af"
   },
   {
+    "game": "Doomsday: Last Survivors",
+    "status": "live",
+    "campaign": "Twitch Drops",
+    "start": "2026-09-30T09:05:57Z",
+    "end": "2026-10-27T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Join our Drops to earn rewards and an exclusive Twitch 67 Emote! Each IGG ID can redeem the drops only once.",
+    "image": "/media/campaigns/images/d7095399-62d2-4ff7-bb73-dcbf1f513ec8.png",
+    "url": "https://event.igg.com/twitch/drops?code=dls_drops",
+    "account_link": "https://event.igg.com/twitch/drops?code=dls_drops",
+    "twitch_campaign_id": "d7095399-62d2-4ff7-bb73-dcbf1f513ec8"
+  },
+  {
     "game": "DRAGON BALL GEKISHIN SQUADRA",
     "status": "live",
     "campaign": "SQUADRA SEASON 7 Drops",
@@ -343,6 +343,21 @@
     "url": "https://www.ea.com/games/ea-sports-fc/fc-pro/how-to-earn-rewards",
     "account_link": "https://www.ea.com/twitchlinking",
     "twitch_campaign_id": "4c304edf-da41-4abb-934b-ff7541bd5cab"
+  },
+  {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "よむERカスタム",
+    "start": "2026-09-30T11:00:00Z",
+    "end": "2026-09-30T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/7676340b-b777-46a0-b856-b054d5f133d9.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "7676340b-b777-46a0-b856-b054d5f133d9"
   },
   {
     "game": "Eternal Return",
@@ -420,21 +435,6 @@
     "twitch_campaign_id": "728141da-5f87-49de-8afd-7fa0be33545f"
   },
   {
-    "game": "Grand Theft Auto V",
-    "status": "live",
-    "campaign": "nopixel V",
-    "start": "2026-09-08T12:00:00Z",
-    "end": "2026-09-30T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Get up to GTA$1.5M and the Burger Shot Tracksuit for watching Twitch Drop-enabled streams in nopixel V — a GTAV Roleplay experience. Ends September 30. Visit https://www.rockstargames.com/gta-online/twitch-drops to learn more.",
-    "image": "/media/campaigns/images/4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c.jpeg",
-    "url": "https://rockstargames.com/gta-online/twitch-drops",
-    "account_link": "https://rockstargames.com/gta-online/twitch-drops",
-    "twitch_campaign_id": "4b5b3215-e5e2-4d1e-9ef2-bd699c6bb05c"
-  },
-  {
     "game": "Heroes of the Storm",
     "status": "live",
     "campaign": "Xal'atath Launch",
@@ -493,21 +493,6 @@
     "url": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
     "account_link": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
     "twitch_campaign_id": "65f8f2a5-074c-48ca-8505-f525bb8d75f5"
-  },
-  {
-    "game": "Kakele Online - MMORPG",
-    "status": "live",
-    "campaign": "Kakele Online September 2",
-    "start": "2026-09-15T08:00:00Z",
-    "end": "2026-09-30T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "🎮 Announcing Kakele Online's Epic Twitch Drops!  Embark on a unique journey in Kakele's realm. Dive into mystical lands, conquer quests, and enjoy our exciting Twitch Drops for enhanced gaming. Unlock rewards, including teleports, herbs, potions, and materials.  🕒 Timed Rewards: Enjoy cities Teleports, Ultra potions, Gold Refiner Kits and collect Dog Cards and Trophies.  💰 Prosperity Path: Gain Copper, Tin, Silver, Iron, Gold, Life Herbs, Mana Herbs for success. Accumulate Reputation Coins.  🎈 Grand Finale: End with an exclusive Twitch Drop and Bacon Extravaganza surprise! Link accounts, watch streams, and claim rewards for an unforgettable RPG experience.  🌟 How to Join:  Link Accounts: Connect your account and Twitch in the game app. Watch Streams: Tune in during to your favorite Kakele streamer. Claim Rewards: Receive Twitch Drop notifications claim in the game app.  Influencers: To enable drops on your stream, email us!  Don't miss the chance to enrich your journey with Twitch Drops!",
-    "image": "/media/campaigns/images/ac324042-c913-470a-8b19-6018446878ca.png",
-    "url": "https://www.kakele.io/?utm_source=drops",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?client_id=9awx3xtp59477gdaslg318amuimqp8&redirect_uri=https%3A%2F%2Fwww.kakele.io%2Fdrops&response_type=code&scope=user:read:email",
-    "twitch_campaign_id": "ac324042-c913-470a-8b19-6018446878ca"
   },
   {
     "game": "Kirka.io",
@@ -1485,21 +1470,6 @@
     "twitch_campaign_id": "542a2fb4-97d1-427c-861b-3ebc5229a0e1"
   },
   {
-    "game": "Sonic Rumble Party",
-    "status": "live",
-    "campaign": "September 2026 Drops",
-    "start": "2026-09-09T08:00:00Z",
-    "end": "2026-09-30T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Sonic Rumble Party drops for September!",
-    "image": "/media/campaigns/images/4d11821c-2856-45c9-9a4d-fa1717d3aae0.png",
-    "url": "https://sonicrumble.sega.com/special/twitch-drops/en/",
-    "account_link": "https://sonicrumble.sega.com/special/twitch-drops/en/",
-    "twitch_campaign_id": "4d11821c-2856-45c9-9a4d-fa1717d3aae0"
-  },
-  {
     "game": "Special Events",
     "status": "live",
     "campaign": "Ironmouse Subathon 2026",
@@ -1622,21 +1592,6 @@
   {
     "game": "The Witcher 3: Wild Hunt Remastered",
     "status": "live",
-    "campaign": "Witcher 3 Remaster",
-    "start": "2026-09-29T10:00:00Z",
-    "end": "2026-10-27T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Come celebrate The Witcher 3: Remastered launch and grab exclusive chat badges!",
-    "image": "/media/campaigns/images/4f180222-4cce-4ebf-bbab-d2e3ff19aee3.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "4f180222-4cce-4ebf-bbab-d2e3ff19aee3"
-  },
-  {
-    "game": "The Witcher 3: Wild Hunt Remastered",
-    "status": "live",
     "campaign": "Remastered Release",
     "start": "2026-09-29T10:00:00Z",
     "end": "2026-10-27T09:59:59.999Z",
@@ -1648,6 +1603,21 @@
     "url": "https://www.thewitcher.com/twitch-drops",
     "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
     "twitch_campaign_id": "ef300faa-a1ad-4bff-b55d-bb1c7500b26e"
+  },
+  {
+    "game": "The Witcher 3: Wild Hunt Remastered",
+    "status": "live",
+    "campaign": "Witcher 3 Remaster",
+    "start": "2026-09-29T10:00:00Z",
+    "end": "2026-10-27T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Come celebrate The Witcher 3: Remastered launch and grab exclusive chat badges!",
+    "image": "/media/campaigns/images/4f180222-4cce-4ebf-bbab-d2e3ff19aee3.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "4f180222-4cce-4ebf-bbab-d2e3ff19aee3"
   },
   {
     "game": "Tom Clancy's The Division 2",
