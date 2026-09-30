@@ -45,6 +45,21 @@
     "twitch_campaign_id": "40d27f46-f8e8-49e3-ada9-63ee087adf4b"
   },
   {
+    "game": "AION 2",
+    "status": "live",
+    "campaign": "AION 2 Early Access Event",
+    "start": "2026-09-30T15:02:40Z",
+    "end": "2026-10-17T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The wait is over. Step into the world of Atreia before anyone else. Watch participating AION2 streams during Early Access and earn exclusive in-game rewards to begin your ascent in style.",
+    "image": "/media/campaigns/images/8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c.png",
+    "url": "https://aion2.plaync.com/en-us/twitchdrops/index",
+    "account_link": "https://id.plaync.com/myinfo/account",
+    "twitch_campaign_id": "8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c"
+  },
+  {
     "game": "Airport Baggage Simulator",
     "status": "live",
     "campaign": "Night Shift Update",
@@ -62,21 +77,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 5 - #3/7",
-    "start": "2026-09-30T10:00:00Z",
-    "end": "2026-10-01T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/9b78ba94-fb93-4b5b-8ef5-859a15b066ef.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "9b78ba94-fb93-4b5b-8ef5-859a15b066ef"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "AOCP Flamescale 4 - #3/7",
     "start": "2026-09-30T10:00:00Z",
     "end": "2026-10-01T09:29:59.999Z",
@@ -88,6 +88,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "ee36be6f-0383-48ed-b051-1bb4e6ddb298"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "Dragonfire 5 - #3/7",
+    "start": "2026-09-30T10:00:00Z",
+    "end": "2026-10-01T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+    "image": "/media/campaigns/images/9b78ba94-fb93-4b5b-8ef5-859a15b066ef.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "9b78ba94-fb93-4b5b-8ef5-859a15b066ef"
   },
   {
     "game": "Aniimo",
@@ -128,41 +143,11 @@
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including BakedJake, Kritikal, QuattroAce, LVNDMARK, and Ralisco—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.\t",
-    "image": "/media/campaigns/images/c21130db-734b-433a-a9fa-38d8c50194a1.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "c21130db-734b-433a-a9fa-38d8c50194a1"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
-    "campaign": "S7 Support ABI Streamers",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
     "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including Bruking, So1oCtrl,  samoylov___, and Zeegers—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
     "image": "/media/campaigns/images/90dbc764-d4ab-4929-8167-abbee3030c70.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
-    "campaign": "S7 Support ABI Streamers",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including ImOw, HITBOXKING, GL40LabsRaT, and Arven93—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/60d49775-74c0-4821-91d0-5fd5e7ac0506.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "60d49775-74c0-4821-91d0-5fd5e7ac0506"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -180,6 +165,36 @@
     "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
   },
   {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Support ABI Streamers",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including BakedJake, Kritikal, QuattroAce, LVNDMARK, and Ralisco—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.\t",
+    "image": "/media/campaigns/images/c21130db-734b-433a-a9fa-38d8c50194a1.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "c21130db-734b-433a-a9fa-38d8c50194a1"
+  },
+  {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Support ABI Streamers",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including ImOw, HITBOXKING, GL40LabsRaT, and Arven93—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/60d49775-74c0-4821-91d0-5fd5e7ac0506.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "60d49775-74c0-4821-91d0-5fd5e7ac0506"
+  },
+  {
     "game": "Big Walk",
     "status": "live",
     "campaign": "Big Walk badge",
@@ -193,6 +208,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "1455b54f-00c4-4df6-a4d2-e1a05c879369"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "2026 BDO Drops (Sep 30)",
+    "start": "2026-09-30T12:00:00Z",
+    "end": "2026-10-01T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "image": "/media/campaigns/images/781befbd-87d0-4a40-be6d-89442b47c1c6.png",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
+    "twitch_campaign_id": "781befbd-87d0-4a40-be6d-89442b47c1c6"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -330,36 +360,6 @@
     "twitch_campaign_id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0"
   },
   {
-    "game": "EA Sports FC 27",
-    "status": "live",
-    "campaign": "FC27 First Gameplay",
-    "start": "2026-09-08T16:03:55Z",
-    "end": "2026-09-30T16:02:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "FC27 First Gameplay",
-    "image": "/media/campaigns/images/4c304edf-da41-4abb-934b-ff7541bd5cab.png",
-    "url": "https://www.ea.com/games/ea-sports-fc/fc-pro/how-to-earn-rewards",
-    "account_link": "https://www.ea.com/twitchlinking",
-    "twitch_campaign_id": "4c304edf-da41-4abb-934b-ff7541bd5cab"
-  },
-  {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "よむERカスタム",
-    "start": "2026-09-30T11:00:00Z",
-    "end": "2026-09-30T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/7676340b-b777-46a0-b856-b054d5f133d9.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "7676340b-b777-46a0-b856-b054d5f133d9"
-  },
-  {
     "game": "Eternal Return",
     "status": "live",
     "campaign": "MID SEASON DROPS [0930]",
@@ -433,6 +433,21 @@
     "url": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
     "account_link": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
     "twitch_campaign_id": "728141da-5f87-49de-8afd-7fa0be33545f"
+  },
+  {
+    "game": "Hearthstone",
+    "status": "live",
+    "campaign": "Tentacle Rave",
+    "start": "2026-09-30T15:00:00Z",
+    "end": "2026-09-30T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Enter the Black Empire’s Tentacle Rave and dance to dark eldritch beats. Claim a gift from the Old Gods by watching for 30 minutes!",
+    "image": "/media/campaigns/images/f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01.png",
+    "url": "https://hearthstone.blizzard.com/news/24302818",
+    "account_link": "https://support.blizzard.com/help/article/66385",
+    "twitch_campaign_id": "f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01"
   },
   {
     "game": "Heroes of the Storm",
@@ -632,6 +647,21 @@
   {
     "game": "Mir Korabley",
     "status": "live",
+    "campaign": "Lestakorabli - 26.9 #12",
+    "start": "2026-09-30T14:00:00Z",
+    "end": "2026-10-01T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Эсминец IX Velos;\n• Крейсер VIII Bayard;\n• Линкор VIII «Бородино».\n\nЗа просмотр 11 из 12 трансляций официального канала Lestakorabli в рамках версии 26.9 вы получаете «Большой набор». Подробности на портале «Мир кораблей».\n\nЖмите «Отслеживать» и получайте награду!",
+    "image": "/media/campaigns/images/977e256a-df6b-403b-8aff-480bb8edfceb.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "977e256a-df6b-403b-8aff-480bb8edfceb"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
     "campaign": "Обновление 26.9: Часть 4",
     "start": "2026-09-25T15:00:00Z",
     "end": "2026-10-02T14:59:59.999Z",
@@ -752,17 +782,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate 9/29/26",
-    "start": "2026-09-29T13:00:00Z",
-    "end": "2026-09-30T12:59:59.999Z",
+    "campaign": "Affiliate 9/30/26",
+    "start": "2026-09-30T13:00:00Z",
+    "end": "2026-10-01T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/f12f19ea-9f9d-413c-973b-431b98e368ae.png",
+    "image": "/media/campaigns/images/e2829998-72ba-4854-8182-f96b4410035e.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "f12f19ea-9f9d-413c-973b-431b98e368ae"
+    "twitch_campaign_id": "e2829998-72ba-4854-8182-f96b4410035e"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1050,34 +1080,19 @@
     "twitch_campaign_id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4"
   },
   {
-    "game": "Rise Online",
+    "game": "Rise of Agon",
     "status": "live",
-    "campaign": "Mobile Drop 173",
-    "start": "2026-09-29T17:59:00Z",
-    "end": "2026-09-30T17:56:59.999Z",
+    "campaign": "Open Beta Launch Drops",
+    "start": "2026-09-30T15:00:00Z",
+    "end": "2026-09-30T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/efc796c4-0218-499c-bd1f-8fbbfa8bc0c6.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "efc796c4-0218-499c-bd1f-8fbbfa8bc0c6"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "ROW Drop 602",
-    "start": "2026-09-29T17:59:00Z",
-    "end": "2026-09-30T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/8c8dba9f-7eb0-4f08-bb9b-92638c79d213.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "8c8dba9f-7eb0-4f08-bb9b-92638c79d213"
+    "description": "The Rise of Agon 64-bit Open Beta is live, and we're celebrating with Twitch Drops!",
+    "image": "/media/campaigns/images/9b6b9651-ffb0-484b-a1d2-6feb4483925b.png",
+    "url": "https://www.riseofagon.com/account/twitch/",
+    "account_link": "https://www.riseofagon.com/account/twitch/",
+    "twitch_campaign_id": "9b6b9651-ffb0-484b-a1d2-6feb4483925b"
   },
   {
     "game": "RuneScape: Dragonwilds",
@@ -1352,6 +1367,21 @@
   {
     "game": "Shakes and Fidget",
     "status": "live",
+    "campaign": "S&F Drops 2/3",
+    "start": "2026-09-30T14:00:00Z",
+    "end": "2026-10-04T21:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/5454eb48-0c26-4e18-871d-c4363129d5ad.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "5454eb48-0c26-4e18-871d-c4363129d5ad"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
     "campaign": "S&F Drops 1/3",
     "start": "2026-09-28T14:00:00Z",
     "end": "2026-10-04T21:58:59.999Z",
@@ -1500,21 +1530,6 @@
     "twitch_campaign_id": "1445f6b3-c20d-4a8a-bfc1-7af87d697e9c"
   },
   {
-    "game": "Storm Striker",
-    "status": "live",
-    "campaign": "Storm Striker JP Drops",
-    "start": "2026-09-27T07:32:54Z",
-    "end": "2026-09-30T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Storm Striker 日本向けTwitch Dropsキャンペーンです。 対象チャンネルを視聴すると、視聴時間に応じてゲーム内報酬を獲得できます。",
-    "image": "/media/campaigns/images/76baafb0-89ae-4e0a-b3c0-08c02c09ef11.jpeg",
-    "url": "https://portal.storm-striker.com/drops?server=JP",
-    "account_link": "https://portal.storm-striker.com/drops?server=JP",
-    "twitch_campaign_id": "76baafb0-89ae-4e0a-b3c0-08c02c09ef11"
-  },
-  {
     "game": "The Blood of Dawnwalker",
     "status": "live",
     "campaign": "Dawnwalker Launch",
@@ -1530,19 +1545,19 @@
     "twitch_campaign_id": "9b94b19f-17db-4edd-80dd-e2eca81f21df"
   },
   {
-    "game": "The First Descendant",
+    "game": "The Elder Scrolls Online",
     "status": "live",
-    "campaign": "Conquest Mode Drops",
-    "start": "2026-09-04T05:00:00Z",
-    "end": "2026-09-30T14:59:59.999Z",
+    "campaign": "High Seas of Tamriel",
+    "start": "2026-09-30T14:00:00Z",
+    "end": "2026-10-14T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Karel's Mothership: Conquest is now available! Tune in to our Twitch livestreams and earn exclusive Drops while you watch. Don't miss out on all the rewards waiting for you.",
-    "image": "/media/campaigns/images/2627f082-1448-4a4b-a721-41e942aa5bc6.png",
-    "url": "https://tfd.nexon.com/drops/twitch",
-    "account_link": "https://tfd.nexon.com/drops/twitch",
-    "twitch_campaign_id": "2627f082-1448-4a4b-a721-41e942aa5bc6"
+    "description": "Earn in-game rewards simply by watching Drop-enabled ESO streams on Twitch!",
+    "image": "/media/campaigns/images/54136633-c8ea-4a41-ac8e-262b5b18f5fc.jpeg",
+    "url": "https://www.elderscrollsonline.com/en-us/news/post/59435",
+    "account_link": "https://account.elderscrollsonline.com/",
+    "twitch_campaign_id": "54136633-c8ea-4a41-ac8e-262b5b18f5fc"
   },
   {
     "game": "The Quinfall",
@@ -1680,36 +1695,6 @@
     "twitch_campaign_id": "8bce7df4-b03e-4e1e-8829-7513d54016ec"
   },
   {
-    "game": "WARDOGS",
-    "status": "live",
-    "campaign": "WARDOGS Beta & Launch",
-    "start": "2026-09-03T18:00:00Z",
-    "end": "2026-09-30T17:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This is WARDOGS. Celebrate the Closed Beta & Early Access launch and snag these exclusive chat badges by supporting your favourite WARDOGS streamers.",
-    "image": "/media/campaigns/images/aa82829e-9f3c-4572-a120-39d2eb36729b.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "aa82829e-9f3c-4572-a120-39d2eb36729b"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "Iceblade of Narin",
-    "start": "2026-09-23T15:30:00Z",
-    "end": "2026-09-30T15:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch any stream in the Warframe directory for 1 hour to earn a Kuva Globule Decoration, a Parallax Landing Craft, and a Niveus Sumdali!",
-    "image": "/media/campaigns/images/c3228c6d-d3f6-46ca-a167-7e4e573e80ca.jpeg",
-    "url": "https://forums.warframe.com/topic/1523757-iceblade-of-narin-directory-wide-twitch-drops-campaign-starts-sept-23/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "c3228c6d-d3f6-46ca-a167-7e4e573e80ca"
-  },
-  {
     "game": "Warhammer 40,000: Darktide",
     "status": "live",
     "campaign": "Depths of the Damned Drop",
@@ -1740,6 +1725,21 @@
     "twitch_campaign_id": "2d14347e-18fe-4c94-a5c8-4b24ac5f747c"
   },
   {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Extra Supplies",
+    "start": "2026-09-30T15:00:00Z",
+    "end": "2026-10-01T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Extra Supplies ",
+    "image": "/media/campaigns/images/07e086a0-6d49-489f-8200-53b533fda643.jpeg",
+    "url": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "account_link": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "twitch_campaign_id": "07e086a0-6d49-489f-8200-53b533fda643"
+  },
+  {
     "game": "World of Tanks Console",
     "status": "live",
     "campaign": "Master of Mayhem Week 10",
@@ -1757,17 +1757,17 @@
   {
     "game": "World of Tanks: HEAT",
     "status": "live",
-    "campaign": "HEAT Season 2 - Week 4",
-    "start": "2026-09-23T16:00:00Z",
-    "end": "2026-09-30T15:58:59.999Z",
+    "campaign": "HEAT Season 2 - Week 5",
+    "start": "2026-09-30T16:00:00Z",
+    "end": "2026-10-07T15:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Season 2 Twitch Drops! Watch HEAT on Twitch to earn a Vehicle XP Booster and a Booster Pack. Link your Twitch and Wargaming accounts to claim your rewards.",
-    "image": "/media/campaigns/images/4655b913-9701-4ff3-8983-5048257e6c92.png",
+    "image": "/media/campaigns/images/989bb268-3603-458e-b9ae-e317582878f5.png",
     "url": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
     "account_link": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
-    "twitch_campaign_id": "4655b913-9701-4ff3-8983-5048257e6c92"
+    "twitch_campaign_id": "989bb268-3603-458e-b9ae-e317582878f5"
   },
   {
     "game": "World of Warships",
@@ -1828,20 +1828,5 @@
     "url": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
     "account_link": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
     "twitch_campaign_id": "8146a56b-1e86-46b4-ae62-628f218f3ce9"
-  },
-  {
-    "game": "Zenless Zone Zero",
-    "status": "live",
-    "campaign": "V3.2 Zenless Zone Zero",
-    "start": "2026-09-09T02:00:00Z",
-    "end": "2026-09-30T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "V3.2 Zenless Zone Zero",
-    "image": "/media/campaigns/images/d9fa47ca-8cf5-4422-935f-38d8fdd3548a.png",
-    "url": "https://act.hoyoverse.com/puzzle/zzz/pz_5E9qxR7Ypm/index.html?game_biz=nap_global",
-    "account_link": "https://act.hoyoverse.com/puzzle/zzz/pz_5E9qxR7Ypm/index.html?game_biz=nap_global",
-    "twitch_campaign_id": "d9fa47ca-8cf5-4422-935f-38d8fdd3548a"
   }
 ]
