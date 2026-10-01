@@ -287,17 +287,17 @@
   {
     "game": "DOFUS Touch",
     "status": "live",
-    "campaign": "J16 - 3x Temporix Cps",
-    "start": "2026-09-29T22:00:00Z",
-    "end": "2026-09-30T21:59:59.999Z",
+    "campaign": "J17 - 3x Temporix Cps",
+    "start": "2026-09-30T22:00:00Z",
+    "end": "2026-10-01T21:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Pour accompagner le lancement de nos serveurs temporaires, l’événement TemporiX au cœur de l’anniversaire de DOFUS Touch, nous organisons une nouvelle campagne de Twitch Drops qui se déroulera du mardi 15 septembre à 18 h au lundi 12 octobre à 23 h 59 (heure de Paris).",
-    "image": "/media/campaigns/images/88a95cd1-65ac-452a-b821-32293f2406af.png",
+    "image": "/media/campaigns/images/9745755d-2061-469a-8ac1-5ed408a07076.png",
     "url": "https://account.ankama.com/fr/twitch",
     "account_link": "https://account.ankama.com/fr/twitch",
-    "twitch_campaign_id": "88a95cd1-65ac-452a-b821-32293f2406af"
+    "twitch_campaign_id": "9745755d-2061-469a-8ac1-5ed408a07076"
   },
   {
     "game": "Doomsday: Last Survivors",
@@ -360,21 +360,6 @@
     "twitch_campaign_id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0"
   },
   {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "MID SEASON DROPS [0930]",
-    "start": "2026-09-29T20:00:00Z",
-    "end": "2026-09-30T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/ff2ca865-8f69-4a88-863b-a6e35dde33d7.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "ff2ca865-8f69-4a88-863b-a6e35dde33d7"
-  },
-  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "GM Week Drop 1",
@@ -433,21 +418,6 @@
     "url": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
     "account_link": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
     "twitch_campaign_id": "728141da-5f87-49de-8afd-7fa0be33545f"
-  },
-  {
-    "game": "Hearthstone",
-    "status": "live",
-    "campaign": "Tentacle Rave",
-    "start": "2026-09-30T15:00:00Z",
-    "end": "2026-09-30T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Enter the Black Empire’s Tentacle Rave and dance to dark eldritch beats. Claim a gift from the Old Gods by watching for 30 minutes!",
-    "image": "/media/campaigns/images/f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01.png",
-    "url": "https://hearthstone.blizzard.com/news/24302818",
-    "account_link": "https://support.blizzard.com/help/article/66385",
-    "twitch_campaign_id": "f8cf90a7-0569-4dc1-b7f7-e2bf48ba2f01"
   },
   {
     "game": "Heroes of the Storm",
@@ -1080,19 +1050,49 @@
     "twitch_campaign_id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4"
   },
   {
-    "game": "Rise of Agon",
+    "game": "Rise Online",
     "status": "live",
-    "campaign": "Open Beta Launch Drops",
-    "start": "2026-09-30T15:00:00Z",
-    "end": "2026-09-30T23:59:59.999Z",
+    "campaign": "Mobile Drop 174",
+    "start": "2026-09-30T17:59:00Z",
+    "end": "2026-10-01T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "The Rise of Agon 64-bit Open Beta is live, and we're celebrating with Twitch Drops!",
-    "image": "/media/campaigns/images/9b6b9651-ffb0-484b-a1d2-6feb4483925b.png",
-    "url": "https://www.riseofagon.com/account/twitch/",
-    "account_link": "https://www.riseofagon.com/account/twitch/",
-    "twitch_campaign_id": "9b6b9651-ffb0-484b-a1d2-6feb4483925b"
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/053bbea5-0d64-4a87-bb89-26e4f3ac332f.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "053bbea5-0d64-4a87-bb89-26e4f3ac332f"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 603",
+    "start": "2026-09-30T17:59:00Z",
+    "end": "2026-10-01T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/52f41ab3-dc57-4b7b-895c-49b10992f575.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "52f41ab3-dc57-4b7b-895c-49b10992f575"
+  },
+  {
+    "game": "Rocket League",
+    "status": "live",
+    "campaign": "The General x RL",
+    "start": "2026-09-30T22:37:12Z",
+    "end": "2026-10-01T00:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch RL pro ItsJSTN, AngelSkimi, StarSmitten, or Nihachu play Rocket League and earn Twitch Drops!",
+    "image": "/media/campaigns/images/447f921b-8162-4d7d-bd23-387ca106cb92.png",
+    "url": "https://www.epicgames.com/account/connections",
+    "account_link": "https://www.epicgames.com/account/connections",
+    "twitch_campaign_id": "447f921b-8162-4d7d-bd23-387ca106cb92"
   },
   {
     "game": "RuneScape: Dragonwilds",
@@ -1530,21 +1530,6 @@
     "twitch_campaign_id": "1445f6b3-c20d-4a8a-bfc1-7af87d697e9c"
   },
   {
-    "game": "The Blood of Dawnwalker",
-    "status": "live",
-    "campaign": "Dawnwalker Launch",
-    "start": "2026-09-03T00:00:00Z",
-    "end": "2026-09-30T23:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Come celebrate the launch of The Blood of Dawnwalker and grab exclusive chat badges!",
-    "image": "/media/campaigns/images/9b94b19f-17db-4edd-80dd-e2eca81f21df.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "9b94b19f-17db-4edd-80dd-e2eca81f21df"
-  },
-  {
     "game": "The Elder Scrolls Online",
     "status": "live",
     "campaign": "High Seas of Tamriel",
@@ -1558,21 +1543,6 @@
     "url": "https://www.elderscrollsonline.com/en-us/news/post/59435",
     "account_link": "https://account.elderscrollsonline.com/",
     "twitch_campaign_id": "54136633-c8ea-4a41-ac8e-262b5b18f5fc"
-  },
-  {
-    "game": "The Quinfall",
-    "status": "live",
-    "campaign": "September Drops",
-    "start": "2026-09-30T00:00:00Z",
-    "end": "2026-09-30T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/17aab383-e78a-41d1-865b-d307e26635c6.png",
-    "url": "https://www.quinfall.com/twitch-drops",
-    "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "17aab383-e78a-41d1-865b-d307e26635c6"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
@@ -1648,21 +1618,6 @@
     "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "e0d75414-81f7-4e1a-9615-8cf128262c9c"
-  },
-  {
-    "game": "UFL",
-    "status": "live",
-    "campaign": "Sept #4",
-    "start": "2026-09-24T08:05:00Z",
-    "end": "2026-09-30T23:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
-    "image": "/media/campaigns/images/a08129f9-86ff-4200-b503-38d8816b661b.png",
-    "url": "https://portal.uflgame.com/twitch/drops",
-    "account_link": "https://portal.uflgame.com/twitch",
-    "twitch_campaign_id": "a08129f9-86ff-4200-b503-38d8816b661b"
   },
   {
     "game": "VALORANT",
@@ -1772,6 +1727,21 @@
   {
     "game": "World of Warships",
     "status": "live",
+    "campaign": "15.8 WOWS Channel Drop",
+    "start": "2026-09-30T22:00:00Z",
+    "end": "2026-10-07T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
+    "image": "/media/campaigns/images/2c1776a1-ba10-4589-8b23-9179d0b502c6.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "2c1776a1-ba10-4589-8b23-9179d0b502c6"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
     "campaign": "Update 15.8 Drop: Week 3",
     "start": "2026-09-24T16:00:00Z",
     "end": "2026-10-01T15:59:59.999Z",
@@ -1798,21 +1768,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "a87b9bd2-dfcb-400a-aeec-4f208e72be76"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "15.8 WOWS Channel Drop",
-    "start": "2026-09-23T22:00:00Z",
-    "end": "2026-09-30T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The shortest war in recorded history was the Anglo-Zanzibar War of 1896, between the United Kingdom and the Sultanate of Zanzibar. It lasted approximately 38 to 45 minutes. The conflict began after the sultan died and his cousin seized the throne without British approval, prompting the British to issue an ultimatum. When it expired, the Royal Navy began shelling the sultan's palace, and the fighting was over before it really started, making it the shortest war on record.",
-    "image": "/media/campaigns/images/81a6d0ee-ba45-42e8-a55e-a0ed98c040a9.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "81a6d0ee-ba45-42e8-a55e-a0ed98c040a9"
   },
   {
     "game": "Wuthering Waves",
