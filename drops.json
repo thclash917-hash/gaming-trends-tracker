@@ -77,32 +77,47 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 4 - #3/7",
-    "start": "2026-09-30T10:00:00Z",
-    "end": "2026-10-01T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/ee36be6f-0383-48ed-b051-1bb4e6ddb298.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "ee36be6f-0383-48ed-b051-1bb4e6ddb298"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "Dragonfire 5 - #3/7",
-    "start": "2026-09-30T10:00:00Z",
-    "end": "2026-10-01T09:29:59.999Z",
+    "campaign": "Dragonfire 5 - #4/7",
+    "start": "2026-10-01T10:00:00Z",
+    "end": "2026-10-02T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/9b78ba94-fb93-4b5b-8ef5-859a15b066ef.png",
+    "image": "/media/campaigns/images/b501e03e-3df0-448a-ad3f-9135ddcc40de.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "9b78ba94-fb93-4b5b-8ef5-859a15b066ef"
+    "twitch_campaign_id": "b501e03e-3df0-448a-ad3f-9135ddcc40de"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 4 - #4/7",
+    "start": "2026-10-01T10:00:00Z",
+    "end": "2026-10-02T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/55cfd91f-4269-46dd-b377-8a15bde5124c.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "55cfd91f-4269-46dd-b377-8a15bde5124c"
+  },
+  {
+    "game": "Alien: Isolation",
+    "status": "live",
+    "campaign": "Alien: Isolation Horror",
+    "start": "2026-10-01T09:00:00Z",
+    "end": "2026-10-29T08:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Dive into the dark corridors of Sevastopol Station during Twitch Fright Fest to grab exclusive #AlienIsolation chat badges!",
+    "image": "/media/campaigns/images/ef371a6b-b762-4d7e-b31e-e4211be15030.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "ef371a6b-b762-4d7e-b31e-e4211be15030"
   },
   {
     "game": "Aniimo",
@@ -208,21 +223,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "1455b54f-00c4-4df6-a4d2-e1a05c879369"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "2026 BDO Drops (Sep 30)",
-    "start": "2026-09-30T12:00:00Z",
-    "end": "2026-10-01T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/781befbd-87d0-4a40-be6d-89442b47c1c6.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "781befbd-87d0-4a40-be6d-89442b47c1c6"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -375,6 +375,21 @@
     "twitch_campaign_id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0"
   },
   {
+    "game": "ELDEN RING",
+    "status": "live",
+    "campaign": "Bloody Finger ELDEN RING",
+    "start": "2026-10-01T07:00:00Z",
+    "end": "2026-10-29T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the ELDEN RING category.",
+    "image": "/media/campaigns/images/5e6e8172-09f9-4e28-bf54-0b4bef23804d.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "5e6e8172-09f9-4e28-bf54-0b4bef23804d"
+  },
+  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "GM Week Drop 1",
@@ -388,6 +403,21 @@
     "url": "https://www.eveonline.com/twitch",
     "account_link": "https://www.eveonline.com/twitch",
     "twitch_campaign_id": "464f7663-0555-4ca4-a5a5-2dc566fbf488"
+  },
+  {
+    "game": "Fishing Planet",
+    "status": "live",
+    "campaign": "Haunted Fleet Drops",
+    "start": "2026-10-01T10:00:00Z",
+    "end": "2026-10-19T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Welcome to the Fishing Planet’s Haunted Fleet Drops Campaign! Get your viewers hooked on thrills and chills with Fishing Planet’s Haunted Fleet Twitch Drops Campaign! Players can earn exclusive rewards just by watching your Fishing Planet streams, including Marker Buoys, Baitcoins, XP boosts, and limited-time Halloween baits and lures to help them on their ghostly quest through the Chronicles of the Haunted Fleet Halloween Event. Stream under the Fishing Planet tag and let your community reel in their haunted treasures while joining the Halloween fun!",
+    "image": "/media/campaigns/images/758d7626-d8c1-44a6-a76e-6e464347f45e.png",
+    "url": "https://fishingplanet.com/haunted-fleet-drops-halloween-twitch-drops-campaign/",
+    "account_link": "https://twitch.fishingplanet.com/",
+    "twitch_campaign_id": "758d7626-d8c1-44a6-a76e-6e464347f45e"
   },
   {
     "game": "For Honor",
@@ -673,6 +703,51 @@
     "url": "https://artstorm.com/news/weekly-supply-drops-on-twitch",
     "account_link": "https://artstorm.com/cabinet/connect-twitch",
     "twitch_campaign_id": "209f7db3-5ccd-40b5-bee1-f92328b849d5"
+  },
+  {
+    "game": "My Hero Ultra Rumble",
+    "status": "live",
+    "campaign": "Twitch Drops campaign 3rd",
+    "start": "2026-10-01T08:00:00Z",
+    "end": "2026-10-28T03:28:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Obtain free in-game items by watching \"MY HERO ULTRA RUMBLE\" live streams on Twitch.tv during the campaign!\"",
+    "image": "/media/campaigns/images/0317f83e-9c61-4bc3-b484-41275e681eae.png",
+    "url": "https://mhaur.bn-ent.net/twitch/en.php",
+    "account_link": "https://account.bandainamcoid.com/sns.html?client_id=cosmos_025421_bnid&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
+    "twitch_campaign_id": "0317f83e-9c61-4bc3-b484-41275e681eae"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "NBPL 10.1- 10.4",
+    "start": "2026-10-01T08:00:00Z",
+    "end": "2026-10-04T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/fcfc8963-c553-4d14-b20e-ab0ec2086290.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "fcfc8963-c553-4d14-b20e-ab0ec2086290"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "NBPL 10.1",
+    "start": "2026-10-01T08:00:00Z",
+    "end": "2026-10-01T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/264b4c96-4918-41ec-8f11-f68a15c0425e.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "264b4c96-4918-41ec-8f11-f68a15c0425e"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1500,21 +1575,6 @@
     "twitch_campaign_id": "542a2fb4-97d1-427c-861b-3ebc5229a0e1"
   },
   {
-    "game": "Special Events",
-    "status": "live",
-    "campaign": "Ironmouse Subathon 2026",
-    "start": "2026-09-01T07:00:00Z",
-    "end": "2026-10-01T07:00:00Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch /Ironmouse during Ironmouse's Subathon 2026 for 30 minutes to unlock the IronmouseWah emote for a limited time.",
-    "image": "/media/campaigns/images/4185d21c-7dd1-41f8-9e8f-4f52c7b27622.gif",
-    "url": "https://help.twitch.tv/s/article/how-to-use-emotes",
-    "account_link": "https://help.twitch.tv/s/article/how-to-use-emotes",
-    "twitch_campaign_id": "4185d21c-7dd1-41f8-9e8f-4f52c7b27622"
-  },
-  {
     "game": "Splinterlands",
     "status": "live",
     "campaign": "September Week 3",
@@ -1543,6 +1603,21 @@
     "url": "https://www.elderscrollsonline.com/en-us/news/post/59435",
     "account_link": "https://account.elderscrollsonline.com/",
     "twitch_campaign_id": "54136633-c8ea-4a41-ac8e-262b5b18f5fc"
+  },
+  {
+    "game": "THE FINALS",
+    "status": "live",
+    "campaign": "FALL IS HERE",
+    "start": "2026-10-01T10:30:00Z",
+    "end": "2026-10-15T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Fall has arrived in the Arena!\nTake a break from raking up eliminations and rake leaves instead in the Arena with the Havoc Raker Sledgehammer!",
+    "image": "/media/campaigns/images/bd0498b5-9068-4e4a-8d43-5b66ea0bd992.png",
+    "url": "https://www.reachthefinals.com/twitch",
+    "account_link": "https://embark-games.embark.net/",
+    "twitch_campaign_id": "bd0498b5-9068-4e4a-8d43-5b66ea0bd992"
   },
   {
     "game": "The Quinfall",
@@ -1635,6 +1710,21 @@
     "twitch_campaign_id": "e0d75414-81f7-4e1a-9615-8cf128262c9c"
   },
   {
+    "game": "UFL",
+    "status": "live",
+    "campaign": "Oct #1",
+    "start": "2026-10-01T08:45:00Z",
+    "end": "2026-10-07T23:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
+    "image": "/media/campaigns/images/7beb0750-c45e-400c-8a05-0feb36a4d272.png",
+    "url": "https://portal.uflgame.com/twitch/drops",
+    "account_link": "https://portal.uflgame.com/twitch",
+    "twitch_campaign_id": "7beb0750-c45e-400c-8a05-0feb36a4d272"
+  },
+  {
     "game": "VALORANT",
     "status": "live",
     "campaign": "VCT26 Champs Shanghai",
@@ -1678,6 +1768,36 @@
     "url": "https://www.playdarktide.com/news/earn-twitch-drops",
     "account_link": "https://accounts.atoma.cloud/twitch-drops",
     "twitch_campaign_id": "42dc35f9-da23-4eaf-8a19-8f1838d58168"
+  },
+  {
+    "game": "Warhammer 40,000: Space Marine II",
+    "status": "live",
+    "campaign": "The Anniversary Update II",
+    "start": "2026-10-01T09:20:00Z",
+    "end": "2026-10-29T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "We're excited to kick-off Warhammer 40,000: Space Marine 2's 3rd year of support! Join your favorite creators and Watch the new season unfold to grab exclusive in-game rewards!\n\nRewards:\n\n- Watch for 30 minutes and claim the reward 100 Accolades\n\n- Watch for 1 hour and claim the reward Infiltrator Helmet\n\n- Purchase 1 new recurring or gift subscription and claim the reward Victrix Guard Shield",
+    "image": "/media/campaigns/images/19800c70-7d90-45bc-894b-b1765188b529.jpeg",
+    "url": "https://support.saber.games/hc/en/pros/articles/how-to-get-twitch-drops-8",
+    "account_link": "https://prismray.io/account?section=connections",
+    "twitch_campaign_id": "19800c70-7d90-45bc-894b-b1765188b529"
+  },
+  {
+    "game": "Warhammer 40,000: Space Marine II",
+    "status": "live",
+    "campaign": "SM2 - 3rd Anniversary",
+    "start": "2026-10-01T08:00:00Z",
+    "end": "2026-10-29T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "We're excited to kick-off Warhammer 40,000: Space Marine 2's 3rd year of support! Join your favorite creators and watch the new season unfold to grab exclusive chat badge and in-game cosmetic rewards!",
+    "image": "/media/campaigns/images/0979f1bb-fa0d-40d8-b175-c19b8d30bab8.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "0979f1bb-fa0d-40d8-b175-c19b8d30bab8"
   },
   {
     "game": "Where Winds Meet",
@@ -1753,6 +1873,21 @@
     "url": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
     "account_link": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
     "twitch_campaign_id": "989bb268-3603-458e-b9ae-e317582878f5"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "15.8 Worth Their Salt #4",
+    "start": "2026-10-01T06:00:00Z",
+    "end": "2026-10-08T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
+    "image": "/media/campaigns/images/0e0e5f02-242a-4bde-ae43-59aeb6fb1826.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "0e0e5f02-242a-4bde-ae43-59aeb6fb1826"
   },
   {
     "game": "World of Warships",
