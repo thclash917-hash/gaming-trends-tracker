@@ -285,6 +285,21 @@
     "twitch_campaign_id": "14e2c1b8-6730-4edf-b46f-92f6926d4565"
   },
   {
+    "game": "Delta Force",
+    "status": "live",
+    "campaign": "AM&EMEA Group Stage D5-8",
+    "start": "2026-10-01T00:00:00Z",
+    "end": "2026-10-04T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "2026 DELTA FORCE RISE SERIES - AMERICAS&EMEA OPEN QUALIFIER S2 is now live on Twitch. Come watch and earn rewards!",
+    "image": "/media/campaigns/images/5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6"
+  },
+  {
     "game": "DOFUS Touch",
     "status": "live",
     "campaign": "J17 - 3x Temporix Cps",
@@ -390,21 +405,6 @@
     "twitch_campaign_id": "788b1110-d24f-46d5-9659-badfa6acc93c"
   },
   {
-    "game": "Fortnite",
-    "status": "live",
-    "campaign": "Ironmouse x Fortnite",
-    "start": "2026-09-18T13:00:00Z",
-    "end": "2026-10-01T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Ironmouse for 30 minutes for a Chibi Ironmouse Spray, watch for 60 minutes for a Guitar Processing Unit! ",
-    "image": "/media/campaigns/images/30c46562-1617-4fc6-babd-6f8fa26afe06.jpeg",
-    "url": "https://www.fortnite.com/twitch-drops",
-    "account_link": "https://www.fortnite.com/twitch-drops",
-    "twitch_campaign_id": "30c46562-1617-4fc6-babd-6f8fa26afe06"
-  },
-  {
     "game": "Genshin Impact",
     "status": "live",
     "campaign": "V7.1 Genshin Impact Drops",
@@ -493,6 +493,21 @@
     "url": "https://kirka.io/connectTwitch=1",
     "account_link": "https://kirka.io/connectTwitch=1",
     "twitch_campaign_id": "1909a584-68e5-4517-b806-d644aff28f71"
+  },
+  {
+    "game": "Last Epoch",
+    "status": "live",
+    "campaign": "Last Epoch Season 5 Drops",
+    "start": "2026-10-01T00:01:00Z",
+    "end": "2026-10-05T00:00:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn in-game cosmetic rewards by watching Last Epoch live on Twitch! Simply link your Twitch and Steam accounts, and your rewards will be available in-game once you have claimed them in your Twitch inventory.",
+    "image": "/media/campaigns/images/7b8fbcc7-90f2-4f7e-b707-b4545afcba91.png",
+    "url": "https://twitch.lastepoch.com",
+    "account_link": "https://twitch.lastepoch.com",
+    "twitch_campaign_id": "7b8fbcc7-90f2-4f7e-b707-b4545afcba91"
   },
   {
     "game": "League of Legends",
@@ -613,21 +628,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "9bfa228c-d89b-4e0e-8336-c86b9dfb60e6"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
-    "campaign": "Lestakorabli - 26.9 #12",
-    "start": "2026-09-30T14:00:00Z",
-    "end": "2026-10-01T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Эсминец IX Velos;\n• Крейсер VIII Bayard;\n• Линкор VIII «Бородино».\n\nЗа просмотр 11 из 12 трансляций официального канала Lestakorabli в рамках версии 26.9 вы получаете «Большой набор». Подробности на портале «Мир кораблей».\n\nЖмите «Отслеживать» и получайте награду!",
-    "image": "/media/campaigns/images/977e256a-df6b-403b-8aff-480bb8edfceb.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "977e256a-df6b-403b-8aff-480bb8edfceb"
   },
   {
     "game": "Mir Korabley",
@@ -1050,6 +1050,21 @@
     "twitch_campaign_id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4"
   },
   {
+    "game": "Rise of Agon",
+    "status": "live",
+    "campaign": "Open Beta Launch Drops",
+    "start": "2026-10-01T00:14:25Z",
+    "end": "2026-10-04T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "If you already own the Mana Missle: Crimson skin you will not be able to use the scroll again so gift for subs if you do not own the skin!",
+    "image": "/media/campaigns/images/27c7bf80-6b43-405a-b54d-a5c55860bdee.png",
+    "url": "https://www.riseofagon.com/account/twitch/",
+    "account_link": "https://www.riseofagon.com/account/twitch/",
+    "twitch_campaign_id": "27c7bf80-6b43-405a-b54d-a5c55860bdee"
+  },
+  {
     "game": "Rise Online",
     "status": "live",
     "campaign": "Mobile Drop 174",
@@ -1078,21 +1093,6 @@
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "52f41ab3-dc57-4b7b-895c-49b10992f575"
-  },
-  {
-    "game": "Rocket League",
-    "status": "live",
-    "campaign": "The General x RL",
-    "start": "2026-09-30T22:37:12Z",
-    "end": "2026-10-01T00:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch RL pro ItsJSTN, AngelSkimi, StarSmitten, or Nihachu play Rocket League and earn Twitch Drops!",
-    "image": "/media/campaigns/images/447f921b-8162-4d7d-bd23-387ca106cb92.png",
-    "url": "https://www.epicgames.com/account/connections",
-    "account_link": "https://www.epicgames.com/account/connections",
-    "twitch_campaign_id": "447f921b-8162-4d7d-bd23-387ca106cb92"
   },
   {
     "game": "RuneScape: Dragonwilds",
@@ -1545,6 +1545,21 @@
     "twitch_campaign_id": "54136633-c8ea-4a41-ac8e-262b5b18f5fc"
   },
   {
+    "game": "The Quinfall",
+    "status": "live",
+    "campaign": "October Drops",
+    "start": "2026-10-01T00:00:00Z",
+    "end": "2026-10-01T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+    "image": "/media/campaigns/images/07fb17e3-f694-4f8d-aa47-8309f700c64e.png",
+    "url": "https://www.quinfall.com/twitch-drops",
+    "account_link": "https://www.quinfall.com/twitch-drops",
+    "twitch_campaign_id": "07fb17e3-f694-4f8d-aa47-8309f700c64e"
+  },
+  {
     "game": "The Witcher 3: Wild Hunt",
     "status": "live",
     "campaign": "The Witcher 3 Remaster",
@@ -1680,6 +1695,21 @@
     "twitch_campaign_id": "2d14347e-18fe-4c94-a5c8-4b24ac5f747c"
   },
   {
+    "game": "Wolvesville",
+    "status": "live",
+    "campaign": "October 2026",
+    "start": "2026-10-01T00:00:00Z",
+    "end": "2026-10-28T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Unlock the limited Twitch October item! You'll need to link your Twitch account with Wolvesville for this to work.",
+    "image": "/media/campaigns/images/5b32b5e7-7421-40ae-be32-e45b4df19a12.png",
+    "url": "https://wolvesville.com/",
+    "account_link": "https://wolvesville.com/",
+    "twitch_campaign_id": "5b32b5e7-7421-40ae-be32-e45b4df19a12"
+  },
+  {
     "game": "World of Tanks",
     "status": "live",
     "campaign": "Extra Supplies",
@@ -1753,21 +1783,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "9d67449f-31e8-4474-8a3d-ce40baca6bbb"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "15.8 Worth Their Salt #3",
-    "start": "2026-09-24T06:00:00Z",
-    "end": "2026-10-01T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "One day on Venus is longer than one Venusian year.Venus has an incredibly slow and backward axial rotation. It takes 243 Earth days for Venus to complete just one full spin on its axis, while it only takes 225 Earth days for the planet to complete a full orbit around the Sun.",
-    "image": "/media/campaigns/images/a87b9bd2-dfcb-400a-aeec-4f208e72be76.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-september-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "a87b9bd2-dfcb-400a-aeec-4f208e72be76"
   },
   {
     "game": "Wuthering Waves",
