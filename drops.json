@@ -62,7 +62,7 @@
   {
     "game": "AION 2",
     "status": "live",
-    "campaign": "AION 2 Early Access Event",
+    "campaign": "Early Access Event",
     "start": "2026-09-30T15:02:40Z",
     "end": "2026-10-17T06:59:59.999Z",
     "watch_time": "",
@@ -107,21 +107,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 4 - #4/7",
-    "start": "2026-10-01T10:00:00Z",
-    "end": "2026-10-02T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/55cfd91f-4269-46dd-b377-8a15bde5124c.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "55cfd91f-4269-46dd-b377-8a15bde5124c"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "Dragonfire 5 - #4/7",
     "start": "2026-10-01T10:00:00Z",
     "end": "2026-10-02T09:29:59.999Z",
@@ -133,6 +118,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "b501e03e-3df0-448a-ad3f-9135ddcc40de"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 4 - #4/7",
+    "start": "2026-10-01T10:00:00Z",
+    "end": "2026-10-02T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/55cfd91f-4269-46dd-b377-8a15bde5124c.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "55cfd91f-4269-46dd-b377-8a15bde5124c"
   },
   {
     "game": "Alien: Isolation",
@@ -173,11 +173,11 @@
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including BakedJake, Kritikal, QuattroAce, LVNDMARK, and Ralisco—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.\t",
-    "image": "/media/campaigns/images/c21130db-734b-433a-a9fa-38d8c50194a1.png",
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including Bruking, So1oCtrl,  samoylov___, and Zeegers—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/90dbc764-d4ab-4929-8167-abbee3030c70.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "c21130db-734b-433a-a9fa-38d8c50194a1"
+    "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -193,21 +193,6 @@
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
-    "campaign": "S7 Support ABI Streamers",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including Bruking, So1oCtrl,  samoylov___, and Zeegers—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/90dbc764-d4ab-4929-8167-abbee3030c70.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -238,6 +223,21 @@
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
+  },
+  {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Support ABI Streamers",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including BakedJake, Kritikal, QuattroAce, LVNDMARK, and Ralisco—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.\t",
+    "image": "/media/campaigns/images/c21130db-734b-433a-a9fa-38d8c50194a1.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "c21130db-734b-433a-a9fa-38d8c50194a1"
   },
   {
     "game": "Big Walk",
@@ -647,21 +647,6 @@
   {
     "game": "MARVEL Contest of Champions",
     "status": "live",
-    "campaign": "September Week 4 - CCP",
-    "start": "2026-09-25T17:00:00Z",
-    "end": "2026-10-02T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
     "campaign": "September Week 4",
     "start": "2026-09-25T17:00:00Z",
     "end": "2026-10-02T16:44:59.999Z",
@@ -673,6 +658,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "4c45c164-06c1-4175-a6e7-cadc4d57c077"
+  },
+  {
+    "game": "MARVEL Contest of Champions",
+    "status": "live",
+    "campaign": "September Week 4 - CCP",
+    "start": "2026-09-25T17:00:00Z",
+    "end": "2026-10-02T16:44:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
+    "image": "/media/campaigns/images/60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2.png",
+    "url": "https://kid.kabam.com/v1/kid/account/login",
+    "account_link": "https://kid.kabam.com/v1/kid/account/login",
+    "twitch_campaign_id": "60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2"
   },
   {
     "game": "Marvel Rivals",
@@ -1693,6 +1693,21 @@
     "url": "https://www.reachthefinals.com/twitch",
     "account_link": "https://embark-games.embark.net/",
     "twitch_campaign_id": "bd0498b5-9068-4e4a-8d43-5b66ea0bd992"
+  },
+  {
+    "game": "The Quinfall",
+    "status": "live",
+    "campaign": "October Drops",
+    "start": "2026-10-02T00:00:00Z",
+    "end": "2026-10-02T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+    "image": "/media/campaigns/images/bdccb859-8ca1-4c5d-912d-f55f3e23b1ee.png",
+    "url": "https://www.quinfall.com/twitch-drops",
+    "account_link": "https://www.quinfall.com/twitch-drops",
+    "twitch_campaign_id": "bdccb859-8ca1-4c5d-912d-f55f3e23b1ee"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
