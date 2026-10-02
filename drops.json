@@ -47,17 +47,17 @@
   {
     "game": "Active Matter",
     "status": "live",
-    "campaign": "Release Drops: Week II",
-    "start": "2026-09-25T15:00:00Z",
-    "end": "2026-10-02T14:59:59.999Z",
+    "campaign": "Release Drops: Week III",
+    "start": "2026-10-02T15:00:00Z",
+    "end": "2026-10-09T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn rewards and celebrate the launch of Active Matter on Steam, PlayStation 5, and Xbox Series S|X!",
-    "image": "/media/campaigns/images/40d27f46-f8e8-49e3-ada9-63ee087adf4b.jpeg",
-    "url": "https://activematter.game/en/news/322",
+    "image": "/media/campaigns/images/32e0221d-1e83-4e38-8cd8-bdb268b457b1.jpeg",
+    "url": "https://activematter.game/ru/news/338",
     "account_link": "https://gss.gaijin.net/",
-    "twitch_campaign_id": "40d27f46-f8e8-49e3-ada9-63ee087adf4b"
+    "twitch_campaign_id": "32e0221d-1e83-4e38-8cd8-bdb268b457b1"
   },
   {
     "game": "AION 2",
@@ -71,7 +71,7 @@
     "description": "The wait is over. Step into the world of Atreia before anyone else. Watch participating AION2 streams during Early Access and earn exclusive in-game rewards to begin your ascent in style.",
     "image": "/media/campaigns/images/8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c.png",
     "url": "https://aion2.plaync.com/en-us/twitchdrops/index",
-    "account_link": "https://id.plaync.com/myinfo/account",
+    "account_link": "https://id.plaync.com/account/connect/twitch?appGroupCode=aion2global",
     "twitch_campaign_id": "8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c"
   },
   {
@@ -255,6 +255,21 @@
     "twitch_campaign_id": "1455b54f-00c4-4df6-a4d2-e1a05c879369"
   },
   {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "2026 BDO Drops (Oct 2)",
+    "start": "2026-10-02T12:00:00Z",
+    "end": "2026-10-03T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "image": "/media/campaigns/images/ab85aff0-5d1e-4cb3-8a5f-03118c06a8d3.png",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
+    "twitch_campaign_id": "ab85aff0-5d1e-4cb3-8a5f-03118c06a8d3"
+  },
+  {
     "game": "Blue Protocol: Star Resonance",
     "status": "live",
     "campaign": "Season 3 Special Drops",
@@ -268,6 +283,21 @@
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
     "twitch_campaign_id": "e75d8e5e-f588-4850-8a62-773fe3492998"
+  },
+  {
+    "game": "Caliber",
+    "status": "live",
+    "campaign": "Пятница 02.10.2026",
+    "start": "2026-10-02T15:00:00Z",
+    "end": "2026-10-04T20:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Смотри прямые трансляции и получай награды!",
+    "image": "/media/campaigns/images/66486429-866d-41f9-9ebc-e8d2a04c107b.png",
+    "url": "https://playcaliber.com/",
+    "account_link": "https://playcaliber.com/",
+    "twitch_campaign_id": "66486429-866d-41f9-9ebc-e8d2a04c107b"
   },
   {
     "game": "CONTROL Resonant",
@@ -405,6 +435,21 @@
     "twitch_campaign_id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0"
   },
   {
+    "game": "EA Sports College Football 27",
+    "status": "live",
+    "campaign": "CFB Live",
+    "start": "2026-10-02T17:00:00Z",
+    "end": "2026-10-03T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch your favorite creators play College Football 27 and earn some Twitch Drops to power up your Ultimate Team!",
+    "image": "/media/campaigns/images/78d968e7-a72a-440e-8773-2320a21e623a.png",
+    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+    "twitch_campaign_id": "78d968e7-a72a-440e-8773-2320a21e623a"
+  },
+  {
     "game": "ELDEN RING",
     "status": "live",
     "campaign": "Bloody Finger ELDEN RING",
@@ -418,21 +463,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "5e6e8172-09f9-4e28-bf54-0b4bef23804d"
-  },
-  {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "ERM S12 P3 DAY1",
-    "start": "2026-10-02T10:00:00Z",
-    "end": "2026-10-02T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/3eefcde2-bdf3-46f1-8cc9-b517dec58cf2.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "3eefcde2-bdf3-46f1-8cc9-b517dec58cf2"
   },
   {
     "game": "EVE Online",
@@ -585,6 +615,21 @@
     "twitch_campaign_id": "1909a584-68e5-4517-b806-d644aff28f71"
   },
   {
+    "game": "Krunker",
+    "status": "live",
+    "campaign": "Krunker Season 10 Update",
+    "start": "2026-10-02T14:00:00Z",
+    "end": "2026-10-16T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Krunker Season 10 is here! New ways to build, a New Raid, New Maps, New features and much more!",
+    "image": "/media/campaigns/images/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png",
+    "url": "https://krunker.io/",
+    "account_link": "https://krunker.io/?twitch_auth",
+    "twitch_campaign_id": "aa07071a-f2a2-4cc4-90c9-11ec258a60ec"
+  },
+  {
     "game": "Last Epoch",
     "status": "live",
     "campaign": "Last Epoch Season 5 Drops",
@@ -630,49 +675,34 @@
     "twitch_campaign_id": "4d85b517-5d8d-4720-b9bd-b9d1e6c80697"
   },
   {
-    "game": "Madden NFL 27",
+    "game": "Marbles on Stream",
     "status": "live",
-    "campaign": "Madden Live",
-    "start": "2026-10-01T17:00:00Z",
-    "end": "2026-10-02T16:59:59.999Z",
+    "campaign": "Marble Day 268",
+    "start": "2026-10-02T16:00:00Z",
+    "end": "2026-10-03T15:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch your favorite creators play Madden NFL 27 and earn some Twitch Drops to power up your Ultimate Team!",
-    "image": "/media/campaigns/images/90e6951f-a14f-498c-8ae3-6dcf966a9979.png",
-    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-    "twitch_campaign_id": "90e6951f-a14f-498c-8ae3-6dcf966a9979"
+    "description": "Marbles on Stream is the most welcoming stream interactive experience where a streamer can run the game and welcome anyone in their chat to participate with \"!play\". That's it!\n\nJoin in for exclusive prizes and keep an eye on our for how we evolve this event in the future. If you need assistance please join our discord. Discord.gg/pixelbypixelstudios ",
+    "image": "/media/campaigns/images/29b419ae-5bb8-4964-8cff-381ae7a3d220.png",
+    "url": "https://pixelbypixel.studio/twitch-drops/",
+    "account_link": "https://pixelbypixel.studio/twitch-drops/connect",
+    "twitch_campaign_id": "29b419ae-5bb8-4964-8cff-381ae7a3d220"
   },
   {
     "game": "MARVEL Contest of Champions",
     "status": "live",
-    "campaign": "September Week 4 - CCP",
-    "start": "2026-09-25T17:00:00Z",
-    "end": "2026-10-02T16:44:59.999Z",
+    "campaign": "October Livestream",
+    "start": "2026-10-02T16:45:00Z",
+    "end": "2026-10-02T18:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2.png",
+    "image": "/media/campaigns/images/4b46b173-9fad-42ee-9d43-03c6020c6fde.png",
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "60b6eaaa-f7ba-485c-9fd3-f39cd10e80b2"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
-    "campaign": "September Week 4",
-    "start": "2026-09-25T17:00:00Z",
-    "end": "2026-10-02T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/4c45c164-06c1-4175-a6e7-cadc4d57c077.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "4c45c164-06c1-4175-a6e7-cadc4d57c077"
+    "twitch_campaign_id": "4b46b173-9fad-42ee-9d43-03c6020c6fde"
   },
   {
     "game": "Marvel Rivals",
@@ -752,17 +782,32 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Обновление 26.9: Часть 4",
-    "start": "2026-09-25T15:00:00Z",
-    "end": "2026-10-02T14:59:59.999Z",
+    "campaign": "Обновление 26.10: Часть 1",
+    "start": "2026-10-02T15:00:00Z",
+    "end": "2026-10-09T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
-    "image": "/media/campaigns/images/a8c849a6-cd2c-4004-b1ec-9e982d15fe0d.jpeg",
+    "image": "/media/campaigns/images/4966552c-1aa1-451e-a456-256115c5ebd8.jpeg",
+    "url": "https://krbli.ru/4dDrG8N",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "4966552c-1aa1-451e-a456-256115c5ebd8"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Lestakorabli - 26.10 #1",
+    "start": "2026-10-02T15:00:00Z",
+    "end": "2026-10-09T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
+    "image": "/media/campaigns/images/ac400121-1a39-4797-a486-0c14a8423df7.jpeg",
     "url": "https://krbli.ru/3RW8D27",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "a8c849a6-cd2c-4004-b1ec-9e982d15fe0d"
+    "twitch_campaign_id": "ac400121-1a39-4797-a486-0c14a8423df7"
   },
   {
     "game": "Mobile Dungeon",
@@ -812,21 +857,6 @@
   {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
-    "campaign": "NBPL 10.2",
-    "start": "2026-10-02T08:00:00Z",
-    "end": "2026-10-02T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/d15e0f7d-0cb2-4b95-9424-ccc62563186f.png",
-    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
-    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "d15e0f7d-0cb2-4b95-9424-ccc62563186f"
-  },
-  {
-    "game": "NARAKA: BLADEPOINT",
-    "status": "live",
     "campaign": "NBPL 10.1- 10.4",
     "start": "2026-10-01T08:00:00Z",
     "end": "2026-10-04T15:59:59.999Z",
@@ -870,21 +900,6 @@
     "twitch_campaign_id": "a9fd9398-3fa5-4f22-96d3-9190377d192f"
   },
   {
-    "game": "NBA 2K27",
-    "status": "live",
-    "campaign": "NBA 2K27 x Nike Ja 4",
-    "start": "2026-09-28T16:00:00Z",
-    "end": "2026-10-02T17:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch & earn a Locker Code containing a Nike Ja 4 MyCOURT Mural in NBA 2K27!",
-    "image": "/media/campaigns/images/b700f0da-268b-492a-a3ea-5f1d0e836714.png",
-    "url": "https://nba.2k.com/twitch-drops/",
-    "account_link": "https://nba.2k.com/twitch-drops/",
-    "twitch_campaign_id": "b700f0da-268b-492a-a3ea-5f1d0e836714"
-  },
-  {
     "game": "Neighbors: Suburban Warfare",
     "status": "live",
     "campaign": "Neighbors 1.0 Release",
@@ -917,17 +932,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate 10/1/26",
-    "start": "2026-10-01T13:00:00Z",
-    "end": "2026-10-02T12:59:59.999Z",
+    "campaign": "Affiliate 10/2/26",
+    "start": "2026-10-02T13:00:00Z",
+    "end": "2026-10-03T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/d1e708f3-1bca-4390-8408-78c6e8a27799.png",
+    "image": "/media/campaigns/images/9364e427-69dc-40a3-8629-54675beaac64.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "d1e708f3-1bca-4390-8408-78c6e8a27799"
+    "twitch_campaign_id": "9364e427-69dc-40a3-8629-54675beaac64"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1110,6 +1125,21 @@
     "twitch_campaign_id": "72662ff7-75c6-44eb-94b0-7868cbc5e89b"
   },
   {
+    "game": "PUBG: BATTLEGROUNDS",
+    "status": "live",
+    "campaign": "PEC: Fall Finals 2_DAY1",
+    "start": "2026-10-02T15:30:00Z",
+    "end": "2026-10-02T21:00:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune in to the Twitch streams for PEC Fall 2026 and PAS2 2026 to earn yourself some Drops! Watch participating channels to claim your rewards and support your favourite teams and streamers throughout the events.",
+    "image": "/media/campaigns/images/eeb09a33-ff31-4f69-98e0-5e9b02444ca7.png",
+    "url": "https://pubgesports.com/en/tournament/164",
+    "account_link": "https://accounts.krafton.com",
+    "twitch_campaign_id": "eeb09a33-ff31-4f69-98e0-5e9b02444ca7"
+  },
+  {
     "game": "Rainbow Six Siege",
     "status": "live",
     "campaign": "R6S S2 2026 12",
@@ -1187,17 +1217,32 @@
   {
     "game": "RavenQuest",
     "status": "live",
-    "campaign": "September 05",
-    "start": "2026-09-25T15:00:00Z",
-    "end": "2026-10-02T14:59:59.999Z",
+    "campaign": "October 01",
+    "start": "2026-10-02T15:00:00Z",
+    "end": "2026-10-09T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "It is time to prepare for Fortunes Frontier and the drop is here: watch your favorite streamer and unlock exclusive rewards!",
-    "image": "/media/campaigns/images/75c796ed-3170-41ed-ab88-918d7ca3a65c.png",
+    "image": "/media/campaigns/images/0be8815e-ba78-4fef-be22-61e49a81d8fc.png",
     "url": "https://ravenquest.io/myaccount/twitch",
     "account_link": "https://ravenquest.io/myaccount/twitch",
-    "twitch_campaign_id": "75c796ed-3170-41ed-ab88-918d7ca3a65c"
+    "twitch_campaign_id": "0be8815e-ba78-4fef-be22-61e49a81d8fc"
+  },
+  {
+    "game": "RavenQuest",
+    "status": "live",
+    "campaign": "CÓPIA DE October 01",
+    "start": "2026-10-02T15:00:00Z",
+    "end": "2026-10-09T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "It is time to prepare for Fortunes Frontier and the drop is here: watch your favorite streamer and unlock exclusive rewards!",
+    "image": "/media/campaigns/images/c79b33b8-e46e-4ce9-a5d2-049131899143.png",
+    "url": "https://ravenquest.io/myaccount/twitch",
+    "account_link": "https://ravenquest.io/myaccount/twitch",
+    "twitch_campaign_id": "c79b33b8-e46e-4ce9-a5d2-049131899143"
   },
   {
     "game": "Relic Arena",
@@ -1243,36 +1288,6 @@
     "url": "https://www.riseofagon.com/account/twitch/",
     "account_link": "https://www.riseofagon.com/account/twitch/",
     "twitch_campaign_id": "27c7bf80-6b43-405a-b54d-a5c55860bdee"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "ROW Drop 604",
-    "start": "2026-10-01T17:59:00Z",
-    "end": "2026-10-02T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/9a533850-7f8c-45ef-a4ea-6a5666589fb7.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "9a533850-7f8c-45ef-a4ea-6a5666589fb7"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "Mobile Drop 175",
-    "start": "2026-10-01T17:59:00Z",
-    "end": "2026-10-02T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/a8bdc577-de8e-4eeb-b8c9-1c53f82eb1f7.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "a8bdc577-de8e-4eeb-b8c9-1c53f82eb1f7"
   },
   {
     "game": "RuneScape: Dragonwilds",
@@ -1547,6 +1562,36 @@
   {
     "game": "Shakes and Fidget",
     "status": "live",
+    "campaign": "S&F Drops 3/3",
+    "start": "2026-10-02T14:00:00Z",
+    "end": "2026-10-04T21:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/10f4e5b0-ab27-4904-a8a1-a57f707abd12.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "10f4e5b0-ab27-4904-a8a1-a57f707abd12"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "S&F Droplets",
+    "start": "2026-10-02T14:00:00Z",
+    "end": "2026-10-08T21:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Droplets are additional drops to our main drop campaigns.",
+    "image": "/media/campaigns/images/a8e98068-8b11-472a-818c-8b66e4bb5f44.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "a8e98068-8b11-472a-818c-8b66e4bb5f44"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
     "campaign": "S&F Drops 2/3",
     "start": "2026-09-30T14:00:00Z",
     "end": "2026-10-04T21:58:59.999Z",
@@ -1693,6 +1738,21 @@
     "url": "https://help.twitch.tv/s/article/how-to-use-emotes",
     "account_link": "https://help.twitch.tv/s/article/how-to-use-emotes",
     "twitch_campaign_id": "711b6068-c16e-4d0f-bcb1-6be54eb91c3f"
+  },
+  {
+    "game": "Tanki Online",
+    "status": "live",
+    "campaign": "МП 2026 | MP 2026",
+    "start": "2026-10-02T17:00:00Z",
+    "end": "2026-10-02T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Tanki Online eSports match livestreams and get Epic Keys in Tanki Online",
+    "image": "/media/campaigns/images/24e429d6-6d9c-4aac-83e1-c14046dcea7d.jpeg",
+    "url": "https://tankionline.com/",
+    "account_link": "https://tankionline.com/play/",
+    "twitch_campaign_id": "24e429d6-6d9c-4aac-83e1-c14046dcea7d"
   },
   {
     "game": "The Elder Scrolls Online",
@@ -1937,6 +1997,21 @@
   {
     "game": "World of Tanks",
     "status": "live",
+    "campaign": "German Reunification Drop",
+    "start": "2026-10-02T15:00:00Z",
+    "end": "2026-10-05T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "German Reunification Drop",
+    "image": "/media/campaigns/images/7864a8db-fbcf-4e88-8fae-5639b49d9e8d.jpeg",
+    "url": "https://worldoftanks.eu/news/specials/german-reunification-2026/",
+    "account_link": "https://worldoftanks.eu/de/news/guides-reviews/twitch-drops-guide/",
+    "twitch_campaign_id": "7864a8db-fbcf-4e88-8fae-5639b49d9e8d"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
     "campaign": "Quickybaby Drops",
     "start": "2026-10-02T11:00:00Z",
     "end": "2026-10-02T22:59:59.999Z",
@@ -1963,6 +2038,36 @@
     "url": "https://worldoftanks.eu/en/content/guide/twitch-drops/",
     "account_link": "https://worldoftanks.eu/en/content/guide/twitch-drops/",
     "twitch_campaign_id": "1f1174ef-f5bb-4904-9721-7c6738bd22ca"
+  },
+  {
+    "game": "World of Tanks Console",
+    "status": "live",
+    "campaign": "Spooky Season Incoming",
+    "start": "2026-10-02T17:30:00Z",
+    "end": "2026-10-02T19:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Spooks, Scares & Pumpkin Season, whats lurking around that corner? Find out with the official channel",
+    "image": "/media/campaigns/images/8356898d-aef1-427f-9189-680a9f162591.png",
+    "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
+    "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
+    "twitch_campaign_id": "8356898d-aef1-427f-9189-680a9f162591"
+  },
+  {
+    "game": "World of Tanks Console",
+    "status": "live",
+    "campaign": "Mayhem Weekend 10",
+    "start": "2026-10-02T16:00:00Z",
+    "end": "2026-10-06T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Craft some mayhem with your favorite creator",
+    "image": "/media/campaigns/images/e424ad90-a3ea-440a-b2e1-bfa8304babba.png",
+    "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
+    "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
+    "twitch_campaign_id": "e424ad90-a3ea-440a-b2e1-bfa8304babba"
   },
   {
     "game": "World of Tanks Console",
