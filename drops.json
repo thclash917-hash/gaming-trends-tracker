@@ -197,21 +197,6 @@
   {
     "game": "Arena Breakout: Infinite",
     "status": "live",
-    "campaign": "S7 Launch Drops",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
-    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
     "campaign": "S7 Support ABI Streamers",
     "start": "2026-09-16T09:00:00Z",
     "end": "2026-10-13T08:59:59.999Z",
@@ -238,6 +223,21 @@
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "twitch_campaign_id": "60d49775-74c0-4821-91d0-5fd5e7ac0506"
+  },
+  {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Launch Drops",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
+    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -360,21 +360,6 @@
     "twitch_campaign_id": "84f27bd4-9c9f-4a03-acc5-096b84081db8"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "Summer Drops Fall",
-    "start": "2026-09-26T10:04:46Z",
-    "end": "2026-10-03T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/14e2c1b8-6730-4edf-b46f-92f6926d4565.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "14e2c1b8-6730-4edf-b46f-92f6926d4565"
-  },
-  {
     "game": "Dead by Daylight",
     "status": "live",
     "campaign": "DbD: October of Horror",
@@ -392,6 +377,21 @@
   {
     "game": "Delta Force",
     "status": "live",
+    "campaign": "2nd Anniversary Event",
+    "start": "2026-10-04T01:00:00Z",
+    "end": "2026-10-05T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the stream, and claim exclusive rewards!",
+    "image": "/media/campaigns/images/bcba0bd4-fda8-4835-a566-a7950051dbb3.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "bcba0bd4-fda8-4835-a566-a7950051dbb3"
+  },
+  {
+    "game": "Delta Force",
+    "status": "live",
     "campaign": "AM&EMEA Group Stage D5-8",
     "start": "2026-10-01T00:00:00Z",
     "end": "2026-10-04T23:59:59.999Z",
@@ -403,6 +403,21 @@
     "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "twitch_campaign_id": "5fd08c9d-4a0e-4df3-b4fd-fec13e0f39d6"
+  },
+  {
+    "game": "DOFUS Touch",
+    "status": "live",
+    "campaign": "J20 - 3x Temporix Cps",
+    "start": "2026-10-03T22:00:00Z",
+    "end": "2026-10-04T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Pour accompagner le lancement de nos serveurs temporaires, l’événement TemporiX au cœur de l’anniversaire de DOFUS Touch, nous organisons une nouvelle campagne de Twitch Drops qui se déroulera du mardi 15 septembre à 18 h au lundi 12 octobre à 23 h 59 (heure de Paris).",
+    "image": "/media/campaigns/images/750bd0b0-441f-434f-8ca4-0d80b864da6f.png",
+    "url": "https://account.ankama.com/fr/twitch",
+    "account_link": "https://account.ankama.com/fr/twitch",
+    "twitch_campaign_id": "750bd0b0-441f-434f-8ca4-0d80b864da6f"
   },
   {
     "game": "Doomsday: Last Survivors",
@@ -478,36 +493,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "5e6e8172-09f9-4e28-bf54-0b4bef23804d"
-  },
-  {
-    "game": "Escape from Tarkov: Arena",
-    "status": "live",
-    "campaign": "Arena Streamer Showmatch",
-    "start": "2026-10-03T17:00:00Z",
-    "end": "2026-10-03T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Escape from Tarkov: Arena – EU & NA Showmatch, featuring 6 captains per region. Starts on November 3rd at 4:00 PM UTC, and November 4th at 4:55 PM UTC. Watch streams in the EFT: Arena category on Twitch and earn in-game rewards!",
-    "image": "/media/campaigns/images/afd4a9c4-cf9f-4e43-9dcd-b050645d89f8.png",
-    "url": "https://www.twitch.tv/",
-    "account_link": "https://www.escapefromtarkov.com/profile",
-    "twitch_campaign_id": "afd4a9c4-cf9f-4e43-9dcd-b050645d89f8"
-  },
-  {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "ERCS S12 P2 LCQ",
-    "start": "2026-10-03T19:00:00Z",
-    "end": "2026-10-04T02:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/4d97977f-f944-41a3-a3c2-31669d2cfdad.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "4d97977f-f944-41a3-a3c2-31669d2cfdad"
   },
   {
     "game": "EVE Online",
@@ -782,21 +767,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Lestakorabli - 26.10 #1",
-    "start": "2026-10-02T15:00:00Z",
-    "end": "2026-10-09T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
-    "image": "/media/campaigns/images/ac400121-1a39-4797-a486-0c14a8423df7.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "ac400121-1a39-4797-a486-0c14a8423df7"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Обновление 26.10: Часть 1",
     "start": "2026-10-02T15:00:00Z",
     "end": "2026-10-09T14:59:59.999Z",
@@ -808,6 +778,21 @@
     "url": "https://krbli.ru/4dDrG8N",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "4966552c-1aa1-451e-a456-256115c5ebd8"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Lestakorabli - 26.10 #1",
+    "start": "2026-10-02T15:00:00Z",
+    "end": "2026-10-09T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
+    "image": "/media/campaigns/images/ac400121-1a39-4797-a486-0c14a8423df7.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "ac400121-1a39-4797-a486-0c14a8423df7"
   },
   {
     "game": "Mobile Dungeon",
@@ -898,21 +883,6 @@
     "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
     "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
     "twitch_campaign_id": "a9fd9398-3fa5-4f22-96d3-9190377d192f"
-  },
-  {
-    "game": "NBA 2K27",
-    "status": "live",
-    "campaign": "NBA 2K27 x Nike Ja 4",
-    "start": "2026-10-02T20:00:00Z",
-    "end": "2026-10-03T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch & earn a Locker Code containing a Nike Ja 4 MyCOURT Mural in NBA 2K27!",
-    "image": "/media/campaigns/images/ba1d9e10-b425-41f3-8165-cfa771c00f79.png",
-    "url": "https://nba.2k.com/twitch-drops/",
-    "account_link": "https://nba.2k.com/twitch-drops/",
-    "twitch_campaign_id": "ba1d9e10-b425-41f3-8165-cfa771c00f79"
   },
   {
     "game": "Neighbors: Suburban Warfare",
@@ -1352,21 +1322,6 @@
   {
     "game": "RuneScape",
     "status": "live",
-    "campaign": "RuneFest 2026 RS",
-    "start": "2026-10-03T13:00:00Z",
-    "end": "2026-10-04T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Come watch the official 2026 RuneFest livestream and claim exclusive Twitch Drops!",
-    "image": "/media/campaigns/images/38d79056-e5cc-435e-946c-4d688e5666c0.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "38d79056-e5cc-435e-946c-4d688e5666c0"
-  },
-  {
-    "game": "RuneScape",
-    "status": "live",
     "campaign": "RuneFest 2026 Co-Steam RS",
     "start": "2026-10-03T13:00:00Z",
     "end": "2026-10-04T22:59:59.999Z",
@@ -1378,6 +1333,21 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "b6645492-dea6-4f81-ac4e-803c0ac01502"
+  },
+  {
+    "game": "RuneScape",
+    "status": "live",
+    "campaign": "RuneFest 2026 RS",
+    "start": "2026-10-03T13:00:00Z",
+    "end": "2026-10-04T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Come watch the official 2026 RuneFest livestream and claim exclusive Twitch Drops!",
+    "image": "/media/campaigns/images/38d79056-e5cc-435e-946c-4d688e5666c0.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "38d79056-e5cc-435e-946c-4d688e5666c0"
   },
   {
     "game": "RuneScape: Dragonwilds",
@@ -1682,21 +1652,6 @@
   {
     "game": "Shakes and Fidget",
     "status": "live",
-    "campaign": "S&F Drops 3/3",
-    "start": "2026-10-02T14:00:00Z",
-    "end": "2026-10-04T21:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/10f4e5b0-ab27-4904-a8a1-a57f707abd12.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "10f4e5b0-ab27-4904-a8a1-a57f707abd12"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
     "campaign": "S&F Droplets",
     "start": "2026-10-02T14:00:00Z",
     "end": "2026-10-08T21:58:59.999Z",
@@ -1708,6 +1663,21 @@
     "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
     "account_link": "https://sfgame.net/",
     "twitch_campaign_id": "a8e98068-8b11-472a-818c-8b66e4bb5f44"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "S&F Drops 3/3",
+    "start": "2026-10-02T14:00:00Z",
+    "end": "2026-10-04T21:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/10f4e5b0-ab27-4904-a8a1-a57f707abd12.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "10f4e5b0-ab27-4904-a8a1-a57f707abd12"
   },
   {
     "game": "Shakes and Fidget",
@@ -1863,16 +1833,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-03T00:00:00Z",
-    "end": "2026-10-03T23:59:59.999Z",
+    "start": "2026-10-04T00:00:00Z",
+    "end": "2026-10-04T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/1bc4cb37-9af4-4762-bf15-9bb7ea12079f.png",
+    "image": "/media/campaigns/images/3a50db2f-57ce-4c8b-915a-5a90d4ab379d.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "1bc4cb37-9af4-4762-bf15-9bb7ea12079f"
+    "twitch_campaign_id": "3a50db2f-57ce-4c8b-915a-5a90d4ab379d"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
