@@ -105,21 +105,6 @@
     "twitch_campaign_id": "8379bc7b-4082-4f4b-b83a-9812625f55a1"
   },
   {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "Dragonfire 6 - #1/7",
-    "start": "2026-10-05T10:00:00Z",
-    "end": "2026-10-06T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/fa77fe85-a820-4208-97e8-8732001a4667.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "fa77fe85-a820-4208-97e8-8732001a4667"
-  },
-  {
     "game": "Alien: Isolation",
     "status": "live",
     "campaign": "Alien: Isolation Horror",
@@ -223,21 +208,6 @@
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "twitch_campaign_id": "60d49775-74c0-4821-91d0-5fd5e7ac0506"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "2026 BDO Drops (Oct 5)",
-    "start": "2026-10-05T12:00:00Z",
-    "end": "2026-10-06T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/25667858-5b3a-4a73-88ee-9f4f7f412d7f.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "25667858-5b3a-4a73-88ee-9f4f7f412d7f"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -388,21 +358,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "5e6e8172-09f9-4e28-bf54-0b4bef23804d"
-  },
-  {
-    "game": "EVE Online",
-    "status": "live",
-    "campaign": "GM Week Drop 2",
-    "start": "2026-10-02T11:00:00Z",
-    "end": "2026-10-06T10:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Pioneer Medical Enforcement Taskforce SKIN",
-    "image": "/media/campaigns/images/cc18e231-717b-4f5d-8af5-28aa9fe0e994.jpeg",
-    "url": "https://www.eveonline.com/twitch",
-    "account_link": "https://www.eveonline.com/twitch",
-    "twitch_campaign_id": "cc18e231-717b-4f5d-8af5-28aa9fe0e994"
   },
   {
     "game": "Fishing Planet",
@@ -778,21 +733,6 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "5aa12dd6-1818-4024-ba42-346c8d6b2ed4"
-  },
-  {
-    "game": "Overwatch",
-    "status": "live",
-    "campaign": "Reign of Talon S4: Drives",
-    "start": "2026-10-01T18:00:00Z",
-    "end": "2026-10-06T06:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Close out the end of Season 4 of the Reign of Talon strong with competitive drives! Watch your favorite streamers earn their Drives and earn up to 500 competitive points.",
-    "image": "/media/campaigns/images/084d3edc-4ba6-4ea1-9552-c1882733dbad.png",
-    "url": "https://us.forums.blizzard.com/en/overwatch/t/reign-of-talon-season-4-competitive-drives-twitch-drops/1041325",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "084d3edc-4ba6-4ea1-9552-c1882733dbad"
   },
   {
     "game": "Overwatch",
@@ -1468,36 +1408,6 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "5b32b5e7-7421-40ae-be32-e45b4df19a12"
-  },
-  {
-    "game": "World of Tanks Console",
-    "status": "live",
-    "campaign": "Mayhem Weekend 10",
-    "start": "2026-10-02T16:00:00Z",
-    "end": "2026-10-06T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Craft some mayhem with your favorite creator",
-    "image": "/media/campaigns/images/e424ad90-a3ea-440a-b2e1-bfa8304babba.png",
-    "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
-    "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
-    "twitch_campaign_id": "e424ad90-a3ea-440a-b2e1-bfa8304babba"
-  },
-  {
-    "game": "World of Tanks Console",
-    "status": "live",
-    "campaign": "Master of Mayhem Week 10",
-    "start": "2026-09-29T15:00:00Z",
-    "end": "2026-10-06T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Craft some mayhem with your favorite creator",
-    "image": "/media/campaigns/images/ba1eac35-c604-4017-8d0b-50873fc00bae.png",
-    "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
-    "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
-    "twitch_campaign_id": "ba1eac35-c604-4017-8d0b-50873fc00bae"
   },
   {
     "game": "World of Tanks: HEAT",
