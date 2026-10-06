@@ -300,6 +300,21 @@
     "twitch_campaign_id": "c1a3bab3-af60-47fd-a8ae-5ba606edb525"
   },
   {
+    "game": "DOFUS Touch",
+    "status": "live",
+    "campaign": "J22 - 4x Temporix Cps",
+    "start": "2026-10-05T22:00:00Z",
+    "end": "2026-10-06T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Pour accompagner le lancement de nos serveurs temporaires, l’événement TemporiX au cœur de l’anniversaire de DOFUS Touch, nous organisons une nouvelle campagne de Twitch Drops qui se déroulera du mardi 15 septembre à 18 h au lundi 12 octobre à 23 h 59 (heure de Paris).",
+    "image": "/media/campaigns/images/30637a66-3c55-4c65-98ed-70b7986e1998.png",
+    "url": "https://account.ankama.com/fr/twitch",
+    "account_link": "https://account.ankama.com/fr/twitch",
+    "twitch_campaign_id": "30637a66-3c55-4c65-98ed-70b7986e1998"
+  },
+  {
     "game": "Doomsday: Last Survivors",
     "status": "live",
     "campaign": "Twitch Drops",
@@ -403,21 +418,6 @@
     "url": "https://fishingplanet.com/haunted-fleet-drops-halloween-twitch-drops-campaign/",
     "account_link": "https://twitch.fishingplanet.com/",
     "twitch_campaign_id": "758d7626-d8c1-44a6-a76e-6e464347f45e"
-  },
-  {
-    "game": "Fortnite",
-    "status": "live",
-    "campaign": "Ironmouse Drops Rerun!",
-    "start": "2026-10-01T17:57:01Z",
-    "end": "2026-10-06T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Second chance to earn the Chibi Ironmouse Spray (watch for 30 minutes) and the Guitar Processing Unit Pickaxe (watch for 60 minutes)! These drop are not exclusive and can appear in the another Drop campaign or the Item Shop in the future.  ",
-    "image": "/media/campaigns/images/2eacdff7-9305-45cd-a5c1-645c6cef4299.jpeg",
-    "url": "https://www.fortnite.com/twitch-drops",
-    "account_link": "https://www.fortnite.com/twitch-drops",
-    "twitch_campaign_id": "2eacdff7-9305-45cd-a5c1-645c6cef4299"
   },
   {
     "game": "Genshin Impact",
@@ -1278,16 +1278,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-05T00:00:00Z",
-    "end": "2026-10-05T23:59:59.999Z",
+    "start": "2026-10-06T00:00:00Z",
+    "end": "2026-10-06T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/ae0d243b-7d47-4cb3-838f-97dfd389a42f.png",
+    "image": "/media/campaigns/images/9784a0e2-e2d4-44f5-afa8-981c1db01885.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "ae0d243b-7d47-4cb3-838f-97dfd389a42f"
+    "twitch_campaign_id": "9784a0e2-e2d4-44f5-afa8-981c1db01885"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
