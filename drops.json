@@ -167,21 +167,6 @@
   {
     "game": "Arena Breakout: Infinite",
     "status": "live",
-    "campaign": "S7 Launch Drops",
-    "start": "2026-09-16T09:00:00Z",
-    "end": "2026-10-13T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
-    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
-    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
-  },
-  {
-    "game": "Arena Breakout: Infinite",
-    "status": "live",
     "campaign": "S7 Support ABI Streamers",
     "start": "2026-09-16T09:00:00Z",
     "end": "2026-10-13T08:59:59.999Z",
@@ -203,11 +188,11 @@
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including  Recrent, Buggyman,shamixx, and TrakasSinN—while they are live and streaming ABI content to earn the corresponding sticker. Note that viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops/en/index.html  , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/3f5f575f-47d0-4856-88eb-a635b8ec6037.png",
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including Bruking, So1oCtrl,  samoylov___, and Zeegers—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/90dbc764-d4ab-4929-8167-abbee3030c70.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
+    "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -233,11 +218,41 @@
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including Bruking, So1oCtrl,  samoylov___, and Zeegers—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/90dbc764-d4ab-4929-8167-abbee3030c70.png",
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including  Recrent, Buggyman,shamixx, and TrakasSinN—while they are live and streaming ABI content to earn the corresponding sticker. Note that viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops/en/index.html  , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/3f5f575f-47d0-4856-88eb-a635b8ec6037.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "90dbc764-d4ab-4929-8167-abbee3030c70"
+    "twitch_campaign_id": "3f5f575f-47d0-4856-88eb-a635b8ec6037"
+  },
+  {
+    "game": "Arena Breakout: Infinite",
+    "status": "live",
+    "campaign": "S7 Launch Drops",
+    "start": "2026-09-16T09:00:00Z",
+    "end": "2026-10-13T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
+    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
+    "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
+    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
+  },
+  {
+    "game": "Battlefield REDSEC",
+    "status": "live",
+    "campaign": "Season 4 Cash Cup #4",
+    "start": "2026-10-10T04:00:00Z",
+    "end": "2026-10-11T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune in and support your favorite creators streaming Battlefield 6 to unlock Twitch Drops.",
+    "image": "/media/campaigns/images/3cfa6fe7-c4c7-435d-af4a-6069af2a1eb0.png",
+    "url": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
+    "account_link": "https://ea.com/twitchlinking",
+    "twitch_campaign_id": "3cfa6fe7-c4c7-435d-af4a-6069af2a1eb0"
   },
   {
     "game": "Black Desert",
@@ -313,6 +328,21 @@
     "url": "https://docs.google.com/document/d/1FELkhrUW6rpww1ksFqGXZOY37lrpZ0p3SZ6e30AgBPI/edit?usp=sharing",
     "account_link": "https://3rg.eu/cash-is-king/",
     "twitch_campaign_id": "379ef4ec-630e-4680-be66-afa041847757"
+  },
+  {
+    "game": "Chaos Zero Nightmare",
+    "status": "live",
+    "campaign": "1st Anniversary Drops",
+    "start": "2026-10-10T00:00:00Z",
+    "end": "2026-10-10T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Chaos Zero Nightmare 1st Anniversary Drops! : Tear of God x2",
+    "image": "/media/campaigns/images/8c09edba-12a4-4e03-ab51-5b9e595ce03b.png",
+    "url": "https://chaoszeronightmare.onstove.com/ko/drops/twitch",
+    "account_link": "https://chaoszeronightmare.onstove.com/ko/drops/twitch",
+    "twitch_campaign_id": "8c09edba-12a4-4e03-ab51-5b9e595ce03b"
   },
   {
     "game": "Coin Pusher Live",
@@ -525,6 +555,21 @@
     "twitch_campaign_id": "5e6e8172-09f9-4e28-bf54-0b4bef23804d"
   },
   {
+    "game": "Epic Seven",
+    "status": "live",
+    "campaign": "E7WC2026 Group Stage Day1",
+    "start": "2026-10-10T03:00:00Z",
+    "end": "2026-10-10T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Group Stage.",
+    "image": "/media/campaigns/images/783161e6-715a-43d9-818e-3100e8efdf39.png",
+    "url": "https://epic7.onstove.com/drops/twitch",
+    "account_link": "https://epic7.onstove.com/drops/twitch",
+    "twitch_campaign_id": "783161e6-715a-43d9-818e-3100e8efdf39"
+  },
+  {
     "game": "Escape from Tarkov",
     "status": "live",
     "campaign": "EXFIL Brothers Day 1",
@@ -538,6 +583,21 @@
     "url": "https://tarkov.com/s/exfilbros",
     "account_link": "https://www.escapefromtarkov.com/profile",
     "twitch_campaign_id": "57e563cc-f514-4081-9ac8-fe8637c6b820"
+  },
+  {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "2026 KEL CIRCUIT4",
+    "start": "2026-10-10T04:30:00Z",
+    "end": "2026-10-10T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/8df1a405-4d7a-41c6-b22a-056892abc799.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "8df1a405-4d7a-41c6-b22a-056892abc799"
   },
   {
     "game": "EVE Online",
@@ -722,21 +782,6 @@
   {
     "game": "March of Giants",
     "status": "live",
-    "campaign": "MoG - Pioneer Booster",
-    "start": "2026-10-07T14:30:00Z",
-    "end": "2026-10-18T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "March of Giants - Pioneer Playtest. Gain a Pioneer Boost that offers a permanent 20%-point boost for the Pioneer challenge.",
-    "image": "/media/campaigns/images/b78f8b92-7461-4fd5-8b30-6f982a508acb.png",
-    "url": "https://www.ubisoft.com/help/article/000065532",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "b78f8b92-7461-4fd5-8b30-6f982a508acb"
-  },
-  {
-    "game": "March of Giants",
-    "status": "live",
     "campaign": "MoG - Pioneer Giant Token",
     "start": "2026-10-07T14:30:00Z",
     "end": "2026-10-18T06:59:59.999Z",
@@ -748,6 +793,21 @@
     "url": "https://www.ubisoft.com/help/article/000065532",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "1428e31c-9782-4dfd-9b09-4f302e864c5f"
+  },
+  {
+    "game": "March of Giants",
+    "status": "live",
+    "campaign": "MoG - Pioneer Booster",
+    "start": "2026-10-07T14:30:00Z",
+    "end": "2026-10-18T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "March of Giants - Pioneer Playtest. Gain a Pioneer Boost that offers a permanent 20%-point boost for the Pioneer challenge.",
+    "image": "/media/campaigns/images/b78f8b92-7461-4fd5-8b30-6f982a508acb.png",
+    "url": "https://www.ubisoft.com/help/article/000065532",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "b78f8b92-7461-4fd5-8b30-6f982a508acb"
   },
   {
     "game": "MARVEL Contest of Champions",
@@ -1593,16 +1653,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-09T00:00:00Z",
-    "end": "2026-10-09T23:59:59.999Z",
+    "start": "2026-10-10T00:00:00Z",
+    "end": "2026-10-10T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/1b9f7810-66ba-42ef-985f-bb7f683986df.png",
+    "image": "/media/campaigns/images/cc699a71-baa8-4d7e-94dc-bd0b78f3592b.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "1b9f7810-66ba-42ef-985f-bb7f683986df"
+    "twitch_campaign_id": "cc699a71-baa8-4d7e-94dc-bd0b78f3592b"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
