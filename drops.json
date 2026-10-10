@@ -47,21 +47,6 @@
   {
     "game": "AION 2",
     "status": "live",
-    "campaign": "War for Atreia - Series 2",
-    "start": "2026-10-07T17:00:00Z",
-    "end": "2026-10-10T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Elyos and Asmodians clash in an epic battle. Watch your favorite War for Atreia streamers lead their factions into war, cheer them on to victory, and collect rewards along the way.",
-    "image": "/media/campaigns/images/991d53f2-eee5-4020-96d9-7f73316fab46.png",
-    "url": "https://warforatreia.com/",
-    "account_link": "https://id.plaync.com/account/connect/twitch?appGroupCode=aion2global",
-    "twitch_campaign_id": "991d53f2-eee5-4020-96d9-7f73316fab46"
-  },
-  {
-    "game": "AION 2",
-    "status": "live",
     "campaign": "Global Launch Celebration",
     "start": "2026-10-05T13:00:00Z",
     "end": "2026-10-17T06:59:59.999Z",
@@ -107,17 +92,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 6 - #5/7",
-    "start": "2026-10-09T10:00:00Z",
-    "end": "2026-10-10T09:29:59.999Z",
+    "campaign": "Dragonfire 6 - #6/7",
+    "start": "2026-10-10T10:00:00Z",
+    "end": "2026-10-11T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/9b06cbdf-5005-4150-a215-edaa342a3412.png",
+    "image": "/media/campaigns/images/2002eb00-43a0-48db-b8b3-6bcd843d5bf6.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "9b06cbdf-5005-4150-a215-edaa342a3412"
+    "twitch_campaign_id": "2002eb00-43a0-48db-b8b3-6bcd843d5bf6"
   },
   {
     "game": "Alien: Isolation",
@@ -197,17 +182,17 @@
   {
     "game": "Arena Breakout: Infinite",
     "status": "live",
-    "campaign": "S7 Support ABI Streamers",
+    "campaign": "S7 Launch Drops",
     "start": "2026-09-16T09:00:00Z",
     "end": "2026-10-13T08:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including ImOw, HITBOXKING, GL40LabsRaT, and Arven93—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
-    "image": "/media/campaigns/images/60d49775-74c0-4821-91d0-5fd5e7ac0506.png",
+    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
+    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "60d49775-74c0-4821-91d0-5fd5e7ac0506"
+    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
   },
   {
     "game": "Arena Breakout: Infinite",
@@ -227,17 +212,17 @@
   {
     "game": "Arena Breakout: Infinite",
     "status": "live",
-    "campaign": "S7 Launch Drops",
+    "campaign": "S7 Support ABI Streamers",
     "start": "2026-09-16T09:00:00Z",
     "end": "2026-10-13T08:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "ABI Season 7 is now live and blazing! To celebrate the new season launch, we’re bringing you a limited-time Twitch Drops event featuring the Twitch Skin Return Choice Bundle ×1, with 14 skins or a 7-Day Elite Trial Card to choose from! Watch Arena Breakout: Infinite content with enabled Twitch Drops to unlock up to 7 rewards! The longer you watch, the better the rewards get! Please link your Level Infinite Pass account and Twitch Account on the event page (https://www.arenabreakoutinfinite.com/twitchdrops ), and claim your Drops rewards in time.\n",
-    "image": "/media/campaigns/images/013dbfe5-025f-4b42-9b46-f7b7cc546f20.png",
+    "description": "From September 16 to October 13, support participating Arena Breakout: Infinite streamers on Twitch and unlock exclusive in-game streamer stickers. Subscribe or gift a subscription to an eligible streamer—including ImOw, HITBOXKING, GL40LabsRaT, and Arven93—while they are live and streaming ABI content to earn the corresponding sticker. Note that Viewers who had claimed any of these streamer stickers before S7 cannot re-claim the same stickers this time, and subscriptions will only count toward the event task if gifted while the streamer is live and broadcasting ABI content. Please link your Level Infinite Pass account and Twitch Account on the event pagehttps://www.arenabreakoutinfinite.com/twitchdrops , and claim your Drops rewards in time.",
+    "image": "/media/campaigns/images/60d49775-74c0-4821-91d0-5fd5e7ac0506.png",
     "url": "https://www.arenabreakoutinfinite.com/twitchdrops",
     "account_link": "https://www.arenabreakoutinfinite.com/twitchdrops",
-    "twitch_campaign_id": "013dbfe5-025f-4b42-9b46-f7b7cc546f20"
+    "twitch_campaign_id": "60d49775-74c0-4821-91d0-5fd5e7ac0506"
   },
   {
     "game": "Battlefield REDSEC",
@@ -257,17 +242,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "Master Class 26 (Oct 9)",
-    "start": "2026-10-09T12:00:00Z",
-    "end": "2026-10-10T11:59:59.999Z",
+    "campaign": "Master Class 26 (Oct 10)",
+    "start": "2026-10-10T12:00:00Z",
+    "end": "2026-10-11T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/4a8fcbfb-716f-4e1e-ab6c-cfc0682af926.jpeg",
+    "image": "/media/campaigns/images/3cdf4fee-18b4-482c-9511-cce7f267366f.jpeg",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
     "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "4a8fcbfb-716f-4e1e-ab6c-cfc0682af926"
+    "twitch_campaign_id": "3cdf4fee-18b4-482c-9511-cce7f267366f"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -572,17 +557,32 @@
   {
     "game": "Escape from Tarkov",
     "status": "live",
-    "campaign": "EXFIL Brothers Day 1",
-    "start": "2026-10-09T07:00:00Z",
-    "end": "2026-10-10T06:59:59.999Z",
+    "campaign": "EXFIL Brothers Day 2",
+    "start": "2026-10-10T07:00:00Z",
+    "end": "2026-10-11T06:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Join the EXFIL Brothers from October 9th to October 14th as they raid through Escape from Tarkov! Tune in to watch intense tactical gameplay, learn new strategies, and unlock exclusive in-game rewards just by hanging out in the stream.",
-    "image": "/media/campaigns/images/57e563cc-f514-4081-9ac8-fe8637c6b820.png",
+    "image": "/media/campaigns/images/550aa0e1-160d-45c7-bb44-5b639d8f50f0.png",
     "url": "https://tarkov.com/s/exfilbros",
     "account_link": "https://www.escapefromtarkov.com/profile",
-    "twitch_campaign_id": "57e563cc-f514-4081-9ac8-fe8637c6b820"
+    "twitch_campaign_id": "550aa0e1-160d-45c7-bb44-5b639d8f50f0"
+  },
+  {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "ER ESPORTS DROPS",
+    "start": "2026-10-10T07:30:00Z",
+    "end": "2026-10-10T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/12e8e057-ca68-4c92-8a44-7241ac084c9b.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "12e8e057-ca68-4c92-8a44-7241ac084c9b"
   },
   {
     "game": "Eternal Return",
@@ -782,21 +782,6 @@
   {
     "game": "March of Giants",
     "status": "live",
-    "campaign": "MoG - Pioneer Giant Token",
-    "start": "2026-10-07T14:30:00Z",
-    "end": "2026-10-18T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "March of Giants - Pioneer Playtest. Gain a Giant Token after 1 sub to a participating channel.",
-    "image": "/media/campaigns/images/1428e31c-9782-4dfd-9b09-4f302e864c5f.png",
-    "url": "https://www.ubisoft.com/help/article/000065532",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "1428e31c-9782-4dfd-9b09-4f302e864c5f"
-  },
-  {
-    "game": "March of Giants",
-    "status": "live",
     "campaign": "MoG - Pioneer Booster",
     "start": "2026-10-07T14:30:00Z",
     "end": "2026-10-18T06:59:59.999Z",
@@ -810,19 +795,19 @@
     "twitch_campaign_id": "b78f8b92-7461-4fd5-8b30-6f982a508acb"
   },
   {
-    "game": "MARVEL Contest of Champions",
+    "game": "March of Giants",
     "status": "live",
-    "campaign": "October Week 2 - CCP",
-    "start": "2026-10-09T17:00:00Z",
-    "end": "2026-10-16T16:44:59.999Z",
+    "campaign": "MoG - Pioneer Giant Token",
+    "start": "2026-10-07T14:30:00Z",
+    "end": "2026-10-18T06:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/3673d3f9-a48e-4cec-9f85-4eb327c6aa1d.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d"
+    "description": "March of Giants - Pioneer Playtest. Gain a Giant Token after 1 sub to a participating channel.",
+    "image": "/media/campaigns/images/1428e31c-9782-4dfd-9b09-4f302e864c5f.png",
+    "url": "https://www.ubisoft.com/help/article/000065532",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "1428e31c-9782-4dfd-9b09-4f302e864c5f"
   },
   {
     "game": "MARVEL Contest of Champions",
@@ -838,6 +823,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "3e326242-85d7-44a9-b540-eacce80ced06"
+  },
+  {
+    "game": "MARVEL Contest of Champions",
+    "status": "live",
+    "campaign": "October Week 2 - CCP",
+    "start": "2026-10-09T17:00:00Z",
+    "end": "2026-10-16T16:44:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
+    "image": "/media/campaigns/images/3673d3f9-a48e-4cec-9f85-4eb327c6aa1d.png",
+    "url": "https://kid.kabam.com/v1/kid/account/login",
+    "account_link": "https://kid.kabam.com/v1/kid/account/login",
+    "twitch_campaign_id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d"
   },
   {
     "game": "Marvel Rivals",
@@ -915,6 +915,21 @@
     "twitch_campaign_id": "9bfa228c-d89b-4e0e-8336-c86b9dfb60e6"
   },
   {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Турнир «Царь морей VI» #1",
+    "start": "2026-10-10T10:30:00Z",
+    "end": "2026-10-10T17:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Во время просмотра трансляций турнира «Царь морей VI» на официальном канале и канале официальных стримеров можно получить множество наград, среди которых:\n\n• Штурманские жетоны;\n• Контейнеры «Тактический», «Путь победителей», «Особые бонусы» и «Особые сигналы», «Премиум корабль VIII. Запасы коллекционера»;\n• До 10 000 ед. золота;\n\nЖмите «Отслеживать», следите за сражениями и получайте награду!",
+    "image": "/media/campaigns/images/6fc2663a-82f0-4557-a246-cf37ebeb590b.png",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "6fc2663a-82f0-4557-a246-cf37ebeb590b"
+  },
+  {
     "game": "Mobile Dungeon",
     "status": "live",
     "campaign": "MD Drops Set 1",
@@ -973,6 +988,21 @@
     "url": "https://mhaur.bn-ent.net/twitch/en.php",
     "account_link": "https://account.bandainamcoid.com/sns.html?client_id=cosmos_025421_bnid&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
     "twitch_campaign_id": "0317f83e-9c61-4bc3-b484-41275e681eae"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "NBPL 10.10",
+    "start": "2026-10-10T08:00:00Z",
+    "end": "2026-10-10T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/abd023d5-8efb-4d11-8cdb-1fc9bdcde530.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "abd023d5-8efb-4d11-8cdb-1fc9bdcde530"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1125,21 +1155,6 @@
     "twitch_campaign_id": "dfa9c27f-877b-417a-8a49-279ecf0fbb15"
   },
   {
-    "game": "Overwatch",
-    "status": "live",
-    "campaign": "OWCS Stage 3 Asia Kickoff",
-    "start": "2026-09-21T08:00:00Z",
-    "end": "2026-10-10T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate OWCS Stage 3 Asia Kickoff with special viewer rewards! Watch 1 hour to get the Sun Tea Spray, 2 hours to get the Refreshing Spray, 4 hours to get the Summer Sandcastle Spray, 6 hours to get the Protein Drink Icon, 8 hours to get the Talon Strong Spray, and 10 hours to get an Esports Loot Box",
-    "image": "/media/campaigns/images/d13db74f-a56d-4985-af69-3bf01adde336.png",
-    "url": "https://esports.overwatch.com/en-us/rewards",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "d13db74f-a56d-4985-af69-3bf01adde336"
-  },
-  {
     "game": "Palia",
     "status": "live",
     "campaign": "Frights & Delights",
@@ -1153,21 +1168,6 @@
     "url": "https://palia.com/news/207-twitch-drops",
     "account_link": "https://accounts.palia.com",
     "twitch_campaign_id": "84d02589-5095-4c35-9f00-41a04c7675c3"
-  },
-  {
-    "game": "PAYDAY 3",
-    "status": "live",
-    "campaign": "PAYDAY 3",
-    "start": "2026-09-24T12:00:00Z",
-    "end": "2026-10-10T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The PAYDAY gang is here! Support your favorite PAYDAY 3 creators and grab yourself some exclusive chat badges featuring Dallas, Chains, Hoxton, and Wolf. Gift a sub to unlock Dallas, or keep watching the streams to get the rest of the crew!",
-    "image": "/media/campaigns/images/0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "0d0e6d5f-a1b6-4500-a51e-8b3bc2f4f1b3"
   },
   {
     "game": "Persona 4 Golden",
@@ -1247,17 +1247,17 @@
   {
     "game": "Rainbow Six Siege",
     "status": "live",
-    "campaign": "R6S S2 2026 15",
-    "start": "2026-10-07T05:00:00Z",
-    "end": "2026-10-10T04:58:59.999Z",
+    "campaign": "R6S S2 2026 16",
+    "start": "2026-10-10T05:00:00Z",
+    "end": "2026-10-12T04:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Rainbow Six Siege - Stage 2",
-    "image": "/media/campaigns/images/84fdd0fb-a22e-41b5-8e31-86431c76b3a7.png",
+    "image": "/media/campaigns/images/5f0500a5-2f91-439e-a31f-0a1ca29a4a06.png",
     "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
     "account_link": "https://drops-register.ubi.com/#/en-US",
-    "twitch_campaign_id": "84fdd0fb-a22e-41b5-8e31-86431c76b3a7"
+    "twitch_campaign_id": "5f0500a5-2f91-439e-a31f-0a1ca29a4a06"
   },
   {
     "game": "Rainbow Six Siege",
@@ -1517,17 +1517,17 @@
   {
     "game": "SMITE 2",
     "status": "live",
-    "campaign": "Oct Wk 1 - Blue Lotus!",
-    "start": "2026-10-03T11:00:00Z",
-    "end": "2026-10-10T10:57:59.999Z",
+    "campaign": "October Week 3!",
+    "start": "2026-10-10T11:00:00Z",
+    "end": "2026-10-17T10:57:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
-    "image": "/media/campaigns/images/7be1def9-6d6a-4c61-bb44-80389da41d1e.png",
+    "image": "/media/campaigns/images/60c8e9e2-8b16-4ced-b7b6-4056cf59bf65.jpeg",
     "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
     "account_link": "https://link.smite2.com/",
-    "twitch_campaign_id": "7be1def9-6d6a-4c61-bb44-80389da41d1e"
+    "twitch_campaign_id": "60c8e9e2-8b16-4ced-b7b6-4056cf59bf65"
   },
   {
     "game": "Sonic Racing: CrossWorlds",
@@ -1667,21 +1667,6 @@
   {
     "game": "The Witcher 3: Wild Hunt",
     "status": "live",
-    "campaign": "Remastered Release",
-    "start": "2026-09-29T10:00:00Z",
-    "end": "2026-10-27T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The Witcher 3: Wild Hunt — Remastered brings a new look to the Continent — and we think you’ll agree that Roach deserves one too. Tune in to participating The Witcher 3 streams on Twitch and earn the Fire Horse Gear Set — an exclusive collection of brand-new gear for Roach, inspired by the Chinese zodiac’s Year of the Fire Horse. Collect the whole set and ride into Remastered with Roach ready for the road ahead!",
-    "image": "/media/campaigns/images/5ccd33aa-a869-4de4-aca7-44775bf07823.jpeg",
-    "url": "https://www.thewitcher.com/twitch-drops",
-    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
-    "twitch_campaign_id": "5ccd33aa-a869-4de4-aca7-44775bf07823"
-  },
-  {
-    "game": "The Witcher 3: Wild Hunt",
-    "status": "live",
     "campaign": "The Witcher 3 Remaster",
     "start": "2026-09-29T10:00:00Z",
     "end": "2026-10-27T09:59:59.999Z",
@@ -1693,6 +1678,21 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "c7b62569-3b75-4f72-9700-957479fe3460"
+  },
+  {
+    "game": "The Witcher 3: Wild Hunt",
+    "status": "live",
+    "campaign": "Remastered Release",
+    "start": "2026-09-29T10:00:00Z",
+    "end": "2026-10-27T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The Witcher 3: Wild Hunt — Remastered brings a new look to the Continent — and we think you’ll agree that Roach deserves one too. Tune in to participating The Witcher 3 streams on Twitch and earn the Fire Horse Gear Set — an exclusive collection of brand-new gear for Roach, inspired by the Chinese zodiac’s Year of the Fire Horse. Collect the whole set and ride into Remastered with Roach ready for the road ahead!",
+    "image": "/media/campaigns/images/5ccd33aa-a869-4de4-aca7-44775bf07823.jpeg",
+    "url": "https://www.thewitcher.com/twitch-drops",
+    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
+    "twitch_campaign_id": "5ccd33aa-a869-4de4-aca7-44775bf07823"
   },
   {
     "game": "The Witcher 3: Wild Hunt Remastered",
