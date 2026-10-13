@@ -107,21 +107,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 5 - #2/7",
-    "start": "2026-10-13T10:00:00Z",
-    "end": "2026-10-14T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/c80ccc88-01f4-4c43-bbe5-14725ff0a102.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "c80ccc88-01f4-4c43-bbe5-14725ff0a102"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "Dragonfire 7 - #2/7",
     "start": "2026-10-13T10:00:00Z",
     "end": "2026-10-14T09:29:59.999Z",
@@ -133,6 +118,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "9a4db8e0-0a04-481e-92fe-785ae8af7f64"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 5 - #2/7",
+    "start": "2026-10-13T10:00:00Z",
+    "end": "2026-10-14T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/c80ccc88-01f4-4c43-bbe5-14725ff0a102.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "c80ccc88-01f4-4c43-bbe5-14725ff0a102"
   },
   {
     "game": "Alien: Isolation",
@@ -268,21 +268,6 @@
     "url": "https://littygames.net/drops",
     "account_link": "https://littygames.net/drops",
     "twitch_campaign_id": "35e7547f-0b2a-430d-850e-bfd9d5729eab"
-  },
-  {
-    "game": "CONTROL Resonant",
-    "status": "live",
-    "campaign": "CONTROL Resonant launch",
-    "start": "2026-09-22T14:00:00Z",
-    "end": "2026-10-13T13:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate the launch of CONTROL Resonant by earning exclusive chat badges! #CONTROLResonant",
-    "image": "/media/campaigns/images/84f27bd4-9c9f-4a03-acc5-096b84081db8.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "84f27bd4-9c9f-4a03-acc5-096b84081db8"
   },
   {
     "game": "Coryphaeus Championships",
@@ -493,6 +478,36 @@
     "url": "https://ubi.li/HdfHP",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "982b611a-ae2a-4cc6-bf15-77daa8b5b343"
+  },
+  {
+    "game": "Guild Wars 2",
+    "status": "live",
+    "campaign": "Shadow of the Mad King",
+    "start": "2026-10-13T16:00:00Z",
+    "end": "2026-10-19T06:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "To celebrate the Shadow of the Mad King we are doing Twitch Drops!  From October 13 at 9:00 a.m. PT until October 18 at 11:59 p.m. (UTC-7), you'll be able to earn an in-game reward for Guild Wars 2 by watching any Twitch channel broadcasting Guild Wars 2.  Reward: Mad King Dye Kit, Mask of the Queen Skin and Ghoul Backpack and Mini Set",
+    "image": "/media/campaigns/images/2c2e9c35-0ff4-4f19-82ef-7901079d0e0b.png",
+    "url": "https://www.guildwars2.com/en/twitch-drops/",
+    "account_link": "https://account.arena.net/oauth2/init-account-linking?client_id=twitch_drops ",
+    "twitch_campaign_id": "2c2e9c35-0ff4-4f19-82ef-7901079d0e0b"
+  },
+  {
+    "game": "Hearthstone",
+    "status": "live",
+    "campaign": "Hearthstone Community Day",
+    "start": "2026-10-13T17:00:00Z",
+    "end": "2026-10-17T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The Black Empire is almost here! Watch any Hearthstone stream on Twitch to earn up to 2 Tavern Tickets and 3 Standard Packs. Use your tickets in the updated Pre-Release Tavern Brawl, live now, to play your pre-purchased Reign of the Black Empire cards before launch.\nStill deciding between the regular and Mega Bundle? In this Tavern Brawl, everyone gets free temporary access to all Reign of the Black Empire Common and Rare cards - jump in now, and test the expansion before the release!\n",
+    "image": "/media/campaigns/images/1306917d-e2cb-437e-b87a-fb4eab8724bc.png",
+    "url": "https://hearthstone.blizzard.com/news/24301454/",
+    "account_link": "https://account.battle.net/connections",
+    "twitch_campaign_id": "1306917d-e2cb-437e-b87a-fb4eab8724bc"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -900,21 +915,6 @@
     "twitch_campaign_id": "16189ff3-a54e-434f-95e8-b8c538814020"
   },
   {
-    "game": "NTE: Neverness to Everness",
-    "status": "live",
-    "campaign": "NTE Twitch Drops Event",
-    "start": "2026-09-30T02:00:00Z",
-    "end": "2026-10-13T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Link your NTE game account with your Twitch account on this page. Once linked, watch any stream under the \"Neverness to Everness\" category to make progress toward watch-time goals. Each goal you hit counts as a completed task. Reward delivery may be delayed — to check your status, go to My Rewards and refresh your progress.",
-    "image": "/media/campaigns/images/2014df61-45cc-4519-834d-46774dc1b842.jpeg",
-    "url": "https://nte.perfectworld.com/net/260930twitch/index.html",
-    "account_link": "https://nte.perfectworld.com/net/260930twitch/index.html",
-    "twitch_campaign_id": "2014df61-45cc-4519-834d-46774dc1b842"
-  },
-  {
     "game": "Out of the Park Baseball 27",
     "status": "live",
     "campaign": "Affiliate10/13/26",
@@ -990,21 +990,6 @@
     "twitch_campaign_id": "dfa9c27f-877b-417a-8a49-279ecf0fbb15"
   },
   {
-    "game": "Palia",
-    "status": "live",
-    "campaign": "Frights & Delights",
-    "start": "2026-09-29T18:00:00Z",
-    "end": "2026-10-13T17:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate the spooky season with Fall's Faire: Frights & Delights (patch 0.207) Twitch Drops! Tune-in to your favorite Palia creators and secure rewards that help you bust ghosts with Elouisa, collect Pumpkin Pods, and model a pair of Palcat Glasses!",
-    "image": "/media/campaigns/images/84d02589-5095-4c35-9f00-41a04c7675c3.png",
-    "url": "https://palia.com/news/207-twitch-drops",
-    "account_link": "https://accounts.palia.com",
-    "twitch_campaign_id": "84d02589-5095-4c35-9f00-41a04c7675c3"
-  },
-  {
     "game": "Phasmophobia",
     "status": "live",
     "campaign": "Crimson Eye 2026",
@@ -1063,51 +1048,6 @@
     "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
     "account_link": "https://drops-register.ubi.com/#/en-US",
     "twitch_campaign_id": "a469ddb9-08e4-4644-b9cf-c8fc01570771"
-  },
-  {
-    "game": "Rainbow Six Siege",
-    "status": "live",
-    "campaign": "R6S Wasteland circuit",
-    "start": "2026-09-25T12:53:54Z",
-    "end": "2026-10-13T13:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Wasteland Circuit",
-    "image": "/media/campaigns/images/114f8b92-b6c3-40d7-bd1e-96fed70d2a9b.png",
-    "url": "https://www.ubisoft.com/help/article/000065532",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "114f8b92-b6c3-40d7-bd1e-96fed70d2a9b"
-  },
-  {
-    "game": "Rainbow Six Siege",
-    "status": "live",
-    "campaign": "R6S Wasteland circuit",
-    "start": "2026-09-23T14:00:00Z",
-    "end": "2026-10-13T13:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Wasteland Circuit",
-    "image": "/media/campaigns/images/ca5a0e74-fbc4-4281-b234-44ed2e4ba594.png",
-    "url": "https://www.ubisoft.com/help/article/000065532",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "ca5a0e74-fbc4-4281-b234-44ed2e4ba594"
-  },
-  {
-    "game": "Rainbow Six Siege",
-    "status": "live",
-    "campaign": "DRON-E Chat Badge",
-    "start": "2026-09-23T14:00:00Z",
-    "end": "2026-10-13T13:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Purchase or gift one subscription during a Rainbow Six Siege stream to earn the DRON-E chat badge!",
-    "image": "/media/campaigns/images/3376e74e-68e8-45b9-a147-ef80b16a6c93.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "3376e74e-68e8-45b9-a147-ef80b16a6c93"
   },
   {
     "game": "Ravendawn",
@@ -1187,32 +1127,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 615",
-    "start": "2026-10-12T17:59:00Z",
-    "end": "2026-10-13T17:56:59.999Z",
+    "campaign": "ROW Drop 616",
+    "start": "2026-10-13T17:59:00Z",
+    "end": "2026-10-14T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/2ccce4fe-d6f3-409e-be60-4d0b916c2eae.jpeg",
+    "image": "/media/campaigns/images/a79605b7-87e3-448a-94eb-e35704059a73.png",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "2ccce4fe-d6f3-409e-be60-4d0b916c2eae"
+    "twitch_campaign_id": "a79605b7-87e3-448a-94eb-e35704059a73"
   },
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 186",
-    "start": "2026-10-12T17:59:00Z",
-    "end": "2026-10-13T17:56:59.999Z",
+    "campaign": "Mobile Drop 187",
+    "start": "2026-10-13T17:59:00Z",
+    "end": "2026-10-14T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/023abc18-cc57-4f31-a6b9-dbf50ca160dd.png",
+    "image": "/media/campaigns/images/c89a5c79-6d87-4bf9-88fc-20cb3754be80.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "023abc18-cc57-4f31-a6b9-dbf50ca160dd"
+    "twitch_campaign_id": "c89a5c79-6d87-4bf9-88fc-20cb3754be80"
   },
   {
     "game": "Shakes and Fidget",
@@ -1305,6 +1245,21 @@
     "twitch_campaign_id": "711b6068-c16e-4d0f-bcb1-6be54eb91c3f"
   },
   {
+    "game": "Super Animal Royale",
+    "status": "live",
+    "campaign": "SAR Monster Drops",
+    "start": "2026-10-13T17:00:00Z",
+    "end": "2026-11-06T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch any Super Animal Royale stream (with drops enabled) to earn your own Monster Set in-game! Play free on PC, Mac, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X|S all with cross-play and cross-save account syncing.",
+    "image": "/media/campaigns/images/d6d56572-09ce-4204-bd92-a86436ed2f25.png",
+    "url": "https://animalroyale.com/",
+    "account_link": "https://drops.animalroyale.com/",
+    "twitch_campaign_id": "d6d56572-09ce-4204-bd92-a86436ed2f25"
+  },
+  {
     "game": "The Crew: Motorfest",
     "status": "live",
     "campaign": "TCM S11 Launch Drops",
@@ -1367,21 +1322,6 @@
   {
     "game": "The Witcher 3: Wild Hunt",
     "status": "live",
-    "campaign": "Remastered Release",
-    "start": "2026-09-29T10:00:00Z",
-    "end": "2026-10-27T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The Witcher 3: Wild Hunt — Remastered brings a new look to the Continent — and we think you’ll agree that Roach deserves one too. Tune in to participating The Witcher 3 streams on Twitch and earn the Fire Horse Gear Set — an exclusive collection of brand-new gear for Roach, inspired by the Chinese zodiac’s Year of the Fire Horse. Collect the whole set and ride into Remastered with Roach ready for the road ahead!",
-    "image": "/media/campaigns/images/5ccd33aa-a869-4de4-aca7-44775bf07823.jpeg",
-    "url": "https://www.thewitcher.com/twitch-drops",
-    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
-    "twitch_campaign_id": "5ccd33aa-a869-4de4-aca7-44775bf07823"
-  },
-  {
-    "game": "The Witcher 3: Wild Hunt",
-    "status": "live",
     "campaign": "The Witcher 3 Remaster",
     "start": "2026-09-29T10:00:00Z",
     "end": "2026-10-27T09:59:59.999Z",
@@ -1393,6 +1333,21 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "c7b62569-3b75-4f72-9700-957479fe3460"
+  },
+  {
+    "game": "The Witcher 3: Wild Hunt",
+    "status": "live",
+    "campaign": "Remastered Release",
+    "start": "2026-09-29T10:00:00Z",
+    "end": "2026-10-27T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The Witcher 3: Wild Hunt — Remastered brings a new look to the Continent — and we think you’ll agree that Roach deserves one too. Tune in to participating The Witcher 3 streams on Twitch and earn the Fire Horse Gear Set — an exclusive collection of brand-new gear for Roach, inspired by the Chinese zodiac’s Year of the Fire Horse. Collect the whole set and ride into Remastered with Roach ready for the road ahead!",
+    "image": "/media/campaigns/images/5ccd33aa-a869-4de4-aca7-44775bf07823.jpeg",
+    "url": "https://www.thewitcher.com/twitch-drops",
+    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
+    "twitch_campaign_id": "5ccd33aa-a869-4de4-aca7-44775bf07823"
   },
   {
     "game": "The Witcher 3: Wild Hunt Remastered",
@@ -1423,21 +1378,6 @@
     "url": "https://www.thewitcher.com/twitch-drops",
     "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
     "twitch_campaign_id": "ef300faa-a1ad-4bff-b55d-bb1c7500b26e"
-  },
-  {
-    "game": "Tom Clancy's The Division 2",
-    "status": "live",
-    "campaign": "Legacy Twitch Drops Cache",
-    "start": "2026-10-06T15:00:00Z",
-    "end": "2026-10-13T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The Division 2  - Year 8 Season 3.1 - Legacy Twitch Drops Cache",
-    "image": "/media/campaigns/images/d7d00cda-729b-44d5-b800-2b666a7cef16.png",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "d7d00cda-729b-44d5-b800-2b666a7cef16"
   },
   {
     "game": "UFL",
@@ -1515,19 +1455,19 @@
     "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
   },
   {
-    "game": "Warhammer 40,000: Darktide",
+    "game": "Warframe",
     "status": "live",
-    "campaign": "Depths of the Damned Drop",
-    "start": "2026-09-29T12:00:00Z",
-    "end": "2026-10-13T21:59:59.999Z",
+    "campaign": "PMCFQ infernothefirelord",
+    "start": "2026-10-13T21:00:00Z",
+    "end": "2026-10-13T22:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Descend into Hive Tertium in style with the latest Protector of Tertium cosmetics for the Battle Maul & Slab Shield and the Combat Shotgun. Obtain these weapon cosmetics by watching participating Twitch streams and conquer the shadowy depths of Tertium.",
-    "image": "/media/campaigns/images/42dc35f9-da23-4eaf-8a19-8f1838d58168.png",
-    "url": "https://www.playdarktide.com/news/earn-twitch-drops",
-    "account_link": "https://accounts.atoma.cloud/twitch-drops",
-    "twitch_campaign_id": "42dc35f9-da23-4eaf-8a19-8f1838d58168"
+    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch infernothefirelord's fundraising stream for 30 minutes to receive a random Floof.",
+    "image": "/media/campaigns/images/cf443e3d-d93d-4e01-b17b-8c59b583d344.jpeg",
+    "url": "https://forums.warframe.com/topic/1527899-pmcfq-community-fundraising-stream-schedule-october-12-18-2026/",
+    "account_link": "https://www.warframe.com/user",
+    "twitch_campaign_id": "cf443e3d-d93d-4e01-b17b-8c59b583d344"
   },
   {
     "game": "Warhammer 40,000: Space Marine II",
@@ -1592,17 +1532,17 @@
   {
     "game": "World of Tanks Console",
     "status": "live",
-    "campaign": "Steel Asylum #2",
-    "start": "2026-10-09T15:00:00Z",
-    "end": "2026-10-13T14:59:59.999Z",
+    "campaign": "Monster Hunting #1",
+    "start": "2026-10-13T16:20:00Z",
+    "end": "2026-10-16T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Welcome into the Steel Asylum, Commanders",
-    "image": "/media/campaigns/images/d7d79b14-4626-42c1-955a-64e1aae070a9.png",
+    "description": "Step into the Spooky Season, if you dare",
+    "image": "/media/campaigns/images/45efd9f4-05a7-4988-9989-72fd63cc93b9.png",
     "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
     "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
-    "twitch_campaign_id": "d7d79b14-4626-42c1-955a-64e1aae070a9"
+    "twitch_campaign_id": "45efd9f4-05a7-4988-9989-72fd63cc93b9"
   },
   {
     "game": "World of Tanks: HEAT",
@@ -1618,6 +1558,21 @@
     "url": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
     "account_link": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
     "twitch_campaign_id": "26235968-a64d-4a6f-840d-e559f9f9c278"
+  },
+  {
+    "game": "World of Warcraft",
+    "status": "live",
+    "campaign": "Cuddly Gold Grrgle",
+    "start": "2026-10-13T17:00:00Z",
+    "end": "2026-11-03T17:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch 4 hours of World of Warcraft content while these Twitch Drops are active on any channel to earn the Cuddly Gold-Colored Grrgle.",
+    "image": "/media/campaigns/images/8ee4cc17-5fd4-4d29-8147-14ec12477c45.png",
+    "url": "https://worldofwarcraft.blizzard.com/news/24302098",
+    "account_link": "https://account.battle.net/connections",
+    "twitch_campaign_id": "8ee4cc17-5fd4-4d29-8147-14ec12477c45"
   },
   {
     "game": "World of Warships",
