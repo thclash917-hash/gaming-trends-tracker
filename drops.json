@@ -107,21 +107,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 5 - #3/7",
-    "start": "2026-10-14T10:00:00Z",
-    "end": "2026-10-15T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/2f0836c2-76fb-492b-8037-d2746fd7d0c1.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "2f0836c2-76fb-492b-8037-d2746fd7d0c1"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "Dragonfire 7 - #3/7",
     "start": "2026-10-14T10:00:00Z",
     "end": "2026-10-15T09:29:59.999Z",
@@ -133,6 +118,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "01180752-1f11-42e6-9252-f80ed295c502"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 5 - #3/7",
+    "start": "2026-10-14T10:00:00Z",
+    "end": "2026-10-15T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/2f0836c2-76fb-492b-8037-d2746fd7d0c1.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "2f0836c2-76fb-492b-8037-d2746fd7d0c1"
   },
   {
     "game": "Alien: Isolation",
@@ -182,17 +182,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "2026 BDO Drops (Oct 13)",
-    "start": "2026-10-13T12:00:00Z",
-    "end": "2026-10-14T11:59:59.999Z",
+    "campaign": "2026 BDO Drops (Oct 14)",
+    "start": "2026-10-14T12:00:00Z",
+    "end": "2026-10-15T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/1014c5a3-36de-4d1f-bd1e-c77839243902.png",
+    "image": "/media/campaigns/images/7a450596-8243-4ec9-b202-a67bf9f102ef.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
     "account_link": "https://account.pearlabyss.com/Account/SNSLink",
-    "twitch_campaign_id": "1014c5a3-36de-4d1f-bd1e-c77839243902"
+    "twitch_campaign_id": "7a450596-8243-4ec9-b202-a67bf9f102ef"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -722,21 +722,6 @@
   {
     "game": "MARVEL Contest of Champions",
     "status": "live",
-    "campaign": "October Week 2",
-    "start": "2026-10-09T17:00:00Z",
-    "end": "2026-10-16T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/3e326242-85d7-44a9-b540-eacce80ced06.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "3e326242-85d7-44a9-b540-eacce80ced06"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
     "campaign": "October Week 2 - CCP",
     "start": "2026-10-09T17:00:00Z",
     "end": "2026-10-16T16:44:59.999Z",
@@ -748,6 +733,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d"
+  },
+  {
+    "game": "MARVEL Contest of Champions",
+    "status": "live",
+    "campaign": "October Week 2",
+    "start": "2026-10-09T17:00:00Z",
+    "end": "2026-10-16T16:44:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
+    "image": "/media/campaigns/images/3e326242-85d7-44a9-b540-eacce80ced06.png",
+    "url": "https://kid.kabam.com/v1/kid/account/login",
+    "account_link": "https://kid.kabam.com/v1/kid/account/login",
+    "twitch_campaign_id": "3e326242-85d7-44a9-b540-eacce80ced06"
   },
   {
     "game": "Marvel Rivals",
@@ -917,17 +917,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate10/13/26",
-    "start": "2026-10-13T13:00:00Z",
-    "end": "2026-10-14T12:59:59.999Z",
+    "campaign": "Affiliate10/14/26",
+    "start": "2026-10-14T13:00:00Z",
+    "end": "2026-10-15T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/88f365eb-f6bb-4a26-acbb-cd0e77f3d117.png",
+    "image": "/media/campaigns/images/1c2eab3a-86d6-44d7-913b-13f689ed217c.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "88f365eb-f6bb-4a26-acbb-cd0e77f3d117"
+    "twitch_campaign_id": "1c2eab3a-86d6-44d7-913b-13f689ed217c"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1110,21 +1110,6 @@
     "twitch_campaign_id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4"
   },
   {
-    "game": "Riders Republic",
-    "status": "live",
-    "campaign": "Riders Republic S20 Drop",
-    "start": "2026-10-07T13:00:00Z",
-    "end": "2026-10-14T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Riders Republic Season 20 Drop : Old School BMX",
-    "image": "/media/campaigns/images/cebb8a27-dede-47e0-9a83-ac9b0e1fb46e.jpeg",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "cebb8a27-dede-47e0-9a83-ac9b0e1fb46e"
-  },
-  {
     "game": "Rise Online",
     "status": "live",
     "campaign": "ROW Drop 616",
@@ -1153,6 +1138,21 @@
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "c89a5c79-6d87-4bf9-88fc-20cb3754be80"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "S&F Drops 2/3",
+    "start": "2026-10-14T14:00:00Z",
+    "end": "2026-10-18T21:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/6b1f9278-410f-49ee-b793-a6885d73d73a.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "6b1f9278-410f-49ee-b793-a6885d73d73a"
   },
   {
     "game": "Shakes and Fidget",
@@ -1230,6 +1230,21 @@
     "twitch_campaign_id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4"
   },
   {
+    "game": "Star Citizen",
+    "status": "live",
+    "campaign": "RSI Discovery",
+    "start": "2026-10-14T15:30:00Z",
+    "end": "2026-10-27T19:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "RSI Discovery Month is here, and so are new Twitch Drops! Celebrate the legacy of the Constellation and the arrival of its next generation by watching any Drops-enabled Star Citizen stream for a total of four hours to unlock the Constellation Phoenix Commemorative Display for free. Inspired by the signature fiery insignia found aboard the classic Constellation Phoenix, this holographic display brings a piece of RSI history straight to your home or hangar.",
+    "image": "/media/campaigns/images/37d0e013-d0bf-49be-bb0a-f71f34577ab6.jpeg",
+    "url": "https://robertsspaceindustries.com/comm-link/transmission/21341-Twitch-Drops-RSI-Discovery-Month",
+    "account_link": "https://robertsspaceindustries.com/sign-in",
+    "twitch_campaign_id": "37d0e013-d0bf-49be-bb0a-f71f34577ab6"
+  },
+  {
     "game": "Street Fighter 6",
     "status": "live",
     "campaign": "Street Fighter 6",
@@ -1258,36 +1273,6 @@
     "url": "https://animalroyale.com/",
     "account_link": "https://drops.animalroyale.com/",
     "twitch_campaign_id": "d6d56572-09ce-4204-bd92-a86436ed2f25"
-  },
-  {
-    "game": "The Crew: Motorfest",
-    "status": "live",
-    "campaign": "TCM S11 Launch Drops",
-    "start": "2026-10-07T16:00:00Z",
-    "end": "2026-10-14T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The Crew Motorfest - Season 11 Launch Twitch Drops Campaign ",
-    "image": "/media/campaigns/images/0ef8e3ae-45a7-4858-9d91-b34864a88054.png",
-    "url": "https://www.ubisoft.com/help/article/000065532",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "0ef8e3ae-45a7-4858-9d91-b34864a88054"
-  },
-  {
-    "game": "The Elder Scrolls Online",
-    "status": "live",
-    "campaign": "High Seas of Tamriel",
-    "start": "2026-09-30T14:00:00Z",
-    "end": "2026-10-14T13:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn in-game rewards simply by watching Drop-enabled ESO streams on Twitch!",
-    "image": "/media/campaigns/images/54136633-c8ea-4a41-ac8e-262b5b18f5fc.jpeg",
-    "url": "https://www.elderscrollsonline.com/en-us/news/post/59435",
-    "account_link": "https://account.elderscrollsonline.com/",
-    "twitch_campaign_id": "54136633-c8ea-4a41-ac8e-262b5b18f5fc"
   },
   {
     "game": "THE FINALS",
@@ -1502,17 +1487,32 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "WoT A Thrill Store #1",
-    "start": "2026-10-12T15:00:00Z",
-    "end": "2026-10-14T14:59:59.999Z",
+    "campaign": "Update 2.4.1 Drops",
+    "start": "2026-10-14T15:00:00Z",
+    "end": "2026-10-16T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "WoT A Thrill Store #1",
-    "image": "/media/campaigns/images/2bbc759c-c321-4484-ac22-5c2d85e12c24.jpeg",
+    "description": "Update 2.4.1 Drops",
+    "image": "/media/campaigns/images/23b2f764-4cd5-4cc8-8cd7-aaffa3fb87e8.jpeg",
+    "url": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "account_link": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "twitch_campaign_id": "23b2f764-4cd5-4cc8-8cd7-aaffa3fb87e8"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "WoT A Thrill Store #2",
+    "start": "2026-10-14T15:00:00Z",
+    "end": "2026-10-16T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "WoT A Thrill Store #2",
+    "image": "/media/campaigns/images/bf061b0e-67cc-4d5d-bcee-efe92bb6c545.jpeg",
     "url": "https://worldoftanks.eu/news/live-streams/wot-a-thrill-token-store-october-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "2bbc759c-c321-4484-ac22-5c2d85e12c24"
+    "twitch_campaign_id": "bf061b0e-67cc-4d5d-bcee-efe92bb6c545"
   },
   {
     "game": "World of Tanks Console",
@@ -1532,17 +1532,17 @@
   {
     "game": "World of Tanks: HEAT",
     "status": "live",
-    "campaign": "HEAT Season 2 - Week 6",
-    "start": "2026-10-07T16:00:00Z",
-    "end": "2026-10-14T15:58:59.999Z",
+    "campaign": "HEAT Season 2 - Week 7",
+    "start": "2026-10-14T16:00:00Z",
+    "end": "2026-10-21T15:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Season 2 Twitch Drops! Watch HEAT on Twitch to earn a Vehicle XP Booster and a Booster Pack. Link your Twitch and Wargaming accounts to claim your rewards.",
-    "image": "/media/campaigns/images/26235968-a64d-4a6f-840d-e559f9f9c278.png",
+    "image": "/media/campaigns/images/720f3eaf-62f5-40e1-a573-1cffbe412a67.png",
     "url": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
     "account_link": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
-    "twitch_campaign_id": "26235968-a64d-4a6f-840d-e559f9f9c278"
+    "twitch_campaign_id": "720f3eaf-62f5-40e1-a573-1cffbe412a67"
   },
   {
     "game": "World of Warcraft",
