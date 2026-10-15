@@ -165,6 +165,21 @@
     "twitch_campaign_id": "e4f226c6-c9c3-4d99-9c13-e0050e004f9a"
   },
   {
+    "game": "ARKNIGHTS: ENDFIELD",
+    "status": "live",
+    "campaign": "Sanctuary of Ink",
+    "start": "2026-10-15T02:00:00Z",
+    "end": "2026-11-12T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Join the Arknights: Endfield Twitch Drops event and treat your community to exclusive rewards just for watching!",
+    "image": "/media/campaigns/images/853eaf12-2ecb-446c-b382-717c278f8af2.png",
+    "url": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
+    "account_link": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
+    "twitch_campaign_id": "853eaf12-2ecb-446c-b382-717c278f8af2"
+  },
+  {
     "game": "Battlefield 6",
     "status": "live",
     "campaign": "Battlefield 6 Season 5",
@@ -191,7 +206,7 @@
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
     "image": "/media/campaigns/images/7a450596-8243-4ec9-b202-a67bf9f102ef.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "account_link": "https://account.pearlabyss.com/Account/SNSLink",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
     "twitch_campaign_id": "7a450596-8243-4ec9-b202-a67bf9f102ef"
   },
   {
@@ -313,6 +328,21 @@
     "url": "https://account.bhvr.com/twitch/dbd",
     "account_link": "https://account.bhvr.com/twitch/dbd",
     "twitch_campaign_id": "0a12cd7d-f84d-4d0d-91d3-7c0346d9d0fd"
+  },
+  {
+    "game": "Delta Force",
+    "status": "live",
+    "campaign": "DF RISE S2 Survivor Day",
+    "start": "2026-10-15T00:00:00Z",
+    "end": "2026-10-17T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the matches live on Twitch and earn exclusive Drops, including Gear Tickets, Packs, Spray and a Weapon Skin!",
+    "image": "/media/campaigns/images/31a45380-7a68-426b-a084-dd00fc445ddb.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "31a45380-7a68-426b-a084-dd00fc445ddb"
   },
   {
     "game": "Doomsday: Last Survivors",
@@ -718,6 +748,21 @@
     "url": "https://l2central.info/main/events_and_promos/4192.html",
     "account_link": "https://ru.4game.com/drops/twitch/",
     "twitch_campaign_id": "673c33e7-e55d-44e3-aee2-abdf03d17e10"
+  },
+  {
+    "game": "Madden NFL 27",
+    "status": "live",
+    "campaign": "Madden 27 Most Feared GMM",
+    "start": "2026-10-14T22:30:00Z",
+    "end": "2026-10-15T04:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Good Morning Madden and earn some Twitch Drops to power up your Ultimate Team!",
+    "image": "/media/campaigns/images/dd589c7a-7593-43be-a459-19294e8ed0f8.png",
+    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+    "twitch_campaign_id": "dd589c7a-7593-43be-a459-19294e8ed0f8"
   },
   {
     "game": "Marbles on Stream",
@@ -1338,16 +1383,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-14T00:00:00Z",
-    "end": "2026-10-14T23:59:59.999Z",
+    "start": "2026-10-15T00:00:00Z",
+    "end": "2026-10-15T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/2b6cc9bf-62e6-4461-b45f-6830be733ca0.png",
+    "image": "/media/campaigns/images/2c5ad49b-118c-491e-8daa-1bfeef24837a.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "2b6cc9bf-62e6-4461-b45f-6830be733ca0"
+    "twitch_campaign_id": "2c5ad49b-118c-491e-8daa-1bfeef24837a"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
@@ -1410,21 +1455,6 @@
     "twitch_campaign_id": "ef300faa-a1ad-4bff-b55d-bb1c7500b26e"
   },
   {
-    "game": "UFL",
-    "status": "live",
-    "campaign": "Oct #2",
-    "start": "2026-10-08T08:00:00Z",
-    "end": "2026-10-14T23:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
-    "image": "/media/campaigns/images/4ae8cb5a-e3b9-4a4b-94c4-504bf9c76094.png",
-    "url": "https://portal.uflgame.com/twitch/drops",
-    "account_link": "https://portal.uflgame.com/twitch",
-    "twitch_campaign_id": "4ae8cb5a-e3b9-4a4b-94c4-504bf9c76094"
-  },
-  {
     "game": "VALORANT",
     "status": "live",
     "campaign": "VCT26 Champs Shanghai",
@@ -1483,21 +1513,6 @@
     "url": "https://warrobotsfrontiers.com/en/news/353-twitch-drops-loot-up-from-october-13-to-october-20",
     "account_link": "https://warrobotsfrontiers.com/en/twitchdrops",
     "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "Emisión Tenno #349 Raid",
-    "start": "2026-10-14T20:00:00Z",
-    "end": "2026-10-14T21:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch this week's Emisión Tenno raid for 30 minutes to receive an Ordis Floof decoration!",
-    "image": "/media/campaigns/images/14ea609a-404e-415a-ad78-a9fd315e0cb1.jpeg",
-    "url": "https://forums.warframe.com/topic/1527899-pmcfq-community-fundraising-stream-schedule-october-12-18-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "14ea609a-404e-415a-ad78-a9fd315e0cb1"
   },
   {
     "game": "Warframe",
@@ -1652,6 +1667,21 @@
   {
     "game": "World of Warships",
     "status": "live",
+    "campaign": "15.9 WOWS Channel Drop",
+    "start": "2026-10-14T22:00:00Z",
+    "end": "2026-10-21T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+    "image": "/media/campaigns/images/19f3b23f-5165-4b52-b1de-d3c9afd40223.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "19f3b23f-5165-4b52-b1de-d3c9afd40223"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
     "campaign": "Update 15.9 Drop: Week 1",
     "start": "2026-10-08T15:13:00Z",
     "end": "2026-10-15T15:59:59.999Z",
@@ -1663,21 +1693,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "2c7f9376-a07c-4bee-b7ce-38ec089c02cf"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "15.9 Mystery Drop",
-    "start": "2026-10-07T22:00:00Z",
-    "end": "2026-10-14T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-    "image": "/media/campaigns/images/107f5eb2-1479-4e6c-b154-47ae13517533.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "107f5eb2-1479-4e6c-b154-47ae13517533"
   },
   {
     "game": "Wuthering Waves",
