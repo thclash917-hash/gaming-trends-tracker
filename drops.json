@@ -497,21 +497,6 @@
   {
     "game": "For Honor",
     "status": "live",
-    "campaign": "FH Warrior's Den Oct 26",
-    "start": "2026-10-15T15:50:00Z",
-    "end": "2026-10-15T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "A GUARANTEE of 1 SCAVENGER CRATE to each viewer for every 30 minutes of cumulative watching time. A CHANCE to earn the new Hero skin after 30 minutes of viewing time.",
-    "image": "/media/campaigns/images/1b77096b-4fde-4f41-9786-7a465a85f2fc.jpeg",
-    "url": "https://ubi.li/lIewY",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "1b77096b-4fde-4f41-9786-7a465a85f2fc"
-  },
-  {
-    "game": "For Honor",
-    "status": "live",
     "campaign": "FH Crusade Oct 2026",
     "start": "2026-10-12T16:00:00Z",
     "end": "2026-10-18T15:59:59.999Z",
@@ -765,6 +750,21 @@
     "twitch_campaign_id": "673c33e7-e55d-44e3-aee2-abdf03d17e10"
   },
   {
+    "game": "Madden NFL 27",
+    "status": "live",
+    "campaign": "M27 MF Open Directory",
+    "start": "2026-10-15T17:00:00Z",
+    "end": "2026-10-18T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch your favorite creators during the Most Feared Open Directory and earn some Twitch Drops to power up your Ultimate Team!",
+    "image": "/media/campaigns/images/f370071f-a037-40a2-b6e0-8fb78769b6a7.png",
+    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+    "twitch_campaign_id": "f370071f-a037-40a2-b6e0-8fb78769b6a7"
+  },
+  {
     "game": "Marbles on Stream",
     "status": "live",
     "campaign": "Marble Day 269",
@@ -812,21 +812,6 @@
   {
     "game": "MARVEL Contest of Champions",
     "status": "live",
-    "campaign": "October Week 2",
-    "start": "2026-10-09T17:00:00Z",
-    "end": "2026-10-16T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/3e326242-85d7-44a9-b540-eacce80ced06.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "3e326242-85d7-44a9-b540-eacce80ced06"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
     "campaign": "October Week 2 - CCP",
     "start": "2026-10-09T17:00:00Z",
     "end": "2026-10-16T16:44:59.999Z",
@@ -838,6 +823,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d"
+  },
+  {
+    "game": "MARVEL Contest of Champions",
+    "status": "live",
+    "campaign": "October Week 2",
+    "start": "2026-10-09T17:00:00Z",
+    "end": "2026-10-16T16:44:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
+    "image": "/media/campaigns/images/3e326242-85d7-44a9-b540-eacce80ced06.png",
+    "url": "https://kid.kabam.com/v1/kid/account/login",
+    "account_link": "https://kid.kabam.com/v1/kid/account/login",
+    "twitch_campaign_id": "3e326242-85d7-44a9-b540-eacce80ced06"
   },
   {
     "game": "Marvel Rivals",
@@ -1247,32 +1247,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 188",
-    "start": "2026-10-14T17:59:00Z",
-    "end": "2026-10-15T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/a122bdcb-3814-4bf9-adfb-8204422ed8b6.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "a122bdcb-3814-4bf9-adfb-8204422ed8b6"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "ROW Drop 617",
-    "start": "2026-10-14T17:59:00Z",
-    "end": "2026-10-15T17:56:59.999Z",
+    "campaign": "ROW Drop 618",
+    "start": "2026-10-15T17:59:00Z",
+    "end": "2026-10-16T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/4e35f941-d20c-4236-b327-e287d1c4182d.jpeg",
+    "image": "/media/campaigns/images/19e69bd8-1473-4a8b-a868-6c05b8dfba55.png",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "4e35f941-d20c-4236-b327-e287d1c4182d"
+    "twitch_campaign_id": "19e69bd8-1473-4a8b-a868-6c05b8dfba55"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 189",
+    "start": "2026-10-15T17:59:00Z",
+    "end": "2026-10-16T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/eb949715-75c9-465b-ab09-09c276ad0ec9.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "eb949715-75c9-465b-ab09-09c276ad0ec9"
   },
   {
     "game": "Shakes and Fidget",
@@ -1588,21 +1588,6 @@
     "url": "https://warrobotsfrontiers.com/en/news/353-twitch-drops-loot-up-from-october-13-to-october-20",
     "account_link": "https://warrobotsfrontiers.com/en/twitchdrops",
     "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "PMCFQ - brighan",
-    "start": "2026-10-15T15:00:00Z",
-    "end": "2026-10-15T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch brighan's fundraising stream for 30 minutes to receive a random Floof.",
-    "image": "/media/campaigns/images/83aef0b8-3b84-41df-b365-5ea889359809.jpeg",
-    "url": "https://forums.warframe.com/topic/1527899-pmcfq-community-fundraising-stream-schedule-october-12-18-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "83aef0b8-3b84-41df-b365-5ea889359809"
   },
   {
     "game": "Warframe",
