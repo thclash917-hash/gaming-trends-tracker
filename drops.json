@@ -47,21 +47,6 @@
   {
     "game": "AION 2",
     "status": "live",
-    "campaign": "War for Atreia - Series 3",
-    "start": "2026-10-12T17:00:00Z",
-    "end": "2026-10-15T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Elyos and Asmodians clash in an epic battle. Watch your favorite War for Atreia streamers lead their factions into war, cheer them on to victory, and collect rewards along the way.",
-    "image": "/media/campaigns/images/05dd2a67-9f78-4387-8a34-736573268ac7.png",
-    "url": "https://warforatreia.com/",
-    "account_link": "https://id.plaync.com/account/connect/twitch?appGroupCode=aion2global",
-    "twitch_campaign_id": "05dd2a67-9f78-4387-8a34-736573268ac7"
-  },
-  {
-    "game": "AION 2",
-    "status": "live",
     "campaign": "Global Launch Celebration",
     "start": "2026-10-05T13:00:00Z",
     "end": "2026-10-17T06:59:59.999Z",
@@ -107,32 +92,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 5 - #3/7",
-    "start": "2026-10-14T10:00:00Z",
-    "end": "2026-10-15T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/2f0836c2-76fb-492b-8037-d2746fd7d0c1.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "2f0836c2-76fb-492b-8037-d2746fd7d0c1"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "Dragonfire 7 - #3/7",
-    "start": "2026-10-14T10:00:00Z",
-    "end": "2026-10-15T09:29:59.999Z",
+    "campaign": "Dragonfire 7 - #4/7",
+    "start": "2026-10-15T10:00:00Z",
+    "end": "2026-10-16T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/01180752-1f11-42e6-9252-f80ed295c502.png",
+    "image": "/media/campaigns/images/a5acd4ca-7c21-4e1d-ae67-06338cd1e58f.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "01180752-1f11-42e6-9252-f80ed295c502"
+    "twitch_campaign_id": "a5acd4ca-7c21-4e1d-ae67-06338cd1e58f"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 5 - #4/7",
+    "start": "2026-10-15T10:00:00Z",
+    "end": "2026-10-16T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/f5a0cf7c-bb48-47bf-8324-f8d7f5c70549.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "f5a0cf7c-bb48-47bf-8324-f8d7f5c70549"
   },
   {
     "game": "Alien: Isolation",
@@ -255,6 +240,21 @@
     "twitch_campaign_id": "379ef4ec-630e-4680-be66-afa041847757"
   },
   {
+    "game": "Castlevania: Belmont's Curse",
+    "status": "live",
+    "campaign": "Belmont's Curse badge",
+    "start": "2026-10-15T04:00:00Z",
+    "end": "2026-11-02T03:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the Castlevania: Belmont's Curse category during the game launch!",
+    "image": "/media/campaigns/images/6b50175a-a8a6-4c41-a2e7-3ae0cd028831.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "6b50175a-a8a6-4c41-a2e7-3ae0cd028831"
+  },
+  {
     "game": "Coin Pusher Live",
     "status": "live",
     "campaign": "Halloween 2026",
@@ -360,6 +360,21 @@
     "twitch_campaign_id": "d7095399-62d2-4ff7-bb73-dcbf1f513ec8"
   },
   {
+    "game": "DRAGON BALL GEKISHIN SQUADRA",
+    "status": "live",
+    "campaign": "SQUADRA SEASON 7.2 Drops",
+    "start": "2026-10-15T06:00:00Z",
+    "end": "2026-11-12T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "“DRAGON BALL GEKISHIN SQUADRA” Season 7 Twitch Drops VoL.2!      \nDon’t miss your chance to earn an exclusive icon to celebrate the start of Season 7!",
+    "image": "/media/campaigns/images/cc08d25f-f80b-44f1-831f-c97bbbedc5fe.png",
+    "url": "https://dbg-squadra.bn-ent.net/news/cte15k1rynch",
+    "account_link": "https://account.bandainamcoid.com/sns.html?client_id=mZuOqUqgJHiT8phi9LkLQMrtVJbLNuWQwzIICHiE&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
+    "twitch_campaign_id": "cc08d25f-f80b-44f1-831f-c97bbbedc5fe"
+  },
+  {
     "game": "Dragon's Dogma II",
     "status": "live",
     "campaign": "Dragon’s Dogma 2 - DA",
@@ -433,6 +448,21 @@
     "url": "https://embervale.tv/",
     "account_link": "https://embervale.tv/",
     "twitch_campaign_id": "c9b4b2ac-7ede-4fed-b45d-9c657f20a73c"
+  },
+  {
+    "game": "Enshrouded",
+    "status": "live",
+    "campaign": "Enshrouded v1.0 Launch",
+    "start": "2026-10-15T08:00:00Z",
+    "end": "2026-10-29T22:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Enshrouded v1.0 is here! Come tune into our live stream and celebrate the game launch! #Enshrouded #PlayEnshrouded",
+    "image": "/media/campaigns/images/4c37cc62-b880-40c6-99ae-fc8219dac1aa.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa"
   },
   {
     "game": "EVE Online",
@@ -617,21 +647,6 @@
   {
     "game": "League of Legends",
     "status": "live",
-    "campaign": "Jynxzi's LoL Tournament",
-    "start": "2026-10-14T20:00:00Z",
-    "end": "2026-10-15T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "chat you can literally get a free skin for watching Jynxzi’s League tournament. watch for 30 minutes and earn the Malphite Press R emote. stick around for 2 hours and you’ll unlock Warwick and earn the Arcane Warwick Yi skin. hang out for 3 hours and you'll earn the Arcane Warwick Mythic Chroma!",
-    "image": "/media/campaigns/images/5a5148ca-eb03-4e3a-ac16-0b45cbfc27c2.png",
-    "url": "https://www.leagueoflegends.com/",
-    "account_link": "https://twitch.tv/settings/connections#riot-connection",
-    "twitch_campaign_id": "5a5148ca-eb03-4e3a-ac16-0b45cbfc27c2"
-  },
-  {
-    "game": "League of Legends",
-    "status": "live",
     "campaign": "Worlds 2026 Chat Badge",
     "start": "2026-10-14T19:00:00Z",
     "end": "2026-11-15T18:59:59.999Z",
@@ -750,21 +765,6 @@
     "twitch_campaign_id": "673c33e7-e55d-44e3-aee2-abdf03d17e10"
   },
   {
-    "game": "Madden NFL 27",
-    "status": "live",
-    "campaign": "Madden 27 Most Feared GMM",
-    "start": "2026-10-14T22:30:00Z",
-    "end": "2026-10-15T04:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Good Morning Madden and earn some Twitch Drops to power up your Ultimate Team!",
-    "image": "/media/campaigns/images/dd589c7a-7593-43be-a459-19294e8ed0f8.png",
-    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-    "twitch_campaign_id": "dd589c7a-7593-43be-a459-19294e8ed0f8"
-  },
-  {
     "game": "Marbles on Stream",
     "status": "live",
     "campaign": "Marble Day 269",
@@ -812,21 +812,6 @@
   {
     "game": "MARVEL Contest of Champions",
     "status": "live",
-    "campaign": "October Week 2 - CCP",
-    "start": "2026-10-09T17:00:00Z",
-    "end": "2026-10-16T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/3673d3f9-a48e-4cec-9f85-4eb327c6aa1d.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
     "campaign": "October Week 2",
     "start": "2026-10-09T17:00:00Z",
     "end": "2026-10-16T16:44:59.999Z",
@@ -838,6 +823,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "3e326242-85d7-44a9-b540-eacce80ced06"
+  },
+  {
+    "game": "MARVEL Contest of Champions",
+    "status": "live",
+    "campaign": "October Week 2 - CCP",
+    "start": "2026-10-09T17:00:00Z",
+    "end": "2026-10-16T16:44:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
+    "image": "/media/campaigns/images/3673d3f9-a48e-4cec-9f85-4eb327c6aa1d.png",
+    "url": "https://kid.kabam.com/v1/kid/account/login",
+    "account_link": "https://kid.kabam.com/v1/kid/account/login",
+    "twitch_campaign_id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d"
   },
   {
     "game": "Marvel Rivals",
@@ -958,6 +958,36 @@
     "url": "https://mhaur.bn-ent.net/twitch/en.php",
     "account_link": "https://account.bandainamcoid.com/sns.html?client_id=cosmos_025421_bnid&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
     "twitch_campaign_id": "0317f83e-9c61-4bc3-b484-41275e681eae"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "NBPL 10.15",
+    "start": "2026-10-15T08:00:00Z",
+    "end": "2026-10-15T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/e70c6349-4ae6-4730-be10-fe75ae71d2e8.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "e70c6349-4ae6-4730-be10-fe75ae71d2e8"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "NBPL 10.15-18",
+    "start": "2026-10-15T08:00:00Z",
+    "end": "2026-10-18T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/3cf7094f-5d9b-4a14-8660-a4aab5bae3e5.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "3cf7094f-5d9b-4a14-8660-a4aab5bae3e5"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1365,21 +1395,6 @@
     "twitch_campaign_id": "d6d56572-09ce-4204-bd92-a86436ed2f25"
   },
   {
-    "game": "THE FINALS",
-    "status": "live",
-    "campaign": "FALL IS HERE",
-    "start": "2026-10-01T10:30:00Z",
-    "end": "2026-10-15T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Fall has arrived in the Arena!\nTake a break from raking up eliminations and rake leaves instead in the Arena with the Havoc Raker Sledgehammer!",
-    "image": "/media/campaigns/images/bd0498b5-9068-4e4a-8d43-5b66ea0bd992.png",
-    "url": "https://www.reachthefinals.com/twitch",
-    "account_link": "https://embark-games.embark.net/",
-    "twitch_campaign_id": "bd0498b5-9068-4e4a-8d43-5b66ea0bd992"
-  },
-  {
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
@@ -1455,6 +1470,21 @@
     "twitch_campaign_id": "ef300faa-a1ad-4bff-b55d-bb1c7500b26e"
   },
   {
+    "game": "UFL",
+    "status": "live",
+    "campaign": "Oct #3",
+    "start": "2026-10-15T08:05:00Z",
+    "end": "2026-10-21T23:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
+    "image": "/media/campaigns/images/7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d.png",
+    "url": "https://portal.uflgame.com/twitch/drops",
+    "account_link": "https://portal.uflgame.com/twitch",
+    "twitch_campaign_id": "7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d"
+  },
+  {
     "game": "VALORANT",
     "status": "live",
     "campaign": "VCT26 Champs Shanghai",
@@ -1483,6 +1513,21 @@
     "url": "https://www.riotgames.com/en",
     "account_link": "https://twitch.tv/settings/connections#riot-connection",
     "twitch_campaign_id": "e50f291f-c1e8-4610-b456-f32c96346a89"
+  },
+  {
+    "game": "Vaultbreakers",
+    "status": "live",
+    "campaign": "Vaultbreakers Alpha",
+    "start": "2026-10-15T08:00:00Z",
+    "end": "2026-10-22T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Join Vaultbreaker's Alpha test! Watch our creators and earn in-game rewards!",
+    "image": "/media/campaigns/images/09234039-5edb-4037-9273-14c702bdf60d.png",
+    "url": "https://vaultbreakers.com/twitch-drops",
+    "account_link": "https://vaultbreakers.com/twitch-drops",
+    "twitch_campaign_id": "09234039-5edb-4037-9273-14c702bdf60d"
   },
   {
     "game": "Vaultbreakers",
@@ -1558,6 +1603,21 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "0979f1bb-fa0d-40d8-b175-c19b8d30bab8"
+  },
+  {
+    "game": "Where Winds Meet",
+    "status": "live",
+    "campaign": "Where Winds Meet November",
+    "start": "2026-10-15T05:30:00Z",
+    "end": "2026-11-12T05:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Where Winds Meet on Twitch and Get Exclusive Rewards! \nStep1- Log in Your Where Winds Meet Account on https://www.wherewindsmeetgame.com/ \nStep2- Connect Your Twitch Account  \nStep3- Watch Where Winds Meet on Twitch and Get Exclusive Rewards!",
+    "image": "/media/campaigns/images/98f17628-ca8f-431d-9779-f898645b03d3.png",
+    "url": "https://www.wherewindsmeetgame.com/twitchdrops/",
+    "account_link": "https://www.wherewindsmeetgame.com/twitchdrops/",
+    "twitch_campaign_id": "98f17628-ca8f-431d-9779-f898645b03d3"
   },
   {
     "game": "Wolvesville",
