@@ -1,20 +1,5 @@
 [
   {
-    "game": "007 First Light",
-    "status": "live",
-    "campaign": "Extended Operations",
-    "start": "2026-10-01T13:00:00Z",
-    "end": "2026-10-16T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earning this reward is simple. You only need to link your IOI Account to your Twitch account and then watch a 007 FIrst Light stream on Twitch during the drop campaign duration.",
-    "image": "/media/campaigns/images/4240c65a-577d-47f4-96f5-9371cc99f5b5.jpeg",
-    "url": "https://account.ioi.dk/",
-    "account_link": "https://account.ioi.dk/",
-    "twitch_campaign_id": "4240c65a-577d-47f4-96f5-9371cc99f5b5"
-  },
-  {
     "game": "ACE COMBAT 8: WINGS OF THEVE",
     "status": "live",
     "campaign": "ACE COMBAT 8 Nugget",
@@ -435,6 +420,21 @@
     "twitch_campaign_id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0"
   },
   {
+    "game": "EA Sports College Football 27",
+    "status": "live",
+    "campaign": "Nightmares Open Directory",
+    "start": "2026-10-16T17:00:00Z",
+    "end": "2026-10-18T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch your favorite creators during the Nightmares Open Directory and earn some Twitch Drops to power up your Ultimate Team!",
+    "image": "/media/campaigns/images/448782d7-852a-404b-b1c2-3c0672531b44.png",
+    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+    "twitch_campaign_id": "448782d7-852a-404b-b1c2-3c0672531b44"
+  },
+  {
     "game": "ELDEN RING",
     "status": "live",
     "campaign": "Bloody Finger ELDEN RING",
@@ -737,21 +737,6 @@
   {
     "game": "Legend of YMIR",
     "status": "live",
-    "campaign": "LOY DROPS_ALL (26_OCT)",
-    "start": "2026-10-06T09:00:00Z",
-    "end": "2026-10-27T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Share the loot, Share the glory.\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of Legend of YMIR showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/8e15c074-d564-4bfa-8d14-a644696745cc.jpeg",
-    "url": "https://www.legendofymir.com/en/news/notice/758959",
-    "account_link": "https://www.legendofymir.com/mypage/account",
-    "twitch_campaign_id": "8e15c074-d564-4bfa-8d14-a644696745cc"
-  },
-  {
-    "game": "Legend of YMIR",
-    "status": "live",
     "campaign": "LOY DROPS_SSS (26_OCT)",
     "start": "2026-10-06T09:00:00Z",
     "end": "2026-10-27T14:59:59.999Z",
@@ -763,6 +748,21 @@
     "url": "https://www.legendofymir.com/en/news/notice/758959",
     "account_link": "https://www.legendofymir.com/mypage/account",
     "twitch_campaign_id": "b08e6c0e-ac1c-4b93-906c-5646ed5559ad"
+  },
+  {
+    "game": "Legend of YMIR",
+    "status": "live",
+    "campaign": "LOY DROPS_ALL (26_OCT)",
+    "start": "2026-10-06T09:00:00Z",
+    "end": "2026-10-27T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Share the loot, Share the glory.\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of Legend of YMIR showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/8e15c074-d564-4bfa-8d14-a644696745cc.jpeg",
+    "url": "https://www.legendofymir.com/en/news/notice/758959",
+    "account_link": "https://www.legendofymir.com/mypage/account",
+    "twitch_campaign_id": "8e15c074-d564-4bfa-8d14-a644696745cc"
   },
   {
     "game": "Legion TD 2",
@@ -887,32 +887,17 @@
   {
     "game": "MARVEL Contest of Champions",
     "status": "live",
-    "campaign": "October Week 2",
-    "start": "2026-10-09T17:00:00Z",
-    "end": "2026-10-16T16:44:59.999Z",
+    "campaign": "October Week 3",
+    "start": "2026-10-16T17:00:00Z",
+    "end": "2026-10-23T16:44:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/3e326242-85d7-44a9-b540-eacce80ced06.png",
+    "image": "/media/campaigns/images/9ae59038-a976-42f1-9b84-9ba430012159.png",
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "3e326242-85d7-44a9-b540-eacce80ced06"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
-    "campaign": "October Week 2 - CCP",
-    "start": "2026-10-09T17:00:00Z",
-    "end": "2026-10-16T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/3673d3f9-a48e-4cec-9f85-4eb327c6aa1d.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d"
+    "twitch_campaign_id": "9ae59038-a976-42f1-9b84-9ba430012159"
   },
   {
     "game": "Marvel Rivals",
@@ -962,21 +947,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Обновление 26.10: Часть 3",
-    "start": "2026-10-16T15:00:00Z",
-    "end": "2026-10-23T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
-    "image": "/media/campaigns/images/b5e97d7e-182c-4579-9794-aec9a64e5acf.jpeg",
-    "url": "https://krbli.ru/4dDrG8N",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "b5e97d7e-182c-4579-9794-aec9a64e5acf"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Lestakorabli - 26.10 #3",
     "start": "2026-10-16T15:00:00Z",
     "end": "2026-10-23T14:59:59.999Z",
@@ -988,6 +958,21 @@
     "url": "https://krbli.ru/3RW8D27",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "bdc0f0dd-6a93-44cd-8698-72b767b98c3b"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Обновление 26.10: Часть 3",
+    "start": "2026-10-16T15:00:00Z",
+    "end": "2026-10-23T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
+    "image": "/media/campaigns/images/b5e97d7e-182c-4579-9794-aec9a64e5acf.jpeg",
+    "url": "https://krbli.ru/4dDrG8N",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "b5e97d7e-182c-4579-9794-aec9a64e5acf"
   },
   {
     "game": "Mobile Dungeon",
@@ -1322,32 +1307,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 618",
-    "start": "2026-10-15T17:59:00Z",
-    "end": "2026-10-16T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/19e69bd8-1473-4a8b-a868-6c05b8dfba55.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "19e69bd8-1473-4a8b-a868-6c05b8dfba55"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "Mobile Drop 189",
-    "start": "2026-10-15T17:59:00Z",
-    "end": "2026-10-16T17:56:59.999Z",
+    "campaign": "Mobile Drop 190",
+    "start": "2026-10-16T17:59:00Z",
+    "end": "2026-10-17T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/eb949715-75c9-465b-ab09-09c276ad0ec9.png",
+    "image": "/media/campaigns/images/d57819f3-9df7-4216-a0a5-3a7583d0846a.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "eb949715-75c9-465b-ab09-09c276ad0ec9"
+    "twitch_campaign_id": "d57819f3-9df7-4216-a0a5-3a7583d0846a"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 619",
+    "start": "2026-10-16T17:59:00Z",
+    "end": "2026-10-17T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/0ce725cf-9d27-4f53-927e-1e760c1c184e.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "0ce725cf-9d27-4f53-927e-1e760c1c184e"
   },
   {
     "game": "Shakes and Fidget",
@@ -1473,6 +1458,21 @@
     "game": "Star Citizen",
     "status": "live",
     "campaign": "RSI Discovery",
+    "start": "2026-10-16T16:30:00Z",
+    "end": "2026-10-27T19:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "RSI Discovery Month is here, and so are new Twitch Drops! Celebrate the legacy of the Constellation and the arrival of its next generation by watching any Drops-enabled Star Citizen stream for a total of four hours to unlock the Constellation Phoenix Commemorative Display for free. Inspired by the signature fiery insignia found aboard the classic Constellation Phoenix, this holographic display brings a piece of RSI history straight to your home or hangar.",
+    "image": "/media/campaigns/images/3b2d577a-fc2a-49eb-a07a-a5866937bef5.jpeg",
+    "url": "https://robertsspaceindustries.com/comm-link/transmission/21341-Twitch-Drops-RSI-Discovery-Month",
+    "account_link": "https://robertsspaceindustries.com/sign-in",
+    "twitch_campaign_id": "3b2d577a-fc2a-49eb-a07a-a5866937bef5"
+  },
+  {
+    "game": "Star Citizen",
+    "status": "live",
+    "campaign": "RSI Discovery",
     "start": "2026-10-14T15:30:00Z",
     "end": "2026-10-27T19:59:59.999Z",
     "watch_time": "",
@@ -1528,6 +1528,21 @@
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
     "twitch_campaign_id": "877cfbfc-2aec-4c31-a166-3d012110de97"
+  },
+  {
+    "game": "The Streamer Awards",
+    "status": "live",
+    "campaign": "Streamer Awards 2026 Vote",
+    "start": "2026-10-16T17:00:00Z",
+    "end": "2026-10-17T04:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by watching and voting on the 2026 Streamer Awards!",
+    "image": "/media/campaigns/images/f387b7a0-2dde-4fb2-869f-b63663e7a4ba.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "f387b7a0-2dde-4fb2-869f-b63663e7a4ba"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
@@ -1740,6 +1755,21 @@
     "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
   },
   {
+    "game": "Warframe",
+    "status": "live",
+    "campaign": "PMCFQ - LadyTheLaddy",
+    "start": "2026-10-16T20:00:00Z",
+    "end": "2026-10-16T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch LadyTheLaddy's fundraising stream for 30 minutes to receive a random Floof.",
+    "image": "/media/campaigns/images/69843d6b-950b-4c09-a35a-19a8bd84afad.jpeg",
+    "url": "https://forums.warframe.com/topic/1527899-pmcfq-community-fundraising-stream-schedule-october-12-18-2026/",
+    "account_link": "https://www.warframe.com/user",
+    "twitch_campaign_id": "69843d6b-950b-4c09-a35a-19a8bd84afad"
+  },
+  {
     "game": "Warhammer 40,000: Space Marine II",
     "status": "live",
     "campaign": "The Anniversary Update II",
@@ -1813,21 +1843,6 @@
     "url": "https://worldoftanks.eu/news/live-streams/wot-a-thrill-token-store-october-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "355e9ba2-ef2a-4d49-9698-5fae95ab0c74"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Babylon: Dark Tower",
-    "start": "2026-10-16T13:00:00Z",
-    "end": "2026-10-16T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Babylon: Dark Tower",
-    "image": "/media/campaigns/images/93b89605-d835-4980-a784-f3ed57caa3fe.jpeg",
-    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "93b89605-d835-4980-a784-f3ed57caa3fe"
   },
   {
     "game": "World of Tanks",
