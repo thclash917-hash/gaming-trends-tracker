@@ -92,32 +92,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 5 - #4/7",
-    "start": "2026-10-15T10:00:00Z",
-    "end": "2026-10-16T09:29:59.999Z",
+    "campaign": "AOCP Flamescale 5 - #5/7",
+    "start": "2026-10-16T10:00:00Z",
+    "end": "2026-10-17T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/f5a0cf7c-bb48-47bf-8324-f8d7f5c70549.png",
+    "image": "/media/campaigns/images/fee37065-c8dc-41e8-a6b7-bb4c726cc624.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "f5a0cf7c-bb48-47bf-8324-f8d7f5c70549"
+    "twitch_campaign_id": "fee37065-c8dc-41e8-a6b7-bb4c726cc624"
   },
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 7 - #4/7",
-    "start": "2026-10-15T10:00:00Z",
-    "end": "2026-10-16T09:29:59.999Z",
+    "campaign": "Dragonfire 7 - #5/7",
+    "start": "2026-10-16T10:00:00Z",
+    "end": "2026-10-17T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/a5acd4ca-7c21-4e1d-ae67-06338cd1e58f.png",
+    "image": "/media/campaigns/images/7c48f35e-359c-400a-9c13-f4ccec12b6e9.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "a5acd4ca-7c21-4e1d-ae67-06338cd1e58f"
+    "twitch_campaign_id": "7c48f35e-359c-400a-9c13-f4ccec12b6e9"
   },
   {
     "game": "Alien: Isolation",
@@ -585,6 +585,21 @@
     "twitch_campaign_id": "65f8f2a5-074c-48ca-8505-f525bb8d75f5"
   },
   {
+    "game": "Kakele Online - MMORPG",
+    "status": "live",
+    "campaign": "Kakele Online - October 2",
+    "start": "2026-10-16T07:00:00Z",
+    "end": "2026-10-31T00:18:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "🎮 Announcing Kakele Online's Epic Twitch Drops!  Embark on a unique journey in Kakele's realm. Dive into mystical lands, conquer quests, and enjoy our exciting Twitch Drops for enhanced gaming. Unlock rewards, including teleports, herbs, potions, and materials.  🕒 Timed Rewards: Enjoy cities Teleports, Ultra potions, Gold Refiner Kits and collect Dog Cards and Trophies.  💰 Prosperity Path: Gain Copper, Tin, Silver, Iron, Gold, Life Herbs, Mana Herbs for success. Accumulate Reputation Coins.  🎈 Grand Finale: End with an exclusive Twitch Drop and Bacon Extravaganza surprise! Link accounts, watch streams, and claim rewards for an unforgettable RPG experience.  🌟 How to Join:  Link Accounts: Connect your account and Twitch in the game app. Watch Streams: Tune in during to your favorite Kakele streamer. Claim Rewards: Receive Twitch Drop notifications claim in the game app.  Influencers: To enable drops on your stream, email us!  Don't miss the chance to enrich your journey with Twitch Drops!",
+    "image": "/media/campaigns/images/dfeba7d4-f52f-4195-9153-88656e5c1114.png",
+    "url": "https://www.kakele.io/?utm_source=drops",
+    "account_link": "https://id.twitch.tv/oauth2/authorize?client_id=9awx3xtp59477gdaslg318amuimqp8&redirect_uri=https%3A%2F%2Fwww.kakele.io%2Fdrops&response_type=code&scope=user:read:email",
+    "twitch_campaign_id": "dfeba7d4-f52f-4195-9153-88656e5c1114"
+  },
+  {
     "game": "Kirka.io",
     "status": "live",
     "campaign": "Elite",
@@ -827,21 +842,6 @@
   {
     "game": "MARVEL Contest of Champions",
     "status": "live",
-    "campaign": "October Week 2",
-    "start": "2026-10-09T17:00:00Z",
-    "end": "2026-10-16T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/3e326242-85d7-44a9-b540-eacce80ced06.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "3e326242-85d7-44a9-b540-eacce80ced06"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
     "campaign": "October Week 2 - CCP",
     "start": "2026-10-09T17:00:00Z",
     "end": "2026-10-16T16:44:59.999Z",
@@ -853,6 +853,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d"
+  },
+  {
+    "game": "MARVEL Contest of Champions",
+    "status": "live",
+    "campaign": "October Week 2",
+    "start": "2026-10-09T17:00:00Z",
+    "end": "2026-10-16T16:44:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
+    "image": "/media/campaigns/images/3e326242-85d7-44a9-b540-eacce80ced06.png",
+    "url": "https://kid.kabam.com/v1/kid/account/login",
+    "account_link": "https://kid.kabam.com/v1/kid/account/login",
+    "twitch_campaign_id": "3e326242-85d7-44a9-b540-eacce80ced06"
   },
   {
     "game": "Marvel Rivals",
@@ -988,6 +1003,21 @@
     "url": "https://mhaur.bn-ent.net/twitch/en.php",
     "account_link": "https://account.bandainamcoid.com/sns.html?client_id=cosmos_025421_bnid&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
     "twitch_campaign_id": "0317f83e-9c61-4bc3-b484-41275e681eae"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "NBPL 10.16",
+    "start": "2026-10-16T08:00:00Z",
+    "end": "2026-10-16T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/61e376e4-9d79-481d-b347-a069298d405d.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "61e376e4-9d79-481d-b347-a069298d405d"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1350,6 +1380,21 @@
     "twitch_campaign_id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4"
   },
   {
+    "game": "Standoff 2",
+    "status": "live",
+    "campaign": "SO2 JumbleRumble: S8",
+    "start": "2026-10-16T10:45:00Z",
+    "end": "2026-10-16T20:54:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени.   \nКак получить награды:           \n – Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.       \n– Накопите необходимое время просмотра на официальном канале Standoff 2.        \n– Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
+    "image": "/media/campaigns/images/e5a730fb-0f9b-4e2f-8e55-4b806de91860.png",
+    "url": "https://install.standoff2.com/ru/twitch-drops",
+    "account_link": "https://link.standoff2.com/twitch/link/",
+    "twitch_campaign_id": "e5a730fb-0f9b-4e2f-8e55-4b806de91860"
+  },
+  {
     "game": "Star Citizen",
     "status": "live",
     "campaign": "RSI Discovery",
@@ -1573,6 +1618,36 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "773f4909-b958-455c-be7a-641ade4067c5"
+  },
+  {
+    "game": "Viking Rise",
+    "status": "live",
+    "campaign": "Twitch Drops",
+    "start": "2026-10-16T03:00:01Z",
+    "end": "2026-11-13T02:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch now to unlock exclusive rewards, including a Twitch Exclusive Emote! Each IGG ID can redeem the drops only once.",
+    "image": "/media/campaigns/images/486811da-8b4c-4212-951d-1a8caa34b5bc.jpeg",
+    "url": "https://event.igg.com/twitch/drops?code=vr_drops",
+    "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
+    "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
+  },
+  {
+    "game": "Viking Rise",
+    "status": "live",
+    "campaign": "Twitch Drops",
+    "start": "2026-10-16T03:00:01Z",
+    "end": "2026-11-13T02:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch now to unlock exclusive rewards, including a Twitch Exclusive Emote! Each IGG ID can redeem the drops only once.",
+    "image": "/media/campaigns/images/321f2214-c73d-4989-91fb-4b0364985a25.jpeg",
+    "url": "https://event.igg.com/twitch/drops?code=vr_drops",
+    "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
+    "twitch_campaign_id": "321f2214-c73d-4989-91fb-4b0364985a25"
   },
   {
     "game": "War Robots: Frontiers",
