@@ -750,6 +750,21 @@
     "twitch_campaign_id": "673c33e7-e55d-44e3-aee2-abdf03d17e10"
   },
   {
+    "game": "Lords Mobile",
+    "status": "live",
+    "campaign": "Twitch Drops",
+    "start": "2026-10-16T02:10:09Z",
+    "end": "2026-11-13T02:09:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Join our Drops to earn rewards and an exclusive Scuba Emote! Please note that each IGG ID can redeem the rewards only once across all Drops.",
+    "image": "/media/campaigns/images/de187dc2-1549-44a6-8fe1-118efd83a38a.png",
+    "url": "https://event.igg.com/twitch/drops?code=lo_drops",
+    "account_link": "https://event.igg.com/twitch/drops?code=lo_drops",
+    "twitch_campaign_id": "de187dc2-1549-44a6-8fe1-118efd83a38a"
+  },
+  {
     "game": "Madden NFL 27",
     "status": "live",
     "campaign": "M27 MF Open Directory",
@@ -812,21 +827,6 @@
   {
     "game": "MARVEL Contest of Champions",
     "status": "live",
-    "campaign": "October Week 2 - CCP",
-    "start": "2026-10-09T17:00:00Z",
-    "end": "2026-10-16T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/3673d3f9-a48e-4cec-9f85-4eb327c6aa1d.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
     "campaign": "October Week 2",
     "start": "2026-10-09T17:00:00Z",
     "end": "2026-10-16T16:44:59.999Z",
@@ -838,6 +838,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "3e326242-85d7-44a9-b540-eacce80ced06"
+  },
+  {
+    "game": "MARVEL Contest of Champions",
+    "status": "live",
+    "campaign": "October Week 2 - CCP",
+    "start": "2026-10-09T17:00:00Z",
+    "end": "2026-10-16T16:44:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
+    "image": "/media/campaigns/images/3673d3f9-a48e-4cec-9f85-4eb327c6aa1d.png",
+    "url": "https://kid.kabam.com/v1/kid/account/login",
+    "account_link": "https://kid.kabam.com/v1/kid/account/login",
+    "twitch_campaign_id": "3673d3f9-a48e-4cec-9f85-4eb327c6aa1d"
   },
   {
     "game": "Marvel Rivals",
@@ -1110,21 +1125,6 @@
     "twitch_campaign_id": "dfa9c27f-877b-417a-8a49-279ecf0fbb15"
   },
   {
-    "game": "Phasmophobia",
-    "status": "live",
-    "campaign": "Crimson Eye 2026",
-    "start": "2026-10-08T11:00:00Z",
-    "end": "2026-10-15T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "During the first week of Crimson Eye, watch a total of two hours of Phasmophobia streams between October 8th and October 15th to earn the in-game Crimson Eye tee.",
-    "image": "/media/campaigns/images/576c1066-00c1-4b08-b430-3f79659167f4.png",
-    "url": "https://www.kineticgames.co.uk/news/the-crimson-eye-approaches-once-more",
-    "account_link": "https://www.kineticgames.co.uk/twitch-drops",
-    "twitch_campaign_id": "576c1066-00c1-4b08-b430-3f79659167f4"
-  },
-  {
     "game": "Planet Zoo 2",
     "status": "live",
     "campaign": "Launch Clothing Set",
@@ -1305,21 +1305,6 @@
     "twitch_campaign_id": "a1b85335-6984-448b-8438-1ec6b436d8fc"
   },
   {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Droplets",
-    "start": "2026-10-09T14:00:00Z",
-    "end": "2026-10-15T21:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Droplets are additional drops to our main drop campaigns.",
-    "image": "/media/campaigns/images/e162a6f0-3a7d-4297-8c32-92cfbe3c697e.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "e162a6f0-3a7d-4297-8c32-92cfbe3c697e"
-  },
-  {
     "game": "SMITE 2",
     "status": "live",
     "campaign": "October Week 3!",
@@ -1413,16 +1398,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-15T00:00:00Z",
-    "end": "2026-10-15T23:59:59.999Z",
+    "start": "2026-10-16T00:00:00Z",
+    "end": "2026-10-16T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/2c5ad49b-118c-491e-8daa-1bfeef24837a.png",
+    "image": "/media/campaigns/images/877cfbfc-2aec-4c31-a166-3d012110de97.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "2c5ad49b-118c-491e-8daa-1bfeef24837a"
+    "twitch_campaign_id": "877cfbfc-2aec-4c31-a166-3d012110de97"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
@@ -1498,6 +1483,21 @@
     "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "e505a275-6823-474a-ac59-61d4d95d2094"
+  },
+  {
+    "game": "Torchlight: Infinite",
+    "status": "live",
+    "campaign": "New Season-TARTARUS-Day 1",
+    "start": "2026-10-16T02:00:00Z",
+    "end": "2026-10-17T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Torchlight Infinite: New Season - TARTARUS - Day 1",
+    "image": "/media/campaigns/images/7bc83c20-44f7-4dc0-aae9-45283ec8acd2.png",
+    "url": "https://torchlight.xd.com/",
+    "account_link": "https://torchlight.xd.com/twitch-treasure",
+    "twitch_campaign_id": "7bc83c20-44f7-4dc0-aae9-45283ec8acd2"
   },
   {
     "game": "UFL",
@@ -1588,21 +1588,6 @@
     "url": "https://warrobotsfrontiers.com/en/news/353-twitch-drops-loot-up-from-october-13-to-october-20",
     "account_link": "https://warrobotsfrontiers.com/en/twitchdrops",
     "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "Prime Time #501",
-    "start": "2026-10-14T19:00:00Z",
-    "end": "2026-10-16T00:14:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch our fundraising stream for 30 minutes to receive a random Floof.",
-    "image": "/media/campaigns/images/a4f477ec-c2e5-4ede-9af2-fc5ea2608e38.jpeg",
-    "url": "https://forums.warframe.com/topic/1527899-pmcfq-community-fundraising-stream-schedule-october-12-18-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "a4f477ec-c2e5-4ede-9af2-fc5ea2608e38"
   },
   {
     "game": "Warhammer 40,000: Space Marine II",
