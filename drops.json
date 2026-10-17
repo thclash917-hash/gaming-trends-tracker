@@ -47,21 +47,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 5 - #6/7",
-    "start": "2026-10-17T10:00:00Z",
-    "end": "2026-10-18T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/8056d183-285d-446d-88ae-b9d5cd57ed75.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "8056d183-285d-446d-88ae-b9d5cd57ed75"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "Dragonfire 7 - #6/7",
     "start": "2026-10-17T10:00:00Z",
     "end": "2026-10-18T09:29:59.999Z",
@@ -73,6 +58,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "6aed3d67-a1be-4f62-9d12-78170474c8c2"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 5 - #6/7",
+    "start": "2026-10-17T10:00:00Z",
+    "end": "2026-10-18T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/8056d183-285d-446d-88ae-b9d5cd57ed75.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "8056d183-285d-446d-88ae-b9d5cd57ed75"
   },
   {
     "game": "Alien: Isolation",
@@ -137,17 +137,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "Master Class 26 (Oct 16)",
-    "start": "2026-10-16T12:00:00Z",
-    "end": "2026-10-17T11:59:59.999Z",
+    "campaign": "Master Class 26 (Oct 17)",
+    "start": "2026-10-17T12:00:00Z",
+    "end": "2026-10-18T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/5b0f1d8e-b3d0-4177-a116-a83e91f5af7b.jpeg",
+    "image": "/media/campaigns/images/4370f605-1498-443c-9cd5-2bd575156303.jpeg",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "5b0f1d8e-b3d0-4177-a116-a83e91f5af7b"
+    "twitch_campaign_id": "4370f605-1498-443c-9cd5-2bd575156303"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -163,6 +163,21 @@
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
     "twitch_campaign_id": "6cd9dfd0-ac14-4405-97fc-49f191925268"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "Brawlhalla Tourn. Weekend",
+    "start": "2026-10-17T11:00:00Z",
+    "end": "2026-10-22T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Brawlhalla Community Tournament Weekend Twitch Drops are here! ",
+    "image": "/media/campaigns/images/c7116bf5-b574-4bc7-befb-af8dfcbeab49.png",
+    "url": "https://www.ubisoft.com/help/article/000065532",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "c7116bf5-b574-4bc7-befb-af8dfcbeab49"
   },
   {
     "game": "Brawlhalla",
@@ -450,36 +465,6 @@
     "twitch_campaign_id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa"
   },
   {
-    "game": "Epic Seven",
-    "status": "live",
-    "campaign": "E7WC2026 Group Stage Day3",
-    "start": "2026-10-17T03:00:00Z",
-    "end": "2026-10-17T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Group Stage.",
-    "image": "/media/campaigns/images/7ca0aed5-c754-4780-aa77-5081bdcf6f58.png",
-    "url": "https://epic7.onstove.com/drops/twitch",
-    "account_link": "https://epic7.onstove.com/drops/twitch",
-    "twitch_campaign_id": "7ca0aed5-c754-4780-aa77-5081bdcf6f58"
-  },
-  {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "KEL CIRCUIT 4 - DAY 3",
-    "start": "2026-10-17T01:30:00Z",
-    "end": "2026-10-17T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/6a30c26a-2210-4a69-9198-327a0cb7275d.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "6a30c26a-2210-4a69-9198-327a0cb7275d"
-  },
-  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "CSM 21 Interviews Drop 1",
@@ -508,21 +493,6 @@
     "url": "https://www.eveonline.com/twitch",
     "account_link": "https://www.eveonline.com/twitch",
     "twitch_campaign_id": "23b21c8d-99e5-46c7-8be1-0012601e8b2d"
-  },
-  {
-    "game": "EVE Online",
-    "status": "live",
-    "campaign": "Totality Day YC128",
-    "start": "2026-10-13T13:10:00Z",
-    "end": "2026-10-17T10:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "We caught some Abyssal Deadspace in a jar so you can put it in your head!",
-    "image": "/media/campaigns/images/228487a2-04be-463c-9b01-a86bbb735275.jpeg",
-    "url": "https://www.eveonline.com/twitch",
-    "account_link": "https://www.eveonline.com/twitch",
-    "twitch_campaign_id": "228487a2-04be-463c-9b01-a86bbb735275"
   },
   {
     "game": "Fishing Planet",
@@ -1172,17 +1142,32 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate10/16/26",
-    "start": "2026-10-16T13:00:00Z",
-    "end": "2026-10-17T12:59:59.999Z",
+    "campaign": "Affiliate10/17/26",
+    "start": "2026-10-17T13:00:00Z",
+    "end": "2026-10-18T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/49c45225-d526-43ca-b75b-0f57f6dcc5a5.png",
+    "image": "/media/campaigns/images/0bf45777-26ed-41dd-a055-357b958c7460.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "49c45225-d526-43ca-b75b-0f57f6dcc5a5"
+    "twitch_campaign_id": "0bf45777-26ed-41dd-a055-357b958c7460"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "CWhit 10/17/26",
+    "start": "2026-10-17T13:00:00Z",
+    "end": "2026-10-18T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1397,21 +1382,6 @@
   {
     "game": "Shakes and Fidget",
     "status": "live",
-    "campaign": "S&F Droplets",
-    "start": "2026-10-16T14:00:00Z",
-    "end": "2026-10-22T21:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Droplets are additional drops to our main drop campaigns.",
-    "image": "/media/campaigns/images/17e7ffc7-a44a-4658-a5c6-cdabb2aee2a9.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "17e7ffc7-a44a-4658-a5c6-cdabb2aee2a9"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
     "campaign": "S&F Drops 3/3",
     "start": "2026-10-16T14:00:00Z",
     "end": "2026-10-18T21:58:59.999Z",
@@ -1423,6 +1393,21 @@
     "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
     "account_link": "https://sfgame.net/",
     "twitch_campaign_id": "573cfad7-e123-48bb-9ce9-468a4b011798"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "S&F Droplets",
+    "start": "2026-10-16T14:00:00Z",
+    "end": "2026-10-22T21:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Droplets are additional drops to our main drop campaigns.",
+    "image": "/media/campaigns/images/17e7ffc7-a44a-4658-a5c6-cdabb2aee2a9.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "17e7ffc7-a44a-4658-a5c6-cdabb2aee2a9"
   },
   {
     "game": "Shakes and Fidget",
@@ -1457,17 +1442,17 @@
   {
     "game": "SMITE 2",
     "status": "live",
-    "campaign": "October Week 3!",
-    "start": "2026-10-10T11:00:00Z",
-    "end": "2026-10-17T10:57:59.999Z",
+    "campaign": "October Week 4!",
+    "start": "2026-10-17T11:00:00Z",
+    "end": "2026-10-24T10:57:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
-    "image": "/media/campaigns/images/60c8e9e2-8b16-4ced-b7b6-4056cf59bf65.jpeg",
+    "image": "/media/campaigns/images/eb306483-ba21-42d2-8e81-a4c0490d6796.jpeg",
     "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
     "account_link": "https://link.smite2.com/",
-    "twitch_campaign_id": "60c8e9e2-8b16-4ced-b7b6-4056cf59bf65"
+    "twitch_campaign_id": "eb306483-ba21-42d2-8e81-a4c0490d6796"
   },
   {
     "game": "Sonic Rumble Party",
@@ -1498,6 +1483,21 @@
     "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
     "account_link": "https://splinterlands.com/user/account-socials",
     "twitch_campaign_id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4"
+  },
+  {
+    "game": "Standoff 2",
+    "status": "live",
+    "campaign": "SO2 JumbleRumble: S8",
+    "start": "2026-10-17T10:45:00Z",
+    "end": "2026-10-17T17:54:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени.    \nКак получить награды:             \n– Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.        \n– Накопите необходимое время просмотра на официальном канале Standoff 2.         \n– Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
+    "image": "/media/campaigns/images/b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d.png",
+    "url": "https://install.standoff2.com/ru/twitch-drops",
+    "account_link": "https://link.standoff2.com/twitch/link/",
+    "twitch_campaign_id": "b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d"
   },
   {
     "game": "Star Citizen",
@@ -1562,21 +1562,6 @@
   {
     "game": "The Witcher 3: Wild Hunt",
     "status": "live",
-    "campaign": "Remastered Release",
-    "start": "2026-09-29T10:00:00Z",
-    "end": "2026-10-27T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The Witcher 3: Wild Hunt — Remastered brings a new look to the Continent — and we think you’ll agree that Roach deserves one too. Tune in to participating The Witcher 3 streams on Twitch and earn the Fire Horse Gear Set — an exclusive collection of brand-new gear for Roach, inspired by the Chinese zodiac’s Year of the Fire Horse. Collect the whole set and ride into Remastered with Roach ready for the road ahead!",
-    "image": "/media/campaigns/images/5ccd33aa-a869-4de4-aca7-44775bf07823.jpeg",
-    "url": "https://www.thewitcher.com/twitch-drops",
-    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
-    "twitch_campaign_id": "5ccd33aa-a869-4de4-aca7-44775bf07823"
-  },
-  {
-    "game": "The Witcher 3: Wild Hunt",
-    "status": "live",
     "campaign": "The Witcher 3 Remaster",
     "start": "2026-09-29T10:00:00Z",
     "end": "2026-10-27T09:59:59.999Z",
@@ -1588,6 +1573,21 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "c7b62569-3b75-4f72-9700-957479fe3460"
+  },
+  {
+    "game": "The Witcher 3: Wild Hunt",
+    "status": "live",
+    "campaign": "Remastered Release",
+    "start": "2026-09-29T10:00:00Z",
+    "end": "2026-10-27T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The Witcher 3: Wild Hunt — Remastered brings a new look to the Continent — and we think you’ll agree that Roach deserves one too. Tune in to participating The Witcher 3 streams on Twitch and earn the Fire Horse Gear Set — an exclusive collection of brand-new gear for Roach, inspired by the Chinese zodiac’s Year of the Fire Horse. Collect the whole set and ride into Remastered with Roach ready for the road ahead!",
+    "image": "/media/campaigns/images/5ccd33aa-a869-4de4-aca7-44775bf07823.jpeg",
+    "url": "https://www.thewitcher.com/twitch-drops",
+    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
+    "twitch_campaign_id": "5ccd33aa-a869-4de4-aca7-44775bf07823"
   },
   {
     "game": "The Witcher 3: Wild Hunt Remastered",
@@ -1663,36 +1663,6 @@
     "url": "https://portal.uflgame.com/twitch/drops",
     "account_link": "https://portal.uflgame.com/twitch",
     "twitch_campaign_id": "7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d"
-  },
-  {
-    "game": "VALORANT",
-    "status": "live",
-    "campaign": "VCT26 Champs Shanghai",
-    "start": "2026-10-07T09:00:00Z",
-    "end": "2026-10-17T10:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "VALORANT Champs has arrived in Shanghai! For the Champs 2026, the best 16 teams from around the world face off to determine who is the Champions winner for 2026.\t\t\t\t\t \t\t\t\t\t \t\t\t\t \t\t\t\t\t \t\t\t\t\t",
-    "image": "/media/campaigns/images/949e51d4-1322-478d-a669-317d7d769dd0.png",
-    "url": "https://www.riotgames.com/en",
-    "account_link": "https://twitch.tv/settings/connections#riot-connection\t\t\t\t\t",
-    "twitch_campaign_id": "949e51d4-1322-478d-a669-317d7d769dd0"
-  },
-  {
-    "game": "VALORANT",
-    "status": "live",
-    "campaign": "VCT26 Champs Shanghai",
-    "start": "2026-09-24T09:00:00Z",
-    "end": "2026-10-17T10:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "VALORANT Champs has arrived in Shanghai! For the Champs 2026, the best 16 teams from around the world face off to determine who is the Champions winner for 2026.\t\t\t\t\t \t\t\t\t\t \t\t\t\t \t\t\t\t\t \t\t\t\t\t",
-    "image": "/media/campaigns/images/e50f291f-c1e8-4610-b456-f32c96346a89.png",
-    "url": "https://www.riotgames.com/en",
-    "account_link": "https://twitch.tv/settings/connections#riot-connection",
-    "twitch_campaign_id": "e50f291f-c1e8-4610-b456-f32c96346a89"
   },
   {
     "game": "Vaultbreakers",
@@ -1832,6 +1802,21 @@
   {
     "game": "World of Tanks",
     "status": "live",
+    "campaign": "Marty_Vole 5v5 Tournament",
+    "start": "2026-10-17T13:00:00Z",
+    "end": "2026-10-17T18:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Marty_Vole 5v5 Tournament",
+    "image": "/media/campaigns/images/fc922f3a-63f8-48d3-b0d0-06871984cd1e.png",
+    "url": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "account_link": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "twitch_campaign_id": "fc922f3a-63f8-48d3-b0d0-06871984cd1e"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
     "campaign": "WoT A Thrill Store #3",
     "start": "2026-10-16T15:00:00Z",
     "end": "2026-10-19T14:59:59.999Z",
@@ -1843,21 +1828,6 @@
     "url": "https://worldoftanks.eu/news/live-streams/wot-a-thrill-token-store-october-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "355e9ba2-ef2a-4d49-9698-5fae95ab0c74"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Operative MouzAkrobat",
-    "start": "2026-10-15T15:00:00Z",
-    "end": "2026-10-31T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Operative MouzAkrobat",
-    "image": "/media/campaigns/images/61e12424-a3c8-4ad7-9141-6058b23ea044.png",
-    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "61e12424-a3c8-4ad7-9141-6058b23ea044"
   },
   {
     "game": "World of Tanks",
@@ -1877,6 +1847,21 @@
   {
     "game": "World of Tanks",
     "status": "live",
+    "campaign": "Operative QuickyBaby",
+    "start": "2026-10-15T15:00:00Z",
+    "end": "2026-10-31T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Operative QuickyBaby",
+    "image": "/media/campaigns/images/2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20.png",
+    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
+    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
+    "twitch_campaign_id": "2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
     "campaign": "Operative Skill4ltu",
     "start": "2026-10-15T15:00:00Z",
     "end": "2026-10-31T21:59:59.999Z",
@@ -1892,17 +1877,17 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "Operative QuickyBaby",
+    "campaign": "Operative MouzAkrobat",
     "start": "2026-10-15T15:00:00Z",
     "end": "2026-10-31T21:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Operative QuickyBaby",
-    "image": "/media/campaigns/images/2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20.png",
+    "description": "Operative MouzAkrobat",
+    "image": "/media/campaigns/images/61e12424-a3c8-4ad7-9141-6058b23ea044.png",
     "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20"
+    "twitch_campaign_id": "61e12424-a3c8-4ad7-9141-6058b23ea044"
   },
   {
     "game": "World of Tanks Console",
