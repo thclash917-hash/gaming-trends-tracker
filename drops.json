@@ -555,19 +555,19 @@
     "twitch_campaign_id": "2c2e9c35-0ff4-4f19-82ef-7901079d0e0b"
   },
   {
-    "game": "Hearthstone",
+    "game": "Halo Infinite",
     "status": "live",
-    "campaign": "Hearthstone Community Day",
-    "start": "2026-10-13T17:00:00Z",
-    "end": "2026-10-17T16:59:59.999Z",
+    "campaign": "GR Cup - OCT17",
+    "start": "2026-10-17T16:00:00Z",
+    "end": "2026-10-18T05:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "The Black Empire is almost here! Watch any Hearthstone stream on Twitch to earn up to 2 Tavern Tickets and 3 Standard Packs. Use your tickets in the updated Pre-Release Tavern Brawl, live now, to play your pre-purchased Reign of the Black Empire cards before launch.\nStill deciding between the regular and Mega Bundle? In this Tavern Brawl, everyone gets free temporary access to all Reign of the Black Empire Common and Rare cards - jump in now, and test the expansion before the release!\n",
-    "image": "/media/campaigns/images/1306917d-e2cb-437e-b87a-fb4eab8724bc.png",
-    "url": "https://hearthstone.blizzard.com/news/24301454/",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "1306917d-e2cb-437e-b87a-fb4eab8724bc"
+    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
+    "image": "/media/campaigns/images/80fd58de-bbaa-4225-934a-79537d429124.png",
+    "url": "https://www.halowaypoint.com",
+    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
+    "twitch_campaign_id": "80fd58de-bbaa-4225-934a-79537d429124"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -1037,21 +1037,6 @@
   {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
-    "campaign": "NBPL 10.17",
-    "start": "2026-10-17T08:00:00Z",
-    "end": "2026-10-17T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/ebdab22a-32b2-437f-8b5e-44fd383eed76.png",
-    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
-    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "ebdab22a-32b2-437f-8b5e-44fd383eed76"
-  },
-  {
-    "game": "NARAKA: BLADEPOINT",
-    "status": "live",
     "campaign": "NBPL 10.17-18",
     "start": "2026-10-17T08:00:00Z",
     "end": "2026-10-18T15:59:59.999Z",
@@ -1112,21 +1097,6 @@
   {
     "game": "Night Crows",
     "status": "live",
-    "campaign": "NC DROPS ALL (26_OCT)",
-    "start": "2026-10-07T09:00:00Z",
-    "end": "2026-10-27T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Black Wings of Freedom\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/16189ff3-a54e-434f-95e8-b8c538814020.jpeg",
-    "url": "https://www.nightcrows.com/en/notice/notice/758958",
-    "account_link": "https://nightcrows.com/mypage/account",
-    "twitch_campaign_id": "16189ff3-a54e-434f-95e8-b8c538814020"
-  },
-  {
-    "game": "Night Crows",
-    "status": "live",
     "campaign": "NC DROPS_SSS (26_OCT)",
     "start": "2026-10-07T09:00:00Z",
     "end": "2026-10-27T14:59:59.999Z",
@@ -1140,19 +1110,19 @@
     "twitch_campaign_id": "5f43889c-c819-428c-8419-64c639b8f4f3"
   },
   {
-    "game": "Out of the Park Baseball 27",
+    "game": "Night Crows",
     "status": "live",
-    "campaign": "Affiliate10/17/26",
-    "start": "2026-10-17T13:00:00Z",
-    "end": "2026-10-18T12:59:59.999Z",
+    "campaign": "NC DROPS ALL (26_OCT)",
+    "start": "2026-10-07T09:00:00Z",
+    "end": "2026-10-27T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/0bf45777-26ed-41dd-a055-357b958c7460.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "0bf45777-26ed-41dd-a055-357b958c7460"
+    "description": "Black Wings of Freedom\n\nYour view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!\n\nJoin the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/16189ff3-a54e-434f-95e8-b8c538814020.jpeg",
+    "url": "https://www.nightcrows.com/en/notice/notice/758958",
+    "account_link": "https://nightcrows.com/mypage/account",
+    "twitch_campaign_id": "16189ff3-a54e-434f-95e8-b8c538814020"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1168,6 +1138,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "89a6c6e1-3c47-47fe-9df5-3fb3ec32dbc4"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "Affiliate10/17/26",
+    "start": "2026-10-17T13:00:00Z",
+    "end": "2026-10-18T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/0bf45777-26ed-41dd-a055-357b958c7460.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "0bf45777-26ed-41dd-a055-357b958c7460"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1352,32 +1337,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 190",
-    "start": "2026-10-16T17:59:00Z",
-    "end": "2026-10-17T17:56:59.999Z",
+    "campaign": "Mobile Drop 191",
+    "start": "2026-10-17T17:59:00Z",
+    "end": "2026-10-18T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/d57819f3-9df7-4216-a0a5-3a7583d0846a.png",
+    "image": "/media/campaigns/images/1664a3e3-7d14-4490-8ce6-2a645dccdaec.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "d57819f3-9df7-4216-a0a5-3a7583d0846a"
+    "twitch_campaign_id": "1664a3e3-7d14-4490-8ce6-2a645dccdaec"
   },
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 619",
-    "start": "2026-10-16T17:59:00Z",
-    "end": "2026-10-17T17:56:59.999Z",
+    "campaign": "ROW Drop 620",
+    "start": "2026-10-17T17:59:00Z",
+    "end": "2026-10-18T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/0ce725cf-9d27-4f53-927e-1e760c1c184e.jpeg",
+    "image": "/media/campaigns/images/eccb3c97-3301-4928-bf23-6d7381e6feed.png",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "0ce725cf-9d27-4f53-927e-1e760c1c184e"
+    "twitch_campaign_id": "eccb3c97-3301-4928-bf23-6d7381e6feed"
   },
   {
     "game": "Shakes and Fidget",
@@ -1483,21 +1468,6 @@
     "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
     "account_link": "https://splinterlands.com/user/account-socials",
     "twitch_campaign_id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4"
-  },
-  {
-    "game": "Standoff 2",
-    "status": "live",
-    "campaign": "SO2 JumbleRumble: S8",
-    "start": "2026-10-17T10:45:00Z",
-    "end": "2026-10-17T17:54:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени.    \nКак получить награды:             \n– Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.        \n– Накопите необходимое время просмотра на официальном канале Standoff 2.         \n– Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
-    "image": "/media/campaigns/images/b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d.png",
-    "url": "https://install.standoff2.com/ru/twitch-drops",
-    "account_link": "https://link.standoff2.com/twitch/link/",
-    "twitch_campaign_id": "b3e5cc1f-6ff3-42c8-b1fb-498cb2b8369d"
   },
   {
     "game": "Star Citizen",
@@ -1740,6 +1710,21 @@
     "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
   },
   {
+    "game": "Warframe",
+    "status": "live",
+    "campaign": "PMCFQ - Miabyte",
+    "start": "2026-10-17T19:00:00Z",
+    "end": "2026-10-17T20:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch Miabyte's fundraising stream for 30 minutes to receive a random Floof.",
+    "image": "/media/campaigns/images/17b6b3f0-2c61-4a90-b67b-85143355f4ca.jpeg",
+    "url": "https://forums.warframe.com/topic/1527899-pmcfq-community-fundraising-stream-schedule-october-12-18-2026/",
+    "account_link": "https://www.warframe.com/user",
+    "twitch_campaign_id": "17b6b3f0-2c61-4a90-b67b-85143355f4ca"
+  },
+  {
     "game": "Warhammer 40,000: Space Marine II",
     "status": "live",
     "campaign": "The Anniversary Update II",
@@ -1798,21 +1783,6 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "5b32b5e7-7421-40ae-be32-e45b4df19a12"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Marty_Vole 5v5 Tournament",
-    "start": "2026-10-17T13:00:00Z",
-    "end": "2026-10-17T18:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Marty_Vole 5v5 Tournament",
-    "image": "/media/campaigns/images/fc922f3a-63f8-48d3-b0d0-06871984cd1e.png",
-    "url": "https://worldoftanks.eu//content/guide/twitch-drops/",
-    "account_link": "https://worldoftanks.eu//content/guide/twitch-drops/",
-    "twitch_campaign_id": "fc922f3a-63f8-48d3-b0d0-06871984cd1e"
   },
   {
     "game": "World of Tanks",
