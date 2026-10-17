@@ -480,6 +480,51 @@
     "twitch_campaign_id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa"
   },
   {
+    "game": "Epic Seven",
+    "status": "live",
+    "campaign": "E7WC2026 Group Stage Day3",
+    "start": "2026-10-17T03:00:00Z",
+    "end": "2026-10-17T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Group Stage.",
+    "image": "/media/campaigns/images/7ca0aed5-c754-4780-aa77-5081bdcf6f58.png",
+    "url": "https://epic7.onstove.com/drops/twitch",
+    "account_link": "https://epic7.onstove.com/drops/twitch",
+    "twitch_campaign_id": "7ca0aed5-c754-4780-aa77-5081bdcf6f58"
+  },
+  {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "KEL CIRCUIT 4 - DAY 3",
+    "start": "2026-10-17T01:30:00Z",
+    "end": "2026-10-17T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/6a30c26a-2210-4a69-9198-327a0cb7275d.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "6a30c26a-2210-4a69-9198-327a0cb7275d"
+  },
+  {
+    "game": "EVE Online",
+    "status": "live",
+    "campaign": "CSM 21 Interviews Drop 1",
+    "start": "2026-10-17T00:01:00Z",
+    "end": "2026-10-17T23:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Agency Support Drop which contains either a Hardshell, Pyrolancea or Overclocker booster in Dose I, II, III or IV variant",
+    "image": "/media/campaigns/images/56e5f341-b5da-4a94-ae8f-46b91c09a0f5.jpeg",
+    "url": "https://www.eveonline.com/twitch",
+    "account_link": "https://www.eveonline.com/twitch",
+    "twitch_campaign_id": "56e5f341-b5da-4a94-ae8f-46b91c09a0f5"
+  },
+  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "Crimson Harvest Drop 3",
@@ -538,6 +583,21 @@
     "url": "https://ubi.li/HdfHP",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "982b611a-ae2a-4cc6-bf15-77daa8b5b343"
+  },
+  {
+    "game": "Fortnite",
+    "status": "live",
+    "campaign": "Horror in Fortnite",
+    "start": "2026-10-16T21:27:58Z",
+    "end": "2026-10-19T06:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate all things Horror in Fortnite with Drops! Note these Drops are not exclusive to this campaign and can be used in a future campaign or sold in the Shop. ",
+    "image": "/media/campaigns/images/0b228fdb-090b-4dc2-8d4a-08e141a81b28.jpeg",
+    "url": "https://www.fortnite.com/twitch-drops",
+    "account_link": "https://www.fortnite.com/twitch-drops",
+    "twitch_campaign_id": "0b228fdb-090b-4dc2-8d4a-08e141a81b28"
   },
   {
     "game": "Guild Wars 2",
@@ -673,21 +733,6 @@
     "url": "https://kirka.io/connectTwitch=1",
     "account_link": "https://kirka.io/connectTwitch=1",
     "twitch_campaign_id": "958b07a5-ba3c-4610-9960-bf9fb84be98e"
-  },
-  {
-    "game": "Krunker",
-    "status": "live",
-    "campaign": "Krunker Season 10 Update",
-    "start": "2026-10-02T14:00:00Z",
-    "end": "2026-10-16T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Krunker Season 10 is here! New ways to build, a New Raid, New Maps, New features and much more!",
-    "image": "/media/campaigns/images/aa07071a-f2a2-4cc4-90c9-11ec258a60ec.png",
-    "url": "https://krunker.io/",
-    "account_link": "https://krunker.io/?twitch_auth",
-    "twitch_campaign_id": "aa07071a-f2a2-4cc4-90c9-11ec258a60ec"
   },
   {
     "game": "League of Legends",
@@ -988,6 +1033,21 @@
     "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
     "account_link": "https://mobiledungeon.com/",
     "twitch_campaign_id": "fa81a25b-c3ac-46cc-a91a-39ba652f6f2e"
+  },
+  {
+    "game": "Modern Warships",
+    "status": "live",
+    "campaign": "Fall Masters'26 PlayOffs",
+    "start": "2026-10-17T00:00:00Z",
+    "end": "2026-10-18T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Get ready for a new Twitch Drops campaign dedicated to the Fall Masters 2026 PlayOffs!",
+    "image": "/media/campaigns/images/c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b.png",
+    "url": "https://artstorm.com/en-US/news/fall-masters-2026-finals",
+    "account_link": "https://artstorm.com/cabinet/connect-twitch",
+    "twitch_campaign_id": "c6e4ab21-89a4-4eb9-9375-9f34cd95ef3b"
   },
   {
     "game": "Modern Warships",
@@ -1440,21 +1500,6 @@
     "twitch_campaign_id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4"
   },
   {
-    "game": "Standoff 2",
-    "status": "live",
-    "campaign": "SO2 JumbleRumble: S8",
-    "start": "2026-10-16T10:45:00Z",
-    "end": "2026-10-16T20:54:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени.   \nКак получить награды:           \n – Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.       \n– Накопите необходимое время просмотра на официальном канале Standoff 2.        \n– Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
-    "image": "/media/campaigns/images/e5a730fb-0f9b-4e2f-8e55-4b806de91860.png",
-    "url": "https://install.standoff2.com/ru/twitch-drops",
-    "account_link": "https://link.standoff2.com/twitch/link/",
-    "twitch_campaign_id": "e5a730fb-0f9b-4e2f-8e55-4b806de91860"
-  },
-  {
     "game": "Star Citizen",
     "status": "live",
     "campaign": "RSI Discovery",
@@ -1513,21 +1558,6 @@
     "url": "https://animalroyale.com/",
     "account_link": "https://drops.animalroyale.com/",
     "twitch_campaign_id": "d6d56572-09ce-4204-bd92-a86436ed2f25"
-  },
-  {
-    "game": "The Quinfall",
-    "status": "live",
-    "campaign": "October Drops",
-    "start": "2026-10-16T00:00:00Z",
-    "end": "2026-10-16T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/877cfbfc-2aec-4c31-a166-3d012110de97.png",
-    "url": "https://www.quinfall.com/twitch-drops",
-    "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "877cfbfc-2aec-4c31-a166-3d012110de97"
   },
   {
     "game": "The Streamer Awards",
@@ -1622,17 +1652,17 @@
   {
     "game": "Torchlight: Infinite",
     "status": "live",
-    "campaign": "New Season-TARTARUS-Day 1",
-    "start": "2026-10-16T02:00:00Z",
-    "end": "2026-10-17T01:59:59.999Z",
+    "campaign": "New Season-TARTARUS-Day 2",
+    "start": "2026-10-17T02:00:00Z",
+    "end": "2026-10-18T01:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Torchlight Infinite: New Season - TARTARUS - Day 1",
-    "image": "/media/campaigns/images/7bc83c20-44f7-4dc0-aae9-45283ec8acd2.png",
+    "description": "Torchlight Infinite: New Season - TARTARUS - Day 2",
+    "image": "/media/campaigns/images/2becb7ce-2a01-4ebe-855b-9ba87182b80c.png",
     "url": "https://torchlight.xd.com/",
     "account_link": "https://torchlight.xd.com/twitch-treasure",
-    "twitch_campaign_id": "7bc83c20-44f7-4dc0-aae9-45283ec8acd2"
+    "twitch_campaign_id": "2becb7ce-2a01-4ebe-855b-9ba87182b80c"
   },
   {
     "game": "UFL",
@@ -1753,21 +1783,6 @@
     "url": "https://warrobotsfrontiers.com/en/news/353-twitch-drops-loot-up-from-october-13-to-october-20",
     "account_link": "https://warrobotsfrontiers.com/en/twitchdrops",
     "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "PMCFQ - LadyTheLaddy",
-    "start": "2026-10-16T20:00:00Z",
-    "end": "2026-10-16T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch LadyTheLaddy's fundraising stream for 30 minutes to receive a random Floof.",
-    "image": "/media/campaigns/images/69843d6b-950b-4c09-a35a-19a8bd84afad.jpeg",
-    "url": "https://forums.warframe.com/topic/1527899-pmcfq-community-fundraising-stream-schedule-october-12-18-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "69843d6b-950b-4c09-a35a-19a8bd84afad"
   },
   {
     "game": "Warhammer 40,000: Space Marine II",
