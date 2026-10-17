@@ -30,36 +30,6 @@
     "twitch_campaign_id": "53817dac-8fdb-48cc-91b5-453570e05124"
   },
   {
-    "game": "AION 2",
-    "status": "live",
-    "campaign": "Global Launch Celebration",
-    "start": "2026-10-05T13:00:00Z",
-    "end": "2026-10-17T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The gates of Atreia are now open to all. Celebrate the official launch of AION2 by watching participating streams and earn exclusive in-game rewards as you begin your ascent.",
-    "image": "/media/campaigns/images/1214217f-aa1a-40be-ac32-9dffd3698775.png",
-    "url": "https://aion2.plaync.com/en-us/twitchdrops/index",
-    "account_link": "https://id.plaync.com/account/connect/twitch?appGroupCode=aion2global",
-    "twitch_campaign_id": "1214217f-aa1a-40be-ac32-9dffd3698775"
-  },
-  {
-    "game": "AION 2",
-    "status": "live",
-    "campaign": "Early Access Event",
-    "start": "2026-09-30T15:02:40Z",
-    "end": "2026-10-17T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The wait is over. Step into the world of Atreia before anyone else. Watch participating AION2 streams during Early Access and earn exclusive in-game rewards to begin your ascent in style.",
-    "image": "/media/campaigns/images/8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c.png",
-    "url": "https://aion2.plaync.com/en-us/twitchdrops/index",
-    "account_link": "https://id.plaync.com/account/connect/twitch?appGroupCode=aion2global",
-    "twitch_campaign_id": "8f7e42e0-9fe9-4415-b10f-c41e8ad72a3c"
-  },
-  {
     "game": "Airport Baggage Simulator",
     "status": "live",
     "campaign": "Night Shift Update",
@@ -77,32 +47,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 5 - #5/7",
-    "start": "2026-10-16T10:00:00Z",
-    "end": "2026-10-17T09:29:59.999Z",
+    "campaign": "AOCP Flamescale 5 - #6/7",
+    "start": "2026-10-17T10:00:00Z",
+    "end": "2026-10-18T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/fee37065-c8dc-41e8-a6b7-bb4c726cc624.png",
+    "image": "/media/campaigns/images/8056d183-285d-446d-88ae-b9d5cd57ed75.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "fee37065-c8dc-41e8-a6b7-bb4c726cc624"
+    "twitch_campaign_id": "8056d183-285d-446d-88ae-b9d5cd57ed75"
   },
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 7 - #5/7",
-    "start": "2026-10-16T10:00:00Z",
-    "end": "2026-10-17T09:29:59.999Z",
+    "campaign": "Dragonfire 7 - #6/7",
+    "start": "2026-10-17T10:00:00Z",
+    "end": "2026-10-18T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/7c48f35e-359c-400a-9c13-f4ccec12b6e9.png",
+    "image": "/media/campaigns/images/6aed3d67-a1be-4f62-9d12-78170474c8c2.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "7c48f35e-359c-400a-9c13-f4ccec12b6e9"
+    "twitch_campaign_id": "6aed3d67-a1be-4f62-9d12-78170474c8c2"
   },
   {
     "game": "Alien: Isolation",
@@ -1097,6 +1067,36 @@
   {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
+    "campaign": "NBPL 10.17",
+    "start": "2026-10-17T08:00:00Z",
+    "end": "2026-10-17T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/ebdab22a-32b2-437f-8b5e-44fd383eed76.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "ebdab22a-32b2-437f-8b5e-44fd383eed76"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "NBPL 10.17-18",
+    "start": "2026-10-17T08:00:00Z",
+    "end": "2026-10-18T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/4e02d4ee-0585-4b6a-a88c-b54aea1106c5.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "4e02d4ee-0585-4b6a-a88c-b54aea1106c5"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
     "campaign": "NBPL 10.15-18",
     "start": "2026-10-15T08:00:00Z",
     "end": "2026-10-18T15:59:59.999Z",
@@ -1142,21 +1142,6 @@
   {
     "game": "Night Crows",
     "status": "live",
-    "campaign": "NC DROPS_SSS (26_OCT)",
-    "start": "2026-10-07T09:00:00Z",
-    "end": "2026-10-27T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Black Wings of Freedom  Your view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!  Join the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
-    "image": "/media/campaigns/images/5f43889c-c819-428c-8419-64c639b8f4f3.jpeg",
-    "url": "https://www.nightcrows.com/en/notice/notice/758958",
-    "account_link": "https://nightcrows.com/mypage/account",
-    "twitch_campaign_id": "5f43889c-c819-428c-8419-64c639b8f4f3"
-  },
-  {
-    "game": "Night Crows",
-    "status": "live",
     "campaign": "NC DROPS ALL (26_OCT)",
     "start": "2026-10-07T09:00:00Z",
     "end": "2026-10-27T14:59:59.999Z",
@@ -1168,6 +1153,21 @@
     "url": "https://www.nightcrows.com/en/notice/notice/758958",
     "account_link": "https://nightcrows.com/mypage/account",
     "twitch_campaign_id": "16189ff3-a54e-434f-95e8-b8c538814020"
+  },
+  {
+    "game": "Night Crows",
+    "status": "live",
+    "campaign": "NC DROPS_SSS (26_OCT)",
+    "start": "2026-10-07T09:00:00Z",
+    "end": "2026-10-27T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Black Wings of Freedom  Your view becomes your reward, the Twitch Drops event is here, granting generous rewards just for watching streams on Twitch!  Join the epic saga of NIGHT CROWS showcased by SSS streamers and creators from around the world. Tune in and earn special rewards simply by watching.",
+    "image": "/media/campaigns/images/5f43889c-c819-428c-8419-64c639b8f4f3.jpeg",
+    "url": "https://www.nightcrows.com/en/notice/notice/758958",
+    "account_link": "https://nightcrows.com/mypage/account",
+    "twitch_campaign_id": "5f43889c-c819-428c-8419-64c639b8f4f3"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1277,6 +1277,21 @@
   {
     "game": "Rainbow Six Siege",
     "status": "live",
+    "campaign": "R6S S2 2026 19",
+    "start": "2026-10-17T05:00:00Z",
+    "end": "2026-10-26T04:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Rainbow Six Siege - Stage 2",
+    "image": "/media/campaigns/images/ef80b803-00ee-41e0-9223-18eee2499e41.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/#/en-US",
+    "twitch_campaign_id": "ef80b803-00ee-41e0-9223-18eee2499e41"
+  },
+  {
+    "game": "Rainbow Six Siege",
+    "status": "live",
     "campaign": "R6S Doktor's Curse 26",
     "start": "2026-10-15T14:00:00Z",
     "end": "2026-11-02T13:59:59.999Z",
@@ -1288,21 +1303,6 @@
     "url": "https://www.ubisoft.com/help/article/000065532",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "8c373f6f-862e-4737-81fe-452dc0252977"
-  },
-  {
-    "game": "Rainbow Six Siege",
-    "status": "live",
-    "campaign": "R6S S2 2026 18",
-    "start": "2026-10-14T05:00:00Z",
-    "end": "2026-10-17T04:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Rainbow Six Siege - Stage 2",
-    "image": "/media/campaigns/images/85e20877-3986-4863-ac8e-c61cb7969879.png",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-    "account_link": "https://drops-register.ubi.com/#/en-US",
-    "twitch_campaign_id": "85e20877-3986-4863-ac8e-c61cb7969879"
   },
   {
     "game": "Ravendawn",
@@ -1397,21 +1397,6 @@
   {
     "game": "Shakes and Fidget",
     "status": "live",
-    "campaign": "S&F Drops 3/3",
-    "start": "2026-10-16T14:00:00Z",
-    "end": "2026-10-18T21:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/573cfad7-e123-48bb-9ce9-468a4b011798.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "573cfad7-e123-48bb-9ce9-468a4b011798"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
     "campaign": "S&F Droplets",
     "start": "2026-10-16T14:00:00Z",
     "end": "2026-10-22T21:58:59.999Z",
@@ -1423,6 +1408,21 @@
     "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
     "account_link": "https://sfgame.net/",
     "twitch_campaign_id": "17e7ffc7-a44a-4658-a5c6-cdabb2aee2a9"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "S&F Drops 3/3",
+    "start": "2026-10-16T14:00:00Z",
+    "end": "2026-10-18T21:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/573cfad7-e123-48bb-9ce9-468a4b011798.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "573cfad7-e123-48bb-9ce9-468a4b011798"
   },
   {
     "game": "Shakes and Fidget",
@@ -1558,21 +1558,6 @@
     "url": "https://animalroyale.com/",
     "account_link": "https://drops.animalroyale.com/",
     "twitch_campaign_id": "d6d56572-09ce-4204-bd92-a86436ed2f25"
-  },
-  {
-    "game": "The Streamer Awards",
-    "status": "live",
-    "campaign": "Streamer Awards 2026 Vote",
-    "start": "2026-10-16T17:00:00Z",
-    "end": "2026-10-17T04:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned by watching and voting on the 2026 Streamer Awards!",
-    "image": "/media/campaigns/images/f387b7a0-2dde-4fb2-869f-b63663e7a4ba.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "f387b7a0-2dde-4fb2-869f-b63663e7a4ba"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
@@ -1978,6 +1963,21 @@
     "url": "https://worldofwarcraft.blizzard.com/news/24302098",
     "account_link": "https://account.battle.net/connections",
     "twitch_campaign_id": "8ee4cc17-5fd4-4d29-8147-14ec12477c45"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "15.9 KOTS XIX Regionals",
+    "start": "2026-10-17T06:00:00Z",
+    "end": "2026-10-25T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+    "image": "/media/campaigns/images/bfccc89e-d12f-472c-92da-81c6054c33c9.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "bfccc89e-d12f-472c-92da-81c6054c33c9"
   },
   {
     "game": "World of Warships",
