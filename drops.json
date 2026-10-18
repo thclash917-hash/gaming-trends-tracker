@@ -47,32 +47,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 7 - #6/7",
-    "start": "2026-10-17T10:00:00Z",
-    "end": "2026-10-18T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/6aed3d67-a1be-4f62-9d12-78170474c8c2.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "6aed3d67-a1be-4f62-9d12-78170474c8c2"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "AOCP Flamescale 5 - #6/7",
-    "start": "2026-10-17T10:00:00Z",
-    "end": "2026-10-18T09:29:59.999Z",
+    "campaign": "AOCP Flamescale 5 - #7/7",
+    "start": "2026-10-18T10:00:00Z",
+    "end": "2026-10-19T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/8056d183-285d-446d-88ae-b9d5cd57ed75.png",
+    "image": "/media/campaigns/images/bd543343-7588-4aeb-9ac1-e168e061ffed.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "8056d183-285d-446d-88ae-b9d5cd57ed75"
+    "twitch_campaign_id": "bd543343-7588-4aeb-9ac1-e168e061ffed"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "Dragonfire 7 - #7/7",
+    "start": "2026-10-18T10:00:00Z",
+    "end": "2026-10-19T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+    "image": "/media/campaigns/images/cb7ee060-40db-4fb2-8f4b-c06097831be7.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "cb7ee060-40db-4fb2-8f4b-c06097831be7"
   },
   {
     "game": "Alien: Isolation",
@@ -208,6 +208,21 @@
     "url": "https://playcaliber.com/",
     "account_link": "https://playcaliber.com/",
     "twitch_campaign_id": "652da331-614c-4886-b0ab-091996b1d789"
+  },
+  {
+    "game": "Captain's Call",
+    "status": "live",
+    "campaign": "Alpha 4",
+    "start": "2026-10-17T02:00:00Z",
+    "end": "2026-11-13T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Gold, Potions, and Catnip",
+    "image": "/media/campaigns/images/9f42c463-846b-4e57-8dac-6e735a687c13.png",
+    "url": "https://cc42.net/",
+    "account_link": "https://cc42.net/",
+    "twitch_campaign_id": "9f42c463-846b-4e57-8dac-6e735a687c13"
   },
   {
     "game": "Cash is King!",
@@ -362,21 +377,6 @@
   {
     "game": "Dungeons & Dragons",
     "status": "live",
-    "campaign": "D&D Ampersand Badge",
-    "start": "2026-09-24T01:15:00Z",
-    "end": "2026-10-21T06:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Purchase or gift one subscription during a Dungeons & Dragons stream to earn the Ampersand chat badge!",
-    "image": "/media/campaigns/images/69e7d15e-b1e0-40d8-9c4b-a71446896005.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "69e7d15e-b1e0-40d8-9c4b-a71446896005"
-  },
-  {
-    "game": "Dungeons & Dragons",
-    "status": "live",
     "campaign": "/dnd d20 Badge",
     "start": "2026-09-24T01:15:00Z",
     "end": "2026-10-21T06:58:59.999Z",
@@ -388,6 +388,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0"
+  },
+  {
+    "game": "Dungeons & Dragons",
+    "status": "live",
+    "campaign": "D&D Ampersand Badge",
+    "start": "2026-09-24T01:15:00Z",
+    "end": "2026-10-21T06:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Purchase or gift one subscription during a Dungeons & Dragons stream to earn the Ampersand chat badge!",
+    "image": "/media/campaigns/images/69e7d15e-b1e0-40d8-9c4b-a71446896005.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "69e7d15e-b1e0-40d8-9c4b-a71446896005"
   },
   {
     "game": "EA Sports College Football 27",
@@ -463,6 +478,21 @@
     "url": "https://epic7.onstove.com/drops/twitch",
     "account_link": "https://epic7.onstove.com/drops/twitch",
     "twitch_campaign_id": "d2a007bf-4f27-4164-8080-39a4d64a9eb5"
+  },
+  {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "KEL CIRCUIT 4 - DAY 4",
+    "start": "2026-10-18T04:00:00Z",
+    "end": "2026-10-18T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/255dcb32-4db2-493d-8850-8bfaebc2caef.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "255dcb32-4db2-493d-8850-8bfaebc2caef"
   },
   {
     "game": "EVE Online",
@@ -553,21 +583,6 @@
     "url": "https://www.guildwars2.com/en/twitch-drops/",
     "account_link": "https://account.arena.net/oauth2/init-account-linking?client_id=twitch_drops ",
     "twitch_campaign_id": "2c2e9c35-0ff4-4f19-82ef-7901079d0e0b"
-  },
-  {
-    "game": "Halo Infinite",
-    "status": "live",
-    "campaign": "GR Cup - OCT17",
-    "start": "2026-10-17T16:00:00Z",
-    "end": "2026-10-18T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
-    "image": "/media/campaigns/images/80fd58de-bbaa-4225-934a-79537d429124.png",
-    "url": "https://www.halowaypoint.com",
-    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
-    "twitch_campaign_id": "80fd58de-bbaa-4225-934a-79537d429124"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -810,36 +825,6 @@
     "twitch_campaign_id": "61e25680-eb3c-4d20-9306-7c69226786ab"
   },
   {
-    "game": "March of Giants",
-    "status": "live",
-    "campaign": "MoG - Pioneer Giant Token",
-    "start": "2026-10-07T14:30:00Z",
-    "end": "2026-10-18T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "March of Giants - Pioneer Playtest. Gain a Giant Token after 1 sub to a participating channel.",
-    "image": "/media/campaigns/images/1428e31c-9782-4dfd-9b09-4f302e864c5f.png",
-    "url": "https://www.ubisoft.com/help/article/000065532",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "1428e31c-9782-4dfd-9b09-4f302e864c5f"
-  },
-  {
-    "game": "March of Giants",
-    "status": "live",
-    "campaign": "MoG - Pioneer Booster",
-    "start": "2026-10-07T14:30:00Z",
-    "end": "2026-10-18T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "March of Giants - Pioneer Playtest. Gain a Pioneer Boost that offers a permanent 20%-point boost for the Pioneer challenge.",
-    "image": "/media/campaigns/images/b78f8b92-7461-4fd5-8b30-6f982a508acb.png",
-    "url": "https://www.ubisoft.com/help/article/000065532",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "b78f8b92-7461-4fd5-8b30-6f982a508acb"
-  },
-  {
     "game": "MARVEL Contest of Champions",
     "status": "live",
     "campaign": "October Week 3",
@@ -853,21 +838,6 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "9ae59038-a976-42f1-9b84-9ba430012159"
-  },
-  {
-    "game": "Marvel Rivals",
-    "status": "live",
-    "campaign": "Ignite Stage2 W4",
-    "start": "2026-10-15T11:00:00Z",
-    "end": "2026-10-18T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch exciting Ignite tournaments and earn exclusive drop rewards",
-    "image": "/media/campaigns/images/79416b15-8baa-4bec-981d-f366248a3c45.png",
-    "url": "https://www.marvelrivals.com/twitchdrops/",
-    "account_link": "https://www.marvelrivals.com/twitchdrops/",
-    "twitch_campaign_id": "79416b15-8baa-4bec-981d-f366248a3c45"
   },
   {
     "game": "Marvel Rivals",
@@ -1003,6 +973,21 @@
     "url": "https://mhaur.bn-ent.net/twitch/en.php",
     "account_link": "https://account.bandainamcoid.com/sns.html?client_id=cosmos_025421_bnid&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
     "twitch_campaign_id": "0317f83e-9c61-4bc3-b484-41275e681eae"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "NBPL 10.18",
+    "start": "2026-10-18T08:00:00Z",
+    "end": "2026-10-18T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/24bbb684-42cf-44df-a53a-0907582fe024.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "24bbb684-42cf-44df-a53a-0907582fe024"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1307,21 +1292,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 191",
-    "start": "2026-10-17T17:59:00Z",
-    "end": "2026-10-18T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/1664a3e3-7d14-4490-8ce6-2a645dccdaec.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "1664a3e3-7d14-4490-8ce6-2a645dccdaec"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "ROW Drop 620",
     "start": "2026-10-17T17:59:00Z",
     "end": "2026-10-18T17:56:59.999Z",
@@ -1333,6 +1303,21 @@
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "eccb3c97-3301-4928-bf23-6d7381e6feed"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 191",
+    "start": "2026-10-17T17:59:00Z",
+    "end": "2026-10-18T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/1664a3e3-7d14-4490-8ce6-2a645dccdaec.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "1664a3e3-7d14-4490-8ce6-2a645dccdaec"
   },
   {
     "game": "Shakes and Fidget",
@@ -1603,6 +1588,21 @@
     "url": "https://portal.uflgame.com/twitch/drops",
     "account_link": "https://portal.uflgame.com/twitch",
     "twitch_campaign_id": "7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d"
+  },
+  {
+    "game": "VALORANT",
+    "status": "live",
+    "campaign": "VCT26 Champs Shanghai",
+    "start": "2026-10-18T06:00:00Z",
+    "end": "2026-10-18T10:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "VALORANT Champs has arrived in Shanghai! For the Champs 2026, the best 16 teams from around the world face off to determine who is the Champions winner for 2026.",
+    "image": "/media/campaigns/images/4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e.png",
+    "url": "https://valorantesports.com/en-US/valorantesports/news/champions-shanghai-everything-you-need-to-know",
+    "account_link": "https://twitch.tv/settings/connections#riot-connection",
+    "twitch_campaign_id": "4bcd498a-4fd3-4b03-a3d0-36682ee7cb2e"
   },
   {
     "game": "Vaultbreakers",
