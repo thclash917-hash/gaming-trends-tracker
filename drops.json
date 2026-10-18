@@ -332,6 +332,21 @@
   {
     "game": "Delta Force",
     "status": "live",
+    "campaign": "DF RISE S2GrandFinals Sub",
+    "start": "2026-10-18T17:00:00Z",
+    "end": "2026-10-30T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Join the streamer subscription program and earn high-value rewards.",
+    "image": "/media/campaigns/images/3061af39-49c5-4137-90a8-75837d5917ec.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "3061af39-49c5-4137-90a8-75837d5917ec"
+  },
+  {
+    "game": "Delta Force",
+    "status": "live",
     "campaign": "DF RISE S2 Grand Finals",
     "start": "2026-10-18T00:00:00Z",
     "end": "2026-10-19T23:59:59.999Z",
@@ -418,21 +433,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "69e7d15e-b1e0-40d8-9c4b-a71446896005"
-  },
-  {
-    "game": "EA Sports College Football 27",
-    "status": "live",
-    "campaign": "Nightmares Open Directory",
-    "start": "2026-10-16T17:00:00Z",
-    "end": "2026-10-18T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch your favorite creators during the Nightmares Open Directory and earn some Twitch Drops to power up your Ultimate Team!",
-    "image": "/media/campaigns/images/448782d7-852a-404b-b1c2-3c0672531b44.png",
-    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-    "twitch_campaign_id": "448782d7-852a-404b-b1c2-3c0672531b44"
   },
   {
     "game": "ELDEN RING",
@@ -525,21 +525,6 @@
     "twitch_campaign_id": "758d7626-d8c1-44a6-a76e-6e464347f45e"
   },
   {
-    "game": "For Honor",
-    "status": "live",
-    "campaign": "FH Crusade Oct 2026",
-    "start": "2026-10-12T16:00:00Z",
-    "end": "2026-10-18T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch 1 Hour - 2 XP Boosts & 1 Scav Crate. Watch 2 Hours - 4 XP Boosts & 2 Scav Crates + 3 Day Champion Status. Watch 4 Hours - 4 XP Boosts & 4 Scav Crates + 7 Day Champion Status",
-    "image": "/media/campaigns/images/982b611a-ae2a-4cc6-bf15-77daa8b5b343.jpeg",
-    "url": "https://ubi.li/HdfHP",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "982b611a-ae2a-4cc6-bf15-77daa8b5b343"
-  },
-  {
     "game": "Fortnite",
     "status": "live",
     "campaign": "Horror in Fortnite",
@@ -568,6 +553,21 @@
     "url": "https://www.guildwars2.com/en/twitch-drops/",
     "account_link": "https://account.arena.net/oauth2/init-account-linking?client_id=twitch_drops ",
     "twitch_campaign_id": "2c2e9c35-0ff4-4f19-82ef-7901079d0e0b"
+  },
+  {
+    "game": "Halo Infinite",
+    "status": "live",
+    "campaign": "GR Cup - OCT18",
+    "start": "2026-10-18T16:00:00Z",
+    "end": "2026-10-19T17:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
+    "image": "/media/campaigns/images/0501f202-cfad-4654-8779-f74b5742c5ae.png",
+    "url": "https://www.halowaypoint.com",
+    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
+    "twitch_campaign_id": "0501f202-cfad-4654-8779-f74b5742c5ae"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -780,21 +780,6 @@
     "twitch_campaign_id": "de187dc2-1549-44a6-8fe1-118efd83a38a"
   },
   {
-    "game": "Madden NFL 27",
-    "status": "live",
-    "campaign": "M27 MF Open Directory",
-    "start": "2026-10-15T17:00:00Z",
-    "end": "2026-10-18T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch your favorite creators during the Most Feared Open Directory and earn some Twitch Drops to power up your Ultimate Team!",
-    "image": "/media/campaigns/images/f370071f-a037-40a2-b6e0-8fb78769b6a7.png",
-    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-    "twitch_campaign_id": "f370071f-a037-40a2-b6e0-8fb78769b6a7"
-  },
-  {
     "game": "Marbles on Stream",
     "status": "live",
     "campaign": "Marble Day 270",
@@ -872,21 +857,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Обновление 26.10: Часть 3",
-    "start": "2026-10-16T15:00:00Z",
-    "end": "2026-10-23T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
-    "image": "/media/campaigns/images/b5e97d7e-182c-4579-9794-aec9a64e5acf.jpeg",
-    "url": "https://krbli.ru/4dDrG8N",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "b5e97d7e-182c-4579-9794-aec9a64e5acf"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Lestakorabli - 26.10 #3",
     "start": "2026-10-16T15:00:00Z",
     "end": "2026-10-23T14:59:59.999Z",
@@ -898,6 +868,21 @@
     "url": "https://krbli.ru/3RW8D27",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "bdc0f0dd-6a93-44cd-8698-72b767b98c3b"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Обновление 26.10: Часть 3",
+    "start": "2026-10-16T15:00:00Z",
+    "end": "2026-10-23T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
+    "image": "/media/campaigns/images/b5e97d7e-182c-4579-9794-aec9a64e5acf.jpeg",
+    "url": "https://krbli.ru/4dDrG8N",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "b5e97d7e-182c-4579-9794-aec9a64e5acf"
   },
   {
     "game": "Mobile Dungeon",
@@ -973,51 +958,6 @@
     "url": "https://mhaur.bn-ent.net/twitch/en.php",
     "account_link": "https://account.bandainamcoid.com/sns.html?client_id=cosmos_025421_bnid&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
     "twitch_campaign_id": "0317f83e-9c61-4bc3-b484-41275e681eae"
-  },
-  {
-    "game": "NARAKA: BLADEPOINT",
-    "status": "live",
-    "campaign": "NBPL 10.18",
-    "start": "2026-10-18T08:00:00Z",
-    "end": "2026-10-18T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/24bbb684-42cf-44df-a53a-0907582fe024.png",
-    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
-    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "24bbb684-42cf-44df-a53a-0907582fe024"
-  },
-  {
-    "game": "NARAKA: BLADEPOINT",
-    "status": "live",
-    "campaign": "NBPL 10.17-18",
-    "start": "2026-10-17T08:00:00Z",
-    "end": "2026-10-18T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/4e02d4ee-0585-4b6a-a88c-b54aea1106c5.png",
-    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
-    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "4e02d4ee-0585-4b6a-a88c-b54aea1106c5"
-  },
-  {
-    "game": "NARAKA: BLADEPOINT",
-    "status": "live",
-    "campaign": "NBPL 10.15-18",
-    "start": "2026-10-15T08:00:00Z",
-    "end": "2026-10-18T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/3cf7094f-5d9b-4a14-8660-a4aab5bae3e5.png",
-    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
-    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "3cf7094f-5d9b-4a14-8660-a4aab5bae3e5"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1277,32 +1217,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 620",
-    "start": "2026-10-17T17:59:00Z",
-    "end": "2026-10-18T17:56:59.999Z",
+    "campaign": "ROW Drop 621",
+    "start": "2026-10-18T17:59:00Z",
+    "end": "2026-10-19T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/eccb3c97-3301-4928-bf23-6d7381e6feed.png",
+    "image": "/media/campaigns/images/0fae220f-2a32-4282-8cb9-1e4e254f2775.jpeg",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "eccb3c97-3301-4928-bf23-6d7381e6feed"
+    "twitch_campaign_id": "0fae220f-2a32-4282-8cb9-1e4e254f2775"
   },
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 191",
-    "start": "2026-10-17T17:59:00Z",
-    "end": "2026-10-18T17:56:59.999Z",
+    "campaign": "Mobile Drop 192",
+    "start": "2026-10-18T17:59:00Z",
+    "end": "2026-10-19T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/1664a3e3-7d14-4490-8ce6-2a645dccdaec.png",
+    "image": "/media/campaigns/images/2844b1bb-77cb-4c4b-926d-a0c61029b277.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "1664a3e3-7d14-4490-8ce6-2a645dccdaec"
+    "twitch_campaign_id": "2844b1bb-77cb-4c4b-926d-a0c61029b277"
   },
   {
     "game": "Shakes and Fidget",
@@ -1408,21 +1348,6 @@
     "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
     "account_link": "https://splinterlands.com/user/account-socials",
     "twitch_campaign_id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4"
-  },
-  {
-    "game": "Standoff 2",
-    "status": "live",
-    "campaign": "SO2 JumbleRumble: S8",
-    "start": "2026-10-18T10:45:00Z",
-    "end": "2026-10-18T17:54:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени.    \nКак получить награды:             \n– Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.        – Накопите необходимое время просмотра на официальном канале Standoff 2.         \n– Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
-    "image": "/media/campaigns/images/f03c5764-7dbf-41a6-ac4e-eea23ca2776a.png",
-    "url": "https://install.standoff2.com/ru/twitch-drops",
-    "account_link": "https://link.standoff2.com/twitch/link/",
-    "twitch_campaign_id": "f03c5764-7dbf-41a6-ac4e-eea23ca2776a"
   },
   {
     "game": "Star Citizen",
@@ -1680,21 +1605,6 @@
     "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
   },
   {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "PMCFQ - MjikThize",
-    "start": "2026-10-18T15:00:00Z",
-    "end": "2026-10-18T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch MjikThize's fundraising stream for 30 minutes to receive a random Floof.",
-    "image": "/media/campaigns/images/4fc97f45-72de-4567-aee8-528e64ca230b.jpeg",
-    "url": "https://forums.warframe.com/topic/1527899-pmcfq-community-fundraising-stream-schedule-october-12-18-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "4fc97f45-72de-4567-aee8-528e64ca230b"
-  },
-  {
     "game": "Warhammer 40,000: Space Marine II",
     "status": "live",
     "campaign": "The Anniversary Update II",
@@ -1772,17 +1682,17 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "Operative QuickyBaby",
+    "campaign": "Operative MouzAkrobat",
     "start": "2026-10-15T15:00:00Z",
     "end": "2026-10-31T21:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Operative QuickyBaby",
-    "image": "/media/campaigns/images/2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20.png",
+    "description": "Operative MouzAkrobat",
+    "image": "/media/campaigns/images/61e12424-a3c8-4ad7-9141-6058b23ea044.png",
     "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20"
+    "twitch_campaign_id": "61e12424-a3c8-4ad7-9141-6058b23ea044"
   },
   {
     "game": "World of Tanks",
@@ -1802,6 +1712,21 @@
   {
     "game": "World of Tanks",
     "status": "live",
+    "campaign": "Operative QuickyBaby",
+    "start": "2026-10-15T15:00:00Z",
+    "end": "2026-10-31T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Operative QuickyBaby",
+    "image": "/media/campaigns/images/2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20.png",
+    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
+    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
+    "twitch_campaign_id": "2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
     "campaign": "Operative Mailand",
     "start": "2026-10-15T15:00:00Z",
     "end": "2026-10-31T21:59:59.999Z",
@@ -1813,21 +1738,6 @@
     "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "86254499-8b0b-4f45-b9d3-de79cb756773"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Operative MouzAkrobat",
-    "start": "2026-10-15T15:00:00Z",
-    "end": "2026-10-31T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Operative MouzAkrobat",
-    "image": "/media/campaigns/images/61e12424-a3c8-4ad7-9141-6058b23ea044.png",
-    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "61e12424-a3c8-4ad7-9141-6058b23ea044"
   },
   {
     "game": "World of Tanks Console",
@@ -1869,10 +1779,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch 4 hours of World of Warcraft content while these Twitch Drops are active on any channel to earn the Cuddly Gold-Colored Grrgle.",
-    "image": "/media/campaigns/images/1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9.png",
+    "image": "/media/campaigns/images/8ee4cc17-5fd4-4d29-8147-14ec12477c45.png",
     "url": "https://worldofwarcraft.blizzard.com/news/24302098",
     "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9"
+    "twitch_campaign_id": "8ee4cc17-5fd4-4d29-8147-14ec12477c45"
   },
   {
     "game": "World of Warcraft",
@@ -1884,10 +1794,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch 4 hours of World of Warcraft content while these Twitch Drops are active on any channel to earn the Cuddly Gold-Colored Grrgle.",
-    "image": "/media/campaigns/images/8ee4cc17-5fd4-4d29-8147-14ec12477c45.png",
+    "image": "/media/campaigns/images/1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9.png",
     "url": "https://worldofwarcraft.blizzard.com/news/24302098",
     "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "8ee4cc17-5fd4-4d29-8147-14ec12477c45"
+    "twitch_campaign_id": "1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9"
   },
   {
     "game": "World of Warships",
