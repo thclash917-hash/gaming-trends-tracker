@@ -1,5 +1,20 @@
 [
   {
+    "game": "Abnormality",
+    "status": "live",
+    "campaign": "Abnormality Halloween",
+    "start": "2026-10-19T18:00:00Z",
+    "end": "2026-10-23T17:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Abnormality streams to unlock the Halloween 2026 equipment collection: 28 spooky skins for all your gear. Link your Steam account at nightmarestudios.net/abnormality/drops to receive them in-game.",
+    "image": "/media/campaigns/images/927f5d5c-dae1-43ae-aade-48e2da7763e6.png",
+    "url": "https://nightmarestudios.net/abnormality/drops",
+    "account_link": "https://nightmarestudios.net/abnormality/drops",
+    "twitch_campaign_id": "927f5d5c-dae1-43ae-aade-48e2da7763e6"
+  },
+  {
     "game": "ACE COMBAT 8: WINGS OF THEVE",
     "status": "live",
     "campaign": "ACE COMBAT 8 Nugget",
@@ -255,6 +270,21 @@
     "twitch_campaign_id": "8f711635-030d-449b-b5ad-a9b4454fc1a4"
   },
   {
+    "game": "Cyberpunk 2077",
+    "status": "live",
+    "campaign": "Edgerunners Series 2",
+    "start": "2026-10-19T22:01:00Z",
+    "end": "2026-10-20T22:00:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Come join the release of Cyberpunk: Edgerunners 2: Twitch Co-Streaming!!!",
+    "image": "/media/campaigns/images/f73bcbfb-770f-4993-a1de-e3ffcae0e46f.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "f73bcbfb-770f-4993-a1de-e3ffcae0e46f"
+  },
+  {
     "game": "Dark and Darker",
     "status": "live",
     "campaign": "EA Season 11 Drops 2",
@@ -465,21 +495,6 @@
     "twitch_campaign_id": "f24a565e-9fa3-45c0-aafe-2c444f37b795"
   },
   {
-    "game": "Halo Infinite",
-    "status": "live",
-    "campaign": "GR Cup - OCT18",
-    "start": "2026-10-18T16:00:00Z",
-    "end": "2026-10-19T17:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
-    "image": "/media/campaigns/images/0501f202-cfad-4654-8779-f74b5742c5ae.png",
-    "url": "https://www.halowaypoint.com",
-    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
-    "twitch_campaign_id": "0501f202-cfad-4654-8779-f74b5742c5ae"
-  },
-  {
     "game": "HITMAN World of Assassination",
     "status": "live",
     "campaign": "The Herbalist #4",
@@ -677,17 +692,17 @@
   {
     "game": "Marbles on Stream",
     "status": "live",
-    "campaign": "Marble Day 270",
-    "start": "2026-10-16T16:00:00Z",
-    "end": "2026-10-19T12:59:59.999Z",
+    "campaign": "MarbleFest - Oct'26-Day 1",
+    "start": "2026-10-19T13:00:00Z",
+    "end": "2026-10-20T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Marbles on Stream is the most welcoming stream interactive experience where a streamer can run the game and welcome anyone in their chat to participate with \"!play\". That's it!\n\nJoin in for exclusive prizes and keep an eye on our for how we evolve this event in the future. If you need assistance please join our discord. Discord.gg/pixelbypixelstudios ",
-    "image": "/media/campaigns/images/61e25680-eb3c-4d20-9306-7c69226786ab.png",
+    "image": "/media/campaigns/images/cce10d77-542b-45c7-a17d-5715936bcbf3.png",
     "url": "https://pixelbypixel.studio/twitch-drops/",
     "account_link": "https://pixelbypixel.studio/twitch-drops/connect",
-    "twitch_campaign_id": "61e25680-eb3c-4d20-9306-7c69226786ab"
+    "twitch_campaign_id": "cce10d77-542b-45c7-a17d-5715936bcbf3"
   },
   {
     "game": "MARVEL Contest of Champions",
@@ -735,19 +750,34 @@
     "twitch_campaign_id": "2af30b0f-945d-434b-9deb-8161fdae8229"
   },
   {
+    "game": "MARVEL SNAP",
+    "status": "live",
+    "campaign": "Haunted Drops",
+    "start": "2026-10-19T19:05:00Z",
+    "end": "2026-10-27T18:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch your favorite creators play Draft and claim great rewards",
+    "image": "/media/campaigns/images/01c50678-d65a-4286-b229-35ad458af3d8.png",
+    "url": "https://www.marvelsnap.com/twitchdrops",
+    "account_link": "https://www.marvelsnap.com/twitchdrops",
+    "twitch_campaign_id": "01c50678-d65a-4286-b229-35ad458af3d8"
+  },
+  {
     "game": "MARVEL Strike Force",
     "status": "live",
-    "campaign": "MSF | Oct Week 3",
-    "start": "2026-10-12T21:00:00Z",
-    "end": "2026-10-19T20:59:59.999Z",
+    "campaign": "MSF | Oct Week 4",
+    "start": "2026-10-19T21:00:00Z",
+    "end": "2026-10-26T20:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
-    "image": "/media/campaigns/images/30317d7a-d1b0-4f41-a9d9-6ada1a832645.png",
+    "image": "/media/campaigns/images/1a53baae-6638-43b5-817a-f3f95768c994.png",
     "url": "https://marvelstrikeforce.com/twitch",
     "account_link": "https://marvelstrikeforce.com/twitch",
-    "twitch_campaign_id": "30317d7a-d1b0-4f41-a9d9-6ada1a832645"
+    "twitch_campaign_id": "1a53baae-6638-43b5-817a-f3f95768c994"
   },
   {
     "game": "Mir Korabley",
@@ -902,47 +932,47 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate10/18/26",
-    "start": "2026-10-18T13:00:00Z",
-    "end": "2026-10-19T12:59:59.999Z",
+    "campaign": "Affiliate10/19/26",
+    "start": "2026-10-19T13:00:00Z",
+    "end": "2026-10-20T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/0e744c3f-6c2f-49b3-acc5-369d190087a2.png",
+    "image": "/media/campaigns/images/f95bbd93-1611-42e7-9acc-240c106fe683.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "0e744c3f-6c2f-49b3-acc5-369d190087a2"
+    "twitch_campaign_id": "f95bbd93-1611-42e7-9acc-240c106fe683"
   },
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Official 23",
-    "start": "2026-10-12T13:00:00Z",
-    "end": "2026-10-19T12:59:59.999Z",
+    "campaign": "Laptophound 24",
+    "start": "2026-10-19T13:00:00Z",
+    "end": "2026-10-26T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/9960cf06-5bf0-4725-8cb2-036053a6a57f.png",
+    "image": "/media/campaigns/images/ef8b34bb-1abb-425e-803d-eb807e4376b6.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "9960cf06-5bf0-4725-8cb2-036053a6a57f"
+    "twitch_campaign_id": "ef8b34bb-1abb-425e-803d-eb807e4376b6"
   },
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Laptophound 23",
-    "start": "2026-10-12T13:00:00Z",
-    "end": "2026-10-19T12:59:59.999Z",
+    "campaign": "Official 24",
+    "start": "2026-10-19T13:00:00Z",
+    "end": "2026-10-26T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/2567d62b-f308-4da9-8d7d-f5da0b69b10a.png",
+    "image": "/media/campaigns/images/099517a7-db19-41f9-b1c2-aef39b7baaa8.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "2567d62b-f308-4da9-8d7d-f5da0b69b10a"
+    "twitch_campaign_id": "099517a7-db19-41f9-b1c2-aef39b7baaa8"
   },
   {
     "game": "Overwatch",
@@ -1065,21 +1095,6 @@
     "twitch_campaign_id": "b86a78c5-e784-405a-bab9-7118ead60321"
   },
   {
-    "game": "Relic Arena",
-    "status": "live",
-    "campaign": "Solo Queue Challenge",
-    "start": "2026-09-22T16:00:00Z",
-    "end": "2026-10-19T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Get ingame coins, an emote, a finisher effect and an exclusive Fencer Assassin skin by watching your favorite streamers compete in the Relic Arena creator challenge.",
-    "image": "/media/campaigns/images/e90f396b-6c1c-4875-b41b-d56041c68a48.png",
-    "url": "https://backend.relicarena.com/twitch/drops",
-    "account_link": "https://backend.relicarena.com/twitch/drops",
-    "twitch_campaign_id": "e90f396b-6c1c-4875-b41b-d56041c68a48"
-  },
-  {
     "game": "REMATCH",
     "status": "live",
     "campaign": "Rematch x Blue Lock",
@@ -1097,32 +1112,62 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 192",
-    "start": "2026-10-18T17:59:00Z",
-    "end": "2026-10-19T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/2844b1bb-77cb-4c4b-926d-a0c61029b277.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "2844b1bb-77cb-4c4b-926d-a0c61029b277"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "ROW Drop 621",
-    "start": "2026-10-18T17:59:00Z",
-    "end": "2026-10-19T17:56:59.999Z",
+    "campaign": "ROW Drop 622",
+    "start": "2026-10-19T17:59:00Z",
+    "end": "2026-10-20T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/0fae220f-2a32-4282-8cb9-1e4e254f2775.jpeg",
+    "image": "/media/campaigns/images/a40bef3f-b568-42c3-94ca-ba8a9c2d460d.png",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "0fae220f-2a32-4282-8cb9-1e4e254f2775"
+    "twitch_campaign_id": "a40bef3f-b568-42c3-94ca-ba8a9c2d460d"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 193",
+    "start": "2026-10-19T17:59:00Z",
+    "end": "2026-10-20T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/eac2b4d7-31bb-4fae-b6f4-306399a3505e.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "eac2b4d7-31bb-4fae-b6f4-306399a3505e"
+  },
+  {
+    "game": "Scape",
+    "status": "live",
+    "campaign": "Scape Day 1: Lurker",
+    "start": "2026-10-19T17:00:00Z",
+    "end": "2026-10-20T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Lurker companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
+    "image": "/media/campaigns/images/947db2a5-a39e-4327-9b31-8a0bf44b9a48.png",
+    "url": "https://scapethegame.com/faq/twitch-drops",
+    "account_link": "https://portal.scapethegame.com/connect/twitch",
+    "twitch_campaign_id": "947db2a5-a39e-4327-9b31-8a0bf44b9a48"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "S&F Drops 1/3",
+    "start": "2026-10-19T14:00:00Z",
+    "end": "2026-10-25T21:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/2d557f0a-b33f-4924-bda6-5ac5ef6c36e3.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "2d557f0a-b33f-4924-bda6-5ac5ef6c36e3"
   },
   {
     "game": "Shakes and Fidget",
@@ -1389,10 +1434,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch now to unlock exclusive rewards, including a Twitch Exclusive Emote! Each IGG ID can redeem the drops only once.",
-    "image": "/media/campaigns/images/486811da-8b4c-4212-951d-1a8caa34b5bc.jpeg",
+    "image": "/media/campaigns/images/321f2214-c73d-4989-91fb-4b0364985a25.jpeg",
     "url": "https://event.igg.com/twitch/drops?code=vr_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
-    "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
+    "twitch_campaign_id": "321f2214-c73d-4989-91fb-4b0364985a25"
   },
   {
     "game": "Viking Rise",
@@ -1404,10 +1449,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch now to unlock exclusive rewards, including a Twitch Exclusive Emote! Each IGG ID can redeem the drops only once.",
-    "image": "/media/campaigns/images/321f2214-c73d-4989-91fb-4b0364985a25.jpeg",
+    "image": "/media/campaigns/images/486811da-8b4c-4212-951d-1a8caa34b5bc.jpeg",
     "url": "https://event.igg.com/twitch/drops?code=vr_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
-    "twitch_campaign_id": "321f2214-c73d-4989-91fb-4b0364985a25"
+    "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
   },
   {
     "game": "War Robots: Frontiers",
@@ -1423,6 +1468,21 @@
     "url": "https://warrobotsfrontiers.com/en/news/353-twitch-drops-loot-up-from-october-13-to-october-20",
     "account_link": "https://warrobotsfrontiers.com/en/twitchdrops",
     "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
+  },
+  {
+    "game": "Warframe",
+    "status": "live",
+    "campaign": "PMCFQ - theragingterror",
+    "start": "2026-10-19T22:00:00Z",
+    "end": "2026-10-19T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch theragingterror's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
+    "image": "/media/campaigns/images/7deb1001-f6b8-488f-a1f5-f028574b6082.jpeg",
+    "url": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
+    "account_link": "https://www.warframe.com/user",
+    "twitch_campaign_id": "7deb1001-f6b8-488f-a1f5-f028574b6082"
   },
   {
     "game": "Warhammer 40,000: Space Marine II",
@@ -1487,17 +1547,17 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "WoT A Thrill Store #3",
-    "start": "2026-10-16T15:00:00Z",
-    "end": "2026-10-19T14:59:59.999Z",
+    "campaign": "WoT A Thrill Store #4",
+    "start": "2026-10-19T15:00:00Z",
+    "end": "2026-10-21T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "WoT A Thrill Store #3",
-    "image": "/media/campaigns/images/355e9ba2-ef2a-4d49-9698-5fae95ab0c74.jpeg",
+    "description": "WoT A Thrill Store #4",
+    "image": "/media/campaigns/images/4f0011a5-91e5-43c1-aef7-af44f9d3e3fb.jpeg",
     "url": "https://worldoftanks.eu/news/live-streams/wot-a-thrill-token-store-october-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "355e9ba2-ef2a-4d49-9698-5fae95ab0c74"
+    "twitch_campaign_id": "4f0011a5-91e5-43c1-aef7-af44f9d3e3fb"
   },
   {
     "game": "World of Tanks",
@@ -1532,21 +1592,6 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "Operative QuickyBaby",
-    "start": "2026-10-15T15:00:00Z",
-    "end": "2026-10-31T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Operative QuickyBaby",
-    "image": "/media/campaigns/images/2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20.png",
-    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
     "campaign": "Operative Mailand",
     "start": "2026-10-15T15:00:00Z",
     "end": "2026-10-31T21:59:59.999Z",
@@ -1558,6 +1603,21 @@
     "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "86254499-8b0b-4f45-b9d3-de79cb756773"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Operative QuickyBaby",
+    "start": "2026-10-15T15:00:00Z",
+    "end": "2026-10-31T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Operative QuickyBaby",
+    "image": "/media/campaigns/images/2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20.png",
+    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
+    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
+    "twitch_campaign_id": "2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20"
   },
   {
     "game": "World of Tanks Console",
