@@ -330,21 +330,6 @@
     "twitch_campaign_id": "3061af39-49c5-4137-90a8-75837d5917ec"
   },
   {
-    "game": "Delta Force",
-    "status": "live",
-    "campaign": "DF RISE S2 Grand Finals",
-    "start": "2026-10-18T00:00:00Z",
-    "end": "2026-10-19T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the matches live on Twitch and earn exclusive Drops, including Gear Tickets, Packs, Calling Card, Avatar and a Weapon Skin!",
-    "image": "/media/campaigns/images/84290f61-e8fb-4502-9cef-cb61712dcce7.png",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "84290f61-e8fb-4502-9cef-cb61712dcce7"
-  },
-  {
     "game": "Doomsday: Last Survivors",
     "status": "live",
     "campaign": "Twitch Drops",
@@ -782,21 +767,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Lestakorabli - 26.10 #3",
-    "start": "2026-10-16T15:00:00Z",
-    "end": "2026-10-23T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
-    "image": "/media/campaigns/images/bdc0f0dd-6a93-44cd-8698-72b767b98c3b.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "bdc0f0dd-6a93-44cd-8698-72b767b98c3b"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Обновление 26.10: Часть 3",
     "start": "2026-10-16T15:00:00Z",
     "end": "2026-10-23T14:59:59.999Z",
@@ -808,6 +778,21 @@
     "url": "https://krbli.ru/4dDrG8N",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "b5e97d7e-182c-4579-9794-aec9a64e5acf"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Lestakorabli - 26.10 #3",
+    "start": "2026-10-16T15:00:00Z",
+    "end": "2026-10-23T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
+    "image": "/media/campaigns/images/bdc0f0dd-6a93-44cd-8698-72b767b98c3b.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "bdc0f0dd-6a93-44cd-8698-72b767b98c3b"
   },
   {
     "game": "Mobile Dungeon",
@@ -1020,21 +1005,6 @@
     "twitch_campaign_id": "fc782035-c5b0-4790-a5dd-c57f12469331"
   },
   {
-    "game": "Predecessor",
-    "status": "live",
-    "campaign": "Bloodtide Drops 🩸",
-    "start": "2026-09-22T13:00:00Z",
-    "end": "2026-10-19T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate the launch of Update 1.17 Bloodtide with new drops!",
-    "image": "/media/campaigns/images/72662ff7-75c6-44eb-94b0-7868cbc5e89b.png",
-    "url": "https://predecessorgame.com/twitch-drops",
-    "account_link": "https://predecessorgame.com/link-accounts",
-    "twitch_campaign_id": "72662ff7-75c6-44eb-94b0-7868cbc5e89b"
-  },
-  {
     "game": "Rainbow Six Siege",
     "status": "live",
     "campaign": "R6S S2 2026 19",
@@ -1112,21 +1082,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 622",
-    "start": "2026-10-19T17:59:00Z",
-    "end": "2026-10-20T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/a40bef3f-b568-42c3-94ca-ba8a9c2d460d.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "a40bef3f-b568-42c3-94ca-ba8a9c2d460d"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "Mobile Drop 193",
     "start": "2026-10-19T17:59:00Z",
     "end": "2026-10-20T17:56:59.999Z",
@@ -1138,6 +1093,21 @@
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "eac2b4d7-31bb-4fae-b6f4-306399a3505e"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 622",
+    "start": "2026-10-19T17:59:00Z",
+    "end": "2026-10-20T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/a40bef3f-b568-42c3-94ca-ba8a9c2d460d.png",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "a40bef3f-b568-42c3-94ca-ba8a9c2d460d"
   },
   {
     "game": "Scape",
@@ -1293,16 +1263,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-19T00:00:00Z",
-    "end": "2026-10-19T23:59:59.999Z",
+    "start": "2026-10-20T00:00:00Z",
+    "end": "2026-10-20T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/2afd39d8-0acc-458f-a3fb-c87240d88b83.png",
+    "image": "/media/campaigns/images/c90241b3-b1ce-4d1d-8718-04a6b540d7d1.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "2afd39d8-0acc-458f-a3fb-c87240d88b83"
+    "twitch_campaign_id": "c90241b3-b1ce-4d1d-8718-04a6b540d7d1"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
@@ -1434,10 +1404,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch now to unlock exclusive rewards, including a Twitch Exclusive Emote! Each IGG ID can redeem the drops only once.",
-    "image": "/media/campaigns/images/321f2214-c73d-4989-91fb-4b0364985a25.jpeg",
+    "image": "/media/campaigns/images/486811da-8b4c-4212-951d-1a8caa34b5bc.jpeg",
     "url": "https://event.igg.com/twitch/drops?code=vr_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
-    "twitch_campaign_id": "321f2214-c73d-4989-91fb-4b0364985a25"
+    "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
   },
   {
     "game": "Viking Rise",
@@ -1449,10 +1419,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch now to unlock exclusive rewards, including a Twitch Exclusive Emote! Each IGG ID can redeem the drops only once.",
-    "image": "/media/campaigns/images/486811da-8b4c-4212-951d-1a8caa34b5bc.jpeg",
+    "image": "/media/campaigns/images/321f2214-c73d-4989-91fb-4b0364985a25.jpeg",
     "url": "https://event.igg.com/twitch/drops?code=vr_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
-    "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
+    "twitch_campaign_id": "321f2214-c73d-4989-91fb-4b0364985a25"
   },
   {
     "game": "War Robots: Frontiers",
@@ -1468,21 +1438,6 @@
     "url": "https://warrobotsfrontiers.com/en/news/353-twitch-drops-loot-up-from-october-13-to-october-20",
     "account_link": "https://warrobotsfrontiers.com/en/twitchdrops",
     "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "PMCFQ - theragingterror",
-    "start": "2026-10-19T22:00:00Z",
-    "end": "2026-10-19T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch theragingterror's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-    "image": "/media/campaigns/images/7deb1001-f6b8-488f-a1f5-f028574b6082.jpeg",
-    "url": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "7deb1001-f6b8-488f-a1f5-f028574b6082"
   },
   {
     "game": "Warhammer 40,000: Space Marine II",
@@ -1592,21 +1547,6 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "Operative Mailand",
-    "start": "2026-10-15T15:00:00Z",
-    "end": "2026-10-31T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Operative Mailand",
-    "image": "/media/campaigns/images/86254499-8b0b-4f45-b9d3-de79cb756773.png",
-    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "86254499-8b0b-4f45-b9d3-de79cb756773"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
     "campaign": "Operative QuickyBaby",
     "start": "2026-10-15T15:00:00Z",
     "end": "2026-10-31T21:59:59.999Z",
@@ -1618,6 +1558,21 @@
     "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Operative Mailand",
+    "start": "2026-10-15T15:00:00Z",
+    "end": "2026-10-31T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Operative Mailand",
+    "image": "/media/campaigns/images/86254499-8b0b-4f45-b9d3-de79cb756773.png",
+    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
+    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
+    "twitch_campaign_id": "86254499-8b0b-4f45-b9d3-de79cb756773"
   },
   {
     "game": "World of Tanks Console",
