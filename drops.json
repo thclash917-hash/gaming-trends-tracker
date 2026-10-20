@@ -62,17 +62,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 8 - #1/7",
-    "start": "2026-10-19T10:00:00Z",
-    "end": "2026-10-20T09:29:59.999Z",
+    "campaign": "Dragonfire 8 - #2/7",
+    "start": "2026-10-20T10:00:00Z",
+    "end": "2026-10-21T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/6e04776d-9b10-42b8-9850-fadfe3ac4e50.png",
+    "image": "/media/campaigns/images/b8e1caff-25b0-4891-ba01-f39939b5bdb2.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "6e04776d-9b10-42b8-9850-fadfe3ac4e50"
+    "twitch_campaign_id": "b8e1caff-25b0-4891-ba01-f39939b5bdb2"
   },
   {
     "game": "Alien: Isolation",
@@ -630,6 +630,21 @@
     "twitch_campaign_id": "8e15c074-d564-4bfa-8d14-a644696745cc"
   },
   {
+    "game": "Lenin Street Geek Shop",
+    "status": "live",
+    "campaign": "Lenin Street Geek Shop",
+    "start": "2026-10-20T06:05:46Z",
+    "end": "2026-10-26T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch streams and earn rewards for the full game!",
+    "image": "/media/campaigns/images/fbc7d728-f353-4c97-87d7-b7974e7a2563.png",
+    "url": "https://store.steampowered.com/news/app/3225880/view/683016095346460623",
+    "account_link": "https://store.steampowered.com/news/app/3225880/view/683016095346460623",
+    "twitch_campaign_id": "fbc7d728-f353-4c97-87d7-b7974e7a2563"
+  },
+  {
     "game": "Lineage II",
     "status": "live",
     "campaign": "Lineage 2 Replica EU",
@@ -1112,17 +1127,17 @@
   {
     "game": "Scape",
     "status": "live",
-    "campaign": "Scape Day 1: Lurker",
-    "start": "2026-10-19T17:00:00Z",
-    "end": "2026-10-20T06:59:59.999Z",
+    "campaign": "Scape Day 2: Campfire",
+    "start": "2026-10-20T07:00:00Z",
+    "end": "2026-10-21T06:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Lurker companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
-    "image": "/media/campaigns/images/947db2a5-a39e-4327-9b31-8a0bf44b9a48.png",
+    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Campfire companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
+    "image": "/media/campaigns/images/e7d3d988-85f7-4f53-afb9-5652da7d416e.png",
     "url": "https://scapethegame.com/faq/twitch-drops",
     "account_link": "https://portal.scapethegame.com/connect/twitch",
-    "twitch_campaign_id": "947db2a5-a39e-4327-9b31-8a0bf44b9a48"
+    "twitch_campaign_id": "e7d3d988-85f7-4f53-afb9-5652da7d416e"
   },
   {
     "game": "Shakes and Fidget",
@@ -1228,6 +1243,21 @@
     "url": "https://robertsspaceindustries.com/comm-link/transmission/21341-Twitch-Drops-RSI-Discovery-Month",
     "account_link": "https://robertsspaceindustries.com/sign-in",
     "twitch_campaign_id": "37d0e013-d0bf-49be-bb0a-f71f34577ab6"
+  },
+  {
+    "game": "Stella Sora",
+    "status": "live",
+    "campaign": "Stella Sora 1st Anniv",
+    "start": "2026-10-20T09:00:00Z",
+    "end": "2026-11-09T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch stream to earn in-game rewards. More detailed information about Twitch Drops and rules can be found on this website.",
+    "image": "/media/campaigns/images/1b0b6519-5cfb-4894-816c-0bf6bd29cd26.png",
+    "url": "https://stellasora.stargazer-games.com/twitch-drops",
+    "account_link": "https://stellasora.stargazer-games.com/twitch-drops",
+    "twitch_campaign_id": "1b0b6519-5cfb-4894-816c-0bf6bd29cd26"
   },
   {
     "game": "Street Fighter 6",
@@ -1404,10 +1434,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch now to unlock exclusive rewards, including a Twitch Exclusive Emote! Each IGG ID can redeem the drops only once.",
-    "image": "/media/campaigns/images/486811da-8b4c-4212-951d-1a8caa34b5bc.jpeg",
+    "image": "/media/campaigns/images/321f2214-c73d-4989-91fb-4b0364985a25.jpeg",
     "url": "https://event.igg.com/twitch/drops?code=vr_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
-    "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
+    "twitch_campaign_id": "321f2214-c73d-4989-91fb-4b0364985a25"
   },
   {
     "game": "Viking Rise",
@@ -1419,10 +1449,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch now to unlock exclusive rewards, including a Twitch Exclusive Emote! Each IGG ID can redeem the drops only once.",
-    "image": "/media/campaigns/images/321f2214-c73d-4989-91fb-4b0364985a25.jpeg",
+    "image": "/media/campaigns/images/486811da-8b4c-4212-951d-1a8caa34b5bc.jpeg",
     "url": "https://event.igg.com/twitch/drops?code=vr_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
-    "twitch_campaign_id": "321f2214-c73d-4989-91fb-4b0364985a25"
+    "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
   },
   {
     "game": "War Robots: Frontiers",
