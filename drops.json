@@ -137,17 +137,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "AOS Drops Day 2",
-    "start": "2026-10-19T12:00:00Z",
-    "end": "2026-10-20T11:59:59.999Z",
+    "campaign": "AOS Drops Day 3",
+    "start": "2026-10-20T12:00:00Z",
+    "end": "2026-10-21T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/059756db-88a3-474c-9575-9afefcb3cd90.png",
+    "image": "/media/campaigns/images/61665910-2ccb-495b-8e40-c08eefbe4a27.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "059756db-88a3-474c-9575-9afefcb3cd90"
+    "twitch_campaign_id": "61665910-2ccb-495b-8e40-c08eefbe4a27"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -328,6 +328,21 @@
     "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "twitch_campaign_id": "3061af39-49c5-4137-90a8-75837d5917ec"
+  },
+  {
+    "game": "Dofus",
+    "status": "live",
+    "campaign": "Ivory Token - The Source",
+    "start": "2026-10-20T16:00:00Z",
+    "end": "2026-10-20T17:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Il est temps de vous en dire plus sur les Bellaphones et sur ce qui vous attend en jeu d’ici la fin de l’année ! Le mardi 20 octobre à 18 h 00, retrouvez les équipes de DOFUS Retro, WAKFU, DOFUS Touch et DOFUS pour un AnkamaLive. Notez la date, on s’occupe du programme ! ",
+    "image": "/media/campaigns/images/1f771dab-a077-4f30-876e-6bcccdd32ba2.png",
+    "url": "https://account.ankama.com/fr/twitch",
+    "account_link": "https://account.ankama.com/fr/twitch",
+    "twitch_campaign_id": "1f771dab-a077-4f30-876e-6bcccdd32ba2"
   },
   {
     "game": "Doomsday: Last Survivors",
@@ -692,17 +707,17 @@
   {
     "game": "Marbles on Stream",
     "status": "live",
-    "campaign": "MarbleFest - Oct'26-Day 1",
-    "start": "2026-10-19T13:00:00Z",
-    "end": "2026-10-20T13:59:59.999Z",
+    "campaign": "MarbleFest - Oct'26-Day 2",
+    "start": "2026-10-20T14:00:00Z",
+    "end": "2026-10-21T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Marbles on Stream is the most welcoming stream interactive experience where a streamer can run the game and welcome anyone in their chat to participate with \"!play\". That's it!\n\nJoin in for exclusive prizes and keep an eye on our for how we evolve this event in the future. If you need assistance please join our discord. Discord.gg/pixelbypixelstudios ",
-    "image": "/media/campaigns/images/cce10d77-542b-45c7-a17d-5715936bcbf3.png",
+    "image": "/media/campaigns/images/a033675d-b958-4c33-8be8-9d079bb35cf1.png",
     "url": "https://pixelbypixel.studio/twitch-drops/",
     "account_link": "https://pixelbypixel.studio/twitch-drops/connect",
-    "twitch_campaign_id": "cce10d77-542b-45c7-a17d-5715936bcbf3"
+    "twitch_campaign_id": "a033675d-b958-4c33-8be8-9d079bb35cf1"
   },
   {
     "game": "MARVEL Contest of Champions",
@@ -932,17 +947,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate10/19/26",
-    "start": "2026-10-19T13:00:00Z",
-    "end": "2026-10-20T12:59:59.999Z",
+    "campaign": "Affiliate10/20/26",
+    "start": "2026-10-20T13:00:00Z",
+    "end": "2026-10-21T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/f95bbd93-1611-42e7-9acc-240c106fe683.png",
+    "image": "/media/campaigns/images/c6555c9c-c8b3-49f9-ab1e-3b6e02bc2957.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "f95bbd93-1611-42e7-9acc-240c106fe683"
+    "twitch_campaign_id": "c6555c9c-c8b3-49f9-ab1e-3b6e02bc2957"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1052,17 +1067,17 @@
   {
     "game": "Ravendawn",
     "status": "live",
-    "campaign": "October 01",
-    "start": "2026-10-09T15:00:00Z",
-    "end": "2026-10-20T14:59:59.999Z",
+    "campaign": "October 02",
+    "start": "2026-10-20T15:00:00Z",
+    "end": "2026-10-27T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch your favorite streamers playing Ravendawn and get exclusive RavenPacks and Infusions! Call your friends, forge alliances, and venture into the new and epic world of Ravendawn!",
-    "image": "/media/campaigns/images/8007c51b-6ac5-487d-b01d-adf9fc2fe3b6.png",
+    "image": "/media/campaigns/images/c3c29baa-92b0-4bc2-889e-0ecbf3b93589.png",
     "url": "https://ravendawn.online/myaccount/twitch",
     "account_link": "https://ravendawn.online/myaccount/twitch",
-    "twitch_campaign_id": "8007c51b-6ac5-487d-b01d-adf9fc2fe3b6"
+    "twitch_campaign_id": "c3c29baa-92b0-4bc2-889e-0ecbf3b93589"
   },
   {
     "game": "RavenQuest",
@@ -1095,19 +1110,19 @@
     "twitch_campaign_id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4"
   },
   {
-    "game": "Rise Online",
+    "game": "Riders Republic",
     "status": "live",
-    "campaign": "Mobile Drop 193",
-    "start": "2026-10-19T17:59:00Z",
-    "end": "2026-10-20T17:56:59.999Z",
+    "campaign": "Riders Republic 5th Anniv",
+    "start": "2026-10-20T16:00:00Z",
+    "end": "2026-11-04T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/eac2b4d7-31bb-4fae-b6f4-306399a3505e.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "eac2b4d7-31bb-4fae-b6f4-306399a3505e"
+    "description": "Riders Republic 5th Anniversary ",
+    "image": "/media/campaigns/images/37fd344f-0050-4fbf-84ac-fe5648fc0cd9.jpeg",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "37fd344f-0050-4fbf-84ac-fe5648fc0cd9"
   },
   {
     "game": "Rise Online",
@@ -1123,6 +1138,21 @@
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "a40bef3f-b568-42c3-94ca-ba8a9c2d460d"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 193",
+    "start": "2026-10-19T17:59:00Z",
+    "end": "2026-10-20T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/eac2b4d7-31bb-4fae-b6f4-306399a3505e.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "eac2b4d7-31bb-4fae-b6f4-306399a3505e"
   },
   {
     "game": "Scape",
@@ -1290,6 +1320,21 @@
     "twitch_campaign_id": "d6d56572-09ce-4204-bd92-a86436ed2f25"
   },
   {
+    "game": "THE FINALS",
+    "status": "live",
+    "campaign": "PRIME TIME",
+    "start": "2026-10-20T13:30:00Z",
+    "end": "2026-11-05T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Welcome to PRIME TIME!\nCheck out our biggest Season to date and bring Bebe the Barricade back with you into the Arena. Your trusty new friend will make sure you are safe from incoming damage, so treat her well.",
+    "image": "/media/campaigns/images/aefa907c-43d5-4187-beed-4576c246ef7b.png",
+    "url": "https://www.reachthefinals.com/twitch",
+    "account_link": "https://embark-games.embark.net/",
+    "twitch_campaign_id": "aefa907c-43d5-4187-beed-4576c246ef7b"
+  },
+  {
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
@@ -1455,21 +1500,6 @@
     "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
   },
   {
-    "game": "War Robots: Frontiers",
-    "status": "live",
-    "campaign": "Quantum Blitz",
-    "start": "2026-10-13T12:00:00Z",
-    "end": "2026-10-20T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "From October 13 (12:00 UTC) to 20 (12:00 UTC), tune in to select Drop-enabled War Robots: Frontiers Twitch streams and claim exclusive Twitch Drops!",
-    "image": "/media/campaigns/images/343883d1-7915-4b51-b821-9dd8d9b7a857.png",
-    "url": "https://warrobotsfrontiers.com/en/news/353-twitch-drops-loot-up-from-october-13-to-october-20",
-    "account_link": "https://warrobotsfrontiers.com/en/twitchdrops",
-    "twitch_campaign_id": "343883d1-7915-4b51-b821-9dd8d9b7a857"
-  },
-  {
     "game": "Warhammer 40,000: Space Marine II",
     "status": "live",
     "campaign": "The Anniversary Update II",
@@ -1528,6 +1558,21 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "5b32b5e7-7421-40ae-be32-e45b4df19a12"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Extra Supplies",
+    "start": "2026-10-20T15:00:00Z",
+    "end": "2026-10-21T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Extra Supplies",
+    "image": "/media/campaigns/images/e6d8d1ff-0871-4bdf-b951-46333410a954.jpeg",
+    "url": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "account_link": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "twitch_campaign_id": "e6d8d1ff-0871-4bdf-b951-46333410a954"
   },
   {
     "game": "World of Tanks",
@@ -1607,17 +1652,32 @@
   {
     "game": "World of Tanks Console",
     "status": "live",
-    "campaign": "Monster Hunting #2",
-    "start": "2026-10-16T15:00:00Z",
-    "end": "2026-10-20T14:59:59.999Z",
+    "campaign": "Monster Mashing",
+    "start": "2026-10-20T15:00:00Z",
+    "end": "2026-10-23T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Step into the Spooky Season, if you dare",
-    "image": "/media/campaigns/images/c9a9be3b-ba13-4924-a045-989ee3d26f28.png",
+    "description": "Its time to do the Monster Mash, Commanders",
+    "image": "/media/campaigns/images/50e3d84c-9920-4a67-aa80-95cffd01cdd7.png",
     "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
     "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
-    "twitch_campaign_id": "c9a9be3b-ba13-4924-a045-989ee3d26f28"
+    "twitch_campaign_id": "50e3d84c-9920-4a67-aa80-95cffd01cdd7"
+  },
+  {
+    "game": "World of Tanks Console",
+    "status": "live",
+    "campaign": "French Reinforcements #1",
+    "start": "2026-10-20T15:00:00Z",
+    "end": "2026-10-23T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Welcome the newest additions to the Western Alliance ",
+    "image": "/media/campaigns/images/1b8b2df2-ab12-4f9c-9490-9396ecc4566b.png",
+    "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
+    "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
+    "twitch_campaign_id": "1b8b2df2-ab12-4f9c-9490-9396ecc4566b"
   },
   {
     "game": "World of Tanks: HEAT",
