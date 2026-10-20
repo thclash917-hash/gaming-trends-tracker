@@ -330,21 +330,6 @@
     "twitch_campaign_id": "3061af39-49c5-4137-90a8-75837d5917ec"
   },
   {
-    "game": "Dofus",
-    "status": "live",
-    "campaign": "Ivory Token - The Source",
-    "start": "2026-10-20T16:00:00Z",
-    "end": "2026-10-20T17:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Il est temps de vous en dire plus sur les Bellaphones et sur ce qui vous attend en jeu d’ici la fin de l’année ! Le mardi 20 octobre à 18 h 00, retrouvez les équipes de DOFUS Retro, WAKFU, DOFUS Touch et DOFUS pour un AnkamaLive. Notez la date, on s’occupe du programme ! ",
-    "image": "/media/campaigns/images/1f771dab-a077-4f30-876e-6bcccdd32ba2.png",
-    "url": "https://account.ankama.com/fr/twitch",
-    "account_link": "https://account.ankama.com/fr/twitch",
-    "twitch_campaign_id": "1f771dab-a077-4f30-876e-6bcccdd32ba2"
-  },
-  {
     "game": "Doomsday: Last Survivors",
     "status": "live",
     "campaign": "Twitch Drops",
@@ -1127,32 +1112,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 622",
-    "start": "2026-10-19T17:59:00Z",
-    "end": "2026-10-20T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/a40bef3f-b568-42c3-94ca-ba8a9c2d460d.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "a40bef3f-b568-42c3-94ca-ba8a9c2d460d"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "Mobile Drop 193",
-    "start": "2026-10-19T17:59:00Z",
-    "end": "2026-10-20T17:56:59.999Z",
+    "campaign": "Mobile Drop 194",
+    "start": "2026-10-20T17:59:00Z",
+    "end": "2026-10-21T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/eac2b4d7-31bb-4fae-b6f4-306399a3505e.png",
+    "image": "/media/campaigns/images/bd96a9b7-b184-4231-a06a-b1f60f4f8297.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "eac2b4d7-31bb-4fae-b6f4-306399a3505e"
+    "twitch_campaign_id": "bd96a9b7-b184-4231-a06a-b1f60f4f8297"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 623",
+    "start": "2026-10-20T17:59:00Z",
+    "end": "2026-10-21T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/27ebc2ad-a868-45df-aaa8-16f9f7ad7330.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "27ebc2ad-a868-45df-aaa8-16f9f7ad7330"
   },
   {
     "game": "Scape",
@@ -1228,21 +1213,6 @@
     "url": "https://sonicrumble.sega.com/special/twitch-drops/en/",
     "account_link": "https://sonicrumble.sega.com/special/twitch-drops/en/",
     "twitch_campaign_id": "3bec3616-0c35-4cb8-9533-2db143d26880"
-  },
-  {
-    "game": "Splinterlands",
-    "status": "live",
-    "campaign": "October Week 1",
-    "start": "2026-10-06T17:00:00Z",
-    "end": "2026-10-20T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "October Week #1 Splinterlands Drop Campaign",
-    "image": "/media/campaigns/images/e6b023b5-f78b-4e56-a048-91e7a1c288a4.png",
-    "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
-    "account_link": "https://splinterlands.com/user/account-socials",
-    "twitch_campaign_id": "e6b023b5-f78b-4e56-a048-91e7a1c288a4"
   },
   {
     "game": "Star Citizen",
@@ -1498,6 +1468,21 @@
     "url": "https://event.igg.com/twitch/drops?code=vr_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
     "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
+  },
+  {
+    "game": "Warframe",
+    "status": "live",
+    "campaign": "PMCFQ - YourLuckyClover",
+    "start": "2026-10-20T21:00:00Z",
+    "end": "2026-10-20T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch YourLuckyClover's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
+    "image": "/media/campaigns/images/fc9edf02-a948-4948-a310-3bdf8d9cdaaf.jpeg",
+    "url": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
+    "account_link": "https://www.warframe.com/user",
+    "twitch_campaign_id": "fc9edf02-a948-4948-a310-3bdf8d9cdaaf"
   },
   {
     "game": "Warhammer 40,000: Space Marine II",
