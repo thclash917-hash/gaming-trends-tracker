@@ -62,17 +62,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 8 - #2/7",
-    "start": "2026-10-20T10:00:00Z",
-    "end": "2026-10-21T09:29:59.999Z",
+    "campaign": "Dragonfire 8 - #3/7",
+    "start": "2026-10-21T10:00:00Z",
+    "end": "2026-10-22T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/b8e1caff-25b0-4891-ba01-f39939b5bdb2.png",
+    "image": "/media/campaigns/images/1d586c37-14cc-4262-a198-7702893a5a04.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "b8e1caff-25b0-4891-ba01-f39939b5bdb2"
+    "twitch_campaign_id": "1d586c37-14cc-4262-a198-7702893a5a04"
   },
   {
     "game": "Alien: Isolation",
@@ -118,21 +118,6 @@
     "url": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "account_link": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
     "twitch_campaign_id": "853eaf12-2ecb-446c-b382-717c278f8af2"
-  },
-  {
-    "game": "Battlefield 6",
-    "status": "live",
-    "campaign": "Battlefield 6 Season 5",
-    "start": "2026-10-13T12:00:00Z",
-    "end": "2026-10-21T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune in and support your favorite creators streaming Battlefield 6 to unlock Twitch Drops.",
-    "image": "/media/campaigns/images/106c338b-98ad-4ae9-b594-97f1593ff96e.png",
-    "url": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
-    "account_link": "https://ea.com/twitchlinking",
-    "twitch_campaign_id": "106c338b-98ad-4ae9-b594-97f1593ff96e"
   },
   {
     "game": "Black Desert",
@@ -193,6 +178,21 @@
     "url": "https://www.ubisoft.com/help/article/000065532",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "9730d758-4de3-42a4-8550-83500d9e4c42"
+  },
+  {
+    "game": "Caliber",
+    "status": "live",
+    "campaign": "S14D1 Shadow Arsenal",
+    "start": "2026-10-21T08:00:00Z",
+    "end": "2026-10-22T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch Drops кампания «Теневой арсенал». Смотрите трансляции и получайте ценные награды, чтобы эффективнее крушить прислужников зла!",
+    "image": "/media/campaigns/images/781293fe-65f6-4097-bede-b0b1d372ab31.png",
+    "url": "https://playcaliber.com/ru/news/1338/khellouinskaia-twitch-drops-kampaniia-tenevoi-arsenal/",
+    "account_link": "https://playcaliber.com/ru/",
+    "twitch_campaign_id": "781293fe-65f6-4097-bede-b0b1d372ab31"
   },
   {
     "game": "Captain's Call",
@@ -343,36 +343,6 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "26a32c34-dfd6-48a4-87fc-a8da6de68e47"
-  },
-  {
-    "game": "Dungeons & Dragons",
-    "status": "live",
-    "campaign": "/dnd d20 Badge",
-    "start": "2026-09-24T01:15:00Z",
-    "end": "2026-10-21T06:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch 30 minutes of Dungeon Masters on /dnd in the Dungeons & Dragons category to unlock the d20 chat badge!",
-    "image": "/media/campaigns/images/4820ce0c-0ef5-4f53-bf68-b9e03a6acee0.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "4820ce0c-0ef5-4f53-bf68-b9e03a6acee0"
-  },
-  {
-    "game": "Dungeons & Dragons",
-    "status": "live",
-    "campaign": "D&D Ampersand Badge",
-    "start": "2026-09-24T01:15:00Z",
-    "end": "2026-10-21T06:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Purchase or gift one subscription during a Dungeons & Dragons stream to earn the Ampersand chat badge!",
-    "image": "/media/campaigns/images/69e7d15e-b1e0-40d8-9c4b-a71446896005.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "69e7d15e-b1e0-40d8-9c4b-a71446896005"
   },
   {
     "game": "ELDEN RING",
@@ -613,6 +583,36 @@
     "url": "https://store.steampowered.com/news/app/3225880/view/683016095346460623",
     "account_link": "https://store.steampowered.com/news/app/3225880/view/683016095346460623",
     "twitch_campaign_id": "fbc7d728-f353-4c97-87d7-b7974e7a2563"
+  },
+  {
+    "game": "Lineage II",
+    "status": "live",
+    "campaign": "Lineage 2 Forged Drops RU",
+    "start": "2026-10-21T07:00:00Z",
+    "end": "2026-10-28T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Награда за просмотр прямых трансляций Lineage 2.",
+    "image": "/media/campaigns/images/6dc1348a-7a4c-4c7b-8f05-fed95e8ba449.png",
+    "url": "https://l2central.info/essence/events_and_promos/4221.html",
+    "account_link": "https://ru.4game.ru/drops/twitch/",
+    "twitch_campaign_id": "6dc1348a-7a4c-4c7b-8f05-fed95e8ba449"
+  },
+  {
+    "game": "Lineage II",
+    "status": "live",
+    "campaign": "Lineage 2 Forged Drops EU",
+    "start": "2026-10-21T07:00:00Z",
+    "end": "2026-10-28T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Reward for watching live streams of Lineage 2.",
+    "image": "/media/campaigns/images/4c72010b-6f8d-4539-8f8d-5f440e86788a.png",
+    "url": "https://l2wiki.com/essence/events_and_promos/3719.html",
+    "account_link": "https://eu.4game.com/drops/twitch/",
+    "twitch_campaign_id": "4c72010b-6f8d-4539-8f8d-5f440e86788a"
   },
   {
     "game": "Lineage II",
@@ -1112,17 +1112,17 @@
   {
     "game": "Scape",
     "status": "live",
-    "campaign": "Scape Day 2: Campfire",
-    "start": "2026-10-20T07:00:00Z",
-    "end": "2026-10-21T06:59:59.999Z",
+    "campaign": "Scape Day 3: Happy Tears",
+    "start": "2026-10-21T07:00:00Z",
+    "end": "2026-10-22T06:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Campfire companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
-    "image": "/media/campaigns/images/e7d3d988-85f7-4f53-afb9-5652da7d416e.png",
+    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Happy Tears companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
+    "image": "/media/campaigns/images/08d247ba-5972-4e69-b72f-0874b01b5ebb.png",
     "url": "https://scapethegame.com/faq/twitch-drops",
     "account_link": "https://portal.scapethegame.com/connect/twitch",
-    "twitch_campaign_id": "e7d3d988-85f7-4f53-afb9-5652da7d416e"
+    "twitch_campaign_id": "08d247ba-5972-4e69-b72f-0874b01b5ebb"
   },
   {
     "game": "Shakes and Fidget",
@@ -1292,21 +1292,6 @@
   {
     "game": "The Witcher 3: Wild Hunt",
     "status": "live",
-    "campaign": "Remastered Release",
-    "start": "2026-09-29T10:00:00Z",
-    "end": "2026-10-27T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The Witcher 3: Wild Hunt — Remastered brings a new look to the Continent — and we think you’ll agree that Roach deserves one too. Tune in to participating The Witcher 3 streams on Twitch and earn the Fire Horse Gear Set — an exclusive collection of brand-new gear for Roach, inspired by the Chinese zodiac’s Year of the Fire Horse. Collect the whole set and ride into Remastered with Roach ready for the road ahead!",
-    "image": "/media/campaigns/images/5ccd33aa-a869-4de4-aca7-44775bf07823.jpeg",
-    "url": "https://www.thewitcher.com/twitch-drops",
-    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
-    "twitch_campaign_id": "5ccd33aa-a869-4de4-aca7-44775bf07823"
-  },
-  {
-    "game": "The Witcher 3: Wild Hunt",
-    "status": "live",
     "campaign": "The Witcher 3 Remaster",
     "start": "2026-09-29T10:00:00Z",
     "end": "2026-10-27T09:59:59.999Z",
@@ -1318,6 +1303,21 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "c7b62569-3b75-4f72-9700-957479fe3460"
+  },
+  {
+    "game": "The Witcher 3: Wild Hunt",
+    "status": "live",
+    "campaign": "Remastered Release",
+    "start": "2026-09-29T10:00:00Z",
+    "end": "2026-10-27T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The Witcher 3: Wild Hunt — Remastered brings a new look to the Continent — and we think you’ll agree that Roach deserves one too. Tune in to participating The Witcher 3 streams on Twitch and earn the Fire Horse Gear Set — an exclusive collection of brand-new gear for Roach, inspired by the Chinese zodiac’s Year of the Fire Horse. Collect the whole set and ride into Remastered with Roach ready for the road ahead!",
+    "image": "/media/campaigns/images/5ccd33aa-a869-4de4-aca7-44775bf07823.jpeg",
+    "url": "https://www.thewitcher.com/twitch-drops",
+    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
+    "twitch_campaign_id": "5ccd33aa-a869-4de4-aca7-44775bf07823"
   },
   {
     "game": "The Witcher 3: Wild Hunt Remastered",
@@ -1644,10 +1644,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch 4 hours of World of Warcraft content while these Twitch Drops are active on any channel to earn the Cuddly Gold-Colored Grrgle.",
-    "image": "/media/campaigns/images/8ee4cc17-5fd4-4d29-8147-14ec12477c45.png",
+    "image": "/media/campaigns/images/1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9.png",
     "url": "https://worldofwarcraft.blizzard.com/news/24302098",
     "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "8ee4cc17-5fd4-4d29-8147-14ec12477c45"
+    "twitch_campaign_id": "1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9"
   },
   {
     "game": "World of Warcraft",
@@ -1659,10 +1659,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Watch 4 hours of World of Warcraft content while these Twitch Drops are active on any channel to earn the Cuddly Gold-Colored Grrgle.",
-    "image": "/media/campaigns/images/1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9.png",
+    "image": "/media/campaigns/images/8ee4cc17-5fd4-4d29-8147-14ec12477c45.png",
     "url": "https://worldofwarcraft.blizzard.com/news/24302098",
     "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9"
+    "twitch_campaign_id": "8ee4cc17-5fd4-4d29-8147-14ec12477c45"
   },
   {
     "game": "World of Warships",
