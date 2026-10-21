@@ -255,36 +255,6 @@
     "twitch_campaign_id": "35e7547f-0b2a-430d-850e-bfd9d5729eab"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "Fall Drops",
-    "start": "2026-10-18T12:10:38Z",
-    "end": "2026-10-20T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/8f711635-030d-449b-b5ad-a9b4454fc1a4.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "8f711635-030d-449b-b5ad-a9b4454fc1a4"
-  },
-  {
-    "game": "Cyberpunk 2077",
-    "status": "live",
-    "campaign": "Edgerunners Series 2",
-    "start": "2026-10-19T22:01:00Z",
-    "end": "2026-10-20T22:00:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Come join the release of Cyberpunk: Edgerunners 2: Twitch Co-Streaming!!!",
-    "image": "/media/campaigns/images/f73bcbfb-770f-4993-a1de-e3ffcae0e46f.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "f73bcbfb-770f-4993-a1de-e3ffcae0e46f"
-  },
-  {
     "game": "Dark and Darker",
     "status": "live",
     "campaign": "EA Season 11 Drops 2",
@@ -1112,21 +1082,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 194",
-    "start": "2026-10-20T17:59:00Z",
-    "end": "2026-10-21T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/bd96a9b7-b184-4231-a06a-b1f60f4f8297.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "bd96a9b7-b184-4231-a06a-b1f60f4f8297"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "ROW Drop 623",
     "start": "2026-10-20T17:59:00Z",
     "end": "2026-10-21T17:56:59.999Z",
@@ -1138,6 +1093,21 @@
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "27ebc2ad-a868-45df-aaa8-16f9f7ad7330"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 194",
+    "start": "2026-10-20T17:59:00Z",
+    "end": "2026-10-21T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/bd96a9b7-b184-4231-a06a-b1f60f4f8297.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "bd96a9b7-b184-4231-a06a-b1f60f4f8297"
   },
   {
     "game": "Scape",
@@ -1308,16 +1278,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-20T00:00:00Z",
-    "end": "2026-10-20T23:59:59.999Z",
+    "start": "2026-10-21T00:00:00Z",
+    "end": "2026-10-21T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/c90241b3-b1ce-4d1d-8718-04a6b540d7d1.png",
+    "image": "/media/campaigns/images/b52a5b1e-3d45-4a57-9bf4-12d07504b6a5.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "c90241b3-b1ce-4d1d-8718-04a6b540d7d1"
+    "twitch_campaign_id": "b52a5b1e-3d45-4a57-9bf4-12d07504b6a5"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
@@ -1468,21 +1438,6 @@
     "url": "https://event.igg.com/twitch/drops?code=vr_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
     "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "PMCFQ - YourLuckyClover",
-    "start": "2026-10-20T21:00:00Z",
-    "end": "2026-10-20T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch YourLuckyClover's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-    "image": "/media/campaigns/images/fc9edf02-a948-4948-a310-3bdf8d9cdaaf.jpeg",
-    "url": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "fc9edf02-a948-4948-a310-3bdf8d9cdaaf"
   },
   {
     "game": "Warhammer 40,000: Space Marine II",
@@ -1768,5 +1723,20 @@
     "url": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
     "account_link": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
     "twitch_campaign_id": "8146a56b-1e86-46b4-ae62-628f218f3ce9"
+  },
+  {
+    "game": "Zenless Zone Zero",
+    "status": "live",
+    "campaign": "V3.3 Zenless Zone Zero",
+    "start": "2026-10-21T02:00:00Z",
+    "end": "2026-11-11T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "V3.3 Zenless Zone Zero",
+    "image": "/media/campaigns/images/e4f567f2-4eab-4dae-9995-c46e769b0c7a.png",
+    "url": "https://act.hoyoverse.com/puzzle/zzz/pz_5E9qxR7Ypm/index.html?game_biz=nap_global",
+    "account_link": "https://act.hoyoverse.com/puzzle/zzz/pz_5E9qxR7Ypm/index.html?game_biz=nap_global",
+    "twitch_campaign_id": "e4f567f2-4eab-4dae-9995-c46e769b0c7a"
   }
 ]
