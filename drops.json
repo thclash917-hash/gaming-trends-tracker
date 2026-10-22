@@ -435,6 +435,36 @@
     "twitch_campaign_id": "2c960c3d-8af2-400c-9a60-7e9c992c1541"
   },
   {
+    "game": "Evil Pongon Game",
+    "status": "live",
+    "campaign": "Anniversary Campaign",
+    "start": "2026-10-22T00:00:00Z",
+    "end": "2026-10-30T01:46:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Anniversary Twitch Drop Campaign.",
+    "image": "/media/campaigns/images/e02f8bb3-634e-4481-82d8-023f286a8770.png",
+    "url": "https://evil-pongon-twitch.vercel.app/",
+    "account_link": "https://evil-pongon-twitch.vercel.app/",
+    "twitch_campaign_id": "e02f8bb3-634e-4481-82d8-023f286a8770"
+  },
+  {
+    "game": "FELLOWSHIP",
+    "status": "live",
+    "campaign": "Halloween",
+    "start": "2026-10-22T00:34:37Z",
+    "end": "2026-11-05T00:33:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "By popular request, we're running it back for those of you that missed out on the last campaign!",
+    "image": "/media/campaigns/images/d3dea6a7-cb4e-4226-8906-54d7feee8bbe.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv/drops/campaigns",
+    "twitch_campaign_id": "d3dea6a7-cb4e-4226-8906-54d7feee8bbe"
+  },
+  {
     "game": "Fishing Planet",
     "status": "live",
     "campaign": "Carnival of Terrors",
@@ -493,21 +523,6 @@
     "url": "https://playnewz.com/news",
     "account_link": "https://playnewz.com/twitchlink",
     "twitch_campaign_id": "2aaafcb4-8808-4535-b9b9-85ea868d5b7d"
-  },
-  {
-    "game": "Infinity Nikki",
-    "status": "live",
-    "campaign": "V2.10 Infinity Nikki",
-    "start": "2026-09-24T03:00:00Z",
-    "end": "2026-10-22T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Infinity Nikki on Twitch and earn exclusive in-game rewards! Watch Time Rewards: ⏱️ Watch 15 mins – Diamond ×10 ⏱️ Watch 30 mins – Diamond ×20 ⏱️ Watch 45 mins – Bling ×20,000 ⏱️ Watch 1 hour – Thread of Purity ×100 ⏱️ Watch 1.5 hours – Shining Particle ×100 ⏱️ Watch 2 hours – Shiny Bubbles x100",
-    "image": "/media/campaigns/images/65f8f2a5-074c-48ca-8505-f525bb8d75f5.png",
-    "url": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
-    "account_link": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
-    "twitch_campaign_id": "65f8f2a5-074c-48ca-8505-f525bb8d75f5"
   },
   {
     "game": "Kakele Online - MMORPG",
@@ -930,6 +945,21 @@
     "twitch_campaign_id": "16189ff3-a54e-434f-95e8-b8c538814020"
   },
   {
+    "game": "Once Human",
+    "status": "live",
+    "campaign": "Ocean Expansion Drops",
+    "start": "2026-10-22T02:00:00Z",
+    "end": "2026-11-15T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Once Human Ocean Expansion Twitch Drops event will be live on Oct 22 - Nov 15, 2026. Connect your Once Human character and Twitch account to receive the reward. Watch a participating stream channel to join the activity. You need to watch Once Human for 6 hours to claim all the rewards. The rewards will be sent to your account in 24 hours.",
+    "image": "/media/campaigns/images/4b249954-342f-4a19-bfa1-0421ecf735a4.png",
+    "url": "https://www.oncehuman.game/twitch/",
+    "account_link": "https://www.oncehuman.game/twitch/",
+    "twitch_campaign_id": "4b249954-342f-4a19-bfa1-0421ecf735a4"
+  },
+  {
     "game": "Out of the Park Baseball 27",
     "status": "live",
     "campaign": "Affiliate10/21/26",
@@ -1095,21 +1125,6 @@
     "twitch_campaign_id": "b86a78c5-e784-405a-bab9-7118ead60321"
   },
   {
-    "game": "REMATCH",
-    "status": "live",
-    "campaign": "Rematch x Blue Lock",
-    "start": "2026-09-23T23:01:00Z",
-    "end": "2026-10-21T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch 30mins of Rematch and receive the official Blue Lock x Rematch football badge!",
-    "image": "/media/campaigns/images/828ae239-eff0-4ac1-b4d6-9a2b23da92a4.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "828ae239-eff0-4ac1-b4d6-9a2b23da92a4"
-  },
-  {
     "game": "Riders Republic",
     "status": "live",
     "campaign": "Riders Republic 5th Anniv",
@@ -1127,21 +1142,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 624",
-    "start": "2026-10-21T17:59:00Z",
-    "end": "2026-10-22T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/e9e98ff6-c507-4db8-9109-4fc818dd0a44.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "e9e98ff6-c507-4db8-9109-4fc818dd0a44"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "Mobile Drop 195",
     "start": "2026-10-21T17:59:00Z",
     "end": "2026-10-22T17:56:59.999Z",
@@ -1153,6 +1153,21 @@
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "1813fa79-c23a-4892-b51b-739f6c510fb4"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 624",
+    "start": "2026-10-21T17:59:00Z",
+    "end": "2026-10-22T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/e9e98ff6-c507-4db8-9109-4fc818dd0a44.png",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "e9e98ff6-c507-4db8-9109-4fc818dd0a44"
   },
   {
     "game": "Scape",
@@ -1338,16 +1353,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-21T00:00:00Z",
-    "end": "2026-10-21T23:59:59.999Z",
+    "start": "2026-10-22T00:00:00Z",
+    "end": "2026-10-22T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/b52a5b1e-3d45-4a57-9bf4-12d07504b6a5.png",
+    "image": "/media/campaigns/images/e6a55f73-d2a9-43f3-a188-1a7528cef466.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "b52a5b1e-3d45-4a57-9bf4-12d07504b6a5"
+    "twitch_campaign_id": "e6a55f73-d2a9-43f3-a188-1a7528cef466"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
@@ -1425,34 +1440,19 @@
     "twitch_campaign_id": "e505a275-6823-474a-ac59-61d4d95d2094"
   },
   {
-    "game": "UFL",
+    "game": "UNO! Mobile",
     "status": "live",
-    "campaign": "Oct #3",
-    "start": "2026-10-15T08:05:00Z",
-    "end": "2026-10-21T23:58:59.999Z",
+    "campaign": "UNO! Mobile Twitch Drops",
+    "start": "2026-10-22T00:00:00Z",
+    "end": "2026-11-18T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
-    "image": "/media/campaigns/images/7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d.png",
-    "url": "https://portal.uflgame.com/twitch/drops",
-    "account_link": "https://portal.uflgame.com/twitch",
-    "twitch_campaign_id": "7f6bd1f9-aeec-4dfd-8a7b-6d591e82d12d"
-  },
-  {
-    "game": "Vaultbreakers",
-    "status": "live",
-    "campaign": "Vaultbreakers Alpha",
-    "start": "2026-10-15T08:00:00Z",
-    "end": "2026-10-22T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Join Vaultbreaker's Alpha test! Watch our creators and earn in-game rewards!",
-    "image": "/media/campaigns/images/09234039-5edb-4037-9273-14c702bdf60d.png",
-    "url": "https://vaultbreakers.com/twitch-drops",
-    "account_link": "https://vaultbreakers.com/twitch-drops",
-    "twitch_campaign_id": "09234039-5edb-4037-9273-14c702bdf60d"
+    "description": "UNO Championship Series is now playable in UNO! Mobile!",
+    "image": "/media/campaigns/images/69f32da3-7abf-4716-b051-085a879cb112.jpeg",
+    "url": "https://uno.mattel163.com/twitchdrops",
+    "account_link": "https://uno.mattel163.com/twitchdrops",
+    "twitch_campaign_id": "69f32da3-7abf-4716-b051-085a879cb112"
   },
   {
     "game": "Vaultbreakers",
@@ -1498,36 +1498,6 @@
     "url": "https://event.igg.com/twitch/drops?code=vr_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
     "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "Emisión Tenno #350 Raid",
-    "start": "2026-10-21T20:00:00Z",
-    "end": "2026-10-21T21:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch this week's Emisión Tenno raid for 30 minutes to receive an Ordis Floof decoration!",
-    "image": "/media/campaigns/images/0ce978ae-f0ca-4b38-b016-39fedc37c38b.jpeg",
-    "url": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "0ce978ae-f0ca-4b38-b016-39fedc37c38b"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "PMCFQ - zatanaa",
-    "start": "2026-10-21T20:00:00Z",
-    "end": "2026-10-21T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch zatanaa's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-    "image": "/media/campaigns/images/ee1b1f91-ad9d-4061-9be4-ecea63a71645.jpeg",
-    "url": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "ee1b1f91-ad9d-4061-9be4-ecea63a71645"
   },
   {
     "game": "Warframe",
@@ -1772,6 +1742,21 @@
   {
     "game": "World of Warships",
     "status": "live",
+    "campaign": "15.9 WOWS Channel Drop",
+    "start": "2026-10-21T22:00:00Z",
+    "end": "2026-10-28T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+    "image": "/media/campaigns/images/18ae2563-22e9-4250-8734-3f1b6caa50e5.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "18ae2563-22e9-4250-8734-3f1b6caa50e5"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
     "campaign": "15.9 KOTS XIX Regionals",
     "start": "2026-10-17T06:00:00Z",
     "end": "2026-10-25T23:59:59.999Z",
@@ -1798,21 +1783,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "3d094e35-0ccd-4d56-8c38-35bea5913b1b"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "15.9 WOWS Channel Drop",
-    "start": "2026-10-14T22:00:00Z",
-    "end": "2026-10-21T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-    "image": "/media/campaigns/images/19f3b23f-5165-4b52-b1de-d3c9afd40223.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "19f3b23f-5165-4b52-b1de-d3c9afd40223"
   },
   {
     "game": "Wuthering Waves",
