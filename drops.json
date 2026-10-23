@@ -45,21 +45,6 @@
     "twitch_campaign_id": "53817dac-8fdb-48cc-91b5-453570e05124"
   },
   {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "Dragonfire 8 - #4/7",
-    "start": "2026-10-22T10:00:00Z",
-    "end": "2026-10-23T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/1014bf2d-bc53-4c33-ab08-bef1a68c0781.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "1014bf2d-bc53-4c33-ab08-bef1a68c0781"
-  },
-  {
     "game": "Alien: Isolation",
     "status": "live",
     "campaign": "Alien: Isolation Horror",
@@ -133,21 +118,6 @@
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
     "twitch_campaign_id": "6cd9dfd0-ac14-4405-97fc-49f191925268"
-  },
-  {
-    "game": "Caliber",
-    "status": "live",
-    "campaign": "S14D2 Shadow Arsenal",
-    "start": "2026-10-22T08:00:00Z",
-    "end": "2026-10-23T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch Drops кампания «Теневой арсенал». Смотрите трансляции и получайте ценные награды, чтобы эффективнее крушить прислужников зла!",
-    "image": "/media/campaigns/images/883b9a3c-d995-460e-91c0-24dadccd2d47.png",
-    "url": "https://playcaliber.com/ru/news/1338/khellouinskaia-twitch-drops-kampaniia-tenevoi-arsenal/",
-    "account_link": "https://playcaliber.com/ru/",
-    "twitch_campaign_id": "883b9a3c-d995-460e-91c0-24dadccd2d47"
   },
   {
     "game": "Captain's Call",
@@ -450,21 +420,6 @@
     "twitch_campaign_id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa"
   },
   {
-    "game": "EVE Online",
-    "status": "live",
-    "campaign": "Crimson Harvest Drop 4",
-    "start": "2026-10-19T11:30:00Z",
-    "end": "2026-10-23T10:57:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Upon opening, you will receive Agency Support Drop plus one of the following: a random GalNet StreamCast Unit SKIN, 19th Tier Overseer's Personal Effects, 23rd Tier Overseer's Personal Effects, PLEX.",
-    "image": "/media/campaigns/images/2c960c3d-8af2-400c-9a60-7e9c992c1541.jpeg",
-    "url": "https://www.eveonline.com/twitch",
-    "account_link": "https://www.eveonline.com/twitch",
-    "twitch_campaign_id": "2c960c3d-8af2-400c-9a60-7e9c992c1541"
-  },
-  {
     "game": "Evil Pongon Game",
     "status": "live",
     "campaign": "Anniversary Campaign",
@@ -613,21 +568,6 @@
     "url": "https://act.hoyoverse.com/puzzle/hkrpg/pz_u8LiB2qvFN/index.html?game_biz=hkrpg_global&utm_source=twitch&utm_medium=push",
     "account_link": "https://act.hoyoverse.com/puzzle/hkrpg/pz_u8LiB2qvFN/index.html?game_biz=hkrpg_global&utm_source=twitch&utm_medium=push",
     "twitch_campaign_id": "520218bf-41ef-4a30-80df-3bd5b0102303"
-  },
-  {
-    "game": "Infestation: The New Z",
-    "status": "live",
-    "campaign": "Halloween 2026 Part 1",
-    "start": "2026-10-16T13:00:00Z",
-    "end": "2026-10-23T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Get cosmetics by watching Infestation streams. Rewards are going to get directly delivered to your account. Keep in mind, clothing will be learned automatically and it's not possible to get transferred. You also can earn these character clothes only once on each account. If you claimed the rewards and don't get anything in the game, make sure you check your connection between the Game and Twitch.",
-    "image": "/media/campaigns/images/2aaafcb4-8808-4535-b9b9-85ea868d5b7d.png",
-    "url": "https://playnewz.com/news",
-    "account_link": "https://playnewz.com/twitchlink",
-    "twitch_campaign_id": "2aaafcb4-8808-4535-b9b9-85ea868d5b7d"
   },
   {
     "game": "Kakele Online - MMORPG",
@@ -1352,17 +1292,17 @@
   {
     "game": "Scape",
     "status": "live",
-    "campaign": "Scape Day 4: Buffering",
-    "start": "2026-10-22T07:00:00Z",
-    "end": "2026-10-23T06:59:59.999Z",
+    "campaign": "Scape Day 5: Daydream",
+    "start": "2026-10-23T07:00:00Z",
+    "end": "2026-10-24T06:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Buffering companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
-    "image": "/media/campaigns/images/b654f62e-ff03-4be0-9522-841b4707c072.png",
+    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Daydream companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
+    "image": "/media/campaigns/images/22ef0f25-2fac-40db-a97d-600f93a11349.png",
     "url": "https://scapethegame.com/faq/twitch-drops",
     "account_link": "https://portal.scapethegame.com/connect/twitch",
-    "twitch_campaign_id": "b654f62e-ff03-4be0-9522-841b4707c072"
+    "twitch_campaign_id": "22ef0f25-2fac-40db-a97d-600f93a11349"
   },
   {
     "game": "Shakes and Fidget",
@@ -1408,21 +1348,6 @@
     "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
     "account_link": "https://link.smite2.com/",
     "twitch_campaign_id": "eb306483-ba21-42d2-8e81-a4c0490d6796"
-  },
-  {
-    "game": "Sonic Rumble Party",
-    "status": "live",
-    "campaign": "October 2026 Drops",
-    "start": "2026-10-05T08:00:00Z",
-    "end": "2026-10-23T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "October Twitch Drops for Sonic Rumble Party!",
-    "image": "/media/campaigns/images/3bec3616-0c35-4cb8-9533-2db143d26880.png",
-    "url": "https://sonicrumble.sega.com/special/twitch-drops/en/",
-    "account_link": "https://sonicrumble.sega.com/special/twitch-drops/en/",
-    "twitch_campaign_id": "3bec3616-0c35-4cb8-9533-2db143d26880"
   },
   {
     "game": "Splinterlands",
