@@ -465,21 +465,6 @@
     "twitch_campaign_id": "26a32c34-dfd6-48a4-87fc-a8da6de68e47"
   },
   {
-    "game": "EA Sports College Football 27",
-    "status": "live",
-    "campaign": "CFB Live",
-    "start": "2026-10-23T17:00:00Z",
-    "end": "2026-10-24T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch your favorite creators play College Football 27 and earn some Twitch Drops to power up your Ultimate Team!",
-    "image": "/media/campaigns/images/56cbbdc1-702b-44b4-89a1-3ba26f8dc0f9.png",
-    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-    "twitch_campaign_id": "56cbbdc1-702b-44b4-89a1-3ba26f8dc0f9"
-  },
-  {
     "game": "ELDEN RING",
     "status": "live",
     "campaign": "Bloody Finger ELDEN RING",
@@ -523,21 +508,6 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa"
-  },
-  {
-    "game": "Escape from Tarkov",
-    "status": "live",
-    "campaign": "Souer GunGame",
-    "start": "2026-10-24T13:00:00Z",
-    "end": "2026-10-24T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "GunGame",
-    "image": "/media/campaigns/images/3a88f5bb-31ab-4a83-913c-3359ab7e49e4.png",
-    "url": "https://www.twitch.tv/",
-    "account_link": "https://www.escapefromtarkov.com/profile",
-    "twitch_campaign_id": "3a88f5bb-31ab-4a83-913c-3359ab7e49e4"
   },
   {
     "game": "EVE Online",
@@ -705,6 +675,36 @@
     "twitch_campaign_id": "97b4a33f-43a1-4166-bcda-f58b534b2c9b"
   },
   {
+    "game": "Halo Infinite",
+    "status": "live",
+    "campaign": "C9 OCT 24",
+    "start": "2026-10-24T16:00:00Z",
+    "end": "2026-10-25T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
+    "image": "/media/campaigns/images/fa9494e3-97a9-423a-94c2-2b93d43c6f89.png",
+    "url": "https://www.halowaypoint.com",
+    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
+    "twitch_campaign_id": "fa9494e3-97a9-423a-94c2-2b93d43c6f89"
+  },
+  {
+    "game": "Halo: The Master Chief Collection",
+    "status": "live",
+    "campaign": "SWAT -OCT24",
+    "start": "2026-10-24T17:00:00Z",
+    "end": "2026-10-25T03:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo: The Master Chief Collection!",
+    "image": "/media/campaigns/images/a83dcedb-1d56-46ab-a6c9-d5d82ccc3aa0.png",
+    "url": "https://www.halowaypoint.com",
+    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
+    "twitch_campaign_id": "a83dcedb-1d56-46ab-a6c9-d5d82ccc3aa0"
+  },
+  {
     "game": "Honkai Impact 3rd",
     "status": "live",
     "campaign": "V9.1 Special Drops",
@@ -838,6 +838,21 @@
     "url": "https://www.legendofymir.com/en/news/notice/758959",
     "account_link": "https://www.legendofymir.com/mypage/account",
     "twitch_campaign_id": "8e15c074-d564-4bfa-8d14-a644696745cc"
+  },
+  {
+    "game": "Legion TD 2",
+    "status": "live",
+    "campaign": "October Nova Cup",
+    "start": "2026-10-24T16:30:00Z",
+    "end": "2026-10-25T22:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Nova Cup - Featuring 6000 Essence and a Random Card!",
+    "image": "/media/campaigns/images/fb113e65-9fab-49b4-8811-bb0bd6606a87.png",
+    "url": "https://store.steampowered.com/news/app/469600/view/686392527015643197",
+    "account_link": "https://beta.legiontd2.com/twitchdrops/",
+    "twitch_campaign_id": "fb113e65-9fab-49b4-8811-bb0bd6606a87"
   },
   {
     "game": "Lenin Street Geek Shop",
@@ -1142,21 +1157,6 @@
   {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
-    "campaign": "NBPL 10.24",
-    "start": "2026-10-24T08:00:00Z",
-    "end": "2026-10-24T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/6d9a5fb9-4ecf-4ab0-af2c-d484a8867268.png",
-    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
-    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "6d9a5fb9-4ecf-4ab0-af2c-d484a8867268"
-  },
-  {
-    "game": "NARAKA: BLADEPOINT",
-    "status": "live",
     "campaign": "NBPL 10.22-25",
     "start": "2026-10-22T08:00:00Z",
     "end": "2026-10-25T15:59:59.999Z",
@@ -1395,6 +1395,36 @@
     "twitch_campaign_id": "fc782035-c5b0-4790-a5dd-c57f12469331"
   },
   {
+    "game": "Pokémon GO",
+    "status": "live",
+    "campaign": "2027 Puebla GO Drops",
+    "start": "2026-10-24T15:30:00Z",
+    "end": "2026-10-26T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://trainer.pokemon.com/rewards",
+    "image": "/media/campaigns/images/57f85952-6bc8-4c5d-a18e-0fb4fe4fc6ff.png",
+    "url": "https://trainer.pokemon.com/rewards",
+    "account_link": "https://trainer.pokemon.com/rewards",
+    "twitch_campaign_id": "57f85952-6bc8-4c5d-a18e-0fb4fe4fc6ff"
+  },
+  {
+    "game": "Pokémon Trading Card Game",
+    "status": "live",
+    "campaign": "2027 Puebla JCC Drops",
+    "start": "2026-10-24T16:30:00Z",
+    "end": "2026-10-26T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://trainer.pokemon.com/rewards",
+    "image": "/media/campaigns/images/6220f0ee-7f25-4d40-904a-2d567b248c9f.png",
+    "url": "https://trainer.pokemon.com/rewards",
+    "account_link": "https://trainer.pokemon.com/rewards",
+    "twitch_campaign_id": "6220f0ee-7f25-4d40-904a-2d567b248c9f"
+  },
+  {
     "game": "QSMP",
     "status": "live",
     "campaign": "Quackity's QSMP2 Season 2",
@@ -1487,32 +1517,47 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 197",
-    "start": "2026-10-23T17:59:00Z",
-    "end": "2026-10-24T17:56:59.999Z",
+    "campaign": "Mobile Drop 198",
+    "start": "2026-10-24T17:59:00Z",
+    "end": "2026-10-25T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/773fd964-0d94-46a5-908e-07612bca197c.png",
+    "image": "/media/campaigns/images/e55ec0b8-ad3f-4d97-9d3a-e9f019aac19c.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "773fd964-0d94-46a5-908e-07612bca197c"
+    "twitch_campaign_id": "e55ec0b8-ad3f-4d97-9d3a-e9f019aac19c"
   },
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 626",
-    "start": "2026-10-23T17:59:00Z",
-    "end": "2026-10-24T17:56:59.999Z",
+    "campaign": "ROW Drop 627",
+    "start": "2026-10-24T17:59:00Z",
+    "end": "2026-10-25T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/cee75374-9827-411e-a49b-3189ea931ae7.png",
+    "image": "/media/campaigns/images/3e6780dc-04ec-44ce-859a-f02d4afe264d.jpeg",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "cee75374-9827-411e-a49b-3189ea931ae7"
+    "twitch_campaign_id": "3e6780dc-04ec-44ce-859a-f02d4afe264d"
+  },
+  {
+    "game": "Rocket League",
+    "status": "live",
+    "campaign": "CRL Fall Championship",
+    "start": "2026-10-24T16:30:00Z",
+    "end": "2026-10-25T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the CRL Fall Championship to earn RLCS Twitch Drops.",
+    "image": "/media/campaigns/images/a58a7cee-fffe-47b5-b793-3aef3cdadd91.png",
+    "url": "https://www.epicgames.com/account/connections",
+    "account_link": "https://www.epicgames.com/account/connections",
+    "twitch_campaign_id": "a58a7cee-fffe-47b5-b793-3aef3cdadd91"
   },
   {
     "game": "Rust",
@@ -1905,6 +1950,21 @@
     "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
   },
   {
+    "game": "VRChat",
+    "status": "live",
+    "campaign": "Spookality Awards",
+    "start": "2026-10-24T18:00:00Z",
+    "end": "2026-10-24T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Come hang out as we highlight the top 3 Spookality avatar and world winners! You'll collect an exclusive accessory for watching!",
+    "image": "/media/campaigns/images/af90983f-03ff-4017-8653-ea7c50d3018f.png",
+    "url": "https://x.com/VRChat/status/2113344845569749180",
+    "account_link": "https://vrchat.com/home/profile#link-twitch",
+    "twitch_campaign_id": "af90983f-03ff-4017-8653-ea7c50d3018f"
+  },
+  {
     "game": "War Thunder",
     "status": "live",
     "campaign": "WTCS Pro Grand Finals",
@@ -1993,21 +2053,6 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "5b32b5e7-7421-40ae-be32-e45b4df19a12"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Pink October EBR Race",
-    "start": "2026-10-24T13:00:00Z",
-    "end": "2026-10-24T18:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Pink October EBR Race",
-    "image": "/media/campaigns/images/7a9ed755-c406-460e-8083-f61a9fef5322.png",
-    "url": "https://worldoftanks.eu//content/guide/twitch-drops/",
-    "account_link": "https://worldoftanks.eu//content/guide/twitch-drops/",
-    "twitch_campaign_id": "7a9ed755-c406-460e-8083-f61a9fef5322"
   },
   {
     "game": "World of Tanks",
