@@ -1,12 +1,12 @@
 [
   {
-    "name": "Counter-Strike 2",
+    "name": "Dota 2",
     "platform": "Steam",
-    "metric": 997276,
+    "metric": 577718,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
-    "appid": 730,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
+    "appid": 570,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -14,13 +14,13 @@
     "id": 1
   },
   {
-    "name": "Dota 2",
+    "name": "Counter-Strike 2",
     "platform": "Steam",
-    "metric": 855402,
+    "metric": 547751,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
-    "appid": 570,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+    "appid": 730,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -30,7 +30,7 @@
   {
     "name": "PUBG: BATTLEGROUNDS",
     "platform": "Steam",
-    "metric": 196448,
+    "metric": 230168,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
@@ -42,59 +42,9 @@
     "id": 3
   },
   {
-    "name": "Rust",
-    "platform": "Steam",
-    "metric": 115706,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
-    "appid": 252490,
-    "drops_enabled": true,
-    "drops": [
-      {
-        "game": "Rust",
-        "status": "live",
-        "campaign": "Twitch Rivals Backpack",
-        "start": "2026-10-23T17:45:00Z",
-        "end": "2026-10-23T23:14:59.999Z",
-        "watch_time": "",
-        "requirements": [],
-        "rewards": [],
-        "description": "https://twitch.facepunch.com/",
-        "image": "/media/campaigns/images/448a2c00-7b4d-4655-9d99-a2d9939b3143.png",
-        "url": "https://twitch.facepunch.com/",
-        "account_link": "https://twitch.facepunch.com/connect",
-        "twitch_campaign_id": "448a2c00-7b4d-4655-9d99-a2d9939b3143"
-      },
-      {
-        "game": "Rust",
-        "status": "live",
-        "campaign": "Twitch Rivals BI Generals",
-        "start": "2026-10-23T17:45:00Z",
-        "end": "2026-11-01T23:58:59.999Z",
-        "watch_time": "",
-        "requirements": [],
-        "rewards": [],
-        "description": "https://twitch.facepunch.com/",
-        "image": "/media/campaigns/images/233a7dcd-1c1f-4876-9529-2071a7f0d30d.png",
-        "url": "https://twitch.facepunch.com/",
-        "account_link": "https://twitch.facepunch.com/connect",
-        "twitch_campaign_id": "233a7dcd-1c1f-4876-9529-2071a7f0d30d"
-      }
-    ],
-    "badges": [
-      {
-        "name": "Drop actif",
-        "icon": "🎁"
-      }
-    ],
-    "emotes": [],
-    "id": 4
-  },
-  {
     "name": "Cyberpunk 2077",
     "platform": "Steam",
-    "metric": 110793,
+    "metric": 101623,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
@@ -139,12 +89,12 @@
       }
     ],
     "emotes": [],
-    "id": 5
+    "id": 4
   },
   {
     "name": "Apex Legends",
     "platform": "Steam",
-    "metric": 65071,
+    "metric": 83156,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
@@ -153,12 +103,61 @@
     "drops": [],
     "badges": [],
     "emotes": [],
+    "id": 5
+  },
+  {
+    "name": "Rust",
+    "platform": "Steam",
+    "metric": 63237,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
+    "appid": 252490,
+    "drops_enabled": true,
+    "drops": [
+      {
+        "game": "Rust",
+        "status": "live",
+        "campaign": "Twitch Rivals BI Generals",
+        "start": "2026-10-23T17:45:00Z",
+        "end": "2026-11-01T23:58:59.999Z",
+        "watch_time": "",
+        "requirements": [],
+        "rewards": [],
+        "description": "https://twitch.facepunch.com/",
+        "image": "/media/campaigns/images/233a7dcd-1c1f-4876-9529-2071a7f0d30d.png",
+        "url": "https://twitch.facepunch.com/",
+        "account_link": "https://twitch.facepunch.com/connect",
+        "twitch_campaign_id": "233a7dcd-1c1f-4876-9529-2071a7f0d30d"
+      }
+    ],
+    "badges": [
+      {
+        "name": "Drop actif",
+        "icon": "🎁"
+      }
+    ],
+    "emotes": [],
     "id": 6
+  },
+  {
+    "name": "Helldivers 2",
+    "platform": "Steam",
+    "metric": 54264,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+    "appid": 553850,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 7
   },
   {
     "name": "Dead by Daylight",
     "platform": "Steam",
-    "metric": 59893,
+    "metric": 47925,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
@@ -188,30 +187,16 @@
       }
     ],
     "emotes": [],
-    "id": 7
-  },
-  {
-    "name": "Grand Theft Auto V",
-    "platform": "Steam",
-    "metric": 56576,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
-    "appid": 271590,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
     "id": 8
   },
   {
-    "name": "Helldivers 2",
+    "name": "Left 4 Dead 2",
     "platform": "Steam",
-    "metric": 50186,
+    "metric": 42394,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
-    "appid": 553850,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
+    "appid": 550,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -221,7 +206,7 @@
   {
     "name": "Baldur's Gate 3",
     "platform": "Steam",
-    "metric": 44632,
+    "metric": 38689,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
@@ -235,7 +220,7 @@
   {
     "name": "Palworld",
     "platform": "Steam",
-    "metric": 32186,
+    "metric": 38367,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
@@ -247,13 +232,13 @@
     "id": 11
   },
   {
-    "name": "Terraria",
+    "name": "Grand Theft Auto V",
     "platform": "Steam",
-    "metric": 25681,
+    "metric": 29962,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
-    "appid": 105600,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+    "appid": 271590,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -261,13 +246,13 @@
     "id": 12
   },
   {
-    "name": "Left 4 Dead 2",
+    "name": "Terraria",
     "platform": "Steam",
-    "metric": 25105,
+    "metric": 29854,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
-    "appid": 550,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "appid": 105600,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -277,7 +262,7 @@
   {
     "name": "Elden Ring",
     "platform": "Steam",
-    "metric": 23441,
+    "metric": 23703,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
@@ -312,7 +297,7 @@
   {
     "name": "Monster Hunter: World",
     "platform": "Steam",
-    "metric": 7190,
+    "metric": 12721,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",

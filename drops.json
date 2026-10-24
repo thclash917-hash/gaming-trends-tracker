@@ -255,21 +255,6 @@
     "twitch_campaign_id": "6d31797a-b6cc-4246-83e9-5710ba59eb0c"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "Fall Drops",
-    "start": "2026-10-21T14:09:25Z",
-    "end": "2026-10-23T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/65a349f3-eafb-4c12-b689-8443ac1c91b1.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "65a349f3-eafb-4c12-b689-8443ac1c91b1"
-  },
-  {
     "game": "Crossout",
     "status": "live",
     "campaign": "Crossout Remastered I",
@@ -508,6 +493,21 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa"
+  },
+  {
+    "game": "Epic Seven",
+    "status": "live",
+    "campaign": "E7WC 2026 Knockout Stage",
+    "start": "2026-10-24T03:00:00Z",
+    "end": "2026-10-24T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+    "image": "/media/campaigns/images/ec37d478-da23-4078-8cb7-b47a9b69327b.png",
+    "url": "https://epic7.onstove.com/drops/twitch",
+    "account_link": "https://epic7.onstove.com/drops/twitch",
+    "twitch_campaign_id": "ec37d478-da23-4078-8cb7-b47a9b69327b"
   },
   {
     "game": "EVE Online",
@@ -902,21 +902,6 @@
   {
     "game": "MARVEL Contest of Champions",
     "status": "live",
-    "campaign": "October Week 4 - CCP",
-    "start": "2026-10-23T17:00:00Z",
-    "end": "2026-10-30T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/907b637a-7ac0-49d2-b563-5b3dd79c29d4.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "907b637a-7ac0-49d2-b563-5b3dd79c29d4"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
     "campaign": "October Week 4",
     "start": "2026-10-23T17:00:00Z",
     "end": "2026-10-30T16:44:59.999Z",
@@ -928,6 +913,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "f5e7af8c-ea05-4cb1-8fea-1ab002cb7443"
+  },
+  {
+    "game": "MARVEL Contest of Champions",
+    "status": "live",
+    "campaign": "October Week 4 - CCP",
+    "start": "2026-10-23T17:00:00Z",
+    "end": "2026-10-30T16:44:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
+    "image": "/media/campaigns/images/907b637a-7ac0-49d2-b563-5b3dd79c29d4.png",
+    "url": "https://kid.kabam.com/v1/kid/account/login",
+    "account_link": "https://kid.kabam.com/v1/kid/account/login",
+    "twitch_campaign_id": "907b637a-7ac0-49d2-b563-5b3dd79c29d4"
   },
   {
     "game": "Marvel Rivals",
@@ -1033,6 +1033,21 @@
     "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
     "account_link": "https://mobiledungeon.com/",
     "twitch_campaign_id": "1b32252e-69ad-467c-a892-00bfc7206750"
+  },
+  {
+    "game": "Modern Warships",
+    "status": "live",
+    "campaign": "Fall Masters'26 Finals",
+    "start": "2026-10-24T00:00:00Z",
+    "end": "2026-10-25T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Get ready for a new Twitch Drops campaign dedicated to the Fall Masters 2026 PlayOffs!",
+    "image": "/media/campaigns/images/cdf07a4c-9930-42d5-b098-15886c615a43.png",
+    "url": "https://artstorm.com/en-US/news/fall-masters-2026-finals",
+    "account_link": "https://artstorm.com/cabinet/connect-twitch",
+    "twitch_campaign_id": "cdf07a4c-9930-42d5-b098-15886c615a43"
   },
   {
     "game": "Modern Warships",
@@ -1442,21 +1457,6 @@
   {
     "game": "Rust",
     "status": "live",
-    "campaign": "Twitch Rivals Backpack",
-    "start": "2026-10-23T17:45:00Z",
-    "end": "2026-10-23T23:14:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.facepunch.com/",
-    "image": "/media/campaigns/images/448a2c00-7b4d-4655-9d99-a2d9939b3143.png",
-    "url": "https://twitch.facepunch.com/",
-    "account_link": "https://twitch.facepunch.com/connect",
-    "twitch_campaign_id": "448a2c00-7b4d-4655-9d99-a2d9939b3143"
-  },
-  {
-    "game": "Rust",
-    "status": "live",
     "campaign": "Twitch Rivals BI Generals",
     "start": "2026-10-23T17:45:00Z",
     "end": "2026-11-01T23:58:59.999Z",
@@ -1683,16 +1683,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-23T00:00:00Z",
-    "end": "2026-10-23T23:59:59.999Z",
+    "start": "2026-10-24T00:00:00Z",
+    "end": "2026-10-24T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/3b4ff056-92dd-4625-98bc-2e649f7c3916.png",
+    "image": "/media/campaigns/images/fc0274e7-d50a-4409-b8d7-c86d9087dd07.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "3b4ff056-92dd-4625-98bc-2e649f7c3916"
+    "twitch_campaign_id": "fc0274e7-d50a-4409-b8d7-c86d9087dd07"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
@@ -1858,21 +1858,6 @@
     "url": "https://warthunder.com/en/news/10275-esports-watch-the-2026-grand-finals-and-earn-tricolor-smoke-more-twitch-drops-en",
     "account_link": "https://gss.gaijin.net/en/",
     "twitch_campaign_id": "1ea91d87-67e0-48b9-b49d-cf0b3b58eafd"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "PMCFQ - EgirlTenno",
-    "start": "2026-10-23T21:00:00Z",
-    "end": "2026-10-23T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch EgirlTenno's fundraising stream for 30 minutes to receive a random Furniture Decoration.",
-    "image": "/media/campaigns/images/9a5f452d-a7b8-45a7-85d0-1bd9de1e2a3e.jpeg",
-    "url": "https://forums.warframe.com/topic/1529238-pmcfq-community-fundraising-stream-schedule-october-19-25-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "9a5f452d-a7b8-45a7-85d0-1bd9de1e2a3e"
   },
   {
     "game": "Warhammer 40,000: Space Marine II",
