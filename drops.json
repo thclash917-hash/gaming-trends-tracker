@@ -107,17 +107,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "Master Class 26 (Oct 23)",
-    "start": "2026-10-23T12:00:00Z",
-    "end": "2026-10-24T11:59:59.999Z",
+    "campaign": "Master Class 26 (Oct 24)",
+    "start": "2026-10-24T12:00:00Z",
+    "end": "2026-10-25T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/0c37d6ca-7a96-44d7-b7f3-e249b068dee5.jpeg",
+    "image": "/media/campaigns/images/63db9169-a5bc-4fa4-9c79-72f9afe4d984.jpeg",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "0c37d6ca-7a96-44d7-b7f3-e249b068dee5"
+    "twitch_campaign_id": "63db9169-a5bc-4fa4-9c79-72f9afe4d984"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -268,6 +268,21 @@
     "url": "https://www.conquerorsblade.com/tc/twitch/myDrops/",
     "account_link": "https://www.conquerorsblade.com/tc/twitch/myDrops/",
     "twitch_campaign_id": "6d31797a-b6cc-4246-83e9-5710ba59eb0c"
+  },
+  {
+    "game": "Coryphaeus Championships",
+    "status": "live",
+    "campaign": "Fall Drops",
+    "start": "2026-10-24T12:03:17Z",
+    "end": "2026-10-25T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Coryphaeus Fall Drops",
+    "image": "/media/campaigns/images/69b628d0-d0e8-4a69-b110-e8395bba4f0a.png",
+    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+    "twitch_campaign_id": "69b628d0-d0e8-4a69-b110-e8395bba4f0a"
   },
   {
     "game": "Crossout",
@@ -510,34 +525,19 @@
     "twitch_campaign_id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa"
   },
   {
-    "game": "Epic Seven",
+    "game": "Escape from Tarkov",
     "status": "live",
-    "campaign": "E7WC 2026 Knockout Stage",
-    "start": "2026-10-24T03:00:00Z",
-    "end": "2026-10-24T14:59:59.999Z",
+    "campaign": "Souer GunGame",
+    "start": "2026-10-24T13:00:00Z",
+    "end": "2026-10-24T19:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
-    "image": "/media/campaigns/images/ec37d478-da23-4078-8cb7-b47a9b69327b.png",
-    "url": "https://epic7.onstove.com/drops/twitch",
-    "account_link": "https://epic7.onstove.com/drops/twitch",
-    "twitch_campaign_id": "ec37d478-da23-4078-8cb7-b47a9b69327b"
-  },
-  {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "ERM FINALS LCQ OPENSLOT",
-    "start": "2026-10-24T07:30:00Z",
-    "end": "2026-10-24T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/2d6348fd-aa74-4019-bb0b-9895fb5bbc67.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "2d6348fd-aa74-4019-bb0b-9895fb5bbc67"
+    "description": "GunGame",
+    "image": "/media/campaigns/images/3a88f5bb-31ab-4a83-913c-3359ab7e49e4.png",
+    "url": "https://www.twitch.tv/",
+    "account_link": "https://www.escapefromtarkov.com/profile",
+    "twitch_campaign_id": "3a88f5bb-31ab-4a83-913c-3359ab7e49e4"
   },
   {
     "game": "EVE Online",
@@ -613,6 +613,21 @@
     "url": "https://ubi.li/ZAUmV",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "437a3bed-7c38-4136-91e3-04cc9ce618b5"
+  },
+  {
+    "game": "Fortnite",
+    "status": "live",
+    "campaign": "Mobile Championship Day 1",
+    "start": "2026-10-24T15:00:00Z",
+    "end": "2026-10-24T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the first ever Mobile Championship and claim drops!",
+    "image": "/media/campaigns/images/d034ab0f-9687-40a0-9f2a-dc60e006ea5f.jpeg",
+    "url": "https://www.fortnite.com/twitch-drops",
+    "account_link": "https://www.fortnite.com/twitch-drops",
+    "twitch_campaign_id": "d034ab0f-9687-40a0-9f2a-dc60e006ea5f"
   },
   {
     "game": "FragPunk",
@@ -917,32 +932,17 @@
   {
     "game": "Marbles on Stream",
     "status": "live",
-    "campaign": "Marble Day 271",
-    "start": "2026-10-23T13:00:00Z",
-    "end": "2026-10-24T13:59:59.999Z",
+    "campaign": "MarbleFest - Oct'26-Day 6",
+    "start": "2026-10-24T14:00:00Z",
+    "end": "2026-10-25T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Marbles on Stream is the most welcoming stream interactive experience where a streamer can run the game and welcome anyone in their chat to participate with \"!play\". That's it!\n\nJoin in for exclusive prizes and keep an eye on our for how we evolve this event in the future. If you need assistance please join our discord. Discord.gg/pixelbypixelstudios ",
-    "image": "/media/campaigns/images/e33b6de5-0764-41df-bff3-189c9257fce7.png",
+    "image": "/media/campaigns/images/6e4ecfb2-4a13-48df-b5e2-a50d7f9f95cf.png",
     "url": "https://pixelbypixel.studio/twitch-drops/",
     "account_link": "https://pixelbypixel.studio/twitch-drops/connect",
-    "twitch_campaign_id": "e33b6de5-0764-41df-bff3-189c9257fce7"
-  },
-  {
-    "game": "MARVEL Contest of Champions",
-    "status": "live",
-    "campaign": "October Week 4",
-    "start": "2026-10-23T17:00:00Z",
-    "end": "2026-10-30T16:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
-    "image": "/media/campaigns/images/f5e7af8c-ea05-4cb1-8fea-1ab002cb7443.png",
-    "url": "https://kid.kabam.com/v1/kid/account/login",
-    "account_link": "https://kid.kabam.com/v1/kid/account/login",
-    "twitch_campaign_id": "f5e7af8c-ea05-4cb1-8fea-1ab002cb7443"
+    "twitch_campaign_id": "6e4ecfb2-4a13-48df-b5e2-a50d7f9f95cf"
   },
   {
     "game": "MARVEL Contest of Champions",
@@ -958,6 +958,21 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "907b637a-7ac0-49d2-b563-5b3dd79c29d4"
+  },
+  {
+    "game": "MARVEL Contest of Champions",
+    "status": "live",
+    "campaign": "October Week 4",
+    "start": "2026-10-23T17:00:00Z",
+    "end": "2026-10-30T16:44:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Is your Twitch account connected to your Kabam ID?  Make sure you do that right away before claiming any rewards!  We'll see you..   In.. The...  Battlerealm!",
+    "image": "/media/campaigns/images/f5e7af8c-ea05-4cb1-8fea-1ab002cb7443.png",
+    "url": "https://kid.kabam.com/v1/kid/account/login",
+    "account_link": "https://kid.kabam.com/v1/kid/account/login",
+    "twitch_campaign_id": "f5e7af8c-ea05-4cb1-8fea-1ab002cb7443"
   },
   {
     "game": "Marvel Rivals",
@@ -1292,17 +1307,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate10/23/26",
-    "start": "2026-10-23T13:00:00Z",
-    "end": "2026-10-24T12:59:59.999Z",
+    "campaign": "Affiliate10/24/26",
+    "start": "2026-10-24T13:00:00Z",
+    "end": "2026-10-25T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/cba23dd2-2cc4-444d-a335-05f74539895a.png",
+    "image": "/media/campaigns/images/5a7176e5-0e42-4f33-a139-3db8405865d1.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "cba23dd2-2cc4-444d-a335-05f74539895a"
+    "twitch_campaign_id": "5a7176e5-0e42-4f33-a139-3db8405865d1"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1442,17 +1457,17 @@
   {
     "game": "RavenQuest",
     "status": "live",
-    "campaign": "Fortune's Frontier #2",
-    "start": "2026-10-23T15:00:00Z",
-    "end": "2026-10-24T14:59:59.999Z",
+    "campaign": "Fortune's Frontier #3",
+    "start": "2026-10-24T15:00:00Z",
+    "end": "2026-10-25T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Fortune's Frontier Season 0 is live! Watch your favorite creators and earn Munk Songs to power up your runs on the Frontier.",
-    "image": "/media/campaigns/images/d338b487-507c-4060-85e6-2b8b059cc4f8.png",
+    "image": "/media/campaigns/images/124b208e-9746-4cc5-a5a9-b742e6158bcb.png",
     "url": "https://ravenquest.io/myaccount/twitch",
     "account_link": "https://ravenquest.io/myaccount/twitch",
-    "twitch_campaign_id": "d338b487-507c-4060-85e6-2b8b059cc4f8"
+    "twitch_campaign_id": "124b208e-9746-4cc5-a5a9-b742e6158bcb"
   },
   {
     "game": "Riders Republic",
@@ -1607,17 +1622,17 @@
   {
     "game": "SMITE 2",
     "status": "live",
-    "campaign": "October Week 4!",
-    "start": "2026-10-17T11:00:00Z",
-    "end": "2026-10-24T10:57:59.999Z",
+    "campaign": "Nov Wk 1 Hachiman!",
+    "start": "2026-10-24T11:00:00Z",
+    "end": "2026-10-31T10:57:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
-    "image": "/media/campaigns/images/eb306483-ba21-42d2-8e81-a4c0490d6796.jpeg",
+    "image": "/media/campaigns/images/db624cf2-7001-48b2-b58c-386f6bdd18ff.png",
     "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
     "account_link": "https://link.smite2.com/",
-    "twitch_campaign_id": "eb306483-ba21-42d2-8e81-a4c0490d6796"
+    "twitch_campaign_id": "db624cf2-7001-48b2-b58c-386f6bdd18ff"
   },
   {
     "game": "Splinterlands",
@@ -1978,6 +1993,21 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "5b32b5e7-7421-40ae-be32-e45b4df19a12"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Pink October EBR Race",
+    "start": "2026-10-24T13:00:00Z",
+    "end": "2026-10-24T18:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Pink October EBR Race",
+    "image": "/media/campaigns/images/7a9ed755-c406-460e-8083-f61a9fef5322.png",
+    "url": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "account_link": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "twitch_campaign_id": "7a9ed755-c406-460e-8083-f61a9fef5322"
   },
   {
     "game": "World of Tanks",
