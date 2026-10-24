@@ -32,17 +32,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 8 - #5/7",
-    "start": "2026-10-23T10:00:00Z",
-    "end": "2026-10-24T09:29:59.999Z",
+    "campaign": "Dragonfire 8 - #6/7",
+    "start": "2026-10-24T10:00:00Z",
+    "end": "2026-10-25T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/cbbbb1e9-f26b-4a9b-b94b-9059c2c7eb74.png",
+    "image": "/media/campaigns/images/70fcb2ed-71ab-4b8a-9091-097fbd9d4b31.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "cbbbb1e9-f26b-4a9b-b94b-9059c2c7eb74"
+    "twitch_campaign_id": "70fcb2ed-71ab-4b8a-9091-097fbd9d4b31"
   },
   {
     "game": "Alien: Isolation",
@@ -90,6 +90,21 @@
     "twitch_campaign_id": "853eaf12-2ecb-446c-b382-717c278f8af2"
   },
   {
+    "game": "Battlefield REDSEC",
+    "status": "live",
+    "campaign": "Open Series Cup #1",
+    "start": "2026-10-24T04:00:00Z",
+    "end": "2026-10-26T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune in and support your favorite creators streaming Battlefield REDSEC to unlock Twitch Drops celebrating the Open Series, where teams battle for a spot in the Elite Series.",
+    "image": "/media/campaigns/images/25833d0c-aeea-42f9-b20d-b8101c66995b.png",
+    "url": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
+    "account_link": "https://ea.com/twitchlinking",
+    "twitch_campaign_id": "25833d0c-aeea-42f9-b20d-b8101c66995b"
+  },
+  {
     "game": "Black Desert",
     "status": "live",
     "campaign": "Master Class 26 (Oct 23)",
@@ -122,17 +137,17 @@
   {
     "game": "Caliber",
     "status": "live",
-    "campaign": "S14D3 Shadow Arsenal",
-    "start": "2026-10-23T08:00:00Z",
-    "end": "2026-10-24T07:59:59.999Z",
+    "campaign": "S14D4 Shadow Arsenal",
+    "start": "2026-10-24T08:00:00Z",
+    "end": "2026-10-25T07:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch Drops кампания «Теневой арсенал». Смотрите трансляции и получайте ценные награды, чтобы эффективнее крушить прислужников зла!",
-    "image": "/media/campaigns/images/bdbdd917-4cd2-4e86-b51e-e9fb03174cc8.png",
+    "image": "/media/campaigns/images/6c2ec0b1-fe2f-4f46-a076-6a4a4b0793c2.png",
     "url": "https://playcaliber.com/ru/news/1338/khellouinskaia-twitch-drops-kampaniia-tenevoi-arsenal/",
     "account_link": "https://playcaliber.com/ru/",
-    "twitch_campaign_id": "bdbdd917-4cd2-4e86-b51e-e9fb03174cc8"
+    "twitch_campaign_id": "6c2ec0b1-fe2f-4f46-a076-6a4a4b0793c2"
   },
   {
     "game": "Call of Duty: Modern Warfare 4",
@@ -510,6 +525,21 @@
     "twitch_campaign_id": "ec37d478-da23-4078-8cb7-b47a9b69327b"
   },
   {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "ERM FINALS LCQ OPENSLOT",
+    "start": "2026-10-24T07:30:00Z",
+    "end": "2026-10-24T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/2d6348fd-aa74-4019-bb0b-9895fb5bbc67.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "2d6348fd-aa74-4019-bb0b-9895fb5bbc67"
+  },
+  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "Crimson Harvest Drop 5",
@@ -805,8 +835,8 @@
     "rewards": [],
     "description": "Watch streams and earn rewards for the full game!",
     "image": "/media/campaigns/images/fbc7d728-f353-4c97-87d7-b7974e7a2563.png",
-    "url": "https://store.steampowered.com/news/app/3225880/view/683016095346460623",
-    "account_link": "https://store.steampowered.com/news/app/3225880/view/683016095346460623",
+    "url": "https://store.steampowered.com/news/app/3225880/view/689772129194874420",
+    "account_link": "https://store.steampowered.com/news/app/3225880/view/689772129194874420",
     "twitch_campaign_id": "fbc7d728-f353-4c97-87d7-b7974e7a2563"
   },
   {
@@ -992,21 +1022,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Обновление 26.10: Часть 4",
-    "start": "2026-10-23T15:00:00Z",
-    "end": "2026-10-30T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
-    "image": "/media/campaigns/images/47a6829c-eb3b-4b57-9548-67d85bff3a1c.jpeg",
-    "url": "https://krbli.ru/4dDrG8N",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "47a6829c-eb3b-4b57-9548-67d85bff3a1c"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Lestakorabli - 26.10 #4",
     "start": "2026-10-23T15:00:00Z",
     "end": "2026-10-30T14:59:59.999Z",
@@ -1018,6 +1033,21 @@
     "url": "https://krbli.ru/3RW8D27",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "e8b15816-901d-44fb-8ac4-58bf2ebf06c4"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Обновление 26.10: Часть 4",
+    "start": "2026-10-23T15:00:00Z",
+    "end": "2026-10-30T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
+    "image": "/media/campaigns/images/47a6829c-eb3b-4b57-9548-67d85bff3a1c.jpeg",
+    "url": "https://krbli.ru/4dDrG8N",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "47a6829c-eb3b-4b57-9548-67d85bff3a1c"
   },
   {
     "game": "Mobile Dungeon",
@@ -1093,6 +1123,21 @@
     "url": "https://mhaur.bn-ent.net/twitch/en.php",
     "account_link": "https://account.bandainamcoid.com/sns.html?client_id=cosmos_025421_bnid&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
     "twitch_campaign_id": "0317f83e-9c61-4bc3-b484-41275e681eae"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "NBPL 10.24",
+    "start": "2026-10-24T08:00:00Z",
+    "end": "2026-10-24T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/6d9a5fb9-4ecf-4ab0-af2c-d484a8867268.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "6d9a5fb9-4ecf-4ab0-af2c-d484a8867268"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1472,17 +1517,17 @@
   {
     "game": "Scape",
     "status": "live",
-    "campaign": "Scape Day 5: Daydream",
-    "start": "2026-10-23T07:00:00Z",
-    "end": "2026-10-24T06:59:59.999Z",
+    "campaign": "Scape Day 6: Lava Lamp",
+    "start": "2026-10-24T07:00:00Z",
+    "end": "2026-10-25T06:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Daydream companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
-    "image": "/media/campaigns/images/22ef0f25-2fac-40db-a97d-600f93a11349.png",
+    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Lava Lamp companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
+    "image": "/media/campaigns/images/67f758ca-86ef-4a3a-93ad-4506fb650337.png",
     "url": "https://scapethegame.com/faq/twitch-drops",
     "account_link": "https://portal.scapethegame.com/connect/twitch",
-    "twitch_campaign_id": "22ef0f25-2fac-40db-a97d-600f93a11349"
+    "twitch_campaign_id": "67f758ca-86ef-4a3a-93ad-4506fb650337"
   },
   {
     "game": "Sea of Thieves",
