@@ -107,17 +107,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "Master Class 26 (Oct 24)",
-    "start": "2026-10-24T12:00:00Z",
-    "end": "2026-10-25T11:59:59.999Z",
+    "campaign": "Master Class 26 (Oct 25)",
+    "start": "2026-10-25T12:00:00Z",
+    "end": "2026-10-26T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/63db9169-a5bc-4fa4-9c79-72f9afe4d984.jpeg",
+    "image": "/media/campaigns/images/91f66298-9aea-4c6e-8b3d-a98c05abde2b.jpeg",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "63db9169-a5bc-4fa4-9c79-72f9afe4d984"
+    "twitch_campaign_id": "91f66298-9aea-4c6e-8b3d-a98c05abde2b"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -510,36 +510,6 @@
     "twitch_campaign_id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa"
   },
   {
-    "game": "Epic Seven",
-    "status": "live",
-    "campaign": "E7WC 2026 Knockout Stage",
-    "start": "2026-10-25T03:00:00Z",
-    "end": "2026-10-25T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
-    "image": "/media/campaigns/images/6ac20b1a-49a4-45d5-9e9f-cd6b55155f02.png",
-    "url": "https://epic7.onstove.com/drops/twitch",
-    "account_link": "https://epic7.onstove.com/drops/twitch",
-    "twitch_campaign_id": "6ac20b1a-49a4-45d5-9e9f-cd6b55155f02"
-  },
-  {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "ERM FINALS LCQ",
-    "start": "2026-10-25T07:30:00Z",
-    "end": "2026-10-25T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/0b3c076a-fdcb-437c-a13c-225d62927b8a.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "0b3c076a-fdcb-437c-a13c-225d62927b8a"
-  },
-  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "Crimson Harvest Drop 5",
@@ -617,6 +587,21 @@
   {
     "game": "Fortnite",
     "status": "live",
+    "campaign": "Mobile Championship Day 2",
+    "start": "2026-10-25T15:00:00Z",
+    "end": "2026-10-25T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the first ever Mobile Championship and claim drops!",
+    "image": "/media/campaigns/images/dd205c6b-e233-481a-b09f-d688ca36ba67.jpeg",
+    "url": "https://www.fortnite.com/twitch-drops",
+    "account_link": "https://www.fortnite.com/twitch-drops",
+    "twitch_campaign_id": "dd205c6b-e233-481a-b09f-d688ca36ba67"
+  },
+  {
+    "game": "Fortnite",
+    "status": "live",
     "campaign": "Inoxtag Icon Series",
     "start": "2026-10-24T20:30:00Z",
     "end": "2026-10-28T03:59:59.999Z",
@@ -662,6 +647,21 @@
   {
     "game": "Gray Zone Warfare",
     "status": "live",
+    "campaign": "Rogue Ops - Stage 2",
+    "start": "2026-10-25T13:00:00Z",
+    "end": "2026-10-28T12:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  \n\nWatch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and the Torn Jeans, Viktos Contractor, and Wayfarer Glasses to become the accountant agent.",
+    "image": "/media/campaigns/images/bde48349-bc63-4e98-bbaa-ba5fd903e28d.png",
+    "url": "https://twitch.grayzonewarfare.com",
+    "account_link": "https://twitch.grayzonewarfare.com",
+    "twitch_campaign_id": "bde48349-bc63-4e98-bbaa-ba5fd903e28d"
+  },
+  {
+    "game": "Gray Zone Warfare",
+    "status": "live",
     "campaign": "GZW Rogue Ops 0.5 Update",
     "start": "2026-10-22T16:00:00Z",
     "end": "2026-11-06T12:58:59.999Z",
@@ -673,21 +673,6 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "381d286a-8959-4bb1-a95e-dbd2ecf944a1"
-  },
-  {
-    "game": "Gray Zone Warfare",
-    "status": "live",
-    "campaign": "Rogue Ops - Stage 1",
-    "start": "2026-10-22T16:00:00Z",
-    "end": "2026-10-25T12:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  \n\nWatch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and the Tropical Vice and Sunset Patrol Hawaiian shirts to become a stylish smuggler.",
-    "image": "/media/campaigns/images/4873019a-a239-4f13-8029-c1ba33d73e72.png",
-    "url": "https://twitch.grayzonewarfare.com",
-    "account_link": "https://twitch.grayzonewarfare.com",
-    "twitch_campaign_id": "4873019a-a239-4f13-8029-c1ba33d73e72"
   },
   {
     "game": "Gray Zone Warfare",
@@ -947,17 +932,17 @@
   {
     "game": "Marbles on Stream",
     "status": "live",
-    "campaign": "MarbleFest - Oct'26-Day 6",
-    "start": "2026-10-24T14:00:00Z",
-    "end": "2026-10-25T13:59:59.999Z",
+    "campaign": "MarbleFest - Oct'26-Day 7",
+    "start": "2026-10-25T14:00:00Z",
+    "end": "2026-10-26T15:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Marbles on Stream is the most welcoming stream interactive experience where a streamer can run the game and welcome anyone in their chat to participate with \"!play\". That's it!\n\nJoin in for exclusive prizes and keep an eye on our for how we evolve this event in the future. If you need assistance please join our discord. Discord.gg/pixelbypixelstudios ",
-    "image": "/media/campaigns/images/6e4ecfb2-4a13-48df-b5e2-a50d7f9f95cf.png",
+    "image": "/media/campaigns/images/6dd11f2c-b7a3-4747-803d-57859dd6f986.png",
     "url": "https://pixelbypixel.studio/twitch-drops/",
     "account_link": "https://pixelbypixel.studio/twitch-drops/connect",
-    "twitch_campaign_id": "6e4ecfb2-4a13-48df-b5e2-a50d7f9f95cf"
+    "twitch_campaign_id": "6dd11f2c-b7a3-4747-803d-57859dd6f986"
   },
   {
     "game": "MARVEL Contest of Champions",
@@ -1352,17 +1337,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate10/24/26",
-    "start": "2026-10-24T13:00:00Z",
-    "end": "2026-10-25T12:59:59.999Z",
+    "campaign": "Affiliate10/25/26",
+    "start": "2026-10-25T13:00:00Z",
+    "end": "2026-10-26T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/5a7176e5-0e42-4f33-a139-3db8405865d1.png",
+    "image": "/media/campaigns/images/7c131167-5f64-466b-b2f5-a1d2cdee6e81.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "5a7176e5-0e42-4f33-a139-3db8405865d1"
+    "twitch_campaign_id": "7c131167-5f64-466b-b2f5-a1d2cdee6e81"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1547,17 +1532,17 @@
   {
     "game": "RavenQuest",
     "status": "live",
-    "campaign": "Fortune's Frontier #3",
-    "start": "2026-10-24T15:00:00Z",
-    "end": "2026-10-25T14:59:59.999Z",
+    "campaign": "Fortune's Frontier #4",
+    "start": "2026-10-25T15:00:00Z",
+    "end": "2026-10-26T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Fortune's Frontier Season 0 is live! Watch your favorite creators and earn Munk Songs to power up your runs on the Frontier.",
-    "image": "/media/campaigns/images/124b208e-9746-4cc5-a5a9-b742e6158bcb.png",
+    "image": "/media/campaigns/images/ec7b19ba-80e5-492e-9602-5a08860270d2.png",
     "url": "https://ravenquest.io/myaccount/twitch",
     "account_link": "https://ravenquest.io/myaccount/twitch",
-    "twitch_campaign_id": "124b208e-9746-4cc5-a5a9-b742e6158bcb"
+    "twitch_campaign_id": "ec7b19ba-80e5-492e-9602-5a08860270d2"
   },
   {
     "game": "Riders Republic",
