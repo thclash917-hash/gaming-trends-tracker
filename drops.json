@@ -32,17 +32,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 8 - #6/7",
-    "start": "2026-10-24T10:00:00Z",
-    "end": "2026-10-25T09:29:59.999Z",
+    "campaign": "Dragonfire 8 - #7/7",
+    "start": "2026-10-25T10:00:00Z",
+    "end": "2026-10-26T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/70fcb2ed-71ab-4b8a-9091-097fbd9d4b31.png",
+    "image": "/media/campaigns/images/b0a32767-3d07-476b-9579-23741d112f91.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "70fcb2ed-71ab-4b8a-9091-097fbd9d4b31"
+    "twitch_campaign_id": "b0a32767-3d07-476b-9579-23741d112f91"
   },
   {
     "game": "Alien: Isolation",
@@ -137,17 +137,17 @@
   {
     "game": "Caliber",
     "status": "live",
-    "campaign": "S14D4 Shadow Arsenal",
-    "start": "2026-10-24T08:00:00Z",
-    "end": "2026-10-25T07:59:59.999Z",
+    "campaign": "S14D5 Shadow Arsenal",
+    "start": "2026-10-25T08:00:00Z",
+    "end": "2026-10-26T07:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch Drops кампания «Теневой арсенал». Смотрите трансляции и получайте ценные награды, чтобы эффективнее крушить прислужников зла!",
-    "image": "/media/campaigns/images/6c2ec0b1-fe2f-4f46-a076-6a4a4b0793c2.png",
+    "image": "/media/campaigns/images/d362735c-2654-4fed-a5f5-673da0051ce4.png",
     "url": "https://playcaliber.com/ru/news/1338/khellouinskaia-twitch-drops-kampaniia-tenevoi-arsenal/",
     "account_link": "https://playcaliber.com/ru/",
-    "twitch_campaign_id": "6c2ec0b1-fe2f-4f46-a076-6a4a4b0793c2"
+    "twitch_campaign_id": "d362735c-2654-4fed-a5f5-673da0051ce4"
   },
   {
     "game": "Call of Duty: Modern Warfare 4",
@@ -525,6 +525,21 @@
     "twitch_campaign_id": "6ac20b1a-49a4-45d5-9e9f-cd6b55155f02"
   },
   {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "ERM FINALS LCQ",
+    "start": "2026-10-25T07:30:00Z",
+    "end": "2026-10-25T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/0b3c076a-fdcb-437c-a13c-225d62927b8a.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "0b3c076a-fdcb-437c-a13c-225d62927b8a"
+  },
+  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "Crimson Harvest Drop 5",
@@ -647,6 +662,21 @@
   {
     "game": "Gray Zone Warfare",
     "status": "live",
+    "campaign": "GZW Rogue Ops 0.5 Update",
+    "start": "2026-10-22T16:00:00Z",
+    "end": "2026-11-06T12:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  Watch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and a set of exclusive apparel to become a stylish smuggler, agent, or hacker.",
+    "image": "/media/campaigns/images/381d286a-8959-4bb1-a95e-dbd2ecf944a1.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "381d286a-8959-4bb1-a95e-dbd2ecf944a1"
+  },
+  {
+    "game": "Gray Zone Warfare",
+    "status": "live",
     "campaign": "Rogue Ops - Stage 1",
     "start": "2026-10-22T16:00:00Z",
     "end": "2026-10-25T12:58:59.999Z",
@@ -673,51 +703,6 @@
     "url": "https://twitch.grayzonewarfare.com",
     "account_link": "https://twitch.grayzonewarfare.com",
     "twitch_campaign_id": "97b4a33f-43a1-4166-bcda-f58b534b2c9b"
-  },
-  {
-    "game": "Gray Zone Warfare",
-    "status": "live",
-    "campaign": "GZW Rogue Ops 0.5 Update",
-    "start": "2026-10-22T16:00:00Z",
-    "end": "2026-11-06T12:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  Watch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and a set of exclusive apparel to become a stylish smuggler, agent, or hacker.",
-    "image": "/media/campaigns/images/381d286a-8959-4bb1-a95e-dbd2ecf944a1.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "381d286a-8959-4bb1-a95e-dbd2ecf944a1"
-  },
-  {
-    "game": "Halo Infinite",
-    "status": "live",
-    "campaign": "C9 OCT 24",
-    "start": "2026-10-24T16:00:00Z",
-    "end": "2026-10-25T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
-    "image": "/media/campaigns/images/fa9494e3-97a9-423a-94c2-2b93d43c6f89.png",
-    "url": "https://www.halowaypoint.com",
-    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
-    "twitch_campaign_id": "fa9494e3-97a9-423a-94c2-2b93d43c6f89"
-  },
-  {
-    "game": "Halo: The Master Chief Collection",
-    "status": "live",
-    "campaign": "SWAT -OCT24",
-    "start": "2026-10-24T17:00:00Z",
-    "end": "2026-10-25T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo: The Master Chief Collection!",
-    "image": "/media/campaigns/images/a83dcedb-1d56-46ab-a6c9-d5d82ccc3aa0.png",
-    "url": "https://www.halowaypoint.com",
-    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
-    "twitch_campaign_id": "a83dcedb-1d56-46ab-a6c9-d5d82ccc3aa0"
   },
   {
     "game": "Honkai Impact 3rd",
@@ -1172,17 +1157,17 @@
   {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
-    "campaign": "JS2 10.24 OFFICIAL",
-    "start": "2026-10-25T03:00:00Z",
-    "end": "2026-10-25T04:59:59.999Z",
+    "campaign": "NBPL 10.25",
+    "start": "2026-10-25T08:00:00Z",
+    "end": "2026-10-25T15:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/27b0b366-123d-4e54-a82a-d235a54c3376.png",
+    "image": "/media/campaigns/images/de13058e-c4b7-4124-9c6c-78331b74b2eb.png",
     "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
     "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "27b0b366-123d-4e54-a82a-d235a54c3376"
+    "twitch_campaign_id": "de13058e-c4b7-4124-9c6c-78331b74b2eb"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1245,6 +1230,21 @@
     "twitch_campaign_id": "b42d9f22-e860-4f26-bdd8-bd0a6b8a4b9f"
   },
   {
+    "game": "Night Crew",
+    "status": "live",
+    "campaign": "Exclusive Demon Skins",
+    "start": "2026-10-25T10:00:00Z",
+    "end": "2026-11-08T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "LAUNCH EXCLUSIVE - Demonic skins for all characters!",
+    "image": "/media/campaigns/images/56cf9e35-6322-4484-9f9b-7002092f1ac2.png",
+    "url": "https://nightcrew.upstart.games",
+    "account_link": "https://nightcrew.upstart.games",
+    "twitch_campaign_id": "56cf9e35-6322-4484-9f9b-7002092f1ac2"
+  },
+  {
     "game": "Night Crows",
     "status": "live",
     "campaign": "NC DROPS ALL (26_OCT)",
@@ -1273,6 +1273,21 @@
     "url": "https://www.nightcrows.com/en/notice/notice/758958",
     "account_link": "https://nightcrows.com/mypage/account",
     "twitch_campaign_id": "5f43889c-c819-428c-8419-64c639b8f4f3"
+  },
+  {
+    "game": "NMS Boxing",
+    "status": "live",
+    "campaign": "NMS 5",
+    "start": "2026-10-25T07:00:00Z",
+    "end": "2026-11-02T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch /jasontheween stream for 60 minutes to unlock the NMSBoxing emote for a limited time.",
+    "image": "/media/campaigns/images/8035a74a-d067-4c2e-815f-8fa17044aa24.png",
+    "url": "https://help.twitch.tv/s/article/how-to-use-emotes",
+    "account_link": "https://help.twitch.tv/s/article/how-to-use-emotes",
+    "twitch_campaign_id": "8035a74a-d067-4c2e-815f-8fa17044aa24"
   },
   {
     "game": "Once Human",
@@ -1622,17 +1637,17 @@
   {
     "game": "Scape",
     "status": "live",
-    "campaign": "Scape Day 6: Lava Lamp",
-    "start": "2026-10-24T07:00:00Z",
-    "end": "2026-10-25T06:59:59.999Z",
+    "campaign": "Scape Day 7: Steadfast",
+    "start": "2026-10-25T07:00:00Z",
+    "end": "2026-10-26T06:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Lava Lamp companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
-    "image": "/media/campaigns/images/67f758ca-86ef-4a3a-93ad-4506fb650337.png",
+    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Steadfast companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
+    "image": "/media/campaigns/images/c58525c6-2dc0-43af-a5e5-3cafe4b14b78.png",
     "url": "https://scapethegame.com/faq/twitch-drops",
     "account_link": "https://portal.scapethegame.com/connect/twitch",
-    "twitch_campaign_id": "67f758ca-86ef-4a3a-93ad-4506fb650337"
+    "twitch_campaign_id": "c58525c6-2dc0-43af-a5e5-3cafe4b14b78"
   },
   {
     "game": "Sea of Thieves",
