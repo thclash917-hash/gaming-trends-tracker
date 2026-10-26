@@ -1,50 +1,5 @@
 [
   {
-    "game": "ACE COMBAT 8: WINGS OF THEVE",
-    "status": "live",
-    "campaign": "ACE COMBAT 8 Nugget",
-    "start": "2026-09-28T22:00:00Z",
-    "end": "2026-10-26T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the ACE COMBAT 8 category during the game's launch!",
-    "image": "/media/campaigns/images/3640eef0-76ec-404e-8342-7c1b54d98b81.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "3640eef0-76ec-404e-8342-7c1b54d98b81"
-  },
-  {
-    "game": "Ace Combat Zero: The Belkan War",
-    "status": "live",
-    "campaign": "ACE COMBAT 8 Nugget",
-    "start": "2026-09-28T22:00:00Z",
-    "end": "2026-10-26T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned by subscribing or gifting a sub to a streamer in the ACE COMBAT 8 category during the game's launch!",
-    "image": "/media/campaigns/images/53817dac-8fdb-48cc-91b5-453570e05124.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "53817dac-8fdb-48cc-91b5-453570e05124"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "Dragonfire 8 - #7/7",
-    "start": "2026-10-25T10:00:00Z",
-    "end": "2026-10-26T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/b0a32767-3d07-476b-9579-23741d112f91.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "b0a32767-3d07-476b-9579-23741d112f91"
-  },
-  {
     "game": "Alien: Isolation",
     "status": "live",
     "campaign": "Alien: Isolation Horror",
@@ -90,36 +45,6 @@
     "twitch_campaign_id": "853eaf12-2ecb-446c-b382-717c278f8af2"
   },
   {
-    "game": "Battlefield REDSEC",
-    "status": "live",
-    "campaign": "Open Series Cup #1",
-    "start": "2026-10-24T04:00:00Z",
-    "end": "2026-10-26T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune in and support your favorite creators streaming Battlefield REDSEC to unlock Twitch Drops celebrating the Open Series, where teams battle for a spot in the Elite Series.",
-    "image": "/media/campaigns/images/25833d0c-aeea-42f9-b20d-b8101c66995b.png",
-    "url": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
-    "account_link": "https://ea.com/twitchlinking",
-    "twitch_campaign_id": "25833d0c-aeea-42f9-b20d-b8101c66995b"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "Master Class 26 (Oct 25)",
-    "start": "2026-10-25T12:00:00Z",
-    "end": "2026-10-26T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/91f66298-9aea-4c6e-8b3d-a98c05abde2b.jpeg",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "91f66298-9aea-4c6e-8b3d-a98c05abde2b"
-  },
-  {
     "game": "Blue Protocol: Star Resonance",
     "status": "live",
     "campaign": "Season 4 Special Drops",
@@ -133,21 +58,6 @@
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
     "twitch_campaign_id": "6cd9dfd0-ac14-4405-97fc-49f191925268"
-  },
-  {
-    "game": "Caliber",
-    "status": "live",
-    "campaign": "S14D5 Shadow Arsenal",
-    "start": "2026-10-25T08:00:00Z",
-    "end": "2026-10-26T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch Drops кампания «Теневой арсенал». Смотрите трансляции и получайте ценные награды, чтобы эффективнее крушить прислужников зла!",
-    "image": "/media/campaigns/images/d362735c-2654-4fed-a5f5-673da0051ce4.png",
-    "url": "https://playcaliber.com/ru/news/1338/khellouinskaia-twitch-drops-kampaniia-tenevoi-arsenal/",
-    "account_link": "https://playcaliber.com/ru/",
-    "twitch_campaign_id": "d362735c-2654-4fed-a5f5-673da0051ce4"
   },
   {
     "game": "Call of Duty: Modern Warfare 4",
@@ -332,17 +242,17 @@
   {
     "game": "Dead by Daylight",
     "status": "live",
-    "campaign": "DbD October of Horror III",
-    "start": "2026-10-19T04:00:00Z",
-    "end": "2026-10-26T03:59:59.999Z",
+    "campaign": "DbD: October of Horror IV",
+    "start": "2026-10-26T04:00:00Z",
+    "end": "2026-11-02T03:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "We're diving into a month full of Tricks and Treats, with four drops this October. Earn the third one between October 19 and October 25.",
-    "image": "/media/campaigns/images/1b22fe56-30f3-4326-869f-c6e8e59e7815.png",
+    "description": "We're diving into a month full of Tricks and Treats, with four drops this October. Earn the fourth one between October 26 and November 1.",
+    "image": "/media/campaigns/images/75064d8e-726d-45e6-9caa-26d66d49b993.png",
     "url": "https://account.bhvr.com/twitch/dbd",
     "account_link": "https://account.bhvr.com/twitch/dbd",
-    "twitch_campaign_id": "1b22fe56-30f3-4326-869f-c6e8e59e7815"
+    "twitch_campaign_id": "75064d8e-726d-45e6-9caa-26d66d49b993"
   },
   {
     "game": "Delta Force",
@@ -478,21 +388,6 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa"
-  },
-  {
-    "game": "EVE Online",
-    "status": "live",
-    "campaign": "Crimson Harvest Drop 5",
-    "start": "2026-10-23T12:41:00Z",
-    "end": "2026-10-26T10:57:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Yo dawg, we heard you like triangles. Now you can put a triangle on your spaceship and triangulate while you extirpate.",
-    "image": "/media/campaigns/images/15b6418b-1268-4c0d-9f59-79bfd378033d.jpeg",
-    "url": "https://www.eveonline.com/twitch",
-    "account_link": "https://www.eveonline.com/twitch",
-    "twitch_campaign_id": "15b6418b-1268-4c0d-9f59-79bfd378033d"
   },
   {
     "game": "Evil Pongon Game",
@@ -763,21 +658,6 @@
     "url": "https://www.legendofymir.com/en/news/notice/758959",
     "account_link": "https://www.legendofymir.com/mypage/account",
     "twitch_campaign_id": "8e15c074-d564-4bfa-8d14-a644696745cc"
-  },
-  {
-    "game": "Lenin Street Geek Shop",
-    "status": "live",
-    "campaign": "Lenin Street Geek Shop",
-    "start": "2026-10-20T06:05:46Z",
-    "end": "2026-10-26T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch streams and earn rewards for the full game!",
-    "image": "/media/campaigns/images/fbc7d728-f353-4c97-87d7-b7974e7a2563.png",
-    "url": "https://store.steampowered.com/news/app/3225880/view/689772129194874420",
-    "account_link": "https://store.steampowered.com/news/app/3225880/view/689772129194874420",
-    "twitch_campaign_id": "fbc7d728-f353-4c97-87d7-b7974e7a2563"
   },
   {
     "game": "Lineage II",
@@ -1052,17 +932,17 @@
   {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
-    "campaign": "JS2 Weekly 10.19",
-    "start": "2026-10-19T04:00:00Z",
-    "end": "2026-10-26T03:59:59.999Z",
+    "campaign": "JS2 Weekly 10.26",
+    "start": "2026-10-26T04:00:00Z",
+    "end": "2026-11-02T03:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/fede2520-a23a-435d-a47f-95cca352cf23.png",
+    "image": "/media/campaigns/images/96eb6e6e-7ff9-4d37-b0f1-16fe59884195.png",
     "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
     "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "fede2520-a23a-435d-a47f-95cca352cf23"
+    "twitch_campaign_id": "96eb6e6e-7ff9-4d37-b0f1-16fe59884195"
   },
   {
     "game": "NBA 2K27",
@@ -1262,21 +1142,6 @@
   {
     "game": "Overwatch",
     "status": "live",
-    "campaign": "OWCS Stage 3 Season",
-    "start": "2026-10-10T16:00:00Z",
-    "end": "2026-10-26T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate the OWCS Stage 3 Regular Season with special viewer rewards! Watch 1 hour to get the Prost Spray, 2 hours to get the Purrfect Afternoon Spray, 3 hours to get the Skål Spray, 4 hours to get the Banana Cat Spray, 6 hours to get the Autumn Vibes Name Card, 8 hours to get the Banana Cat Icon, and 10 hours to get an Esports Loot Box",
-    "image": "/media/campaigns/images/b4d74b43-1f76-4953-a980-83a68ea6b5ff.png",
-    "url": "https://esports.overwatch.com/en-us/rewards",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "b4d74b43-1f76-4953-a980-83a68ea6b5ff"
-  },
-  {
-    "game": "Overwatch",
-    "status": "live",
     "campaign": "Reign of Talon S5 Launch",
     "start": "2026-10-06T18:00:00Z",
     "end": "2026-11-03T07:59:59.999Z",
@@ -1363,21 +1228,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://twitch.tv",
     "twitch_campaign_id": "3ed1adc1-8f12-4d18-82ac-fd543f08722d"
-  },
-  {
-    "game": "Rainbow Six Siege",
-    "status": "live",
-    "campaign": "R6S S2 2026 19",
-    "start": "2026-10-17T05:00:00Z",
-    "end": "2026-10-26T04:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Rainbow Six Siege - Stage 2",
-    "image": "/media/campaigns/images/ef80b803-00ee-41e0-9223-18eee2499e41.png",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-    "account_link": "https://drops-register.ubi.com/#/en-US",
-    "twitch_campaign_id": "ef80b803-00ee-41e0-9223-18eee2499e41"
   },
   {
     "game": "Rainbow Six Siege",
@@ -1487,32 +1337,17 @@
   {
     "game": "Scape",
     "status": "live",
-    "campaign": "Scape Day 7: Steadfast",
-    "start": "2026-10-25T07:00:00Z",
-    "end": "2026-10-26T06:59:59.999Z",
+    "campaign": "Scape Day 8: Smitten",
+    "start": "2026-10-26T07:00:00Z",
+    "end": "2026-10-26T16:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Steadfast companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
-    "image": "/media/campaigns/images/c58525c6-2dc0-43af-a5e5-3cafe4b14b78.png",
+    "description": "Watch any live stream in the Scape category while today's campaign runs to get Scape rewards: 30 minutes for the Smitten companion, 60 minutes for the Flex emote and 90 minutes for the Came For The Clip player title. Your watch time adds up across streams and counts towards all three at once. Link your Twitch account to your Scape account at portal.scapethegame.com/connect/twitch, then claim your rewards in your Drops Inventory on Twitch. Forgot to link first? You can still link after you claim, up to 14 days after the campaign ends. The rewards are tied to your Scape account and can't be traded. They work in the free Scape demo during Steam Next Fest and carry over to the full game.",
+    "image": "/media/campaigns/images/26b9d1f4-1eee-4a11-adf8-6a8a2a9ab772.png",
     "url": "https://scapethegame.com/faq/twitch-drops",
     "account_link": "https://portal.scapethegame.com/connect/twitch",
-    "twitch_campaign_id": "c58525c6-2dc0-43af-a5e5-3cafe4b14b78"
-  },
-  {
-    "game": "Sea of Thieves",
-    "status": "live",
-    "campaign": "S21 Community Weekend",
-    "start": "2026-10-23T10:00:00Z",
-    "end": "2026-10-26T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "There’s nothing a pirate on the Sea of Thieves likes more than free loot – and with Twitch Drops, you can claim some just by linking your Twitch account to your Sea of Thieves account and tuning in to our special events! Twitch Drops are free items awarded to players for watching participating streamers during promotional activities. Sign up now to be eligible for the latest Twitch Drops event!",
-    "image": "/media/campaigns/images/99130609-9f81-4454-b1a8-dcd46eb47674.jpeg",
-    "url": "https://www.seaofthieves.com/twitch-drops",
-    "account_link": "https://www.seaofthieves.com/twitch-drops",
-    "twitch_campaign_id": "99130609-9f81-4454-b1a8-dcd46eb47674"
+    "twitch_campaign_id": "26b9d1f4-1eee-4a11-adf8-6a8a2a9ab772"
   },
   {
     "game": "Shakes and Fidget",
