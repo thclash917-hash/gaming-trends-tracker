@@ -990,6 +990,21 @@
     "twitch_campaign_id": "01c50678-d65a-4286-b229-35ad458af3d8"
   },
   {
+    "game": "MARVEL Strike Force",
+    "status": "live",
+    "campaign": "MSF | Oct Week 5",
+    "start": "2026-10-26T21:00:00Z",
+    "end": "2026-11-02T20:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Cheer on your favorite creators as they join the fight against The Serpent and earn some sweet in-game rewards for watching!",
+    "image": "/media/campaigns/images/8f49901e-4cf9-46d9-a559-441e396959da.png",
+    "url": "https://marvelstrikeforce.com/twitch",
+    "account_link": "https://marvelstrikeforce.com/twitch",
+    "twitch_campaign_id": "8f49901e-4cf9-46d9-a559-441e396959da"
+  },
+  {
     "game": "Mir Korabley",
     "status": "live",
     "campaign": "Обновление 26.10: Часть 4",
@@ -1350,36 +1365,6 @@
     "twitch_campaign_id": "cfdb7d07-2d7b-4487-889e-c4b83421d803"
   },
   {
-    "game": "Pokémon GO",
-    "status": "live",
-    "campaign": "2027 Puebla GO Drops",
-    "start": "2026-10-24T15:30:00Z",
-    "end": "2026-10-26T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://trainer.pokemon.com/rewards",
-    "image": "/media/campaigns/images/57f85952-6bc8-4c5d-a18e-0fb4fe4fc6ff.png",
-    "url": "https://trainer.pokemon.com/rewards",
-    "account_link": "https://trainer.pokemon.com/rewards",
-    "twitch_campaign_id": "57f85952-6bc8-4c5d-a18e-0fb4fe4fc6ff"
-  },
-  {
-    "game": "Pokémon Trading Card Game",
-    "status": "live",
-    "campaign": "2027 Puebla JCC Drops",
-    "start": "2026-10-24T16:30:00Z",
-    "end": "2026-10-26T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://trainer.pokemon.com/rewards",
-    "image": "/media/campaigns/images/6220f0ee-7f25-4d40-904a-2d567b248c9f.png",
-    "url": "https://trainer.pokemon.com/rewards",
-    "account_link": "https://trainer.pokemon.com/rewards",
-    "twitch_campaign_id": "6220f0ee-7f25-4d40-904a-2d567b248c9f"
-  },
-  {
     "game": "QSMP",
     "status": "live",
     "campaign": "Quackity's QSMP2 Season 2",
@@ -1648,21 +1633,6 @@
     "url": "https://www.reachthefinals.com/twitch",
     "account_link": "https://embark-games.embark.net/",
     "twitch_campaign_id": "aefa907c-43d5-4187-beed-4576c246ef7b"
-  },
-  {
-    "game": "The Quinfall",
-    "status": "live",
-    "campaign": "October Drops",
-    "start": "2026-10-26T00:00:00Z",
-    "end": "2026-10-26T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/a215306c-b599-470b-b9a7-265f84b21660.png",
-    "url": "https://www.quinfall.com/twitch-drops",
-    "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "a215306c-b599-470b-b9a7-265f84b21660"
   },
   {
     "game": "The Witcher 3: Wild Hunt",
