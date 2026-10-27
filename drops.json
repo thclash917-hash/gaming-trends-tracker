@@ -2,21 +2,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 6 - #2/7",
-    "start": "2026-10-27T10:00:00Z",
-    "end": "2026-10-28T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/00883b63-70cf-4b87-939b-e9adc024dd30.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "00883b63-70cf-4b87-939b-e9adc024dd30"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "Dragonfire 9 - #2/7",
     "start": "2026-10-27T10:00:00Z",
     "end": "2026-10-28T09:29:59.999Z",
@@ -28,6 +13,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "88b54374-7773-463a-a802-d59db42f1f8a"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 6 - #2/7",
+    "start": "2026-10-27T10:00:00Z",
+    "end": "2026-10-28T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/00883b63-70cf-4b87-939b-e9adc024dd30.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "00883b63-70cf-4b87-939b-e9adc024dd30"
   },
   {
     "game": "Alien: Isolation",
@@ -767,6 +767,21 @@
   {
     "game": "League of Legends",
     "status": "live",
+    "campaign": "True Damage Chat Badge",
+    "start": "2026-10-27T16:00:00Z",
+    "end": "2026-11-07T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the 2026 League of Legends World Championship to unlock your favorite bands' chat badges on Twitch!",
+    "image": "/media/campaigns/images/ee4a624d-8452-4396-8925-7da45ee2671a.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "ee4a624d-8452-4396-8925-7da45ee2671a"
+  },
+  {
+    "game": "League of Legends",
+    "status": "live",
     "campaign": "Worlds - Sub Drop Pt. 1",
     "start": "2026-10-21T18:00:00Z",
     "end": "2026-11-06T17:58:59.999Z",
@@ -930,21 +945,6 @@
     "twitch_campaign_id": "2af30b0f-945d-434b-9deb-8161fdae8229"
   },
   {
-    "game": "MARVEL SNAP",
-    "status": "live",
-    "campaign": "Haunted Drops",
-    "start": "2026-10-19T19:05:00Z",
-    "end": "2026-10-27T18:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch your favorite creators play Draft and claim great rewards",
-    "image": "/media/campaigns/images/01c50678-d65a-4286-b229-35ad458af3d8.png",
-    "url": "https://www.marvelsnap.com/twitchdrops",
-    "account_link": "https://www.marvelsnap.com/twitchdrops",
-    "twitch_campaign_id": "01c50678-d65a-4286-b229-35ad458af3d8"
-  },
-  {
     "game": "MARVEL Strike Force",
     "status": "live",
     "campaign": "MSF | Oct Week 5",
@@ -962,21 +962,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Обновление 26.10: Часть 4",
-    "start": "2026-10-23T15:00:00Z",
-    "end": "2026-10-30T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
-    "image": "/media/campaigns/images/47a6829c-eb3b-4b57-9548-67d85bff3a1c.jpeg",
-    "url": "https://krbli.ru/4dDrG8N",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "47a6829c-eb3b-4b57-9548-67d85bff3a1c"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Lestakorabli - 26.10 #4",
     "start": "2026-10-23T15:00:00Z",
     "end": "2026-10-30T14:59:59.999Z",
@@ -988,6 +973,21 @@
     "url": "https://krbli.ru/3RW8D27",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "e8b15816-901d-44fb-8ac4-58bf2ebf06c4"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Обновление 26.10: Часть 4",
+    "start": "2026-10-23T15:00:00Z",
+    "end": "2026-10-30T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
+    "image": "/media/campaigns/images/47a6829c-eb3b-4b57-9548-67d85bff3a1c.jpeg",
+    "url": "https://krbli.ru/4dDrG8N",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "47a6829c-eb3b-4b57-9548-67d85bff3a1c"
   },
   {
     "game": "Mobile Dungeon",
@@ -1202,21 +1202,6 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Official 25",
-    "start": "2026-10-26T13:00:00Z",
-    "end": "2026-11-02T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/20045463-b9ab-4226-929b-4e2f129e880f.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "20045463-b9ab-4226-929b-4e2f129e880f"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
     "campaign": "Laptophound 25",
     "start": "2026-10-26T13:00:00Z",
     "end": "2026-11-02T12:59:59.999Z",
@@ -1228,6 +1213,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "944d42e3-4932-4bc9-a32e-e0dd0b0fea1d"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "Official 25",
+    "start": "2026-10-26T13:00:00Z",
+    "end": "2026-11-02T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/20045463-b9ab-4226-929b-4e2f129e880f.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "20045463-b9ab-4226-929b-4e2f129e880f"
   },
   {
     "game": "Overwatch",
@@ -1243,6 +1243,21 @@
     "url": "https://us.forums.blizzard.com/en/overwatch/t/reign-of-talon-season-5-launch-twitch-drops/1042026",
     "account_link": "https://account.battle.net/connections",
     "twitch_campaign_id": "dfa9c27f-877b-417a-8a49-279ecf0fbb15"
+  },
+  {
+    "game": "Palia",
+    "status": "live",
+    "campaign": "Hearty Homecoming",
+    "start": "2026-10-27T18:00:00Z",
+    "end": "2026-11-17T17:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate the harvest season with Fall’s Faire: Hearty Homecoming (patch 0.208) Twitch Drops! Tune-in to your favorite Palia creators and earn rewards that help you cook up A Feast for Thought with Jina, collect Pumpkin Pods, and cuddle up with a Fall Flutterfox Plush!",
+    "image": "/media/campaigns/images/d6a79a3e-fd63-43ed-906d-3a8443cd8184.png",
+    "url": "https://palia.com/news/208-twitch-drops",
+    "account_link": "https://accounts.palia.com",
+    "twitch_campaign_id": "d6a79a3e-fd63-43ed-906d-3a8443cd8184"
   },
   {
     "game": "Phasmophobia",
@@ -1367,32 +1382,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 200",
-    "start": "2026-10-26T17:59:00Z",
-    "end": "2026-10-27T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/b1a495b2-99bd-43a9-932b-e1665e3cb042.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "b1a495b2-99bd-43a9-932b-e1665e3cb042"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "ROW Drop 629",
-    "start": "2026-10-26T17:59:00Z",
-    "end": "2026-10-27T17:56:59.999Z",
+    "campaign": "ROW Drop 630",
+    "start": "2026-10-27T17:59:00Z",
+    "end": "2026-10-28T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/7eaf0be7-b4b6-48f1-840b-5d8aba3cc193.jpeg",
+    "image": "/media/campaigns/images/5f319798-ad86-435d-9598-744421b8a3ef.png",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "7eaf0be7-b4b6-48f1-840b-5d8aba3cc193"
+    "twitch_campaign_id": "5f319798-ad86-435d-9598-744421b8a3ef"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 201",
+    "start": "2026-10-27T17:59:00Z",
+    "end": "2026-10-28T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/eb280ef7-5874-4fb3-a36b-88e2d76784f1.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "eb280ef7-5874-4fb3-a36b-88e2d76784f1"
   },
   {
     "game": "Rust",
@@ -1468,36 +1483,6 @@
     "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
     "account_link": "https://splinterlands.com/user/account-socials",
     "twitch_campaign_id": "587f7e5a-6994-4add-8c58-ef4bcfc70bc6"
-  },
-  {
-    "game": "Star Citizen",
-    "status": "live",
-    "campaign": "RSI Discovery",
-    "start": "2026-10-16T16:30:00Z",
-    "end": "2026-10-27T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "RSI Discovery Month is here, and so are new Twitch Drops! Celebrate the legacy of the Constellation and the arrival of its next generation by watching any Drops-enabled Star Citizen stream for a total of four hours to unlock the Constellation Phoenix Commemorative Display for free. Inspired by the signature fiery insignia found aboard the classic Constellation Phoenix, this holographic display brings a piece of RSI history straight to your home or hangar.",
-    "image": "/media/campaigns/images/3b2d577a-fc2a-49eb-a07a-a5866937bef5.jpeg",
-    "url": "https://robertsspaceindustries.com/comm-link/transmission/21341-Twitch-Drops-RSI-Discovery-Month",
-    "account_link": "https://robertsspaceindustries.com/sign-in",
-    "twitch_campaign_id": "3b2d577a-fc2a-49eb-a07a-a5866937bef5"
-  },
-  {
-    "game": "Star Citizen",
-    "status": "live",
-    "campaign": "RSI Discovery",
-    "start": "2026-10-14T15:30:00Z",
-    "end": "2026-10-27T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "RSI Discovery Month is here, and so are new Twitch Drops! Celebrate the legacy of the Constellation and the arrival of its next generation by watching any Drops-enabled Star Citizen stream for a total of four hours to unlock the Constellation Phoenix Commemorative Display for free. Inspired by the signature fiery insignia found aboard the classic Constellation Phoenix, this holographic display brings a piece of RSI history straight to your home or hangar.",
-    "image": "/media/campaigns/images/37d0e013-d0bf-49be-bb0a-f71f34577ab6.jpeg",
-    "url": "https://robertsspaceindustries.com/comm-link/transmission/21341-Twitch-Drops-RSI-Discovery-Month",
-    "account_link": "https://robertsspaceindustries.com/sign-in",
-    "twitch_campaign_id": "37d0e013-d0bf-49be-bb0a-f71f34577ab6"
   },
   {
     "game": "Stella Sora",
@@ -1678,6 +1663,21 @@
     "url": "https://warthunder.com/en/news/10275-esports-watch-the-2026-grand-finals-and-earn-tricolor-smoke-more-twitch-drops-en",
     "account_link": "https://gss.gaijin.net/en/",
     "twitch_campaign_id": "1ea91d87-67e0-48b9-b49d-cf0b3b58eafd"
+  },
+  {
+    "game": "Warframe",
+    "status": "live",
+    "campaign": "PMCFQ - kirarahime",
+    "start": "2026-10-27T21:00:00Z",
+    "end": "2026-10-27T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch kirarahime's fundraising stream for 30 minutes to receive a random Domestik Drone.",
+    "image": "/media/campaigns/images/889b346e-b4e9-4a1a-93e9-5539c04d0d70.jpeg",
+    "url": "https://forums.warframe.com/topic/1530491-pmcfq-community-fundraising-stream-schedule-october-26-31-2026/",
+    "account_link": "https://www.warframe.com/user",
+    "twitch_campaign_id": "889b346e-b4e9-4a1a-93e9-5539c04d0d70"
   },
   {
     "game": "Warhammer 40,000: Space Marine II",
