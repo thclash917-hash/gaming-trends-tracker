@@ -2,21 +2,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 9 - #2/7",
-    "start": "2026-10-27T10:00:00Z",
-    "end": "2026-10-28T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/88b54374-7773-463a-a802-d59db42f1f8a.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "88b54374-7773-463a-a802-d59db42f1f8a"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "AOCP Flamescale 6 - #2/7",
     "start": "2026-10-27T10:00:00Z",
     "end": "2026-10-28T09:29:59.999Z",
@@ -28,6 +13,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "00883b63-70cf-4b87-939b-e9adc024dd30"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "Dragonfire 9 - #2/7",
+    "start": "2026-10-27T10:00:00Z",
+    "end": "2026-10-28T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+    "image": "/media/campaigns/images/88b54374-7773-463a-a802-d59db42f1f8a.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "88b54374-7773-463a-a802-d59db42f1f8a"
   },
   {
     "game": "Alien: Isolation",
@@ -375,21 +375,6 @@
     "twitch_campaign_id": "2519eaa5-981e-4861-8b03-361dd002cfa4"
   },
   {
-    "game": "Doomsday: Last Survivors",
-    "status": "live",
-    "campaign": "Twitch Drops",
-    "start": "2026-09-30T09:05:57Z",
-    "end": "2026-10-27T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Join our Drops to earn rewards and an exclusive Twitch 67 Emote! Each IGG ID can redeem the drops only once.",
-    "image": "/media/campaigns/images/d7095399-62d2-4ff7-bb73-dcbf1f513ec8.png",
-    "url": "https://event.igg.com/twitch/drops?code=dls_drops",
-    "account_link": "https://event.igg.com/twitch/drops?code=dls_drops",
-    "twitch_campaign_id": "d7095399-62d2-4ff7-bb73-dcbf1f513ec8"
-  },
-  {
     "game": "DRAGON BALL GEKISHIN SQUADRA",
     "status": "live",
     "campaign": "SQUADRA SEASON 7.2 Drops",
@@ -538,36 +523,6 @@
     "url": "https://ubi.li/ZAUmV",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "437a3bed-7c38-4136-91e3-04cc9ce618b5"
-  },
-  {
-    "game": "Fortnite",
-    "status": "live",
-    "campaign": "Solo FNCS",
-    "start": "2026-10-26T16:30:00Z",
-    "end": "2026-10-28T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "We're back with Solo FNCS! Watch for 30 minutes to get the Teal Knight's Kick Spray!",
-    "image": "/media/campaigns/images/f6d00be0-6d15-467a-afb6-e452e7fd68d7.png",
-    "url": "https://www.fortnite.com/twitch-drops",
-    "account_link": "https://www.fortnite.com/twitch-drops",
-    "twitch_campaign_id": "f6d00be0-6d15-467a-afb6-e452e7fd68d7"
-  },
-  {
-    "game": "Fortnite",
-    "status": "live",
-    "campaign": "Inoxtag Icon Series",
-    "start": "2026-10-24T20:30:00Z",
-    "end": "2026-10-28T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Inoxtag and claim a Team Croutons Spray and the Inoxtag’s Vista Loading Screen!",
-    "image": "/media/campaigns/images/65bead42-1c5c-4df3-b4d6-437f8a2bf2e7.jpeg",
-    "url": "https://www.fortnite.com/twitch-drops",
-    "account_link": "https://www.fortnite.com/twitch-drops",
-    "twitch_campaign_id": "65bead42-1c5c-4df3-b4d6-437f8a2bf2e7"
   },
   {
     "game": "FragPunk",
@@ -962,21 +917,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Lestakorabli - 26.10 #4",
-    "start": "2026-10-23T15:00:00Z",
-    "end": "2026-10-30T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
-    "image": "/media/campaigns/images/e8b15816-901d-44fb-8ac4-58bf2ebf06c4.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "e8b15816-901d-44fb-8ac4-58bf2ebf06c4"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Обновление 26.10: Часть 4",
     "start": "2026-10-23T15:00:00Z",
     "end": "2026-10-30T14:59:59.999Z",
@@ -988,6 +928,21 @@
     "url": "https://krbli.ru/4dDrG8N",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "47a6829c-eb3b-4b57-9548-67d85bff3a1c"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Lestakorabli - 26.10 #4",
+    "start": "2026-10-23T15:00:00Z",
+    "end": "2026-10-30T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
+    "image": "/media/campaigns/images/e8b15816-901d-44fb-8ac4-58bf2ebf06c4.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "e8b15816-901d-44fb-8ac4-58bf2ebf06c4"
   },
   {
     "game": "Mobile Dungeon",
@@ -1033,21 +988,6 @@
     "url": "https://artstorm.com/news/twitch-drops-leviathan-harvest",
     "account_link": "https://artstorm.com/cabinet/connect-twitch",
     "twitch_campaign_id": "efb9b018-9c9e-4721-8659-6690bfd8cb63"
-  },
-  {
-    "game": "My Hero Ultra Rumble",
-    "status": "live",
-    "campaign": "Twitch Drops campaign 3rd",
-    "start": "2026-10-01T08:00:00Z",
-    "end": "2026-10-28T03:28:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Obtain free in-game items by watching \"MY HERO ULTRA RUMBLE\" live streams on Twitch.tv during the campaign!\"",
-    "image": "/media/campaigns/images/0317f83e-9c61-4bc3-b484-41275e681eae.png",
-    "url": "https://mhaur.bn-ent.net/twitch/en.php",
-    "account_link": "https://account.bandainamcoid.com/sns.html?client_id=cosmos_025421_bnid&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
-    "twitch_campaign_id": "0317f83e-9c61-4bc3-b484-41275e681eae"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1548,16 +1488,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-27T00:00:00Z",
-    "end": "2026-10-27T23:59:59.999Z",
+    "start": "2026-10-28T00:00:00Z",
+    "end": "2026-10-28T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/c7a03c51-6868-4cfc-bff4-6616797cc35d.png",
+    "image": "/media/campaigns/images/beab118b-b5b0-411f-8957-1343393682b0.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "c7a03c51-6868-4cfc-bff4-6616797cc35d"
+    "twitch_campaign_id": "beab118b-b5b0-411f-8957-1343393682b0"
   },
   {
     "game": "UFL",
@@ -1603,6 +1543,21 @@
     "url": "https://valorantesports.com/en-US/valorantesports/news/valorant-game-changers-championship-2026-everything-you-need-to-know",
     "account_link": "https://twitch.tv/settings/connections#riot-connection",
     "twitch_campaign_id": "a27bf158-7088-4161-9454-c9aa882e7e3b"
+  },
+  {
+    "game": "Vampir",
+    "status": "live",
+    "campaign": "VAMPIR Drops Event",
+    "start": "2026-10-28T02:00:00Z",
+    "end": "2026-11-10T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Vampir Drops Test",
+    "image": "/media/campaigns/images/7e53b036-f71b-4d07-a71a-578ed77c9332.png",
+    "url": "https://vampirgb.netmarble.com/drops",
+    "account_link": "https://vampirgb.netmarble.com/drops",
+    "twitch_campaign_id": "7e53b036-f71b-4d07-a71a-578ed77c9332"
   },
   {
     "game": "Vaultbreakers",
@@ -1663,21 +1618,6 @@
     "url": "https://warthunder.com/en/news/10275-esports-watch-the-2026-grand-finals-and-earn-tricolor-smoke-more-twitch-drops-en",
     "account_link": "https://gss.gaijin.net/en/",
     "twitch_campaign_id": "1ea91d87-67e0-48b9-b49d-cf0b3b58eafd"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "PMCFQ - kirarahime",
-    "start": "2026-10-27T21:00:00Z",
-    "end": "2026-10-27T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch kirarahime's fundraising stream for 30 minutes to receive a random Domestik Drone.",
-    "image": "/media/campaigns/images/889b346e-b4e9-4a1a-93e9-5539c04d0d70.jpeg",
-    "url": "https://forums.warframe.com/topic/1530491-pmcfq-community-fundraising-stream-schedule-october-26-31-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "889b346e-b4e9-4a1a-93e9-5539c04d0d70"
   },
   {
     "game": "Warhammer 40,000: Space Marine II",
@@ -1918,21 +1858,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "18ae2563-22e9-4250-8734-3f1b6caa50e5"
-  },
-  {
-    "game": "Wuthering Waves",
-    "status": "live",
-    "campaign": "V3.7 Wuthering Waves",
-    "start": "2026-09-30T03:00:00Z",
-    "end": "2026-10-28T02:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The V3.7 Wuthering Waves Twitch Drops event has commenced!  By streaming Wuthering Waves, you enable your viewers to claim multiple rewards, including the Astrite!  Hasten to broadcast Wuthering Waves, and bestow rewards upon your devoted audience!",
-    "image": "/media/campaigns/images/8146a56b-1e86-46b4-ae62-628f218f3ce9.jpeg",
-    "url": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
-    "account_link": "https://twitchdrops-wutheringwaves.kurogames-global.com/?source=twitch",
-    "twitch_campaign_id": "8146a56b-1e86-46b4-ae62-628f218f3ce9"
   },
   {
     "game": "Zenless Zone Zero",
