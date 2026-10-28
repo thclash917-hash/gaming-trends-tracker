@@ -1,5 +1,20 @@
 [
   {
+    "game": "AION 2",
+    "status": "live",
+    "campaign": "Halloween Celebration",
+    "start": "2026-10-28T17:00:00Z",
+    "end": "2026-11-04T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate Halloween by watching any AION2 stream and earn exclusive in-game rewards this spooky season.",
+    "image": "/media/campaigns/images/9c45c558-e191-4980-96af-83a4c811c25a.png",
+    "url": "https://aion2.plaync.com/en-us/twitchdrops/index",
+    "account_link": "https://id.plaync.com/account/connect/twitch?appGroupCode=aion2global",
+    "twitch_campaign_id": "9c45c558-e191-4980-96af-83a4c811c25a"
+  },
+  {
     "game": "Albion Online",
     "status": "live",
     "campaign": "Dragonfire 9 - #3/7",
@@ -360,21 +375,6 @@
     "twitch_campaign_id": "3061af39-49c5-4137-90a8-75837d5917ec"
   },
   {
-    "game": "Disney Dreamlight Valley",
-    "status": "live",
-    "campaign": "Keepsake Sea Showcase",
-    "start": "2026-10-21T16:00:00Z",
-    "end": "2026-10-28T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive in-game rewards by watching any participating streams of Disney Dreamlight Valley!",
-    "image": "/media/campaigns/images/7c9c09a6-bc91-448f-862b-679ea9a9ca4d.png",
-    "url": "https://disneydreamlightvalley.com/twitch-drops",
-    "account_link": "https://disneydreamlightvalley.com/twitch-drops",
-    "twitch_campaign_id": "7c9c09a6-bc91-448f-862b-679ea9a9ca4d"
-  },
-  {
     "game": "Don't Starve Together",
     "status": "live",
     "campaign": "Butterfly Wardrobe",
@@ -555,6 +555,21 @@
     "twitch_campaign_id": "c3c9db21-841c-4a9e-bf18-018d501707a4"
   },
   {
+    "game": "GODDESS OF VICTORY: NIKKE",
+    "status": "live",
+    "campaign": "NIKKE 4th Anniv. Drops",
+    "start": "2026-10-28T15:00:00Z",
+    "end": "2026-11-18T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate the 4th Anniversary of GODDESS OF VICTORY: NIKKE with Twitch Drops!\nFrom October 29 to November 18, 2026 (UTC+9), watch Drops-enabled streams in the GODDESS OF VICTORY: NIKKE category to earn exclusive in-game rewards!\nWatch for up to 2 hours to earn Gems, Ultra Boost Modules, and more!\nPlease Note: Rewards can only be claimed from either the Twitch Drops event or the CHZZK Drops event, not both. ",
+    "image": "/media/campaigns/images/3fbad26b-3224-4246-ad9d-0a2c56e39d2b.png",
+    "url": "https://nikke-en.com/act/a2026twitchdrops/index.html",
+    "account_link": "https://nikke-en.com/act/a2026twitchdrops/index.html",
+    "twitch_campaign_id": "3fbad26b-3224-4246-ad9d-0a2c56e39d2b"
+  },
+  {
     "game": "GRAIN ROT",
     "status": "live",
     "campaign": "October Update Drop",
@@ -587,17 +602,17 @@
   {
     "game": "Gray Zone Warfare",
     "status": "live",
-    "campaign": "Rogue Ops - Stage 2",
-    "start": "2026-10-25T13:00:00Z",
-    "end": "2026-10-28T12:58:59.999Z",
+    "campaign": "Rogue Ops - Stage 3",
+    "start": "2026-10-28T13:00:00Z",
+    "end": "2026-10-31T12:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  \n\nWatch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and the Torn Jeans, Viktos Contractor, and Wayfarer Glasses to become the accountant agent.",
-    "image": "/media/campaigns/images/bde48349-bc63-4e98-bbaa-ba5fd903e28d.png",
+    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  \n\nWatch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and the Pistols & Petals and Armed Vacation Hawaiian shirts to become a stylish smuggler.",
+    "image": "/media/campaigns/images/771bc139-cb68-4858-a53c-3a16692c4c63.png",
     "url": "https://twitch.grayzonewarfare.com",
     "account_link": "https://twitch.grayzonewarfare.com",
-    "twitch_campaign_id": "bde48349-bc63-4e98-bbaa-ba5fd903e28d"
+    "twitch_campaign_id": "771bc139-cb68-4858-a53c-3a16692c4c63"
   },
   {
     "game": "Gray Zone Warfare",
@@ -1082,17 +1097,32 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate10/27/26",
-    "start": "2026-10-27T13:00:00Z",
-    "end": "2026-10-28T12:59:59.999Z",
+    "campaign": "Affiliate10/28/26",
+    "start": "2026-10-28T13:00:00Z",
+    "end": "2026-10-29T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/916514ae-7e5d-4d70-a53b-eac917a16cd5.png",
+    "image": "/media/campaigns/images/c0cdf686-c261-4dc0-9108-81e3d9137a8f.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "916514ae-7e5d-4d70-a53b-eac917a16cd5"
+    "twitch_campaign_id": "c0cdf686-c261-4dc0-9108-81e3d9137a8f"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "DrDynastic 10/28/26",
+    "start": "2026-10-28T13:00:00Z",
+    "end": "2026-10-29T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/d9d9ae7f-5e06-4159-b1e6-bd6905a7ba24.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "d9d9ae7f-5e06-4159-b1e6-bd6905a7ba24"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1262,17 +1292,17 @@
   {
     "game": "RavenQuest",
     "status": "live",
-    "campaign": "Fortune's Frontier #6",
-    "start": "2026-10-27T15:00:00Z",
-    "end": "2026-10-28T14:59:59.999Z",
+    "campaign": "Fortune's Frontier #7",
+    "start": "2026-10-28T15:00:00Z",
+    "end": "2026-10-29T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Fortune's Frontier Season 0 is live! Watch your favorite creators and earn Munk Songs to power up your runs on the Frontier.",
-    "image": "/media/campaigns/images/e67399bb-1964-4392-8e22-bc7fb485c6c6.png",
+    "image": "/media/campaigns/images/91c3777a-fe33-47e0-bfa2-52cee526c542.png",
     "url": "https://ravenquest.io/myaccount/twitch",
     "account_link": "https://ravenquest.io/myaccount/twitch",
-    "twitch_campaign_id": "e67399bb-1964-4392-8e22-bc7fb485c6c6"
+    "twitch_campaign_id": "91c3777a-fe33-47e0-bfa2-52cee526c542"
   },
   {
     "game": "Riders Republic",
@@ -1292,32 +1322,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 630",
-    "start": "2026-10-27T17:59:00Z",
-    "end": "2026-10-28T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/5f319798-ad86-435d-9598-744421b8a3ef.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "5f319798-ad86-435d-9598-744421b8a3ef"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "Mobile Drop 201",
-    "start": "2026-10-27T17:59:00Z",
-    "end": "2026-10-28T17:56:59.999Z",
+    "campaign": "Mobile Drop 202",
+    "start": "2026-10-28T17:59:00Z",
+    "end": "2026-10-29T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/eb280ef7-5874-4fb3-a36b-88e2d76784f1.png",
+    "image": "/media/campaigns/images/afd3619d-1af5-4609-928f-c4fef9e12975.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "eb280ef7-5874-4fb3-a36b-88e2d76784f1"
+    "twitch_campaign_id": "afd3619d-1af5-4609-928f-c4fef9e12975"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 631",
+    "start": "2026-10-28T17:59:00Z",
+    "end": "2026-10-29T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/c0400e4c-86f0-4909-a8a8-62cd07baadb4.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "c0400e4c-86f0-4909-a8a8-62cd07baadb4"
   },
   {
     "game": "Rust",
@@ -1333,6 +1363,21 @@
     "url": "https://twitch.facepunch.com/",
     "account_link": "https://twitch.facepunch.com/connect",
     "twitch_campaign_id": "233a7dcd-1c1f-4876-9529-2071a7f0d30d"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "S&F Drops 2/3",
+    "start": "2026-10-28T15:00:00Z",
+    "end": "2026-11-01T22:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/1a90dcbe-95f8-4745-b5ac-7bf9d500caf0.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "1a90dcbe-95f8-4745-b5ac-7bf9d500caf0"
   },
   {
     "game": "Shakes and Fidget",
@@ -1408,21 +1453,6 @@
     "url": "https://stellasora.stargazer-games.com/twitch-drops",
     "account_link": "https://stellasora.stargazer-games.com/twitch-drops",
     "twitch_campaign_id": "1b0b6519-5cfb-4894-816c-0bf6bd29cd26"
-  },
-  {
-    "game": "Street Fighter 6",
-    "status": "live",
-    "campaign": "Street Fighter 6",
-    "start": "2026-10-01T20:00:00Z",
-    "end": "2026-10-28T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Subscribe to any streamer streaming Street Fighter 6 to unlock the SFGuile emote for 1 year.",
-    "image": "/media/campaigns/images/711b6068-c16e-4d0f-bcb1-6be54eb91c3f.png",
-    "url": "https://help.twitch.tv/s/article/how-to-use-emotes",
-    "account_link": "https://help.twitch.tv/s/article/how-to-use-emotes",
-    "twitch_campaign_id": "711b6068-c16e-4d0f-bcb1-6be54eb91c3f"
   },
   {
     "game": "Super Animal Royale",
@@ -1667,17 +1697,32 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "WoT A Thrill Store #7",
-    "start": "2026-10-26T16:00:00Z",
-    "end": "2026-10-28T15:59:59.999Z",
+    "campaign": "WoT A Thrill Store #8",
+    "start": "2026-10-28T16:00:00Z",
+    "end": "2026-10-30T15:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "WoT A Thrill Store #7",
-    "image": "/media/campaigns/images/c34181d6-b04c-4a53-96b9-e940001934f2.jpeg",
+    "description": "WoT A Thrill Store #8",
+    "image": "/media/campaigns/images/9a9ca7e6-0f58-4949-954c-fb6370c76c70.jpeg",
     "url": "https://worldoftanks.eu/news/live-streams/wot-a-thrill-token-store-october-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "c34181d6-b04c-4a53-96b9-e940001934f2"
+    "twitch_campaign_id": "9a9ca7e6-0f58-4949-954c-fb6370c76c70"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Czechoslovak Day",
+    "start": "2026-10-28T16:00:00Z",
+    "end": "2026-10-29T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Czechoslovak Day",
+    "image": "/media/campaigns/images/eeb658e4-a62f-4146-b948-7487b808b7ac.jpeg",
+    "url": "https://worldoftanks.eu/news/specials/czech-independence-day-2026/",
+    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
+    "twitch_campaign_id": "eeb658e4-a62f-4146-b948-7487b808b7ac"
   },
   {
     "game": "World of Tanks",
@@ -1757,17 +1802,17 @@
   {
     "game": "World of Tanks: HEAT",
     "status": "live",
-    "campaign": "HEAT Season 2 - Week 8",
-    "start": "2026-10-21T16:00:00Z",
-    "end": "2026-10-28T15:58:59.999Z",
+    "campaign": "HEAT Season 2 - Week 9",
+    "start": "2026-10-28T17:00:00Z",
+    "end": "2026-11-04T16:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Season 2 Twitch Drops! Watch HEAT on Twitch to earn a Vehicle XP Booster and a Booster Pack. Link your Twitch and Wargaming accounts to claim your rewards.",
-    "image": "/media/campaigns/images/5953ecbc-38fb-48e3-af8a-3d8574612a20.png",
+    "image": "/media/campaigns/images/92bf2ceb-419d-4841-b64b-6e73d3ecb693.png",
     "url": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
     "account_link": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
-    "twitch_campaign_id": "5953ecbc-38fb-48e3-af8a-3d8574612a20"
+    "twitch_campaign_id": "92bf2ceb-419d-4841-b64b-6e73d3ecb693"
   },
   {
     "game": "World of Warcraft",
@@ -1802,6 +1847,21 @@
   {
     "game": "World of Warships",
     "status": "live",
+    "campaign": "15.9 WOWS Channel Drop",
+    "start": "2026-10-28T22:00:00Z",
+    "end": "2026-11-04T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+    "image": "/media/campaigns/images/c3c97476-d77d-42d9-b550-d0cce948b18a.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "c3c97476-d77d-42d9-b550-d0cce948b18a"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
     "campaign": "Update 15.9 Drop: Week 3",
     "start": "2026-10-22T16:00:00Z",
     "end": "2026-10-29T16:59:59.999Z",
@@ -1813,21 +1873,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "5fb929d6-4f3e-4e70-82d3-1862c2d3164c"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "15.9 WOWS Channel Drop",
-    "start": "2026-10-21T22:00:00Z",
-    "end": "2026-10-28T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-    "image": "/media/campaigns/images/18ae2563-22e9-4250-8734-3f1b6caa50e5.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "18ae2563-22e9-4250-8734-3f1b6caa50e5"
   },
   {
     "game": "Zenless Zone Zero",
