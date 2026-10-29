@@ -45,6 +45,21 @@
     "twitch_campaign_id": "f8b02ff6-77cc-4afb-aecb-3e0ebe72ce88"
   },
   {
+    "game": "Apex Legends",
+    "status": "live",
+    "campaign": "ALGS S2 PO D1",
+    "start": "2026-10-29T16:45:00Z",
+    "end": "2026-10-30T05:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "ALGS Split 2 Playoffs - Day 1",
+    "image": "/media/campaigns/images/15b9fa77-2959-47c9-acc0-2d33bc1ad62e.png",
+    "url": "https://algs.ea.com/en/news/earning-drops",
+    "account_link": "https://ea.com/twitchlinking",
+    "twitch_campaign_id": "15b9fa77-2959-47c9-acc0-2d33bc1ad62e"
+  },
+  {
     "game": "ARC Raiders",
     "status": "live",
     "campaign": "Frozen Trail",
@@ -122,32 +137,17 @@
   {
     "game": "Caliber",
     "status": "live",
-    "campaign": "S14D9 Shadow Arsenal",
-    "start": "2026-10-29T08:00:00Z",
-    "end": "2026-10-29T20:59:59.999Z",
+    "campaign": "S14 FINAL Shadow Arsenal",
+    "start": "2026-10-29T21:00:00Z",
+    "end": "2026-11-01T20:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch Drops кампания «Теневой арсенал». Смотрите трансляции и получайте ценные награды, чтобы эффективнее крушить прислужников зла!",
-    "image": "/media/campaigns/images/c4410b58-ed89-4339-baa8-7ea82766cf0a.png",
+    "image": "/media/campaigns/images/de223ac1-9845-4e83-b4ed-d70579782feb.png",
     "url": "https://playcaliber.com/ru/news/1338/khellouinskaia-twitch-drops-kampaniia-tenevoi-arsenal/",
     "account_link": "https://playcaliber.com/ru/",
-    "twitch_campaign_id": "c4410b58-ed89-4339-baa8-7ea82766cf0a"
-  },
-  {
-    "game": "Caliber",
-    "status": "live",
-    "campaign": "S14D8 Shadow Arsenal",
-    "start": "2026-10-28T08:00:00Z",
-    "end": "2026-10-29T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch Drops кампания «Теневой арсенал». Смотрите трансляции и получайте ценные награды, чтобы эффективнее крушить прислужников зла!",
-    "image": "/media/campaigns/images/ea2b20b8-b316-4d81-8e3e-02f5f87cb52f.png",
-    "url": "https://playcaliber.com/ru/news/1338/khellouinskaia-twitch-drops-kampaniia-tenevoi-arsenal/",
-    "account_link": "https://playcaliber.com/ru/",
-    "twitch_campaign_id": "ea2b20b8-b316-4d81-8e3e-02f5f87cb52f"
+    "twitch_campaign_id": "de223ac1-9845-4e83-b4ed-d70579782feb"
   },
   {
     "game": "Call of Duty: Modern Warfare 4",
@@ -285,19 +285,19 @@
     "twitch_campaign_id": "f5fd6459-9b04-41f5-be59-4f4180b4b424"
   },
   {
-    "game": "Crossout",
+    "game": "Crimson Desert",
     "status": "live",
-    "campaign": "Crossout Remastered II",
-    "start": "2026-10-25T16:00:00Z",
-    "end": "2026-10-29T15:59:59.999Z",
+    "campaign": "Crimson Desert DLC Week 1",
+    "start": "2026-10-29T22:00:00Z",
+    "end": "2026-11-04T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Start your engines: the Wasteland is ready to surprise you once again!",
-    "image": "/media/campaigns/images/95ebafd2-8c53-49b0-8c65-f2ae521c3a01.jpeg",
-    "url": "https://gss.gaijin.net/",
-    "account_link": "https://gss.gaijin.net/",
-    "twitch_campaign_id": "95ebafd2-8c53-49b0-8c65-f2ae521c3a01"
+    "description": "Watch participating Crimson Desert streams on Twitch for rewards!",
+    "image": "/media/campaigns/images/a40fa4aa-bdca-4b6f-8858-6a3f5aaf3484.jpeg",
+    "url": "https://event.pearlabyss.com/CrimsonDesert/Drops",
+    "account_link": "https://event.pearlabyss.com/CrimsonDesert/Drops",
+    "twitch_campaign_id": "a40fa4aa-bdca-4b6f-8858-6a3f5aaf3484"
   },
   {
     "game": "Crystal of Atlan",
@@ -570,6 +570,21 @@
     "twitch_campaign_id": "c3c9db21-841c-4a9e-bf18-018d501707a4"
   },
   {
+    "game": "Ghosts of Tabor",
+    "status": "live",
+    "campaign": "Halloween 26 - Day 1",
+    "start": "2026-10-29T16:00:00Z",
+    "end": "2026-10-30T15:57:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Come and get your limited time Halloween drops!",
+    "image": "/media/campaigns/images/eab9a8d6-ddc1-4c83-b146-367de8696696.png",
+    "url": "https://ghostsoftabor.com/twitch-drops-event/",
+    "account_link": "https://link.ghostsoftabor.com/account-linking",
+    "twitch_campaign_id": "eab9a8d6-ddc1-4c83-b146-367de8696696"
+  },
+  {
     "game": "GODDESS OF VICTORY: NIKKE",
     "status": "live",
     "campaign": "NIKKE 4th Anniv. Drops",
@@ -673,6 +688,21 @@
     "url": "https://halloweengame.com/news/twitch-drops-2026",
     "account_link": "https://accounts.illfonic.com",
     "twitch_campaign_id": "119b5c68-114e-4085-bb93-db563cba5f4c"
+  },
+  {
+    "game": "HITMAN World of Assassination",
+    "status": "live",
+    "campaign": "The Host Drop #1",
+    "start": "2026-10-29T14:01:00Z",
+    "end": "2026-11-09T14:00:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earning this reward is simple. You only need to link your IOI Account to your Twitch account and then watch a cumulative 1 hour of HITMAN World of Assassination on Twitch during the drop campaign duration.",
+    "image": "/media/campaigns/images/92ad4ead-7be0-4536-9d28-cef9e749adea.jpeg",
+    "url": "https://account.ioi.dk/",
+    "account_link": "https://account.ioi.dk/",
+    "twitch_campaign_id": "92ad4ead-7be0-4536-9d28-cef9e749adea"
   },
   {
     "game": "Honkai Impact 3rd",
@@ -823,6 +853,21 @@
     "url": "https://event.igg.com/twitch/drops?code=lo_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=lo_drops",
     "twitch_campaign_id": "de187dc2-1549-44a6-8fe1-118efd83a38a"
+  },
+  {
+    "game": "Madden NFL 27",
+    "status": "live",
+    "campaign": "Madden Live",
+    "start": "2026-10-29T17:00:00Z",
+    "end": "2026-10-30T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch your favorite creators play Madden NFL 27 and earn some Twitch Drops to power up your Ultimate Team!",
+    "image": "/media/campaigns/images/ffe694de-bdc9-475a-8b30-bc2709077142.png",
+    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+    "twitch_campaign_id": "ffe694de-bdc9-475a-8b30-bc2709077142"
   },
   {
     "game": "MARVEL Contest of Champions",
@@ -1127,32 +1172,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "DrDynastic 10/28/26",
-    "start": "2026-10-28T13:00:00Z",
-    "end": "2026-10-29T12:59:59.999Z",
+    "campaign": "Affiliate10/29/26",
+    "start": "2026-10-29T13:00:00Z",
+    "end": "2026-10-30T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/d9d9ae7f-5e06-4159-b1e6-bd6905a7ba24.png",
+    "image": "/media/campaigns/images/2bd2dd54-33e6-455b-8a5c-457ed12ead41.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "d9d9ae7f-5e06-4159-b1e6-bd6905a7ba24"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
-    "campaign": "Affiliate10/28/26",
-    "start": "2026-10-28T13:00:00Z",
-    "end": "2026-10-29T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/c0cdf686-c261-4dc0-9108-81e3d9137a8f.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "c0cdf686-c261-4dc0-9108-81e3d9137a8f"
+    "twitch_campaign_id": "2bd2dd54-33e6-455b-8a5c-457ed12ead41"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1322,17 +1352,17 @@
   {
     "game": "RavenQuest",
     "status": "live",
-    "campaign": "Fortune's Frontier #7",
-    "start": "2026-10-28T15:00:00Z",
-    "end": "2026-10-29T14:59:59.999Z",
+    "campaign": "Fortune's Frontier #8",
+    "start": "2026-10-29T15:00:00Z",
+    "end": "2026-10-30T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Fortune's Frontier Season 0 is live! Watch your favorite creators and earn Munk Songs to power up your runs on the Frontier.",
-    "image": "/media/campaigns/images/91c3777a-fe33-47e0-bfa2-52cee526c542.png",
+    "image": "/media/campaigns/images/4210f148-8672-4215-a993-540c5205ce99.png",
     "url": "https://ravenquest.io/myaccount/twitch",
     "account_link": "https://ravenquest.io/myaccount/twitch",
-    "twitch_campaign_id": "91c3777a-fe33-47e0-bfa2-52cee526c542"
+    "twitch_campaign_id": "4210f148-8672-4215-a993-540c5205ce99"
   },
   {
     "game": "Riders Republic",
@@ -1352,32 +1382,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 631",
-    "start": "2026-10-28T17:59:00Z",
-    "end": "2026-10-29T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/c0400e4c-86f0-4909-a8a8-62cd07baadb4.jpeg",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "c0400e4c-86f0-4909-a8a8-62cd07baadb4"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "Mobile Drop 202",
-    "start": "2026-10-28T17:59:00Z",
-    "end": "2026-10-29T17:56:59.999Z",
+    "campaign": "Mobile Drop 203",
+    "start": "2026-10-29T17:59:00Z",
+    "end": "2026-10-30T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/afd3619d-1af5-4609-928f-c4fef9e12975.png",
+    "image": "/media/campaigns/images/4e98dd91-27d9-411b-9b1d-90b15f41d70d.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "afd3619d-1af5-4609-928f-c4fef9e12975"
+    "twitch_campaign_id": "4e98dd91-27d9-411b-9b1d-90b15f41d70d"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 632",
+    "start": "2026-10-29T17:59:00Z",
+    "end": "2026-10-30T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/62c82f20-0851-42d7-b21d-36728588e858.png",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "62c82f20-0851-42d7-b21d-36728588e858"
   },
   {
     "game": "Rust",
@@ -1440,6 +1470,21 @@
     "twitch_campaign_id": "b4f12d3f-f92c-4d5a-a127-bdbd21f546c5"
   },
   {
+    "game": "Shroud of the Avatar: Forsaken Virtues",
+    "status": "live",
+    "campaign": "Spectator's Collection",
+    "start": "2026-10-29T12:51:00Z",
+    "end": "2026-11-25T12:50:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch any Shroud of the Avatar stream on Twitch to earn in-game rewards. Link your Twitch account at community.catnipgames.net/twitch so we know which game account to send them to. Claims made before you link are kept and sent once you link. Claimed rewards arrive in the Rewards window in game, usually within 15 minutes while you are logged in. Rewards are bound to your account and cannot be traded, sold or salvaged.",
+    "image": "/media/campaigns/images/be794431-8dd5-4b79-bf11-53bb600711cb.png",
+    "url": "https://community.catnipgames.net/twitch/",
+    "account_link": "https://community.catnipgames.net/twitch/",
+    "twitch_campaign_id": "be794431-8dd5-4b79-bf11-53bb600711cb"
+  },
+  {
     "game": "SMITE 2",
     "status": "live",
     "campaign": "Nov Wk 1 Hachiman!",
@@ -1470,6 +1515,21 @@
     "twitch_campaign_id": "587f7e5a-6994-4add-8c58-ef4bcfc70bc6"
   },
   {
+    "game": "STALZONE",
+    "status": "live",
+    "campaign": "Fall 2026, Week 1",
+    "start": "2026-10-29T14:00:00Z",
+    "end": "2026-11-06T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "By linking your Twitch account with your EXBO account, you can earn a variety of rewards, including exclusive in-game items. Receive claimed items by talking with the Courier NPC on any safe zones (except for Swamps)",
+    "image": "/media/campaigns/images/97e14443-0090-4a91-ab42-01cce98d8d56.png",
+    "url": "https://support.exbo.net/help-center/articles/8/19/168/",
+    "account_link": "https://exbo.net/user",
+    "twitch_campaign_id": "97e14443-0090-4a91-ab42-01cce98d8d56"
+  },
+  {
     "game": "Stella Sora",
     "status": "live",
     "campaign": "Stella Sora 1st Anniv",
@@ -1483,6 +1543,21 @@
     "url": "https://stellasora.stargazer-games.com/twitch-drops",
     "account_link": "https://stellasora.stargazer-games.com/twitch-drops",
     "twitch_campaign_id": "1b0b6519-5cfb-4894-816c-0bf6bd29cd26"
+  },
+  {
+    "game": "Stream Arena RPG",
+    "status": "live",
+    "campaign": "Mr. Chicken's Chicken!",
+    "start": "2026-10-29T18:38:39Z",
+    "end": "2026-11-08T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrating the release of \"Mr. Chicken's Totally Ethical Farm\" Stream Arena RPG is giving away the \"Mr. Chicken's Chicken\" Back Cosmetic!\n\nFind Mr. Chicken's Totally Ethical Farm on Steam now!",
+    "image": "/media/campaigns/images/97a92b77-c12b-42d9-996c-9d7cf0136ba8.png",
+    "url": "https://streamarenarpg.com/drops_info.html",
+    "account_link": "https://streamarenarpg.com/link_twitch.php",
+    "twitch_campaign_id": "97a92b77-c12b-42d9-996c-9d7cf0136ba8"
   },
   {
     "game": "Super Animal Royale",
@@ -1667,21 +1742,6 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "Czechoslovak Day",
-    "start": "2026-10-28T16:00:00Z",
-    "end": "2026-10-29T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Czechoslovak Day",
-    "image": "/media/campaigns/images/eeb658e4-a62f-4146-b948-7487b808b7ac.jpeg",
-    "url": "https://worldoftanks.eu/news/specials/czech-independence-day-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "eeb658e4-a62f-4146-b948-7487b808b7ac"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
     "campaign": "WoT A Thrill Store #8",
     "start": "2026-10-28T16:00:00Z",
     "end": "2026-10-30T15:59:59.999Z",
@@ -1817,6 +1877,21 @@
   {
     "game": "World of Warships",
     "status": "live",
+    "campaign": "Update 15.9 Drop: Week 4",
+    "start": "2026-10-29T17:00:00Z",
+    "end": "2026-11-05T02:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+    "image": "/media/campaigns/images/d631fdcf-ac14-4697-92b6-2d4e9ba77854.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "d631fdcf-ac14-4697-92b6-2d4e9ba77854"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
     "campaign": "15.9 WOWS Channel Drop",
     "start": "2026-10-28T22:00:00Z",
     "end": "2026-11-04T22:59:59.999Z",
@@ -1828,21 +1903,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "c3c97476-d77d-42d9-b550-d0cce948b18a"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "Update 15.9 Drop: Week 3",
-    "start": "2026-10-22T16:00:00Z",
-    "end": "2026-10-29T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-    "image": "/media/campaigns/images/5fb929d6-4f3e-4e70-82d3-1862c2d3164c.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "5fb929d6-4f3e-4e70-82d3-1862c2d3164c"
   },
   {
     "game": "Zenless Zone Zero",
