@@ -255,21 +255,6 @@
     "twitch_campaign_id": "6d31797a-b6cc-4246-83e9-5710ba59eb0c"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "Fall Drops",
-    "start": "2026-10-26T12:18:18Z",
-    "end": "2026-10-28T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/ba6607fe-7bb0-49f7-9da0-65254223c535.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "ba6607fe-7bb0-49f7-9da0-65254223c535"
-  },
-  {
     "game": "Crossout",
     "status": "live",
     "campaign": "Crossout Remastered II",
@@ -1488,31 +1473,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-28T00:00:00Z",
-    "end": "2026-10-28T23:59:59.999Z",
+    "start": "2026-10-29T00:00:00Z",
+    "end": "2026-10-29T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/beab118b-b5b0-411f-8957-1343393682b0.png",
+    "image": "/media/campaigns/images/85aa0dfd-2818-4886-8114-dc16df481201.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "beab118b-b5b0-411f-8957-1343393682b0"
-  },
-  {
-    "game": "UFL",
-    "status": "live",
-    "campaign": "Oct #4",
-    "start": "2026-10-22T08:10:00Z",
-    "end": "2026-10-28T23:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
-    "image": "/media/campaigns/images/d8fbb86b-fda6-4737-9d03-2de77af5e05b.png",
-    "url": "https://portal.uflgame.com/twitch/drops",
-    "account_link": "https://portal.uflgame.com/twitch",
-    "twitch_campaign_id": "d8fbb86b-fda6-4737-9d03-2de77af5e05b"
+    "twitch_campaign_id": "85aa0dfd-2818-4886-8114-dc16df481201"
   },
   {
     "game": "UNO! Mobile",
@@ -1680,19 +1650,19 @@
     "twitch_campaign_id": "e1e9dc8b-f3f5-4757-b450-7de7028db47f"
   },
   {
-    "game": "Wolvesville",
+    "game": "World of Tanks",
     "status": "live",
-    "campaign": "October 2026",
-    "start": "2026-10-01T00:00:00Z",
-    "end": "2026-10-28T23:59:59.999Z",
+    "campaign": "Czechoslovak Day",
+    "start": "2026-10-28T16:00:00Z",
+    "end": "2026-10-29T15:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Unlock the limited Twitch October item! You'll need to link your Twitch account with Wolvesville for this to work.",
-    "image": "/media/campaigns/images/5b32b5e7-7421-40ae-be32-e45b4df19a12.png",
-    "url": "https://wolvesville.com/",
-    "account_link": "https://wolvesville.com/",
-    "twitch_campaign_id": "5b32b5e7-7421-40ae-be32-e45b4df19a12"
+    "description": "Czechoslovak Day",
+    "image": "/media/campaigns/images/eeb658e4-a62f-4146-b948-7487b808b7ac.jpeg",
+    "url": "https://worldoftanks.eu/news/specials/czech-independence-day-2026/",
+    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
+    "twitch_campaign_id": "eeb658e4-a62f-4146-b948-7487b808b7ac"
   },
   {
     "game": "World of Tanks",
@@ -1708,21 +1678,6 @@
     "url": "https://worldoftanks.eu/news/live-streams/wot-a-thrill-token-store-october-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "9a9ca7e6-0f58-4949-954c-fb6370c76c70"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Czechoslovak Day",
-    "start": "2026-10-28T16:00:00Z",
-    "end": "2026-10-29T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Czechoslovak Day",
-    "image": "/media/campaigns/images/eeb658e4-a62f-4146-b948-7487b808b7ac.jpeg",
-    "url": "https://worldoftanks.eu/news/specials/czech-independence-day-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "eeb658e4-a62f-4146-b948-7487b808b7ac"
   },
   {
     "game": "World of Tanks",
