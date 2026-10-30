@@ -2,7 +2,7 @@
   {
     "name": "Counter-Strike 2",
     "platform": "Steam",
-    "metric": 965441,
+    "metric": 927441,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
@@ -14,9 +14,23 @@
     "id": 1
   },
   {
+    "name": "Dota 2",
+    "platform": "Steam",
+    "metric": 551382,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
+    "appid": 570,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 2
+  },
+  {
     "name": "PUBG: BATTLEGROUNDS",
     "platform": "Steam",
-    "metric": 567491,
+    "metric": 172574,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
@@ -46,40 +60,12 @@
       }
     ],
     "emotes": [],
-    "id": 2
-  },
-  {
-    "name": "Dota 2",
-    "platform": "Steam",
-    "metric": 561788,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
-    "appid": 570,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
     "id": 3
-  },
-  {
-    "name": "Apex Legends",
-    "platform": "Steam",
-    "metric": 137808,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
-    "appid": 1172470,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 4
   },
   {
     "name": "Cyberpunk 2077",
     "platform": "Steam",
-    "metric": 108184,
+    "metric": 135701,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
@@ -124,12 +110,12 @@
       }
     ],
     "emotes": [],
-    "id": 5
+    "id": 4
   },
   {
     "name": "Rust",
     "platform": "Steam",
-    "metric": 97221,
+    "metric": 104712,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
@@ -159,12 +145,97 @@
       }
     ],
     "emotes": [],
+    "id": 5
+  },
+  {
+    "name": "Dead by Daylight",
+    "platform": "Steam",
+    "metric": 64207,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
+    "appid": 381210,
+    "drops_enabled": true,
+    "drops": [
+      {
+        "game": "Dead by Daylight",
+        "status": "live",
+        "campaign": "Dbd Halloween Badge",
+        "start": "2026-10-30T21:00:00Z",
+        "end": "2026-10-31T06:58:59.999Z",
+        "watch_time": "",
+        "requirements": [],
+        "rewards": [],
+        "description": "Subscribe or Gift a Sub to an allowlisted Dead by Daylight streamer participating in Twitch Rivals of Terror 2026 to earn this chat badge!",
+        "image": "/media/campaigns/images/369f6c8b-eaaa-4bac-a87f-6dc03ce80fb1.png",
+        "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+        "account_link": "https://www.twitch.tv/",
+        "twitch_campaign_id": "369f6c8b-eaaa-4bac-a87f-6dc03ce80fb1"
+      },
+      {
+        "game": "Dead by Daylight",
+        "status": "live",
+        "campaign": "DbD: October of Horror IV",
+        "start": "2026-10-26T04:00:00Z",
+        "end": "2026-11-02T03:59:59.999Z",
+        "watch_time": "",
+        "requirements": [],
+        "rewards": [],
+        "description": "We're diving into a month full of Tricks and Treats, with four drops this October. Earn the fourth one between October 26 and November 1.",
+        "image": "/media/campaigns/images/75064d8e-726d-45e6-9caa-26d66d49b993.png",
+        "url": "https://account.bhvr.com/twitch/dbd",
+        "account_link": "https://account.bhvr.com/twitch/dbd",
+        "twitch_campaign_id": "75064d8e-726d-45e6-9caa-26d66d49b993"
+      }
+    ],
+    "badges": [
+      {
+        "name": "Drop actif",
+        "icon": "🎁"
+      }
+    ],
+    "emotes": [],
     "id": 6
+  },
+  {
+    "name": "Apex Legends",
+    "platform": "Steam",
+    "metric": 58803,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+    "appid": 1172470,
+    "drops_enabled": true,
+    "drops": [
+      {
+        "game": "Apex Legends",
+        "status": "live",
+        "campaign": "ALGS S2 PO D2",
+        "start": "2026-10-30T16:45:00Z",
+        "end": "2026-10-31T05:29:59.999Z",
+        "watch_time": "",
+        "requirements": [],
+        "rewards": [],
+        "description": "ALGS Split 2 Playoffs - Day 2",
+        "image": "/media/campaigns/images/8f461e0a-4e81-4858-8707-60f61a9f5950.png",
+        "url": "https://algs.ea.com/en/news/earning-drops",
+        "account_link": "https://ea.com/twitchlinking",
+        "twitch_campaign_id": "8f461e0a-4e81-4858-8707-60f61a9f5950"
+      }
+    ],
+    "badges": [
+      {
+        "name": "Drop actif",
+        "icon": "🎁"
+      }
+    ],
+    "emotes": [],
+    "id": 7
   },
   {
     "name": "Grand Theft Auto V",
     "platform": "Steam",
-    "metric": 58346,
+    "metric": 50200,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
@@ -194,89 +265,12 @@
       }
     ],
     "emotes": [],
-    "id": 7
-  },
-  {
-    "name": "Dead by Daylight",
-    "platform": "Steam",
-    "metric": 49325,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
-    "appid": 381210,
-    "drops_enabled": true,
-    "drops": [
-      {
-        "game": "Dead by Daylight",
-        "status": "live",
-        "campaign": "DbD: October of Horror IV",
-        "start": "2026-10-26T04:00:00Z",
-        "end": "2026-11-02T03:59:59.999Z",
-        "watch_time": "",
-        "requirements": [],
-        "rewards": [],
-        "description": "We're diving into a month full of Tricks and Treats, with four drops this October. Earn the fourth one between October 26 and November 1.",
-        "image": "/media/campaigns/images/75064d8e-726d-45e6-9caa-26d66d49b993.png",
-        "url": "https://account.bhvr.com/twitch/dbd",
-        "account_link": "https://account.bhvr.com/twitch/dbd",
-        "twitch_campaign_id": "75064d8e-726d-45e6-9caa-26d66d49b993"
-      }
-    ],
-    "badges": [
-      {
-        "name": "Drop actif",
-        "icon": "🎁"
-      }
-    ],
-    "emotes": [],
     "id": 8
-  },
-  {
-    "name": "Terraria",
-    "platform": "Steam",
-    "metric": 34976,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
-    "appid": 105600,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 9
-  },
-  {
-    "name": "Palworld",
-    "platform": "Steam",
-    "metric": 34692,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
-    "appid": 1623730,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 10
-  },
-  {
-    "name": "Helldivers 2",
-    "platform": "Steam",
-    "metric": 33631,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
-    "appid": 553850,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 11
   },
   {
     "name": "Baldur's Gate 3",
     "platform": "Steam",
-    "metric": 25617,
+    "metric": 41409,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
@@ -285,16 +279,58 @@
     "drops": [],
     "badges": [],
     "emotes": [],
-    "id": 12
+    "id": 9
+  },
+  {
+    "name": "Helldivers 2",
+    "platform": "Steam",
+    "metric": 40869,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+    "appid": 553850,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 10
+  },
+  {
+    "name": "Palworld",
+    "platform": "Steam",
+    "metric": 26898,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
+    "appid": 1623730,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 11
   },
   {
     "name": "Left 4 Dead 2",
     "platform": "Steam",
-    "metric": 24006,
+    "metric": 25575,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
     "appid": 550,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 12
+  },
+  {
+    "name": "Terraria",
+    "platform": "Steam",
+    "metric": 23577,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "appid": 105600,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -304,7 +340,7 @@
   {
     "name": "Elden Ring",
     "platform": "Steam",
-    "metric": 21072,
+    "metric": 21791,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
@@ -318,7 +354,7 @@
   {
     "name": "Monster Hunter: World",
     "platform": "Steam",
-    "metric": 15829,
+    "metric": 6317,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
