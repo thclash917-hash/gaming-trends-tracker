@@ -17,21 +17,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 9 - #4/7",
-    "start": "2026-10-29T10:00:00Z",
-    "end": "2026-10-30T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/ba0e96e5-3e57-41f6-bb6e-a2db4d4496d8.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "ba0e96e5-3e57-41f6-bb6e-a2db4d4496d8"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "AOCP Flamescale 6 - #4/7",
     "start": "2026-10-29T10:00:00Z",
     "end": "2026-10-30T09:29:59.999Z",
@@ -43,6 +28,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "f8b02ff6-77cc-4afb-aecb-3e0ebe72ce88"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "Dragonfire 9 - #4/7",
+    "start": "2026-10-29T10:00:00Z",
+    "end": "2026-10-30T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+    "image": "/media/campaigns/images/ba0e96e5-3e57-41f6-bb6e-a2db4d4496d8.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "ba0e96e5-3e57-41f6-bb6e-a2db4d4496d8"
   },
   {
     "game": "Apex Legends",
@@ -270,21 +270,6 @@
     "twitch_campaign_id": "6d31797a-b6cc-4246-83e9-5710ba59eb0c"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "Fall Drops",
-    "start": "2026-10-29T11:10:15Z",
-    "end": "2026-10-29T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/f5fd6459-9b04-41f5-be59-4f4180b4b424.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "f5fd6459-9b04-41f5-be59-4f4180b4b424"
-  },
-  {
     "game": "Crimson Desert",
     "status": "live",
     "campaign": "Crimson Desert DLC Week 1",
@@ -295,8 +280,8 @@
     "rewards": [],
     "description": "Watch participating Crimson Desert streams on Twitch for rewards!",
     "image": "/media/campaigns/images/a40fa4aa-bdca-4b6f-8858-6a3f5aaf3484.jpeg",
-    "url": "https://event.pearlabyss.com/CrimsonDesert/Drops",
-    "account_link": "https://event.pearlabyss.com/CrimsonDesert/Drops",
+    "url": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
+    "account_link": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
     "twitch_campaign_id": "a40fa4aa-bdca-4b6f-8858-6a3f5aaf3484"
   },
   {
@@ -450,21 +435,6 @@
     "twitch_campaign_id": "c9b4b2ac-7ede-4fed-b45d-9c657f20a73c"
   },
   {
-    "game": "Enshrouded",
-    "status": "live",
-    "campaign": "Enshrouded v1.0 Launch",
-    "start": "2026-10-15T08:00:00Z",
-    "end": "2026-10-29T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Enshrouded v1.0 is here! Come tune into our live stream and celebrate the game launch! #Enshrouded #PlayEnshrouded",
-    "image": "/media/campaigns/images/4c37cc62-b880-40c6-99ae-fc8219dac1aa.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "4c37cc62-b880-40c6-99ae-fc8219dac1aa"
-  },
-  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "Crimson Harvest Drop 7",
@@ -478,21 +448,6 @@
     "url": "https://www.eveonline.com/twitch",
     "account_link": "https://www.eveonline.com/twitch",
     "twitch_campaign_id": "39f6d687-c96a-4095-99ac-dc2446f6c1b6"
-  },
-  {
-    "game": "Evil Pongon Game",
-    "status": "live",
-    "campaign": "Anniversary Campaign",
-    "start": "2026-10-22T00:00:00Z",
-    "end": "2026-10-30T01:46:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Anniversary Twitch Drop Campaign.",
-    "image": "/media/campaigns/images/e02f8bb3-634e-4481-82d8-023f286a8770.png",
-    "url": "https://evil-pongon-twitch.vercel.app/",
-    "account_link": "https://evil-pongon-twitch.vercel.app/",
-    "twitch_campaign_id": "e02f8bb3-634e-4481-82d8-023f286a8770"
   },
   {
     "game": "FELLOWSHIP",
@@ -1455,21 +1410,6 @@
     "twitch_campaign_id": "0f3f83e9-93d1-4922-a15b-4d5da7a0a712"
   },
   {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Droplets",
-    "start": "2026-10-23T14:00:00Z",
-    "end": "2026-10-29T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Droplets are additional drops to our main drop campaigns.",
-    "image": "/media/campaigns/images/b4f12d3f-f92c-4d5a-a127-bdbd21f546c5.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "b4f12d3f-f92c-4d5a-a127-bdbd21f546c5"
-  },
-  {
     "game": "Shroud of the Avatar: Forsaken Virtues",
     "status": "live",
     "campaign": "Spectator's Collection",
@@ -1593,16 +1533,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-29T00:00:00Z",
-    "end": "2026-10-29T23:59:59.999Z",
+    "start": "2026-10-30T00:00:00Z",
+    "end": "2026-10-30T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/85aa0dfd-2818-4886-8114-dc16df481201.png",
+    "image": "/media/campaigns/images/6899fd05-a849-475a-b691-964ae7a75fce.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "85aa0dfd-2818-4886-8114-dc16df481201"
+    "twitch_campaign_id": "6899fd05-a849-475a-b691-964ae7a75fce"
   },
   {
     "game": "UFL",
