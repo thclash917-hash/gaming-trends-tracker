@@ -17,47 +17,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 6 - #4/7",
-    "start": "2026-10-29T10:00:00Z",
-    "end": "2026-10-30T09:29:59.999Z",
+    "campaign": "AOCP Flamescale 6 - #5/7",
+    "start": "2026-10-30T10:00:00Z",
+    "end": "2026-10-31T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/f8b02ff6-77cc-4afb-aecb-3e0ebe72ce88.png",
+    "image": "/media/campaigns/images/f66e5f36-2c65-426d-a2ba-71642cb3581a.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "f8b02ff6-77cc-4afb-aecb-3e0ebe72ce88"
+    "twitch_campaign_id": "f66e5f36-2c65-426d-a2ba-71642cb3581a"
   },
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 9 - #4/7",
-    "start": "2026-10-29T10:00:00Z",
-    "end": "2026-10-30T09:29:59.999Z",
+    "campaign": "Dragonfire 9 - #5/7",
+    "start": "2026-10-30T10:00:00Z",
+    "end": "2026-10-31T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/ba0e96e5-3e57-41f6-bb6e-a2db4d4496d8.png",
+    "image": "/media/campaigns/images/1ff17199-3359-4434-ad9b-a4dfd26a0bf5.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "ba0e96e5-3e57-41f6-bb6e-a2db4d4496d8"
-  },
-  {
-    "game": "Apex Legends",
-    "status": "live",
-    "campaign": "ALGS S2 PO D1",
-    "start": "2026-10-29T16:45:00Z",
-    "end": "2026-10-30T05:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "ALGS Split 2 Playoffs - Day 1",
-    "image": "/media/campaigns/images/15b9fa77-2959-47c9-acc0-2d33bc1ad62e.png",
-    "url": "https://algs.ea.com/en/news/earning-drops",
-    "account_link": "https://ea.com/twitchlinking",
-    "twitch_campaign_id": "15b9fa77-2959-47c9-acc0-2d33bc1ad62e"
+    "twitch_campaign_id": "1ff17199-3359-4434-ad9b-a4dfd26a0bf5"
   },
   {
     "game": "ARC Raiders",
@@ -92,17 +77,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "AOS Drops Day 9",
-    "start": "2026-10-29T12:00:00Z",
-    "end": "2026-10-30T11:59:59.999Z",
+    "campaign": "Master Class 26 (Oct 30)",
+    "start": "2026-10-30T12:00:00Z",
+    "end": "2026-10-31T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/45fb9af0-8fdf-461a-8c5f-026aa0df336a.png",
+    "image": "/media/campaigns/images/122ce6b5-8bc0-4949-bf94-7e01473184a4.jpeg",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "45fb9af0-8fdf-461a-8c5f-026aa0df336a"
+    "twitch_campaign_id": "122ce6b5-8bc0-4949-bf94-7e01473184a4"
   },
   {
     "game": "Black Desert",
@@ -302,21 +287,6 @@
   {
     "game": "Cyberpunk 2077",
     "status": "live",
-    "campaign": "Quadra Paintjobs",
-    "start": "2026-10-22T10:00:00Z",
-    "end": "2026-11-19T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch 120 mins to get all 4 paintjobs for Quadra Turbo-R V-Tech!",
-    "image": "/media/campaigns/images/17de3088-e3f3-423d-aa84-101002ac41df.jpeg",
-    "url": "https://cyberpunk.net/twitch-drops",
-    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
-    "twitch_campaign_id": "17de3088-e3f3-423d-aa84-101002ac41df"
-  },
-  {
-    "game": "Cyberpunk 2077",
-    "status": "live",
     "campaign": "Cyberpunk 2077 Chat Badge",
     "start": "2026-10-22T10:00:00Z",
     "end": "2026-11-19T09:59:59.999Z",
@@ -330,19 +300,19 @@
     "twitch_campaign_id": "a9c2f298-5a53-439a-9a8c-41b4d88937e1"
   },
   {
-    "game": "Dark and Darker",
+    "game": "Cyberpunk 2077",
     "status": "live",
-    "campaign": "EA Season 11 Drops 3",
-    "start": "2026-10-23T12:00:00Z",
-    "end": "2026-10-30T11:58:59.999Z",
+    "campaign": "Quadra Paintjobs",
+    "start": "2026-10-22T10:00:00Z",
+    "end": "2026-11-19T09:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "EA Season 11 Drops 3",
-    "image": "/media/campaigns/images/41fd0f1e-aee2-495f-910c-6c6ebd056087.png",
-    "url": "https://darkanddarker.com/twitch-drops/EAS11drops3",
-    "account_link": "https://darkanddarker.com/twitch-drops",
-    "twitch_campaign_id": "41fd0f1e-aee2-495f-910c-6c6ebd056087"
+    "description": "Watch 120 mins to get all 4 paintjobs for Quadra Turbo-R V-Tech!",
+    "image": "/media/campaigns/images/17de3088-e3f3-423d-aa84-101002ac41df.jpeg",
+    "url": "https://cyberpunk.net/twitch-drops",
+    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
+    "twitch_campaign_id": "17de3088-e3f3-423d-aa84-101002ac41df"
   },
   {
     "game": "Dead by Daylight",
@@ -585,6 +555,21 @@
     "twitch_campaign_id": "59e67ea5-2fa8-47d4-b890-12f8bd227b20"
   },
   {
+    "game": "Grand Theft Auto V",
+    "status": "live",
+    "campaign": "nopixel V",
+    "start": "2026-10-30T12:00:00Z",
+    "end": "2026-11-02T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Get the Grotti Turismo Omaggio and Rockstar Motorsport livery for watching Twitch Drop-enabled streams in nopixel V — a GTAV Roleplay experience. Visit https://www.rockstargames.com/gta-online/twitch-drops to learn more.",
+    "image": "/media/campaigns/images/c55b956e-f6f7-4c80-a798-444459eeced9.jpeg",
+    "url": "https://rockstargames.com/gta-online/twitch-drops",
+    "account_link": "https://rockstargames.com/gta-online/twitch-drops",
+    "twitch_campaign_id": "c55b956e-f6f7-4c80-a798-444459eeced9"
+  },
+  {
     "game": "Gray Zone Warfare",
     "status": "live",
     "campaign": "Rogue Ops - Stage 3",
@@ -602,21 +587,6 @@
   {
     "game": "Gray Zone Warfare",
     "status": "live",
-    "campaign": "GZW Rogue Ops 0.5 Update",
-    "start": "2026-10-22T16:00:00Z",
-    "end": "2026-11-06T12:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  Watch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and a set of exclusive apparel to become a stylish smuggler, agent, or hacker.",
-    "image": "/media/campaigns/images/381d286a-8959-4bb1-a95e-dbd2ecf944a1.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "381d286a-8959-4bb1-a95e-dbd2ecf944a1"
-  },
-  {
-    "game": "Gray Zone Warfare",
-    "status": "live",
     "campaign": "Rogue Ops - MADFINGER",
     "start": "2026-10-22T16:00:00Z",
     "end": "2026-11-06T12:58:59.999Z",
@@ -628,6 +598,21 @@
     "url": "https://twitch.grayzonewarfare.com",
     "account_link": "https://twitch.grayzonewarfare.com",
     "twitch_campaign_id": "97b4a33f-43a1-4166-bcda-f58b534b2c9b"
+  },
+  {
+    "game": "Gray Zone Warfare",
+    "status": "live",
+    "campaign": "GZW Rogue Ops 0.5 Update",
+    "start": "2026-10-22T16:00:00Z",
+    "end": "2026-11-06T12:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  Watch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and a set of exclusive apparel to become a stylish smuggler, agent, or hacker.",
+    "image": "/media/campaigns/images/381d286a-8959-4bb1-a95e-dbd2ecf944a1.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "381d286a-8959-4bb1-a95e-dbd2ecf944a1"
   },
   {
     "game": "Halloween: The Game",
@@ -707,17 +692,17 @@
   {
     "game": "Infestation: The New Z",
     "status": "live",
-    "campaign": "Halloween 2026 Part 2",
-    "start": "2026-10-23T10:01:00Z",
-    "end": "2026-10-30T09:59:59.999Z",
+    "campaign": "Halloween 2026 Part 3",
+    "start": "2026-10-30T11:01:00Z",
+    "end": "2026-11-09T10:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Get cosmetics by watching Infestation streams. Rewards are going to get directly delivered to your account. Keep in mind, clothing will be learned automatically and it's not possible to get transferred. You also can earn these character clothes only once on each account. If you claimed the rewards and don't get anything in the game, make sure you check your connection between the Game and Twitch.",
-    "image": "/media/campaigns/images/7440ade0-714d-4a97-b9b7-f3961702e3e5.png",
+    "image": "/media/campaigns/images/d3c2ae0f-a80b-4b81-a507-ad17974b4dec.png",
     "url": "https://playnewz.com/news",
     "account_link": "https://playnewz.com/twitchlink",
-    "twitch_campaign_id": "7440ade0-714d-4a97-b9b7-f3961702e3e5"
+    "twitch_campaign_id": "d3c2ae0f-a80b-4b81-a507-ad17974b4dec"
   },
   {
     "game": "Kakele Online - MMORPG",
@@ -1172,6 +1157,21 @@
   {
     "game": "Overwatch",
     "status": "live",
+    "campaign": "OWCS Stage 3 Playoffs",
+    "start": "2026-10-30T07:00:00Z",
+    "end": "2026-11-23T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate the OWCS Stage 3 Playoffs with special viewer rewards! Watch 1 hour to get the Candlelit Satya Spray, 2 hours to get the Purrfect Evening Spray, 3 hours to get the Sophisticated Sparklers Spray, 4 hours to get an Esports Loot Box, 6 hours to get the Bua and Palak's Lanterns Spray, 8 hours to get the Lantern-Lit Night Name Card, 10 hours to get the OWCS Home Sombra Skin, 12 hours to get the OWCS Away Sombra Skin, 14 hours to get an Esports Loot Box and 15 hours to get an Esports Loot Box",
+    "image": "/media/campaigns/images/5f277031-448e-4eb2-8817-45f56779633c.png",
+    "url": "https://esports.overwatch.com/en-us/rewards",
+    "account_link": "https://account.battle.net/connections",
+    "twitch_campaign_id": "5f277031-448e-4eb2-8817-45f56779633c"
+  },
+  {
+    "game": "Overwatch",
+    "status": "live",
     "campaign": "Reign of Talon S5 Launch",
     "start": "2026-10-06T18:00:00Z",
     "end": "2026-11-03T07:59:59.999Z",
@@ -1258,6 +1258,21 @@
     "url": "https://trainer.pokemon.com/rewards",
     "account_link": "https://trainer.pokemon.com/rewards",
     "twitch_campaign_id": "cfdb7d07-2d7b-4487-889e-c4b83421d803"
+  },
+  {
+    "game": "PUBG: BATTLEGROUNDS",
+    "status": "live",
+    "campaign": "PGS 12 Drops",
+    "start": "2026-10-30T10:00:00Z",
+    "end": "2026-11-01T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "🏆 The final PGS Circuit of 2026 — witness the champion's journey and claim your Drops!",
+    "image": "/media/campaigns/images/2a9f943a-0ea9-446a-80a1-ca0ab32f7243.png",
+    "url": "https://accounts.krafton.com",
+    "account_link": "https://accounts.krafton.com",
+    "twitch_campaign_id": "2a9f943a-0ea9-446a-80a1-ca0ab32f7243"
   },
   {
     "game": "QSMP",
@@ -1648,6 +1663,21 @@
     "url": "https://event.igg.com/twitch/drops?code=vr_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=vr_drops",
     "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
+  },
+  {
+    "game": "War Thunder",
+    "status": "live",
+    "campaign": "WTCS Pro Grand Finals",
+    "start": "2026-10-30T10:00:00Z",
+    "end": "2026-11-05T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "WTCS 2026 - Pro League Grand Finals - 4v4 Ground - Drops Campaign",
+    "image": "/media/campaigns/images/4e5cf37b-4160-45f5-888f-d9f9dc22698f.jpeg",
+    "url": "https://warthunder.com/en/news/10275-esports-watch-the-2026-grand-finals-and-earn-tricolor-smoke-more-twitch-drops-en",
+    "account_link": "https://gss.gaijin.net/en/",
+    "twitch_campaign_id": "4e5cf37b-4160-45f5-888f-d9f9dc22698f"
   },
   {
     "game": "Where Winds Meet",
