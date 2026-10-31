@@ -45,6 +45,21 @@
     "twitch_campaign_id": "ea5bf71c-3628-42df-a328-21f8449002ac"
   },
   {
+    "game": "Apex Legends",
+    "status": "live",
+    "campaign": "ALGS S2 PO D3",
+    "start": "2026-10-31T16:45:00Z",
+    "end": "2026-11-01T05:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "ALGS Split 2 Playoffs - Day 3",
+    "image": "/media/campaigns/images/ee136d11-4bb8-46b1-b8af-dbbd036200bd.png",
+    "url": "https://algs.ea.com/en/news/earning-drops",
+    "account_link": "https://ea.com/twitchlinking",
+    "twitch_campaign_id": "ee136d11-4bb8-46b1-b8af-dbbd036200bd"
+  },
+  {
     "game": "ARC Raiders",
     "status": "live",
     "campaign": "Frozen Trail",
@@ -92,6 +107,21 @@
   {
     "game": "Black Desert",
     "status": "live",
+    "campaign": "Master Class 26 (Oct 31)",
+    "start": "2026-10-31T12:00:00Z",
+    "end": "2026-11-01T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
+    "image": "/media/campaigns/images/319ab8fb-fe37-497a-822a-60937345e73e.jpeg",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "319ab8fb-fe37-497a-822a-60937345e73e"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
     "campaign": "[RU] MASTER CLASS 2026",
     "start": "2026-10-31T10:00:00Z",
     "end": "2026-10-31T23:59:59.999Z",
@@ -118,36 +148,6 @@
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10763",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
     "twitch_campaign_id": "000ad8bd-c370-4823-bca5-bb036117989c"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "[AS] 2026 Master Class",
-    "start": "2026-10-31T05:00:00Z",
-    "end": "2026-10-31T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
-    "image": "/media/campaigns/images/d2d7331b-71fb-443d-818a-030346004faa.jpeg",
-    "url": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "d2d7331b-71fb-443d-818a-030346004faa"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "Master Class 26 (Oct 30)",
-    "start": "2026-10-30T12:00:00Z",
-    "end": "2026-10-31T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/122ce6b5-8bc0-4949-bf94-7e01473184a4.jpeg",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "122ce6b5-8bc0-4949-bf94-7e01473184a4"
   },
   {
     "game": "Black Desert",
@@ -510,36 +510,6 @@
     "twitch_campaign_id": "c9b4b2ac-7ede-4fed-b45d-9c657f20a73c"
   },
   {
-    "game": "Epic Seven",
-    "status": "live",
-    "campaign": "E7WC 2026 Knockout Stage",
-    "start": "2026-10-31T03:00:00Z",
-    "end": "2026-10-31T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
-    "image": "/media/campaigns/images/37ce4a4f-604b-4e1e-a93b-85ca2655262f.png",
-    "url": "https://epic7.onstove.com/drops/twitch",
-    "account_link": "https://epic7.onstove.com/drops/twitch",
-    "twitch_campaign_id": "37ce4a4f-604b-4e1e-a93b-85ca2655262f"
-  },
-  {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "Lumia Rivals CUP : DAY 1",
-    "start": "2026-10-31T07:30:00Z",
-    "end": "2026-10-31T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/444a7e02-39eb-4083-8acd-d1513c8e247b.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "444a7e02-39eb-4083-8acd-d1513c8e247b"
-  },
-  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "ATXXII Finals Drop 1",
@@ -647,17 +617,17 @@
   {
     "game": "Ghosts of Tabor",
     "status": "live",
-    "campaign": "Halloween 26 - Day 2",
-    "start": "2026-10-30T16:00:00Z",
-    "end": "2026-10-31T15:57:59.999Z",
+    "campaign": "Halloween 26 - Day 3",
+    "start": "2026-10-31T16:00:00Z",
+    "end": "2026-11-01T15:57:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Come and get your limited time Halloween drops!",
-    "image": "/media/campaigns/images/b6c46bf9-2b70-4587-a3b6-32a95bb4028f.png",
+    "image": "/media/campaigns/images/ec056b89-efdf-4500-bb77-ed0d4f0e97f8.png",
     "url": "https://ghostsoftabor.com/twitch-drops-event/",
     "account_link": "https://link.ghostsoftabor.com/account-linking",
-    "twitch_campaign_id": "b6c46bf9-2b70-4587-a3b6-32a95bb4028f"
+    "twitch_campaign_id": "ec056b89-efdf-4500-bb77-ed0d4f0e97f8"
   },
   {
     "game": "Goblin Cleanup",
@@ -737,17 +707,17 @@
   {
     "game": "Gray Zone Warfare",
     "status": "live",
-    "campaign": "Rogue Ops - Stage 3",
-    "start": "2026-10-28T13:00:00Z",
-    "end": "2026-10-31T12:58:59.999Z",
+    "campaign": "Rogue Ops - Stage 4",
+    "start": "2026-10-31T13:00:00Z",
+    "end": "2026-11-03T12:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  \n\nWatch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and the Pistols & Petals and Armed Vacation Hawaiian shirts to become a stylish smuggler.",
-    "image": "/media/campaigns/images/771bc139-cb68-4858-a53c-3a16692c4c63.png",
+    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale! \n\nWatch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and the Los Muertos Hawaiian shirt, celebrating El Día de Muertos, plus the Plainclothes Shirt and Recon Plate Carrier to become the accountant agent.",
+    "image": "/media/campaigns/images/b32523bf-9deb-44df-a330-92c056385842.png",
     "url": "https://twitch.grayzonewarfare.com",
     "account_link": "https://twitch.grayzonewarfare.com",
-    "twitch_campaign_id": "771bc139-cb68-4858-a53c-3a16692c4c63"
+    "twitch_campaign_id": "b32523bf-9deb-44df-a330-92c056385842"
   },
   {
     "game": "Gray Zone Warfare",
@@ -1022,21 +992,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Lestakorabli - 26.11 #1",
-    "start": "2026-10-30T15:00:00Z",
-    "end": "2026-11-06T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
-    "image": "/media/campaigns/images/b9587cf9-bc42-48c0-a97f-7d6eeca3a68d.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "b9587cf9-bc42-48c0-a97f-7d6eeca3a68d"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Обновление 26.11: Часть 1",
     "start": "2026-10-30T15:00:00Z",
     "end": "2026-11-06T14:59:59.999Z",
@@ -1048,6 +1003,21 @@
     "url": "https://krbli.ru/3RW8D27",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "065eb655-cc82-4c06-9c71-d8778ecc092c"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Lestakorabli - 26.11 #1",
+    "start": "2026-10-30T15:00:00Z",
+    "end": "2026-11-06T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
+    "image": "/media/campaigns/images/b9587cf9-bc42-48c0-a97f-7d6eeca3a68d.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "b9587cf9-bc42-48c0-a97f-7d6eeca3a68d"
   },
   {
     "game": "Mobile Dungeon",
@@ -1123,21 +1093,6 @@
     "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
     "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
     "twitch_campaign_id": "fe259728-9dbb-425e-8299-97e7b75d62c7"
-  },
-  {
-    "game": "NARAKA: BLADEPOINT",
-    "status": "live",
-    "campaign": "NBPL 10.31",
-    "start": "2026-10-31T08:00:00Z",
-    "end": "2026-10-31T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/efd4c10e-a424-40ee-845e-a53e8471e1e1.png",
-    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
-    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "efd4c10e-a424-40ee-845e-a53e8471e1e1"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1277,17 +1232,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate10/30/26",
-    "start": "2026-10-30T13:00:00Z",
-    "end": "2026-10-31T12:59:59.999Z",
+    "campaign": "Affiliate10/31/26",
+    "start": "2026-10-31T13:00:00Z",
+    "end": "2026-11-01T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/49eef369-cbc2-4e99-9d13-d0e3d323dc85.png",
+    "image": "/media/campaigns/images/17635cd6-fcf4-4b57-b6c2-5aab7f70c77b.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "49eef369-cbc2-4e99-9d13-d0e3d323dc85"
+    "twitch_campaign_id": "17635cd6-fcf4-4b57-b6c2-5aab7f70c77b"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1562,21 +1517,6 @@
   {
     "game": "Shakes and Fidget",
     "status": "live",
-    "campaign": "S&F Droplets",
-    "start": "2026-10-30T15:00:00Z",
-    "end": "2026-11-05T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Droplets are additional drops to our main drop campaigns.",
-    "image": "/media/campaigns/images/bbcf1935-8dd7-4495-bc63-b80c04766c84.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "bbcf1935-8dd7-4495-bc63-b80c04766c84"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
     "campaign": "S&F Drops 3/3",
     "start": "2026-10-30T15:00:00Z",
     "end": "2026-11-01T22:58:59.999Z",
@@ -1588,6 +1528,21 @@
     "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
     "account_link": "https://sfgame.net/",
     "twitch_campaign_id": "595a83b2-7bdc-4b16-97df-6b102390e495"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "S&F Droplets",
+    "start": "2026-10-30T15:00:00Z",
+    "end": "2026-11-05T22:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Droplets are additional drops to our main drop campaigns.",
+    "image": "/media/campaigns/images/bbcf1935-8dd7-4495-bc63-b80c04766c84.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "bbcf1935-8dd7-4495-bc63-b80c04766c84"
   },
   {
     "game": "Shakes and Fidget",
@@ -1678,21 +1633,6 @@
     "url": "https://support.exbo.net/help-center/articles/8/19/168/",
     "account_link": "https://exbo.net/user",
     "twitch_campaign_id": "97e14443-0090-4a91-ab42-01cce98d8d56"
-  },
-  {
-    "game": "Standoff 2",
-    "status": "live",
-    "campaign": "МТС РИИЛ Cup 2x2",
-    "start": "2026-10-31T09:00:00Z",
-    "end": "2026-10-31T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch Drops — это система наград, которая позволяет зрителям стрима получать внутриигровые предметы за просмотр трансляции в течение определенного времени.    \nКак получить награды:             \n– Зайдите в игру и убедитесь, что учетная запись привязана к тому же Twitch-аккаунту.        – Накопите необходимое время просмотра на официальном канале Standoff 2.         \n– Отслеживайте свой прогресс в разделе Drops на Twitch (обычно находится в профиле Twitch → «Drops и награды»).",
-    "image": "/media/campaigns/images/c87a6c60-b3f6-4d03-b484-e023a781f159.png",
-    "url": "https://install.standoff2.com/ru/twitch-drops",
-    "account_link": "https://link.standoff2.com/twitch/link/",
-    "twitch_campaign_id": "c87a6c60-b3f6-4d03-b484-e023a781f159"
   },
   {
     "game": "Stella Sora",
@@ -1905,6 +1845,21 @@
     "twitch_campaign_id": "4e5cf37b-4160-45f5-888f-d9f9dc22698f"
   },
   {
+    "game": "Warframe",
+    "status": "live",
+    "campaign": "PMCFQ Finale",
+    "start": "2026-10-31T15:55:00Z",
+    "end": "2026-10-31T20:14:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch our finale stream to earn a variety of items from the Finale Grab Bag.",
+    "image": "/media/campaigns/images/d8bb85b6-c9c8-4ca0-99ff-c4e6864adb16.jpeg",
+    "url": "https://forums.warframe.com/topic/1530491-pmcfq-community-fundraising-stream-schedule-october-26-31-2026/",
+    "account_link": "https://www.warframe.com/user",
+    "twitch_campaign_id": "d8bb85b6-c9c8-4ca0-99ff-c4e6864adb16"
+  },
+  {
     "game": "Where Winds Meet",
     "status": "live",
     "campaign": "Where Winds Meet November",
@@ -1922,17 +1877,17 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "marty_vole",
-    "start": "2026-10-30T16:00:00Z",
-    "end": "2026-10-31T15:59:59.999Z",
+    "campaign": "Happy Halloween!",
+    "start": "2026-10-31T16:00:00Z",
+    "end": "2026-11-01T15:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "marty_vole",
-    "image": "/media/campaigns/images/d46ea5f7-6251-4ea3-8e0d-5397a398222a.png",
-    "url": "https://worldoftanks.eu/news/specials/czech-independence-day-2026/",
+    "description": "Happy Halloween!",
+    "image": "/media/campaigns/images/07e814ba-0fc5-47a5-84b0-c5c7aa199771.jpeg",
+    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "d46ea5f7-6251-4ea3-8e0d-5397a398222a"
+    "twitch_campaign_id": "07e814ba-0fc5-47a5-84b0-c5c7aa199771"
   },
   {
     "game": "World of Tanks",
@@ -2008,21 +1963,6 @@
     "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "e3783806-14bb-4497-850b-fbb7d9468d54"
-  },
-  {
-    "game": "World of Tanks Console",
-    "status": "live",
-    "campaign": "Fancy Dress Party",
-    "start": "2026-10-30T15:00:00Z",
-    "end": "2026-10-31T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Happy Halloween Commanders! ",
-    "image": "/media/campaigns/images/71652208-1a89-434f-a1d2-9a4775b980ed.png",
-    "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
-    "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
-    "twitch_campaign_id": "71652208-1a89-434f-a1d2-9a4775b980ed"
   },
   {
     "game": "World of Tanks Console",
