@@ -90,6 +90,21 @@
     "twitch_campaign_id": "853eaf12-2ecb-446c-b382-717c278f8af2"
   },
   {
+    "game": "Battlefield REDSEC",
+    "status": "live",
+    "campaign": "Open Series Cup #2",
+    "start": "2026-10-31T04:00:00Z",
+    "end": "2026-11-02T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune in and support your favorite creators streaming Battlefield REDSEC to unlock Twitch Drops celebrating the Open Series, where teams battle for a spot in the Elite Series.",
+    "image": "/media/campaigns/images/6d1fd562-e49a-424b-b180-7caa0ce1930b.png",
+    "url": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
+    "account_link": "https://ea.com/twitchlinking",
+    "twitch_campaign_id": "6d1fd562-e49a-424b-b180-7caa0ce1930b"
+  },
+  {
     "game": "Black Desert",
     "status": "live",
     "campaign": "Master Class 26 (Oct 30)",
@@ -270,21 +285,6 @@
     "twitch_campaign_id": "6d31797a-b6cc-4246-83e9-5710ba59eb0c"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "Fall Drops",
-    "start": "2026-10-30T12:24:09Z",
-    "end": "2026-10-31T02:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/337efb76-fbba-494b-8802-6439750f4f88.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "337efb76-fbba-494b-8802-6439750f4f88"
-  },
-  {
     "game": "Crimson Desert",
     "status": "live",
     "campaign": "Crimson Desert DLC Week 1",
@@ -390,21 +390,6 @@
     "twitch_campaign_id": "4639ddda-11fa-42b9-a808-03edf1f6b9bc"
   },
   {
-    "game": "Destiny 2",
-    "status": "live",
-    "campaign": "BNG Foundation Halloween",
-    "start": "2026-10-30T18:30:00Z",
-    "end": "2026-10-31T00:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Thank you for joining the Bungie Foundation for our third annual Halloween livestream. As a special thank you from us, we are offering the Marathon Four Leaf Matrix emblem and the Destiny 2 Sign of our City emblem as a reward. Be sure your Twitch account is linked to your Bungie account.",
-    "image": "/media/campaigns/images/fea9a7ab-974b-465c-800b-aab2d1cb8c18.png",
-    "url": "https://www.twitch.tv/bungiefoundation",
-    "account_link": "https://www.bungie.net/LinkTwitch",
-    "twitch_campaign_id": "fea9a7ab-974b-465c-800b-aab2d1cb8c18"
-  },
-  {
     "game": "Don't Starve Together",
     "status": "live",
     "campaign": "Butterfly Wardrobe",
@@ -478,6 +463,21 @@
     "url": "https://embervale.tv/",
     "account_link": "https://embervale.tv/",
     "twitch_campaign_id": "c9b4b2ac-7ede-4fed-b45d-9c657f20a73c"
+  },
+  {
+    "game": "Epic Seven",
+    "status": "live",
+    "campaign": "E7WC 2026 Knockout Stage",
+    "start": "2026-10-31T03:00:00Z",
+    "end": "2026-10-31T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+    "image": "/media/campaigns/images/37ce4a4f-604b-4e1e-a93b-85ca2655262f.png",
+    "url": "https://epic7.onstove.com/drops/twitch",
+    "account_link": "https://epic7.onstove.com/drops/twitch",
+    "twitch_campaign_id": "37ce4a4f-604b-4e1e-a93b-85ca2655262f"
   },
   {
     "game": "EVE Online",
@@ -810,21 +810,6 @@
     "twitch_campaign_id": "d3c2ae0f-a80b-4b81-a507-ad17974b4dec"
   },
   {
-    "game": "Kakele Online - MMORPG",
-    "status": "live",
-    "campaign": "Kakele Online - October 2",
-    "start": "2026-10-16T07:00:00Z",
-    "end": "2026-10-31T00:18:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "🎮 Announcing Kakele Online's Epic Twitch Drops!  Embark on a unique journey in Kakele's realm. Dive into mystical lands, conquer quests, and enjoy our exciting Twitch Drops for enhanced gaming. Unlock rewards, including teleports, herbs, potions, and materials.  🕒 Timed Rewards: Enjoy cities Teleports, Ultra potions, Gold Refiner Kits and collect Dog Cards and Trophies.  💰 Prosperity Path: Gain Copper, Tin, Silver, Iron, Gold, Life Herbs, Mana Herbs for success. Accumulate Reputation Coins.  🎈 Grand Finale: End with an exclusive Twitch Drop and Bacon Extravaganza surprise! Link accounts, watch streams, and claim rewards for an unforgettable RPG experience.  🌟 How to Join:  Link Accounts: Connect your account and Twitch in the game app. Watch Streams: Tune in during to your favorite Kakele streamer. Claim Rewards: Receive Twitch Drop notifications claim in the game app.  Influencers: To enable drops on your stream, email us!  Don't miss the chance to enrich your journey with Twitch Drops!",
-    "image": "/media/campaigns/images/dfeba7d4-f52f-4195-9153-88656e5c1114.png",
-    "url": "https://www.kakele.io/?utm_source=drops",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?client_id=9awx3xtp59477gdaslg318amuimqp8&redirect_uri=https%3A%2F%2Fwww.kakele.io%2Fdrops&response_type=code&scope=user:read:email",
-    "twitch_campaign_id": "dfeba7d4-f52f-4195-9153-88656e5c1114"
-  },
-  {
     "game": "League of Legends",
     "status": "live",
     "campaign": "True Damage Chat Badge",
@@ -898,21 +883,6 @@
     "url": "https://event.igg.com/twitch/drops?code=lo_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=lo_drops",
     "twitch_campaign_id": "de187dc2-1549-44a6-8fe1-118efd83a38a"
-  },
-  {
-    "game": "Marathon",
-    "status": "live",
-    "campaign": "BNG Foundation Halloween",
-    "start": "2026-10-30T18:30:00Z",
-    "end": "2026-10-31T00:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Thank you for joining the Bungie Foundation for our third annual Halloween livestream. As a special thank you from us, we are offering the Marathon Four Leaf Matrix emblem and the Destiny 2 Sign of our City emblem as a reward. Be sure your Twitch account is linked to your Bungie account.",
-    "image": "/media/campaigns/images/440f6e87-e299-43a9-9d13-63ef3ecd5b4c.png",
-    "url": "https://www.twitch.tv/bungiefoundation",
-    "account_link": "https://www.bungie.net/LinkTwitch",
-    "twitch_campaign_id": "440f6e87-e299-43a9-9d13-63ef3ecd5b4c"
   },
   {
     "game": "Marbles on Stream",
@@ -1232,21 +1202,6 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Official 25",
-    "start": "2026-10-26T13:00:00Z",
-    "end": "2026-11-02T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/20045463-b9ab-4226-929b-4e2f129e880f.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "20045463-b9ab-4226-929b-4e2f129e880f"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
     "campaign": "Laptophound 25",
     "start": "2026-10-26T13:00:00Z",
     "end": "2026-11-02T12:59:59.999Z",
@@ -1258,6 +1213,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "944d42e3-4932-4bc9-a32e-e0dd0b0fea1d"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "Official 25",
+    "start": "2026-10-26T13:00:00Z",
+    "end": "2026-11-02T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/20045463-b9ab-4226-929b-4e2f129e880f.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "20045463-b9ab-4226-929b-4e2f129e880f"
   },
   {
     "game": "Overwatch",
@@ -1698,16 +1668,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "October Drops",
-    "start": "2026-10-30T00:00:00Z",
-    "end": "2026-10-30T23:59:59.999Z",
+    "start": "2026-10-31T00:00:00Z",
+    "end": "2026-10-31T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/6899fd05-a849-475a-b691-964ae7a75fce.png",
+    "image": "/media/campaigns/images/4fee07b4-953c-43a1-be86-cc2aece523ee.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "6899fd05-a849-475a-b691-964ae7a75fce"
+    "twitch_campaign_id": "4fee07b4-953c-43a1-be86-cc2aece523ee"
   },
   {
     "game": "UFL",
