@@ -17,21 +17,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 6 - #6/7",
-    "start": "2026-10-31T10:00:00Z",
-    "end": "2026-11-01T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/d4bf1211-8a3f-4c0f-8b02-d74ab9ec6bc2.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "d4bf1211-8a3f-4c0f-8b02-d74ab9ec6bc2"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "Dragonfire 9 - #6/7",
     "start": "2026-10-31T10:00:00Z",
     "end": "2026-11-01T09:29:59.999Z",
@@ -43,6 +28,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "ea5bf71c-3628-42df-a328-21f8449002ac"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 6 - #6/7",
+    "start": "2026-10-31T10:00:00Z",
+    "end": "2026-11-01T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/d4bf1211-8a3f-4c0f-8b02-d74ab9ec6bc2.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "d4bf1211-8a3f-4c0f-8b02-d74ab9ec6bc2"
   },
   {
     "game": "Apex Legends",
@@ -480,21 +480,6 @@
     "twitch_campaign_id": "26a32c34-dfd6-48a4-87fc-a8da6de68e47"
   },
   {
-    "game": "EA Sports College Football 27",
-    "status": "live",
-    "campaign": "CFB Live",
-    "start": "2026-10-30T17:00:00Z",
-    "end": "2026-10-31T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch your favorite creators play College Football 27 and earn some Twitch Drops to power up your Ultimate Team!",
-    "image": "/media/campaigns/images/44016eba-9978-4f6c-9578-39edde516053.png",
-    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-    "twitch_campaign_id": "44016eba-9978-4f6c-9578-39edde516053"
-  },
-  {
     "game": "Embervale.TV",
     "status": "live",
     "campaign": "Halloween Event 2026",
@@ -508,6 +493,21 @@
     "url": "https://embervale.tv/",
     "account_link": "https://embervale.tv/",
     "twitch_campaign_id": "c9b4b2ac-7ede-4fed-b45d-9c657f20a73c"
+  },
+  {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "ERCC S12 Semi Day 1",
+    "start": "2026-10-31T17:00:00Z",
+    "end": "2026-11-01T02:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/f2e2a94f-92bb-40c1-92be-4f4d59f36df1.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "f2e2a94f-92bb-40c1-92be-4f4d59f36df1"
   },
   {
     "game": "EVE Online",
@@ -1472,32 +1472,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 633",
-    "start": "2026-10-30T17:59:00Z",
-    "end": "2026-10-31T17:56:59.999Z",
+    "campaign": "ROW Drop 634",
+    "start": "2026-10-31T17:59:00Z",
+    "end": "2026-11-01T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/e34f2a62-b16d-42b7-bcb4-5390a12290fb.jpeg",
+    "image": "/media/campaigns/images/57afe121-3be3-4bc4-abb0-65d9ba788e2d.png",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "e34f2a62-b16d-42b7-bcb4-5390a12290fb"
+    "twitch_campaign_id": "57afe121-3be3-4bc4-abb0-65d9ba788e2d"
   },
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 204",
-    "start": "2026-10-30T17:59:00Z",
-    "end": "2026-10-31T17:56:59.999Z",
+    "campaign": "Mobile Drop 205",
+    "start": "2026-10-31T17:59:00Z",
+    "end": "2026-11-01T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/549c1c43-7314-438a-95db-ba222e4e7988.png",
+    "image": "/media/campaigns/images/31234d3a-eb24-4555-a9da-9dd14fa60474.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "549c1c43-7314-438a-95db-ba222e4e7988"
+    "twitch_campaign_id": "31234d3a-eb24-4555-a9da-9dd14fa60474"
   },
   {
     "game": "Rust",
@@ -1605,6 +1605,21 @@
     "twitch_campaign_id": "be794431-8dd5-4b79-bf11-53bb600711cb"
   },
   {
+    "game": "SMITE 2",
+    "status": "live",
+    "campaign": "Nov Wk 2 Hachiman!",
+    "start": "2026-10-31T11:00:00Z",
+    "end": "2026-11-07T10:57:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
+    "image": "/media/campaigns/images/6b1d7942-ec4d-49de-b545-ec3c7609e67a.png",
+    "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
+    "account_link": "https://link.smite2.com/",
+    "twitch_campaign_id": "6b1d7942-ec4d-49de-b545-ec3c7609e67a"
+  },
+  {
     "game": "Splinterlands",
     "status": "live",
     "campaign": "October Week 3",
@@ -1693,6 +1708,21 @@
     "url": "https://www.reachthefinals.com/twitch",
     "account_link": "https://embark-games.embark.net/",
     "twitch_campaign_id": "aefa907c-43d5-4187-beed-4576c246ef7b"
+  },
+  {
+    "game": "The Other Side",
+    "status": "live",
+    "campaign": "Halloween 2026",
+    "start": "2026-10-31T17:00:00Z",
+    "end": "2026-11-04T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate Halloween 2026 in The Other Side! Watch participating Twitch streams during the event to earn an exclusive Halloween feline companion. Don't miss your chance to claim this limited-time reward!",
+    "image": "/media/campaigns/images/cd0181a3-ac58-400c-9f2b-9d04df752ee0.png",
+    "url": "https://store.steampowered.com/news/app/2764750/view/676261964507253213",
+    "account_link": "https://store.steampowered.com/news/app/2764750/view/676261964507253213",
+    "twitch_campaign_id": "cd0181a3-ac58-400c-9f2b-9d04df752ee0"
   },
   {
     "game": "The Quinfall",
@@ -1843,21 +1873,6 @@
     "url": "https://warthunder.com/en/news/10275-esports-watch-the-2026-grand-finals-and-earn-tricolor-smoke-more-twitch-drops-en",
     "account_link": "https://gss.gaijin.net/en/",
     "twitch_campaign_id": "4e5cf37b-4160-45f5-888f-d9f9dc22698f"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "PMCFQ Finale",
-    "start": "2026-10-31T15:55:00Z",
-    "end": "2026-10-31T20:14:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Support our Princess Margaret Cancer Foundation Quest campaign through the month of October! Watch our finale stream to earn a variety of items from the Finale Grab Bag.",
-    "image": "/media/campaigns/images/d8bb85b6-c9c8-4ca0-99ff-c4e6864adb16.jpeg",
-    "url": "https://forums.warframe.com/topic/1530491-pmcfq-community-fundraising-stream-schedule-october-26-31-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "d8bb85b6-c9c8-4ca0-99ff-c4e6864adb16"
   },
   {
     "game": "Where Winds Meet",
