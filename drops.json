@@ -122,21 +122,6 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "[RU] MASTER CLASS 2026",
-    "start": "2026-10-31T10:00:00Z",
-    "end": "2026-10-31T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.ru.playblackdesert.com/News/Notice/Detail?boardNo=13131",
-    "image": "/media/campaigns/images/112447a6-9d33-481d-8df8-0a96df59be75.jpeg",
-    "url": "https://www.ru.playblackdesert.com/News/Notice/Detail?boardNo=13131",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "112447a6-9d33-481d-8df8-0a96df59be75"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
     "campaign": "[NAEU] 2026 Master Class",
     "start": "2026-10-31T09:00:00Z",
     "end": "2026-11-01T08:59:59.999Z",
@@ -283,21 +268,6 @@
     "url": "https://ayrtonalexis.com/tdt_drops.html",
     "account_link": "https://ayrtonalexis.com/tdt_twitch_link.html",
     "twitch_campaign_id": "cc8fd90c-a765-4e92-b5cd-1d8348bd364d"
-  },
-  {
-    "game": "Coin Pusher Live",
-    "status": "live",
-    "campaign": "Halloween 2026",
-    "start": "2026-10-05T19:50:37Z",
-    "end": "2026-10-31T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate Halloween 2026 in Coin Pusher Live! Watch participating Twitch streams to earn spooky limited time coin rewards, including six collectible Halloween designs. Connect your account at littygames.net/drops, then watch, claim, and add them to your collection before the campaign ends.",
-    "image": "/media/campaigns/images/35e7547f-0b2a-430d-850e-bfd9d5729eab.png",
-    "url": "https://littygames.net/drops",
-    "account_link": "https://littygames.net/drops",
-    "twitch_campaign_id": "35e7547f-0b2a-430d-850e-bfd9d5729eab"
   },
   {
     "game": "Conqueror's Blade",
@@ -465,21 +435,6 @@
     "twitch_campaign_id": "cc08d25f-f80b-44f1-831f-c97bbbedc5fe"
   },
   {
-    "game": "Dragon's Dogma II",
-    "status": "live",
-    "campaign": "Dragon’s Dogma 2 - DA",
-    "start": "2026-10-08T12:00:00Z",
-    "end": "2026-10-31T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Your unwritten epic begins now with the launch of Dragon’s Dogma 2: Dark Arisen! Come and celebrate on Twitch with two exclusive Dark Arisen themed chat badges! They're masterworks all, you can’t go wrong! #DD2DA ",
-    "image": "/media/campaigns/images/26a32c34-dfd6-48a4-87fc-a8da6de68e47.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "26a32c34-dfd6-48a4-87fc-a8da6de68e47"
-  },
-  {
     "game": "Embervale.TV",
     "status": "live",
     "campaign": "Halloween Event 2026",
@@ -495,19 +450,19 @@
     "twitch_campaign_id": "c9b4b2ac-7ede-4fed-b45d-9c657f20a73c"
   },
   {
-    "game": "Eternal Return",
+    "game": "Epic Seven",
     "status": "live",
-    "campaign": "ERCC S12 Semi Day 1",
-    "start": "2026-10-31T17:00:00Z",
-    "end": "2026-11-01T02:59:59.999Z",
+    "campaign": "E7WC 2026 Knockout Stage",
+    "start": "2026-11-01T03:00:00Z",
+    "end": "2026-11-01T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/f2e2a94f-92bb-40c1-92be-4f4d59f36df1.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "f2e2a94f-92bb-40c1-92be-4f4d59f36df1"
+    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+    "image": "/media/campaigns/images/3ef4b83c-8082-4a31-ab48-79095c157369.png",
+    "url": "https://epic7.onstove.com/drops/twitch",
+    "account_link": "https://epic7.onstove.com/drops/twitch",
+    "twitch_campaign_id": "3ef4b83c-8082-4a31-ab48-79095c157369"
   },
   {
     "game": "EVE Online",
@@ -840,6 +795,21 @@
     "twitch_campaign_id": "d3c2ae0f-a80b-4b81-a507-ad17974b4dec"
   },
   {
+    "game": "Krunker",
+    "status": "live",
+    "campaign": "November Spins Update",
+    "start": "2026-11-01T00:00:00Z",
+    "end": "2026-11-08T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The November Spin Update is now live!",
+    "image": "/media/campaigns/images/9574d558-1368-4b7a-b46e-c2cfe6f75a82.png",
+    "url": "https://krunker.io/",
+    "account_link": "https://krunker.io/?twitch_auth",
+    "twitch_campaign_id": "9574d558-1368-4b7a-b46e-c2cfe6f75a82"
+  },
+  {
     "game": "League of Legends",
     "status": "live",
     "campaign": "True Damage Chat Badge",
@@ -1050,21 +1020,6 @@
     "twitch_campaign_id": "d8d964f2-fcdc-4440-a979-9ff55351cbe8"
   },
   {
-    "game": "Modern Warships",
-    "status": "live",
-    "campaign": "MW: Leviathan Harvest",
-    "start": "2026-10-08T00:00:00Z",
-    "end": "2026-10-31T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Commanders, from October 8 to 31, watch selected Modern Warships streams on Twitch and earn rewards during the Leviathan Harvest event.",
-    "image": "/media/campaigns/images/efb9b018-9c9e-4721-8659-6690bfd8cb63.png",
-    "url": "https://artstorm.com/news/twitch-drops-leviathan-harvest",
-    "account_link": "https://artstorm.com/cabinet/connect-twitch",
-    "twitch_campaign_id": "efb9b018-9c9e-4721-8659-6690bfd8cb63"
-  },
-  {
     "game": "Monster Hunter Outlanders",
     "status": "live",
     "campaign": "MHO Twitch Drops",
@@ -1198,36 +1153,6 @@
     "url": "https://www.oncehuman.game/twitch/",
     "account_link": "https://www.oncehuman.game/twitch/",
     "twitch_campaign_id": "4b249954-342f-4a19-bfa1-0421ecf735a4"
-  },
-  {
-    "game": "Once Human",
-    "status": "live",
-    "campaign": "Asmon's Exclusive Drops",
-    "start": "2026-10-22T00:00:00Z",
-    "end": "2026-10-31T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Asmongold is back in Once Human! Tune in to his Ocean Expansion return stream and watch for a total of 2 hours to claim all the Exclusive Drops.\nLink your Once Human character to your Twitch account to receive the Drops in-game. Rewards will be delivered to your account within 24 hours.",
-    "image": "/media/campaigns/images/4ea61372-8f27-4ff8-be45-611db94c2a5a.png",
-    "url": "https://www.oncehuman.game/twitch/",
-    "account_link": "https://www.oncehuman.game/twitch/",
-    "twitch_campaign_id": "4ea61372-8f27-4ff8-be45-611db94c2a5a"
-  },
-  {
-    "game": "Once Human",
-    "status": "live",
-    "campaign": "Kaise's Exclusive Drops",
-    "start": "2026-10-22T00:00:00Z",
-    "end": "2026-10-31T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Set sail, cast your line, and explore the strange waters with Kaise! Tune in to Kaise’s Once Human: Ocean Survival Diary stream for a total of 4 hours to claim all the rewards.\n\nLink your Once Human character to your Twitch account to receive the Drops in-game. Rewards will be delivered to your account within 24 hours.",
-    "image": "/media/campaigns/images/2ed1e6e7-9f75-4b65-b0b5-1e811da88798.png",
-    "url": "https://www.oncehuman.game/twitch/",
-    "account_link": "https://www.oncehuman.game/twitch/",
-    "twitch_campaign_id": "2ed1e6e7-9f75-4b65-b0b5-1e811da88798"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1727,17 +1652,17 @@
   {
     "game": "The Quinfall",
     "status": "live",
-    "campaign": "October Drops",
-    "start": "2026-10-31T00:00:00Z",
-    "end": "2026-10-31T23:59:59.999Z",
+    "campaign": "November Drops",
+    "start": "2026-11-01T00:00:00Z",
+    "end": "2026-11-01T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/4fee07b4-953c-43a1-be86-cc2aece523ee.png",
+    "image": "/media/campaigns/images/cac1b6d8-3e2c-46e4-8254-66ff7c2c1efe.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "4fee07b4-953c-43a1-be86-cc2aece523ee"
+    "twitch_campaign_id": "cac1b6d8-3e2c-46e4-8254-66ff7c2c1efe"
   },
   {
     "game": "UFL",
@@ -1783,21 +1708,6 @@
     "url": "https://valorantesports.com/en-US/valorantesports/news/valorant-game-changers-championship-2026-everything-you-need-to-know",
     "account_link": "https://twitch.tv/settings/connections#riot-connection",
     "twitch_campaign_id": "bacdc21c-c1df-42d1-bcd7-3ce055a346f7"
-  },
-  {
-    "game": "VALORANT",
-    "status": "live",
-    "campaign": "VCT26 GCC Sao Paulo",
-    "start": "2026-10-22T18:00:00Z",
-    "end": "2026-10-31T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "GCC has arrived again in São Paulo! The top 10 Game Changers teams from around the world face off to determine who is the Champions winner for 2026. ",
-    "image": "/media/campaigns/images/a27bf158-7088-4161-9454-c9aa882e7e3b.png",
-    "url": "https://valorantesports.com/en-US/valorantesports/news/valorant-game-changers-championship-2026-everything-you-need-to-know",
-    "account_link": "https://twitch.tv/settings/connections#riot-connection",
-    "twitch_campaign_id": "a27bf158-7088-4161-9454-c9aa882e7e3b"
   },
   {
     "game": "Vampir",
@@ -1860,6 +1770,21 @@
     "twitch_campaign_id": "486811da-8b4c-4212-951d-1a8caa34b5bc"
   },
   {
+    "game": "VRChat",
+    "status": "live",
+    "campaign": "Spookality DJ Event",
+    "start": "2026-11-01T02:00:00Z",
+    "end": "2026-11-01T06:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Join us for a special Spookality DJ lineup! You'll collect an exclusive accessory for watching!",
+    "image": "/media/campaigns/images/aae5e8c7-186f-4c8c-b6bd-f2ac26baa168.png",
+    "url": "https://x.com/VRChat/status/2115137647970800092",
+    "account_link": "https://vrchat.com/home/profile#link-twitch",
+    "twitch_campaign_id": "aae5e8c7-186f-4c8c-b6bd-f2ac26baa168"
+  },
+  {
     "game": "War Thunder",
     "status": "live",
     "campaign": "WTCS Pro Grand Finals",
@@ -1918,66 +1843,6 @@
     "url": "https://worldoftanks.eu/news/live-streams/wot-a-thrill-token-store-october-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "77af691f-125c-4e1b-b6f0-4d164bd5bf1c"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Operative Mailand",
-    "start": "2026-10-15T15:00:00Z",
-    "end": "2026-10-31T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Operative Mailand",
-    "image": "/media/campaigns/images/86254499-8b0b-4f45-b9d3-de79cb756773.png",
-    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "86254499-8b0b-4f45-b9d3-de79cb756773"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Operative MouzAkrobat",
-    "start": "2026-10-15T15:00:00Z",
-    "end": "2026-10-31T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Operative MouzAkrobat",
-    "image": "/media/campaigns/images/61e12424-a3c8-4ad7-9141-6058b23ea044.png",
-    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "61e12424-a3c8-4ad7-9141-6058b23ea044"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Operative QuickyBaby",
-    "start": "2026-10-15T15:00:00Z",
-    "end": "2026-10-31T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Operative QuickyBaby",
-    "image": "/media/campaigns/images/2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20.png",
-    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "2da47e43-9fbd-4a0b-b7ec-1c180fc4ce20"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Operative Skill4ltu",
-    "start": "2026-10-15T15:00:00Z",
-    "end": "2026-10-31T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Operative Skill4ltu",
-    "image": "/media/campaigns/images/e3783806-14bb-4497-850b-fbb7d9468d54.png",
-    "url": "https://worldoftanks.eu/news/general-news/halloween-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "e3783806-14bb-4497-850b-fbb7d9468d54"
   },
   {
     "game": "World of Tanks Console",
