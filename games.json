@@ -2,7 +2,7 @@
   {
     "name": "Counter-Strike 2",
     "platform": "Steam",
-    "metric": 447839,
+    "metric": 1057374,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
@@ -16,7 +16,7 @@
   {
     "name": "Dota 2",
     "platform": "Steam",
-    "metric": 328693,
+    "metric": 701331,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
@@ -30,7 +30,7 @@
   {
     "name": "PUBG: BATTLEGROUNDS",
     "platform": "Steam",
-    "metric": 218265,
+    "metric": 656108,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
@@ -42,9 +42,23 @@
     "id": 3
   },
   {
+    "name": "Apex Legends",
+    "platform": "Steam",
+    "metric": 180586,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+    "appid": 1172470,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 4
+  },
+  {
     "name": "Cyberpunk 2077",
     "platform": "Steam",
-    "metric": 100861,
+    "metric": 126353,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
@@ -89,47 +103,12 @@
       }
     ],
     "emotes": [],
-    "id": 4
-  },
-  {
-    "name": "Apex Legends",
-    "platform": "Steam",
-    "metric": 65045,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
-    "appid": 1172470,
-    "drops_enabled": true,
-    "drops": [
-      {
-        "game": "Apex Legends",
-        "status": "live",
-        "campaign": "ALGS S2 PO D4",
-        "start": "2026-11-01T20:45:00Z",
-        "end": "2026-11-02T06:29:59.999Z",
-        "watch_time": "",
-        "requirements": [],
-        "rewards": [],
-        "description": "ALGS Split 2 Playoffs - Day 4",
-        "image": "/media/campaigns/images/0a9149ce-f9cc-4997-9e8d-c05d2ac5d0fd.png",
-        "url": "https://algs.ea.com/en/news/earning-drops",
-        "account_link": "https://ea.com/twitchlinking",
-        "twitch_campaign_id": "0a9149ce-f9cc-4997-9e8d-c05d2ac5d0fd"
-      }
-    ],
-    "badges": [
-      {
-        "name": "Drop actif",
-        "icon": "🎁"
-      }
-    ],
-    "emotes": [],
     "id": 5
   },
   {
     "name": "Rust",
     "platform": "Steam",
-    "metric": 45041,
+    "metric": 98343,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
@@ -141,9 +120,23 @@
     "id": 6
   },
   {
+    "name": "Grand Theft Auto V",
+    "platform": "Steam",
+    "metric": 66541,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+    "appid": 271590,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 7
+  },
+  {
     "name": "Dead by Daylight",
     "platform": "Steam",
-    "metric": 42187,
+    "metric": 65739,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
@@ -173,40 +166,12 @@
       }
     ],
     "emotes": [],
-    "id": 7
-  },
-  {
-    "name": "Baldur's Gate 3",
-    "platform": "Steam",
-    "metric": 32004,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
-    "appid": 1086940,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
     "id": 8
-  },
-  {
-    "name": "Helldivers 2",
-    "platform": "Steam",
-    "metric": 29638,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
-    "appid": 553850,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 9
   },
   {
     "name": "Palworld",
     "platform": "Steam",
-    "metric": 26839,
+    "metric": 42494,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
@@ -215,51 +180,44 @@
     "drops": [],
     "badges": [],
     "emotes": [],
+    "id": 9
+  },
+  {
+    "name": "Terraria",
+    "platform": "Steam",
+    "metric": 39710,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "appid": 105600,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
     "id": 10
   },
   {
-    "name": "Grand Theft Auto V",
+    "name": "Helldivers 2",
     "platform": "Steam",
-    "metric": 26812,
+    "metric": 38327,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
-    "appid": 271590,
-    "drops_enabled": true,
-    "drops": [
-      {
-        "game": "Grand Theft Auto V",
-        "status": "live",
-        "campaign": "nopixel V",
-        "start": "2026-10-30T12:00:00Z",
-        "end": "2026-11-02T11:59:59.999Z",
-        "watch_time": "",
-        "requirements": [],
-        "rewards": [],
-        "description": "Get the Grotti Turismo Omaggio and Rockstar Motorsport livery for watching Twitch Drop-enabled streams in nopixel V — a GTAV Roleplay experience. Visit https://www.rockstargames.com/gta-online/twitch-drops to learn more.",
-        "image": "/media/campaigns/images/c55b956e-f6f7-4c80-a798-444459eeced9.jpeg",
-        "url": "https://rockstargames.com/gta-online/twitch-drops",
-        "account_link": "https://rockstargames.com/gta-online/twitch-drops",
-        "twitch_campaign_id": "c55b956e-f6f7-4c80-a798-444459eeced9"
-      }
-    ],
-    "badges": [
-      {
-        "name": "Drop actif",
-        "icon": "🎁"
-      }
-    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+    "appid": 553850,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
     "emotes": [],
     "id": 11
   },
   {
-    "name": "Left 4 Dead 2",
+    "name": "Baldur's Gate 3",
     "platform": "Steam",
-    "metric": 23876,
+    "metric": 34925,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
-    "appid": 550,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+    "appid": 1086940,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -267,13 +225,13 @@
     "id": 12
   },
   {
-    "name": "Terraria",
+    "name": "Left 4 Dead 2",
     "platform": "Steam",
-    "metric": 21796,
+    "metric": 30201,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
-    "appid": 105600,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
+    "appid": 550,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -283,21 +241,42 @@
   {
     "name": "Elden Ring",
     "platform": "Steam",
-    "metric": 18148,
+    "metric": 26581,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
     "appid": 1245620,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
+    "drops_enabled": true,
+    "drops": [
+      {
+        "game": "ELDEN RING",
+        "status": "live",
+        "campaign": "Warrior Jar Alexander",
+        "start": "2026-11-02T07:00:00Z",
+        "end": "2026-11-30T06:59:59.999Z",
+        "watch_time": "",
+        "requirements": [],
+        "rewards": [],
+        "description": "This badge was earned by subscribing or gifting a sub to a streamer in the ELDEN RING category.",
+        "image": "/media/campaigns/images/882ccb61-0d4c-4fe6-a5c5-3156e8a033ab.png",
+        "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
+        "account_link": "https://www.twitch.tv/",
+        "twitch_campaign_id": "882ccb61-0d4c-4fe6-a5c5-3156e8a033ab"
+      }
+    ],
+    "badges": [
+      {
+        "name": "Drop actif",
+        "icon": "🎁"
+      }
+    ],
     "emotes": [],
     "id": 14
   },
   {
     "name": "Monster Hunter: World",
     "platform": "Steam",
-    "metric": 8874,
+    "metric": 19906,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
