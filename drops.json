@@ -17,17 +17,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 10 - #1/7",
-    "start": "2026-11-02T10:00:00Z",
-    "end": "2026-11-03T09:29:59.999Z",
+    "campaign": "Dragonfire 10 - #2/7",
+    "start": "2026-11-03T10:00:00Z",
+    "end": "2026-11-04T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/14536cf7-1042-4ce1-9ad6-7ccfae79d9a8.png",
+    "image": "/media/campaigns/images/cff36c63-1813-4059-b3f3-bb5a6197fb31.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "14536cf7-1042-4ce1-9ad6-7ccfae79d9a8"
+    "twitch_campaign_id": "cff36c63-1813-4059-b3f3-bb5a6197fb31"
+  },
+  {
+    "game": "Anno 117: Pax Romana",
+    "status": "live",
+    "campaign": "Anno 117 - DLC3 Drops",
+    "start": "2026-11-03T10:00:00Z",
+    "end": "2026-11-17T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch 2 Hours: Sacred Scarab / Eye of Ra - Watch 4 Hours: Builder's Obelisk",
+    "image": "/media/campaigns/images/96bdfce5-e774-457f-aa8f-f693144ee50f.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in-game,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/#/en-US",
+    "twitch_campaign_id": "96bdfce5-e774-457f-aa8f-f693144ee50f"
   },
   {
     "game": "ARC Raiders",
@@ -62,17 +77,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "AOS Drops Day 10",
-    "start": "2026-11-02T12:00:00Z",
-    "end": "2026-11-03T11:59:59.999Z",
+    "campaign": "AOS Drops Day 11",
+    "start": "2026-11-03T12:00:00Z",
+    "end": "2026-11-04T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/bbc0c968-a61e-4d96-8102-dcc3276906af.png",
+    "image": "/media/campaigns/images/44f61cb3-2459-496b-bc08-f411de66eeb4.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "bbc0c968-a61e-4d96-8102-dcc3276906af"
+    "twitch_campaign_id": "44f61cb3-2459-496b-bc08-f411de66eeb4"
   },
   {
     "game": "Black Desert",
@@ -165,19 +180,34 @@
     "twitch_campaign_id": "379ef4ec-630e-4680-be66-afa041847757"
   },
   {
+    "game": "Coin Pusher Live",
+    "status": "live",
+    "campaign": "Captain's Collaboration",
+    "start": "2026-11-03T13:28:00Z",
+    "end": "2026-12-01T13:27:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Coin Pusher Live meets Captain’s Call! Watch participating streams to earn the CC42 coin wrap and bring a little battlefield glory to your coin collection.",
+    "image": "/media/campaigns/images/ae1677a9-1c2c-4e62-8009-33d57583ee4f.png",
+    "url": "https://littygames.net/drops",
+    "account_link": "https://littygames.net/drops",
+    "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
+  },
+  {
     "game": "Coryphaeus Championships",
     "status": "live",
-    "campaign": "Fall Drops",
-    "start": "2026-10-31T09:11:08Z",
-    "end": "2026-11-03T02:59:59.999Z",
+    "campaign": "November Drops",
+    "start": "2026-11-03T08:42:26Z",
+    "end": "2026-11-05T02:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/b84f0d5a-2469-455f-8497-37472ccbc2c7.png",
+    "image": "/media/campaigns/images/3487e603-1154-499a-b2fa-37315a9c9332.png",
     "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
     "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "b84f0d5a-2469-455f-8497-37472ccbc2c7"
+    "twitch_campaign_id": "3487e603-1154-499a-b2fa-37315a9c9332"
   },
   {
     "game": "Crimson Desert",
@@ -315,6 +345,21 @@
     "twitch_campaign_id": "882ccb61-0d4c-4fe6-a5c5-3156e8a033ab"
   },
   {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "S13 Dev Stream Live Watch",
+    "start": "2026-11-03T10:30:00Z",
+    "end": "2026-11-03T17:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/6307d118-513d-4812-b145-92b41f5a1a8e.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "6307d118-513d-4812-b145-92b41f5a1a8e"
+  },
+  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "Crimson Harvest Drop 8",
@@ -407,32 +452,17 @@
   {
     "game": "Gray Zone Warfare",
     "status": "live",
-    "campaign": "Rogue Ops - Stage 4",
-    "start": "2026-10-31T13:00:00Z",
-    "end": "2026-11-03T12:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale! \n\nWatch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and the Los Muertos Hawaiian shirt, celebrating El Día de Muertos, plus the Plainclothes Shirt and Recon Plate Carrier to become the accountant agent.",
-    "image": "/media/campaigns/images/b32523bf-9deb-44df-a330-92c056385842.png",
-    "url": "https://twitch.grayzonewarfare.com",
-    "account_link": "https://twitch.grayzonewarfare.com",
-    "twitch_campaign_id": "b32523bf-9deb-44df-a330-92c056385842"
-  },
-  {
-    "game": "Gray Zone Warfare",
-    "status": "live",
-    "campaign": "Rogue Ops - MADFINGER",
-    "start": "2026-10-22T16:00:00Z",
+    "campaign": "Rogue Ops - Stage 5",
+    "start": "2026-11-03T13:00:00Z",
     "end": "2026-11-06T12:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  \n\nWatch the official Gray Zone Warfare live streams to earn the Hideout Pack for a head start and the exclusive MFG Tactical T-shirt.",
-    "image": "/media/campaigns/images/97b4a33f-43a1-4166-bcda-f58b534b2c9b.png",
+    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  \n\nWatch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and the Baseball Cap, Face Mask, Hoodie, and Torn Jeans to become the ultimate hacker.",
+    "image": "/media/campaigns/images/bc309d9e-cfa8-4ade-b8a3-b181b4720243.png",
     "url": "https://twitch.grayzonewarfare.com",
     "account_link": "https://twitch.grayzonewarfare.com",
-    "twitch_campaign_id": "97b4a33f-43a1-4166-bcda-f58b534b2c9b"
+    "twitch_campaign_id": "bc309d9e-cfa8-4ade-b8a3-b181b4720243"
   },
   {
     "game": "Gray Zone Warfare",
@@ -448,6 +478,21 @@
     "url": "https://www.twitch.tv/drops/campaigns",
     "account_link": "https://www.twitch.tv",
     "twitch_campaign_id": "381d286a-8959-4bb1-a95e-dbd2ecf944a1"
+  },
+  {
+    "game": "Gray Zone Warfare",
+    "status": "live",
+    "campaign": "Rogue Ops - MADFINGER",
+    "start": "2026-10-22T16:00:00Z",
+    "end": "2026-11-06T12:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  \n\nWatch the official Gray Zone Warfare live streams to earn the Hideout Pack for a head start and the exclusive MFG Tactical T-shirt.",
+    "image": "/media/campaigns/images/97b4a33f-43a1-4166-bcda-f58b534b2c9b.png",
+    "url": "https://twitch.grayzonewarfare.com",
+    "account_link": "https://twitch.grayzonewarfare.com",
+    "twitch_campaign_id": "97b4a33f-43a1-4166-bcda-f58b534b2c9b"
   },
   {
     "game": "Halloween: The Game",
@@ -960,21 +1005,6 @@
     "twitch_campaign_id": "5f277031-448e-4eb2-8817-45f56779633c"
   },
   {
-    "game": "Overwatch",
-    "status": "live",
-    "campaign": "Reign of Talon S5 Launch",
-    "start": "2026-10-06T18:00:00Z",
-    "end": "2026-11-03T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Something wicked this way comes… Feed your hunger in Reign of Talon: Season 5 - A Grim Doctrine! Celebrate the launch of Season 5 with your favorite streamers, and earn cosmetics to close the penultimate chapter of the Reign of Talon!",
-    "image": "/media/campaigns/images/dfa9c27f-877b-417a-8a49-279ecf0fbb15.jpeg",
-    "url": "https://us.forums.blizzard.com/en/overwatch/t/reign-of-talon-season-5-launch-twitch-drops/1042026",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "dfa9c27f-877b-417a-8a49-279ecf0fbb15"
-  },
-  {
     "game": "Palia",
     "status": "live",
     "campaign": "Hearty Homecoming",
@@ -988,21 +1018,6 @@
     "url": "https://palia.com/news/208-twitch-drops",
     "account_link": "https://accounts.palia.com",
     "twitch_campaign_id": "d6a79a3e-fd63-43ed-906d-3a8443cd8184"
-  },
-  {
-    "game": "Phasmophobia",
-    "status": "live",
-    "campaign": "Ghost Hunts For Hearts",
-    "start": "2026-10-26T12:00:00Z",
-    "end": "2026-11-03T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Ghost Hunts for Hearts returns! Watch a total of 2 hours of any Ghost Hunts for Hearts Phasmophobia streams between October 26th - November 2nd to earn the in-game AHA Advocate ID Card & Badge!\n\nIf the target goal for the fundraiser is reached, all Phasmophobia players will unlock the Animated version of this set.",
-    "image": "/media/campaigns/images/e05a3f77-585a-48c0-9adb-3e60e5e75863.png",
-    "url": "https://kineticgames.co.uk/news/ghost-hunts-for-hearts-returns",
-    "account_link": "https://kineticgames.co.uk/twitch-drops",
-    "twitch_campaign_id": "e05a3f77-585a-48c0-9adb-3e60e5e75863"
   },
   {
     "game": "Planet Zoo 2",
@@ -1097,21 +1112,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 207",
-    "start": "2026-11-02T17:59:00Z",
-    "end": "2026-11-03T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/7b4f2dfd-82bc-4f22-aace-91fdcda9b6cb.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "7b4f2dfd-82bc-4f22-aace-91fdcda9b6cb"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "ROW Drop 636",
     "start": "2026-11-02T17:59:00Z",
     "end": "2026-11-03T17:56:59.999Z",
@@ -1123,6 +1123,21 @@
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "cb761797-30bd-4801-922a-fafce0993b50"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 207",
+    "start": "2026-11-02T17:59:00Z",
+    "end": "2026-11-03T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/7b4f2dfd-82bc-4f22-aace-91fdcda9b6cb.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "7b4f2dfd-82bc-4f22-aace-91fdcda9b6cb"
   },
   {
     "game": "Shakes and Fidget",
@@ -1348,6 +1363,21 @@
     "url": "https://uno.mattel163.com/twitchdrops",
     "account_link": "https://uno.mattel163.com/twitchdrops",
     "twitch_campaign_id": "69f32da3-7abf-4716-b051-085a879cb112"
+  },
+  {
+    "game": "VAIL",
+    "status": "live",
+    "campaign": "VAIL Drops 04 // Ubelime",
+    "start": "2026-11-03T13:00:00Z",
+    "end": "2026-11-10T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch streams to earn Ubelime skins and other rewards to celebrate the Biohacker update! ",
+    "image": "/media/campaigns/images/c5cde478-c33c-4854-a8bd-86cac01dc3ae.png",
+    "url": "https://aexlab.com/vail-vr/posts/vail-twitch-drops",
+    "account_link": "https://login.vailvr.com/en-US/twitch-drops",
+    "twitch_campaign_id": "c5cde478-c33c-4854-a8bd-86cac01dc3ae"
   },
   {
     "game": "Vampir",
