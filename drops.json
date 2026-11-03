@@ -345,19 +345,19 @@
     "twitch_campaign_id": "882ccb61-0d4c-4fe6-a5c5-3156e8a033ab"
   },
   {
-    "game": "Eternal Return",
+    "game": "Enshrouded",
     "status": "live",
-    "campaign": "S13 Dev Stream Live Watch",
-    "start": "2026-11-03T10:30:00Z",
-    "end": "2026-11-03T17:59:59.999Z",
+    "campaign": "Enshrouded Artificer",
+    "start": "2026-11-03T14:00:00Z",
+    "end": "2026-11-17T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/6307d118-513d-4812-b145-92b41f5a1a8e.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "6307d118-513d-4812-b145-92b41f5a1a8e"
+    "description": "Unlock the Artificer Set and don a look the Ancients themselves would be jealous of! Complete your builds with the Star Map and the Animated Ancient Globe to give your house or palace an air of grandeur that will be the envy of all Embervale.",
+    "image": "/media/campaigns/images/20ad1ac0-78f4-4e4f-aadf-e59d8840b295.png",
+    "url": "https://enshrouded.com/twitch-drops",
+    "account_link": "https://enshrouded.com/en-US/twitch-drops",
+    "twitch_campaign_id": "20ad1ac0-78f4-4e4f-aadf-e59d8840b295"
   },
   {
     "game": "EVE Online",
@@ -493,21 +493,6 @@
     "url": "https://twitch.grayzonewarfare.com",
     "account_link": "https://twitch.grayzonewarfare.com",
     "twitch_campaign_id": "97b4a33f-43a1-4166-bcda-f58b534b2c9b"
-  },
-  {
-    "game": "Halloween: The Game",
-    "status": "live",
-    "campaign": "A Haddonfield Halloween",
-    "start": "2026-10-26T17:00:00Z",
-    "end": "2026-11-03T17:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This drop contains two Profile Card items, a Kitchen Knife tint for Michael, and an outfit tint for both Tanya and Marcus.\n\nRedeem your drops at https://accounts.illfonic.com",
-    "image": "/media/campaigns/images/119b5c68-114e-4085-bb93-db563cba5f4c.jpeg",
-    "url": "https://halloweengame.com/news/twitch-drops-2026",
-    "account_link": "https://accounts.illfonic.com",
-    "twitch_campaign_id": "119b5c68-114e-4085-bb93-db563cba5f4c"
   },
   {
     "game": "HITMAN World of Assassination",
@@ -947,17 +932,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate11/2/26",
-    "start": "2026-11-02T14:00:00Z",
-    "end": "2026-11-03T13:59:59.999Z",
+    "campaign": "Affiliate11/3/26",
+    "start": "2026-11-03T14:00:00Z",
+    "end": "2026-11-04T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/d6b17d87-04e6-427e-9115-5b5a77fed538.png",
+    "image": "/media/campaigns/images/a8841e02-4ad4-4708-bf79-e4cde3418853.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "d6b17d87-04e6-427e-9115-5b5a77fed538"
+    "twitch_campaign_id": "a8841e02-4ad4-4708-bf79-e4cde3418853"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -988,6 +973,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "9991f882-f217-48ec-89eb-66c5c9c1d3af"
+  },
+  {
+    "game": "Overwatch",
+    "status": "live",
+    "campaign": "Reign of Talon S5 Mid",
+    "start": "2026-11-03T19:00:00Z",
+    "end": "2026-12-01T07:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate the conclusion of the Reign of Talon narrative arc with your favorite Overwatch Twitch streamers!",
+    "image": "/media/campaigns/images/e3a69270-1546-4966-8bcf-2af97c5a0a0b.png",
+    "url": "https://us.forums.blizzard.com/en/overwatch/t/reign-of-talon-season-5-midseason-twitch-drops/1046030",
+    "account_link": "https://account.battle.net/connections",
+    "twitch_campaign_id": "e3a69270-1546-4966-8bcf-2af97c5a0a0b"
   },
   {
     "game": "Overwatch",
@@ -1050,6 +1050,21 @@
     "twitch_campaign_id": "2890acf3-fc66-4310-920e-f09980832da4"
   },
   {
+    "game": "Predecessor",
+    "status": "live",
+    "campaign": "❄️ Frostbite Drops",
+    "start": "2026-11-03T16:00:00Z",
+    "end": "2026-11-30T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate the launch of Update 1.18 Frostbite with new drops!",
+    "image": "/media/campaigns/images/83430dc1-1cf2-4da0-b645-3aa07dbbf406.png",
+    "url": "https://predecessorgame.com/twitch-drops",
+    "account_link": "https://predecessorgame.com/link-accounts",
+    "twitch_campaign_id": "83430dc1-1cf2-4da0-b645-3aa07dbbf406"
+  },
+  {
     "game": "QSMP",
     "status": "live",
     "campaign": "Quackity's QSMP2 Season 2",
@@ -1067,17 +1082,17 @@
   {
     "game": "Ravendawn",
     "status": "live",
-    "campaign": "October 03",
-    "start": "2026-10-27T15:00:00Z",
-    "end": "2026-11-03T14:59:59.999Z",
+    "campaign": "November 01",
+    "start": "2026-11-03T15:00:00Z",
+    "end": "2026-11-10T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch your favorite streamers playing Ravendawn and get exclusive RavenPacks and Infusions! Call your friends, forge alliances, and venture into the new and epic world of Ravendawn!",
-    "image": "/media/campaigns/images/ed2154c8-041b-41c7-9448-ba074bc21d7f.png",
+    "image": "/media/campaigns/images/7decedee-4a40-4901-a86a-c3cbc314a452.png",
     "url": "https://ravendawn.online/myaccount/twitch",
     "account_link": "https://ravendawn.online/myaccount/twitch",
-    "twitch_campaign_id": "ed2154c8-041b-41c7-9448-ba074bc21d7f"
+    "twitch_campaign_id": "7decedee-4a40-4901-a86a-c3cbc314a452"
   },
   {
     "game": "RavenQuest",
@@ -1112,32 +1127,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 636",
-    "start": "2026-11-02T17:59:00Z",
-    "end": "2026-11-03T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/cb761797-30bd-4801-922a-fafce0993b50.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "cb761797-30bd-4801-922a-fafce0993b50"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "Mobile Drop 207",
-    "start": "2026-11-02T17:59:00Z",
-    "end": "2026-11-03T17:56:59.999Z",
+    "campaign": "Mobile Drop 208",
+    "start": "2026-11-03T17:59:00Z",
+    "end": "2026-11-04T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/7b4f2dfd-82bc-4f22-aace-91fdcda9b6cb.png",
+    "image": "/media/campaigns/images/a1611740-e417-44cc-a0f6-37ab8956a840.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "7b4f2dfd-82bc-4f22-aace-91fdcda9b6cb"
+    "twitch_campaign_id": "a1611740-e417-44cc-a0f6-37ab8956a840"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 637",
+    "start": "2026-11-03T17:59:00Z",
+    "end": "2026-11-04T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/8a15121a-477a-4bcd-a2df-876929d3e3bd.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "8a15121a-477a-4bcd-a2df-876929d3e3bd"
   },
   {
     "game": "Shakes and Fidget",
@@ -1213,21 +1228,6 @@
     "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
     "account_link": "https://link.smite2.com/",
     "twitch_campaign_id": "6b1d7942-ec4d-49de-b545-ec3c7609e67a"
-  },
-  {
-    "game": "Splinterlands",
-    "status": "live",
-    "campaign": "October Week 3",
-    "start": "2026-10-20T17:00:00Z",
-    "end": "2026-11-03T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "October Week #3 Splinterlands Drop Campaign",
-    "image": "/media/campaigns/images/587f7e5a-6994-4add-8c58-ef4bcfc70bc6.png",
-    "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
-    "account_link": "https://splinterlands.com/user/account-socials",
-    "twitch_campaign_id": "587f7e5a-6994-4add-8c58-ef4bcfc70bc6"
   },
   {
     "game": "STALZONE",
@@ -1333,6 +1333,21 @@
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
     "twitch_campaign_id": "cbd0ea89-a05e-4b79-b485-4d48915a8dce"
+  },
+  {
+    "game": "Tom Clancy's The Division 2",
+    "status": "live",
+    "campaign": "Echoes of Central Park",
+    "start": "2026-11-03T16:00:00Z",
+    "end": "2026-11-10T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tom Clancy the Division 2 - Year 8 Season 3 DLC3 Launch - Echoes of Central Park ",
+    "image": "/media/campaigns/images/3ca93244-cef5-4afc-947f-ad4bca063509.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "3ca93244-cef5-4afc-947f-ad4bca063509"
   },
   {
     "game": "UFL",
@@ -1485,21 +1500,6 @@
     "twitch_campaign_id": "77af691f-125c-4e1b-b6f0-4d164bd5bf1c"
   },
   {
-    "game": "World of Tanks Console",
-    "status": "live",
-    "campaign": "Halloween #2",
-    "start": "2026-10-30T15:00:00Z",
-    "end": "2026-11-03T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Happy Halloween Commanders! ",
-    "image": "/media/campaigns/images/02903700-8742-4d14-bd24-e6140e193ea5.png",
-    "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
-    "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
-    "twitch_campaign_id": "02903700-8742-4d14-bd24-e6140e193ea5"
-  },
-  {
     "game": "World of Tanks: HEAT",
     "status": "live",
     "campaign": "HEAT Season 2 - Week 9",
@@ -1513,36 +1513,6 @@
     "url": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
     "account_link": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
     "twitch_campaign_id": "92bf2ceb-419d-4841-b64b-6e73d3ecb693"
-  },
-  {
-    "game": "World of Warcraft",
-    "status": "live",
-    "campaign": "Cuddly Gold Grrgle",
-    "start": "2026-10-13T17:00:00Z",
-    "end": "2026-11-03T17:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch 4 hours of World of Warcraft content while these Twitch Drops are active on any channel to earn the Cuddly Gold-Colored Grrgle.",
-    "image": "/media/campaigns/images/8ee4cc17-5fd4-4d29-8147-14ec12477c45.png",
-    "url": "https://worldofwarcraft.blizzard.com/news/24302098",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "8ee4cc17-5fd4-4d29-8147-14ec12477c45"
-  },
-  {
-    "game": "World of Warcraft",
-    "status": "live",
-    "campaign": "Cuddly Gold Grrgle",
-    "start": "2026-10-13T17:00:00Z",
-    "end": "2026-11-03T17:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch 4 hours of World of Warcraft content while these Twitch Drops are active on any channel to earn the Cuddly Gold-Colored Grrgle.",
-    "image": "/media/campaigns/images/1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9.png",
-    "url": "https://worldofwarcraft.blizzard.com/news/24302098",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "1a262fb8-ab5d-4dbe-9284-bdc17aabe5c9"
   },
   {
     "game": "World of Warships",
