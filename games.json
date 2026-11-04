@@ -2,7 +2,7 @@
   {
     "name": "Counter-Strike 2",
     "platform": "Steam",
-    "metric": 647189,
+    "metric": 453681,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
@@ -16,7 +16,7 @@
   {
     "name": "Dota 2",
     "platform": "Steam",
-    "metric": 429678,
+    "metric": 325103,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
@@ -28,13 +28,13 @@
     "id": 2
   },
   {
-    "name": "PUBG: BATTLEGROUNDS",
+    "name": "Apex Legends",
     "platform": "Steam",
-    "metric": 115504,
+    "metric": 100108,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
-    "appid": 578080,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+    "appid": 1172470,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -44,7 +44,7 @@
   {
     "name": "Cyberpunk 2077",
     "platform": "Steam",
-    "metric": 106497,
+    "metric": 85614,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
@@ -94,7 +94,7 @@
   {
     "name": "Rust",
     "platform": "Steam",
-    "metric": 66564,
+    "metric": 39658,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
@@ -108,7 +108,7 @@
   {
     "name": "Dead by Daylight",
     "platform": "Steam",
-    "metric": 46726,
+    "metric": 35555,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
@@ -141,13 +141,13 @@
     "id": 6
   },
   {
-    "name": "Grand Theft Auto V",
+    "name": "Helldivers 2",
     "platform": "Steam",
-    "metric": 39379,
+    "metric": 30891,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
-    "appid": 271590,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+    "appid": 553850,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -157,7 +157,7 @@
   {
     "name": "Baldur's Gate 3",
     "platform": "Steam",
-    "metric": 33777,
+    "metric": 27231,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
@@ -169,13 +169,13 @@
     "id": 8
   },
   {
-    "name": "Helldivers 2",
+    "name": "Grand Theft Auto V",
     "platform": "Steam",
-    "metric": 31136,
+    "metric": 26601,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
-    "appid": 553850,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+    "appid": 271590,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -183,13 +183,13 @@
     "id": 9
   },
   {
-    "name": "Left 4 Dead 2",
+    "name": "PUBG: BATTLEGROUNDS",
     "platform": "Steam",
-    "metric": 23023,
+    "metric": 25914,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
-    "appid": 550,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
+    "appid": 578080,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -199,7 +199,7 @@
   {
     "name": "Palworld",
     "platform": "Steam",
-    "metric": 21191,
+    "metric": 23553,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
@@ -211,9 +211,23 @@
     "id": 11
   },
   {
+    "name": "Left 4 Dead 2",
+    "platform": "Steam",
+    "metric": 23296,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
+    "appid": 550,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 12
+  },
+  {
     "name": "Terraria",
     "platform": "Steam",
-    "metric": 18894,
+    "metric": 20662,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
@@ -222,12 +236,12 @@
     "drops": [],
     "badges": [],
     "emotes": [],
-    "id": 12
+    "id": 13
   },
   {
     "name": "Elden Ring",
     "platform": "Steam",
-    "metric": 17662,
+    "metric": 16568,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
@@ -257,30 +271,16 @@
       }
     ],
     "emotes": [],
-    "id": 13
+    "id": 14
   },
   {
     "name": "Monster Hunter: World",
     "platform": "Steam",
-    "metric": 5123,
+    "metric": 8417,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
     "appid": 582010,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 14
-  },
-  {
-    "name": "Apex Legends",
-    "platform": "Steam",
-    "metric": 0,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
-    "appid": 1172470,
     "drops_enabled": false,
     "drops": [],
     "badges": [],

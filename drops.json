@@ -420,6 +420,21 @@
     "twitch_campaign_id": "437a3bed-7c38-4136-91e3-04cc9ce618b5"
   },
   {
+    "game": "Genshin Impact",
+    "status": "live",
+    "campaign": "V7.2 Genshin Impact Drops",
+    "start": "2026-11-04T03:00:00Z",
+    "end": "2026-11-24T03:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Genshin Impact Drops",
+    "image": "/media/campaigns/images/9844bbb4-2a3f-4525-80a6-e1b7c314d50c.png",
+    "url": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
+    "account_link": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
+    "twitch_campaign_id": "9844bbb4-2a3f-4525-80a6-e1b7c314d50c"
+  },
+  {
     "game": "Goblin Cleanup",
     "status": "live",
     "campaign": "Grime Scene",
@@ -782,21 +797,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Обновление 26.11: Часть 1",
-    "start": "2026-10-30T15:00:00Z",
-    "end": "2026-11-06T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
-    "image": "/media/campaigns/images/065eb655-cc82-4c06-9c71-d8778ecc092c.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "065eb655-cc82-4c06-9c71-d8778ecc092c"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Lestakorabli - 26.11 #1",
     "start": "2026-10-30T15:00:00Z",
     "end": "2026-11-06T14:59:59.999Z",
@@ -808,6 +808,21 @@
     "url": "https://krbli.ru/3RW8D27",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "b9587cf9-bc42-48c0-a97f-7d6eeca3a68d"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Обновление 26.11: Часть 1",
+    "start": "2026-10-30T15:00:00Z",
+    "end": "2026-11-06T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
+    "image": "/media/campaigns/images/065eb655-cc82-4c06-9c71-d8778ecc092c.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "065eb655-cc82-4c06-9c71-d8778ecc092c"
   },
   {
     "game": "Mobile Dungeon",
@@ -1323,16 +1338,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-03T00:00:00Z",
-    "end": "2026-11-03T23:59:59.999Z",
+    "start": "2026-11-04T00:00:00Z",
+    "end": "2026-11-04T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/cbd0ea89-a05e-4b79-b485-4d48915a8dce.png",
+    "image": "/media/campaigns/images/0dfd48dc-2ada-463a-b383-b824649fd41d.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "cbd0ea89-a05e-4b79-b485-4d48915a8dce"
+    "twitch_campaign_id": "0dfd48dc-2ada-463a-b383-b824649fd41d"
   },
   {
     "game": "Tom Clancy's The Division 2",
