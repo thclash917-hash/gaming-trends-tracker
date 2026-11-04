@@ -1,33 +1,18 @@
 [
   {
-    "game": "AION 2",
-    "status": "live",
-    "campaign": "Halloween Celebration",
-    "start": "2026-10-28T17:00:00Z",
-    "end": "2026-11-04T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate Halloween by watching any AION2 stream and earn exclusive in-game rewards this spooky season.",
-    "image": "/media/campaigns/images/9c45c558-e191-4980-96af-83a4c811c25a.png",
-    "url": "https://aion2.plaync.com/en-us/twitchdrops/index",
-    "account_link": "https://id.plaync.com/account/connect/twitch?appGroupCode=aion2global",
-    "twitch_campaign_id": "9c45c558-e191-4980-96af-83a4c811c25a"
-  },
-  {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 10 - #2/7",
-    "start": "2026-11-03T10:00:00Z",
-    "end": "2026-11-04T09:29:59.999Z",
+    "campaign": "Dragonfire 10 - #3/7",
+    "start": "2026-11-04T10:00:00Z",
+    "end": "2026-11-05T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/cff36c63-1813-4059-b3f3-bb5a6197fb31.png",
+    "image": "/media/campaigns/images/a14aa620-1a1d-465b-bdcd-91d6fc55a525.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "cff36c63-1813-4059-b3f3-bb5a6197fb31"
+    "twitch_campaign_id": "a14aa620-1a1d-465b-bdcd-91d6fc55a525"
   },
   {
     "game": "Anno 117: Pax Romana",
@@ -43,21 +28,6 @@
     "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in-game,stream%20from%20a%20participating%20channel.",
     "account_link": "https://drops-register.ubi.com/#/en-US",
     "twitch_campaign_id": "96bdfce5-e774-457f-aa8f-f693144ee50f"
-  },
-  {
-    "game": "ARC Raiders",
-    "status": "live",
-    "campaign": "Frozen Trail",
-    "start": "2026-10-08T11:00:00Z",
-    "end": "2026-11-04T12:44:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Frozen Trail",
-    "image": "/media/campaigns/images/e4f226c6-c9c3-4d99-9c13-e0050e004f9a.jpeg",
-    "url": "https://arcraiders.com/twitch-drops/",
-    "account_link": "https://embark-games.embark.net/",
-    "twitch_campaign_id": "e4f226c6-c9c3-4d99-9c13-e0050e004f9a"
   },
   {
     "game": "ARKNIGHTS: ENDFIELD",
@@ -77,17 +47,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "AOS Drops Day 11",
-    "start": "2026-11-03T12:00:00Z",
-    "end": "2026-11-04T11:59:59.999Z",
+    "campaign": "AOS Drops Day 12",
+    "start": "2026-11-04T12:00:00Z",
+    "end": "2026-11-05T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/44f61cb3-2459-496b-bc08-f411de66eeb4.png",
+    "image": "/media/campaigns/images/30b691c8-c7c6-49c1-8b4a-09f1387db286.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "44f61cb3-2459-496b-bc08-f411de66eeb4"
+    "twitch_campaign_id": "30b691c8-c7c6-49c1-8b4a-09f1387db286"
   },
   {
     "game": "Black Desert",
@@ -118,6 +88,21 @@
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
     "twitch_campaign_id": "6cd9dfd0-ac14-4405-97fc-49f191925268"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "Brawlhalla Anniversary",
+    "start": "2026-11-04T11:00:00Z",
+    "end": "2026-12-02T10:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate Brawlhalla’s Anniversary with special rewards available through Twitch Drops!",
+    "image": "/media/campaigns/images/e8c223e0-ea31-4313-ac42-f4fa3d589bc1.png",
+    "url": "https://www.ubisoft.com/help/article/000065532",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "e8c223e0-ea31-4313-ac42-f4fa3d589bc1"
   },
   {
     "game": "Call of Duty: Modern Warfare 4",
@@ -358,21 +343,6 @@
     "url": "https://enshrouded.com/twitch-drops",
     "account_link": "https://enshrouded.com/en-US/twitch-drops",
     "twitch_campaign_id": "20ad1ac0-78f4-4e4f-aadf-e59d8840b295"
-  },
-  {
-    "game": "EVE Online",
-    "status": "live",
-    "campaign": "Crimson Harvest Drop 8",
-    "start": "2026-11-02T11:00:00Z",
-    "end": "2026-11-04T10:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Pick up some EverMarks and put it towards an emblem for your favorite spaceship!",
-    "image": "/media/campaigns/images/eff0c5d9-023b-485f-ab57-f1dcae451e26.jpeg",
-    "url": "https://www.eveonline.com/twitch",
-    "account_link": "https://www.eveonline.com/twitch",
-    "twitch_campaign_id": "eff0c5d9-023b-485f-ab57-f1dcae451e26"
   },
   {
     "game": "FELLOWSHIP",
@@ -673,21 +643,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "b66c6ae7-42bc-4e67-b0ad-8ab0d9897d26"
-  },
-  {
-    "game": "Lineage II",
-    "status": "live",
-    "campaign": "Lineage 2 Cruma Drops",
-    "start": "2026-10-28T07:00:00Z",
-    "end": "2026-11-04T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Награда за просмотр прямых трансляций Lineage 2.",
-    "image": "/media/campaigns/images/4731b3dc-e266-4f24-826e-a85feb44428d.png",
-    "url": "https://l2central.info/classic/events_and_promos/4231.html",
-    "account_link": "https://ru.4game.ru/drops/twitch/",
-    "twitch_campaign_id": "4731b3dc-e266-4f24-826e-a85feb44428d"
   },
   {
     "game": "Lords Mobile",
@@ -1123,21 +1078,6 @@
     "url": "https://ravenquest.io/myaccount/twitch",
     "account_link": "https://ravenquest.io/myaccount/twitch",
     "twitch_campaign_id": "c4ce24e9-8d61-43c1-a036-7335e62a928b"
-  },
-  {
-    "game": "Riders Republic",
-    "status": "live",
-    "campaign": "Riders Republic 5th Anniv",
-    "start": "2026-10-20T16:00:00Z",
-    "end": "2026-11-04T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Riders Republic 5th Anniversary ",
-    "image": "/media/campaigns/images/37fd344f-0050-4fbf-84ac-fe5648fc0cd9.jpeg",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "37fd344f-0050-4fbf-84ac-fe5648fc0cd9"
   },
   {
     "game": "Rise Online",
