@@ -1,5 +1,20 @@
 [
   {
+    "game": "007 First Light",
+    "status": "live",
+    "campaign": "007 Free Starter Pack",
+    "start": "2026-11-05T14:00:00Z",
+    "end": "2026-11-13T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earning this reward is simple. You only need to link your IOI Account to your Twitch account and then watch a 007 FIrst Light stream on Twitch during the drop campaign duration.",
+    "image": "/media/campaigns/images/0bfcc7fb-d3e0-4718-9098-9e58c44b9c49.jpeg",
+    "url": "https://account.ioi.dk/",
+    "account_link": "https://account.ioi.dk/",
+    "twitch_campaign_id": "0bfcc7fb-d3e0-4718-9098-9e58c44b9c49"
+  },
+  {
     "game": "AION 2",
     "status": "live",
     "campaign": "Ludra Awakens",
@@ -17,17 +32,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 10 - #3/7",
-    "start": "2026-11-04T10:00:00Z",
-    "end": "2026-11-05T09:29:59.999Z",
+    "campaign": "Dragonfire 10 - #4/7",
+    "start": "2026-11-05T10:00:00Z",
+    "end": "2026-11-06T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/a14aa620-1a1d-465b-bdcd-91d6fc55a525.png",
+    "image": "/media/campaigns/images/8df1e587-017d-4005-b32f-0aaac5ba4383.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "a14aa620-1a1d-465b-bdcd-91d6fc55a525"
+    "twitch_campaign_id": "8df1e587-017d-4005-b32f-0aaac5ba4383"
   },
   {
     "game": "Anno 117: Pax Romana",
@@ -62,47 +77,47 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "AOS Drops Day 12",
-    "start": "2026-11-04T12:00:00Z",
-    "end": "2026-11-05T11:59:59.999Z",
+    "campaign": "2026 BDO Drops (Nov 5)",
+    "start": "2026-11-05T12:00:00Z",
+    "end": "2026-11-06T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
-    "image": "/media/campaigns/images/30b691c8-c7c6-49c1-8b4a-09f1387db286.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10665",
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "image": "/media/campaigns/images/0a8d1df2-7317-4f7f-90b8-576bc730ca89.png",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "30b691c8-c7c6-49c1-8b4a-09f1387db286"
+    "twitch_campaign_id": "0a8d1df2-7317-4f7f-90b8-576bc730ca89"
   },
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "[BDC]Autumn Solare Week 1",
-    "start": "2026-10-29T12:00:00Z",
-    "end": "2026-11-05T11:59:59.999Z",
+    "campaign": "[BDC]Autumn Solare Week 2",
+    "start": "2026-11-05T12:00:00Z",
+    "end": "2026-11-12T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://blackdesert.pearlabyss.com/Console/News/Notice/Detail?_boardNo=19993",
-    "image": "/media/campaigns/images/7004540d-63ba-4aa4-98b1-99a8bede9750.png",
+    "image": "/media/campaigns/images/b604bb50-b755-4db2-aa21-9b426f67360c.png",
     "url": "https://blackdesert.pearlabyss.com/Console/News/Notice/Detail?_boardNo=19993",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "7004540d-63ba-4aa4-98b1-99a8bede9750"
+    "twitch_campaign_id": "b604bb50-b755-4db2-aa21-9b426f67360c"
   },
   {
     "game": "Blue Protocol: Star Resonance",
     "status": "live",
     "campaign": "Season 4 Special Drops",
-    "start": "2026-10-09T12:30:00Z",
-    "end": "2026-11-05T12:29:59.999Z",
+    "start": "2026-11-05T12:30:00Z",
+    "end": "2026-12-02T12:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Important: Connect your Twitch account to your Blue Protocol: Star Resonance game account via the Drops connection page BEFORE claiming your Drops rewards.",
-    "image": "/media/campaigns/images/6cd9dfd0-ac14-4405-97fc-49f191925268.png",
+    "image": "/media/campaigns/images/94263f50-6ae7-45a8-bd72-5f612c5b1243.png",
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
-    "twitch_campaign_id": "6cd9dfd0-ac14-4405-97fc-49f191925268"
+    "twitch_campaign_id": "94263f50-6ae7-45a8-bd72-5f612c5b1243"
   },
   {
     "game": "Brawlhalla",
@@ -167,17 +182,17 @@
   {
     "game": "Cash is King!",
     "status": "live",
-    "campaign": "Steam Next Fest 2026",
-    "start": "2026-10-08T13:00:00Z",
-    "end": "2026-11-05T12:59:59.999Z",
+    "campaign": "Cash Is King! Release",
+    "start": "2026-11-05T13:00:00Z",
+    "end": "2026-12-03T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Welcome to a place where the sun is guaranteed and money is basically part of the beachwear. In this cozy first-person simulation, you start out at Miami Beach, sell, invest, optimize, and make the cash register ring. Because in the end, only one thing counts: Cash is King. 4 weeks after the release of Demo Version 0.3, we'll be giving away an exclusive item to our fans on Twitch.",
-    "image": "/media/campaigns/images/379ef4ec-630e-4680-be66-afa041847757.png",
+    "image": "/media/campaigns/images/eb9156b6-649e-4e03-9cd1-989d9a89717e.jpeg",
     "url": "https://docs.google.com/document/d/1FELkhrUW6rpww1ksFqGXZOY37lrpZ0p3SZ6e30AgBPI/edit?usp=sharing",
     "account_link": "https://3rg.eu/cash-is-king/",
-    "twitch_campaign_id": "379ef4ec-630e-4680-be66-afa041847757"
+    "twitch_campaign_id": "eb9156b6-649e-4e03-9cd1-989d9a89717e"
   },
   {
     "game": "Coin Pusher Live",
@@ -193,6 +208,21 @@
     "url": "https://littygames.net/drops",
     "account_link": "https://littygames.net/drops",
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
+  },
+  {
+    "game": "Coryphaeus Championships",
+    "status": "live",
+    "campaign": "November Drops",
+    "start": "2026-11-05T12:28:06Z",
+    "end": "2026-11-07T02:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Coryphaeus Fall Drops",
+    "image": "/media/campaigns/images/c5baa51c-8692-40a9-83a1-7c0e08b3a6d9.png",
+    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+    "twitch_campaign_id": "c5baa51c-8692-40a9-83a1-7c0e08b3a6d9"
   },
   {
     "game": "Crimson Desert",
@@ -555,21 +585,6 @@
     "twitch_campaign_id": "d3c2ae0f-a80b-4b81-a507-ad17974b4dec"
   },
   {
-    "game": "IRL",
-    "status": "live",
-    "campaign": "AEW Slam",
-    "start": "2026-11-05T00:00:00Z",
-    "end": "2026-11-05T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch /agent00 stream AEW Slam for 15 minutes to unlock the AEWSlam emote for a limited time.",
-    "image": "/media/campaigns/images/e954e81e-383c-4c1f-8a8c-84b081554e85.gif",
-    "url": "https://help.twitch.tv/s/article/how-to-use-emotes",
-    "account_link": "https://help.twitch.tv/s/article/how-to-use-emotes",
-    "twitch_campaign_id": "e954e81e-383c-4c1f-8a8c-84b081554e85"
-  },
-  {
     "game": "Kakele Online - MMORPG",
     "status": "live",
     "campaign": "Kakele Online-November",
@@ -842,6 +857,21 @@
   {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
+    "campaign": "JS2 PartnerⅠ 11.4",
+    "start": "2026-11-05T04:00:00Z",
+    "end": "2026-12-03T03:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/7dc538f3-cfb6-4346-850c-058b900b9777.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "7dc538f3-cfb6-4346-850c-058b900b9777"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
     "campaign": "JS2 Weekly 11.2",
     "start": "2026-11-02T04:00:00Z",
     "end": "2026-11-09T03:59:59.999Z",
@@ -917,17 +947,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate11/4/26",
-    "start": "2026-11-04T14:00:00Z",
-    "end": "2026-11-05T13:59:59.999Z",
+    "campaign": "Affiliate11/5/26",
+    "start": "2026-11-05T14:00:00Z",
+    "end": "2026-11-06T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/1beacb1f-3710-43ad-a408-4f504985f133.png",
+    "image": "/media/campaigns/images/12a2fb7e-2dfc-4d36-8056-dee027a3f6d9.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "1beacb1f-3710-43ad-a408-4f504985f133"
+    "twitch_campaign_id": "12a2fb7e-2dfc-4d36-8056-dee027a3f6d9"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1097,21 +1127,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 638",
-    "start": "2026-11-04T17:59:00Z",
-    "end": "2026-11-05T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/3315f32f-05c4-47cd-981c-66fd965b4ce7.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "3315f32f-05c4-47cd-981c-66fd965b4ce7"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "Mobile Drop 209",
     "start": "2026-11-04T17:59:00Z",
     "end": "2026-11-05T17:56:59.999Z",
@@ -1123,6 +1138,21 @@
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "3efe070c-1b1c-4eb1-b15e-4962d86ca7a0"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 638",
+    "start": "2026-11-04T17:59:00Z",
+    "end": "2026-11-05T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/3315f32f-05c4-47cd-981c-66fd965b4ce7.png",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "3315f32f-05c4-47cd-981c-66fd965b4ce7"
   },
   {
     "game": "Shakes and Fidget",
@@ -1290,21 +1320,6 @@
     "twitch_campaign_id": "d6d56572-09ce-4204-bd92-a86436ed2f25"
   },
   {
-    "game": "THE FINALS",
-    "status": "live",
-    "campaign": "PRIME TIME",
-    "start": "2026-10-20T13:30:00Z",
-    "end": "2026-11-05T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Welcome to PRIME TIME!\nCheck out our biggest Season to date and bring Bebe the Barricade back with you into the Arena. Your trusty new friend will make sure you are safe from incoming damage, so treat her well.",
-    "image": "/media/campaigns/images/aefa907c-43d5-4187-beed-4576c246ef7b.png",
-    "url": "https://www.reachthefinals.com/twitch",
-    "account_link": "https://embark-games.embark.net/",
-    "twitch_campaign_id": "aefa907c-43d5-4187-beed-4576c246ef7b"
-  },
-  {
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
@@ -1333,6 +1348,21 @@
     "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "3ca93244-cef5-4afc-947f-ad4bca063509"
+  },
+  {
+    "game": "UFL",
+    "status": "live",
+    "campaign": "Nov #2",
+    "start": "2026-11-05T09:05:00Z",
+    "end": "2026-11-12T08:57:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
+    "image": "/media/campaigns/images/ffa5ab03-fb38-4291-9516-c3ddf43c8bca.png",
+    "url": "https://portal.uflgame.com/twitch/drops",
+    "account_link": "https://portal.uflgame.com/twitch",
+    "twitch_campaign_id": "ffa5ab03-fb38-4291-9516-c3ddf43c8bca"
   },
   {
     "game": "UFL",
@@ -1443,16 +1473,16 @@
     "game": "War Thunder",
     "status": "live",
     "campaign": "WTCS Pro Grand Finals",
-    "start": "2026-10-30T10:00:00Z",
-    "end": "2026-11-05T09:59:59.999Z",
+    "start": "2026-11-05T10:01:57Z",
+    "end": "2026-11-12T09:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "WTCS 2026 - Pro League Grand Finals - 4v4 Ground - Drops Campaign",
-    "image": "/media/campaigns/images/4e5cf37b-4160-45f5-888f-d9f9dc22698f.jpeg",
+    "description": "WTCS 2026 - Pro League Grand Finals - 4v4 Mixed - Drops Campaign",
+    "image": "/media/campaigns/images/3df8df9c-6a8d-4c62-9e60-7809ec3d1e2e.jpeg",
     "url": "https://warthunder.com/en/news/10275-esports-watch-the-2026-grand-finals-and-earn-tricolor-smoke-more-twitch-drops-en",
     "account_link": "https://gss.gaijin.net/en/",
-    "twitch_campaign_id": "4e5cf37b-4160-45f5-888f-d9f9dc22698f"
+    "twitch_campaign_id": "3df8df9c-6a8d-4c62-9e60-7809ec3d1e2e"
   },
   {
     "game": "Warframe",
