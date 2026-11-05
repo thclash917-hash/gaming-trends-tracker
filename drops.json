@@ -195,34 +195,19 @@
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "November Drops",
-    "start": "2026-11-03T08:42:26Z",
-    "end": "2026-11-05T02:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/3487e603-1154-499a-b2fa-37315a9c9332.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "3487e603-1154-499a-b2fa-37315a9c9332"
-  },
-  {
     "game": "Crimson Desert",
     "status": "live",
-    "campaign": "Crimson Desert DLC Week 1",
-    "start": "2026-10-29T22:00:00Z",
-    "end": "2026-11-04T23:59:59.999Z",
+    "campaign": "Crimson Desert DLC Week 2",
+    "start": "2026-11-05T00:00:00Z",
+    "end": "2026-11-11T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch participating Crimson Desert streams on Twitch for rewards!",
-    "image": "/media/campaigns/images/a40fa4aa-bdca-4b6f-8858-6a3f5aaf3484.jpeg",
+    "image": "/media/campaigns/images/68a2b071-2498-49ed-8c68-8873534841ea.jpeg",
     "url": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
     "account_link": "https://event.pearlabyss.com/CrimsonDesert/Drops?_dropsType=twitch",
-    "twitch_campaign_id": "a40fa4aa-bdca-4b6f-8858-6a3f5aaf3484"
+    "twitch_campaign_id": "68a2b071-2498-49ed-8c68-8873534841ea"
   },
   {
     "game": "Crystal of Atlan",
@@ -375,21 +360,6 @@
     "twitch_campaign_id": "f050c37b-b3e4-4511-aac6-7f90a48c7597"
   },
   {
-    "game": "FELLOWSHIP",
-    "status": "live",
-    "campaign": "Halloween",
-    "start": "2026-10-22T00:34:37Z",
-    "end": "2026-11-05T00:33:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "",
-    "image": "/media/campaigns/images/d3dea6a7-cb4e-4226-8906-54d7feee8bbe.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv/drops/campaigns",
-    "twitch_campaign_id": "d3dea6a7-cb4e-4226-8906-54d7feee8bbe"
-  },
-  {
     "game": "For Honor",
     "status": "live",
     "campaign": "FH EntireDirectory Oct26",
@@ -403,6 +373,21 @@
     "url": "https://ubi.li/ZAUmV",
     "account_link": "https://drops-register.ubi.com/",
     "twitch_campaign_id": "437a3bed-7c38-4136-91e3-04cc9ce618b5"
+  },
+  {
+    "game": "FragPunk",
+    "status": "live",
+    "campaign": "Farlands Drops Event",
+    "start": "2026-11-05T00:00:00Z",
+    "end": "2026-11-25T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch any FragPunk Farlands streaming and keep an eye out for FragPunk rewards!",
+    "image": "/media/campaigns/images/171c990c-5259-4670-93d0-58fd6e167342.png",
+    "url": "https://www.fragpunk.com/twitchdrops/",
+    "account_link": "https://www.fragpunk.com/account/",
+    "twitch_campaign_id": "171c990c-5259-4670-93d0-58fd6e167342"
   },
   {
     "game": "Genshin Impact",
@@ -568,6 +553,21 @@
     "url": "https://playnewz.com/news",
     "account_link": "https://playnewz.com/twitchlink",
     "twitch_campaign_id": "d3c2ae0f-a80b-4b81-a507-ad17974b4dec"
+  },
+  {
+    "game": "IRL",
+    "status": "live",
+    "campaign": "AEW Slam",
+    "start": "2026-11-05T00:00:00Z",
+    "end": "2026-11-05T06:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch /agent00 stream AEW Slam for 15 minutes to unlock the AEWSlam emote for a limited time.",
+    "image": "/media/campaigns/images/e954e81e-383c-4c1f-8a8c-84b081554e85.gif",
+    "url": "https://help.twitch.tv/s/article/how-to-use-emotes",
+    "account_link": "https://help.twitch.tv/s/article/how-to-use-emotes",
+    "twitch_campaign_id": "e954e81e-383c-4c1f-8a8c-84b081554e85"
   },
   {
     "game": "Kakele Online - MMORPG",
@@ -1097,21 +1097,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 209",
-    "start": "2026-11-04T17:59:00Z",
-    "end": "2026-11-05T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/3efe070c-1b1c-4eb1-b15e-4962d86ca7a0.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "3efe070c-1b1c-4eb1-b15e-4962d86ca7a0"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "ROW Drop 638",
     "start": "2026-11-04T17:59:00Z",
     "end": "2026-11-05T17:56:59.999Z",
@@ -1123,6 +1108,21 @@
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "3315f32f-05c4-47cd-981c-66fd965b4ce7"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 209",
+    "start": "2026-11-04T17:59:00Z",
+    "end": "2026-11-05T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/3efe070c-1b1c-4eb1-b15e-4962d86ca7a0.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "3efe070c-1b1c-4eb1-b15e-4962d86ca7a0"
   },
   {
     "game": "Shakes and Fidget",
@@ -1308,16 +1308,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-04T00:00:00Z",
-    "end": "2026-11-04T23:59:59.999Z",
+    "start": "2026-11-05T00:00:00Z",
+    "end": "2026-11-05T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/0dfd48dc-2ada-463a-b383-b824649fd41d.png",
+    "image": "/media/campaigns/images/f04fd8a3-b633-4e32-89c6-f5439902aced.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "0dfd48dc-2ada-463a-b383-b824649fd41d"
+    "twitch_campaign_id": "f04fd8a3-b633-4e32-89c6-f5439902aced"
   },
   {
     "game": "Tom Clancy's The Division 2",
@@ -1485,6 +1485,21 @@
     "twitch_campaign_id": "98f17628-ca8f-431d-9779-f898645b03d3"
   },
   {
+    "game": "Wolvesville",
+    "status": "live",
+    "campaign": "November 2026",
+    "start": "2026-11-04T00:00:00Z",
+    "end": "2026-11-30T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Unlock the limited Twitch November item! You'll need to link your Twitch account with Wolvesville for this to work.",
+    "image": "/media/campaigns/images/c1b9bd2e-98cd-4ffe-b748-c2b3e48c5ecf.png",
+    "url": "https://wolvesville.com/",
+    "account_link": "https://wolvesville.com/",
+    "twitch_campaign_id": "c1b9bd2e-98cd-4ffe-b748-c2b3e48c5ecf"
+  },
+  {
     "game": "World of Tanks",
     "status": "live",
     "campaign": "WoT A Thrill Store #10",
@@ -1517,6 +1532,21 @@
   {
     "game": "World of Warcraft",
     "status": "live",
+    "campaign": "Pouch of Violet Dust Drop",
+    "start": "2026-11-05T00:30:00Z",
+    "end": "2026-11-12T12:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch 4 hours of World of Warcraft content while these Twitch Drops are active on any channel to earn the Pouch of Violet Dust.",
+    "image": "/media/campaigns/images/29712bcd-e716-43f1-aa8a-26f69dae5fd8.png",
+    "url": "https://news.blizzard.com/en-us/",
+    "account_link": "https://account.battle.net/connections",
+    "twitch_campaign_id": "29712bcd-e716-43f1-aa8a-26f69dae5fd8"
+  },
+  {
+    "game": "World of Warcraft",
+    "status": "live",
     "campaign": "Horde and Alliance Badges",
     "start": "2026-11-04T16:00:00Z",
     "end": "2026-12-01T07:58:59.999Z",
@@ -1543,21 +1573,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "ea6f5619-1fa6-448b-9904-2064ad17d51a"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "Update 15.9 Drop: Week 4",
-    "start": "2026-10-29T17:00:00Z",
-    "end": "2026-11-05T02:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
-    "image": "/media/campaigns/images/d631fdcf-ac14-4697-92b6-2d4e9ba77854.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "d631fdcf-ac14-4697-92b6-2d4e9ba77854"
   },
   {
     "game": "Zenless Zone Zero",
