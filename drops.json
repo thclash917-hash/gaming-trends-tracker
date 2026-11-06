@@ -32,17 +32,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 10 - #4/7",
-    "start": "2026-11-05T10:00:00Z",
-    "end": "2026-11-06T09:29:59.999Z",
+    "campaign": "Dragonfire 10 - #5/7",
+    "start": "2026-11-06T10:00:00Z",
+    "end": "2026-11-07T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/8df1e587-017d-4005-b32f-0aaac5ba4383.png",
+    "image": "/media/campaigns/images/23478ed9-c65f-4ef6-b613-c5aad2ff7eec.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "8df1e587-017d-4005-b32f-0aaac5ba4383"
+    "twitch_campaign_id": "23478ed9-c65f-4ef6-b613-c5aad2ff7eec"
   },
   {
     "game": "Anno 117: Pax Romana",
@@ -77,17 +77,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "2026 BDO Drops (Nov 5)",
-    "start": "2026-11-05T12:00:00Z",
-    "end": "2026-11-06T11:59:59.999Z",
+    "campaign": "Master Class 26 (Nov 6)",
+    "start": "2026-11-06T12:00:00Z",
+    "end": "2026-11-07T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/0a8d1df2-7317-4f7f-90b8-576bc730ca89.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+    "image": "/media/campaigns/images/c9a2d89c-b52a-4fcb-8a84-0655364cde69.jpeg",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "0a8d1df2-7317-4f7f-90b8-576bc730ca89"
+    "twitch_campaign_id": "c9a2d89c-b52a-4fcb-8a84-0655364cde69"
   },
   {
     "game": "Black Desert",
@@ -118,6 +118,21 @@
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
     "twitch_campaign_id": "94263f50-6ae7-45a8-bd72-5f612c5b1243"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "Brawlhalla Tourn. Wknd 2",
+    "start": "2026-11-06T11:00:00Z",
+    "end": "2026-11-10T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Brawlhalla Community Tournament Weekend Twitch Drops are back for Round 2!",
+    "image": "/media/campaigns/images/421537c6-573b-4087-afd6-bd98ec386e7b.jpeg",
+    "url": "https://www.ubisoft.com/help/article/000065532",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "421537c6-573b-4087-afd6-bd98ec386e7b"
   },
   {
     "game": "Brawlhalla",
@@ -302,6 +317,21 @@
   {
     "game": "Delta Force",
     "status": "live",
+    "campaign": "REORIENTATION Weekend",
+    "start": "2026-11-06T10:00:00Z",
+    "end": "2026-11-08T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Delta Force Season REORIENTATION Weekend Drops are here! Tune in to our Partner Creator channels on Twitch to earn rewards!",
+    "image": "/media/campaigns/images/e2d2e025-ee0e-4f11-8c87-38e6dbf14688.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "e2d2e025-ee0e-4f11-8c87-38e6dbf14688"
+  },
+  {
+    "game": "Delta Force",
+    "status": "live",
     "campaign": "SEASON AURORA PREVIEW SUB",
     "start": "2026-10-30T14:50:00Z",
     "end": "2026-11-09T23:59:59.999Z",
@@ -373,6 +403,36 @@
     "url": "https://enshrouded.com/twitch-drops",
     "account_link": "https://enshrouded.com/en-US/twitch-drops",
     "twitch_campaign_id": "20ad1ac0-78f4-4e4f-aadf-e59d8840b295"
+  },
+  {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "よむERカスタム",
+    "start": "2026-11-06T11:00:00Z",
+    "end": "2026-11-06T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/fee12357-415e-4013-ac79-d37cda8b6a3b.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "fee12357-415e-4013-ac79-d37cda8b6a3b"
+  },
+  {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "ERM S12 FINALS",
+    "start": "2026-11-06T07:30:00Z",
+    "end": "2026-11-06T13:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/bd901043-8691-4c3d-b2be-3960c2619069.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "bd901043-8691-4c3d-b2be-3960c2619069"
   },
   {
     "game": "FELLOWSHIP",
@@ -465,51 +525,6 @@
     "twitch_campaign_id": "3fbad26b-3224-4246-ad9d-0a2c56e39d2b"
   },
   {
-    "game": "Gray Zone Warfare",
-    "status": "live",
-    "campaign": "Rogue Ops - Stage 5",
-    "start": "2026-11-03T13:00:00Z",
-    "end": "2026-11-06T12:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  \n\nWatch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and the Baseball Cap, Face Mask, Hoodie, and Torn Jeans to become the ultimate hacker.",
-    "image": "/media/campaigns/images/bc309d9e-cfa8-4ade-b8a3-b181b4720243.png",
-    "url": "https://twitch.grayzonewarfare.com",
-    "account_link": "https://twitch.grayzonewarfare.com",
-    "twitch_campaign_id": "bc309d9e-cfa8-4ade-b8a3-b181b4720243"
-  },
-  {
-    "game": "Gray Zone Warfare",
-    "status": "live",
-    "campaign": "GZW Rogue Ops 0.5 Update",
-    "start": "2026-10-22T16:00:00Z",
-    "end": "2026-11-06T12:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  Watch eligible Gray Zone Warfare live streams to earn the Starter Pack with new weapons, the Hideout Pack to get a head start, and a set of exclusive apparel to become a stylish smuggler, agent, or hacker.",
-    "image": "/media/campaigns/images/381d286a-8959-4bb1-a95e-dbd2ecf944a1.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "381d286a-8959-4bb1-a95e-dbd2ecf944a1"
-  },
-  {
-    "game": "Gray Zone Warfare",
-    "status": "live",
-    "campaign": "Rogue Ops - MADFINGER",
-    "start": "2026-10-22T16:00:00Z",
-    "end": "2026-11-06T12:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Gray Zone Warfare’s massive new Update 0.5 live on Twitch and earn exclusive Drops along the way. Get the game in the exclusive 35% off sale!  \n\nWatch the official Gray Zone Warfare live streams to earn the Hideout Pack for a head start and the exclusive MFG Tactical T-shirt.",
-    "image": "/media/campaigns/images/97b4a33f-43a1-4166-bcda-f58b534b2c9b.png",
-    "url": "https://twitch.grayzonewarfare.com",
-    "account_link": "https://twitch.grayzonewarfare.com",
-    "twitch_campaign_id": "97b4a33f-43a1-4166-bcda-f58b534b2c9b"
-  },
-  {
     "game": "HITMAN World of Assassination",
     "status": "live",
     "campaign": "The Host Drop #1",
@@ -583,6 +598,21 @@
     "url": "https://playnewz.com/news",
     "account_link": "https://playnewz.com/twitchlink",
     "twitch_campaign_id": "d3c2ae0f-a80b-4b81-a507-ad17974b4dec"
+  },
+  {
+    "game": "Infinity Nikki",
+    "status": "live",
+    "campaign": "V2.11 Infinity Nikki",
+    "start": "2026-11-02T03:00:00Z",
+    "end": "2026-11-26T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Infinity Nikki on Twitch and earn exclusive in-game rewards! Watch Time Rewards: ⏱️ Watch 15 mins – Diamond ×10 ⏱️ Watch 30 mins – Diamond ×20 ⏱️ Watch 45 mins – Bling ×20,000 ⏱️ Watch 1 hour – Thread of Purity ×100 ⏱️ Watch 1.5 hours – Shining Particle ×100 ⏱️ Watch 2 hours – Shiny Bubbles x100",
+    "image": "/media/campaigns/images/a013ca5d-a41b-4ead-a282-c78f6c2c3183.png",
+    "url": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
+    "account_link": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
+    "twitch_campaign_id": "a013ca5d-a41b-4ead-a282-c78f6c2c3183"
   },
   {
     "game": "Kakele Online - MMORPG",
@@ -675,6 +705,21 @@
     "twitch_campaign_id": "b66c6ae7-42bc-4e67-b0ad-8ab0d9897d26"
   },
   {
+    "game": "Loftia",
+    "status": "live",
+    "campaign": "Welcome to Loftia!",
+    "start": "2026-11-06T06:00:00Z",
+    "end": "2026-11-20T17:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Welcome to Loftia! To celebrate our Early Access launch on Steam and Epic Games Store, tune in on a Loftia stream to earn two in-game rewards!",
+    "image": "/media/campaigns/images/d31f0a01-c61e-4170-bf68-60c9132efaaf.png",
+    "url": "https://loftia.gg/twitch-drops",
+    "account_link": "https://loftia.gg/account?tab=home#twitch-drops",
+    "twitch_campaign_id": "d31f0a01-c61e-4170-bf68-60c9132efaaf"
+  },
+  {
     "game": "Lords Mobile",
     "status": "live",
     "campaign": "Twitch Drops",
@@ -748,21 +793,6 @@
     "url": "https://www.marvelrivals.com/twitchdrops/",
     "account_link": "https://www.marvelrivals.com/twitchdrops/",
     "twitch_campaign_id": "90273492-0fd5-46d0-b1cf-60084d901adf"
-  },
-  {
-    "game": "Marvel Rivals",
-    "status": "live",
-    "campaign": "Season 10.5 Twitch Drops",
-    "start": "2026-10-09T12:00:00Z",
-    "end": "2026-11-06T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into your favorite streamers for the upcoming new modes and win exclusive drop rewards!",
-    "image": "/media/campaigns/images/2af30b0f-945d-434b-9deb-8161fdae8229.png",
-    "url": "https://www.marvelrivals.com/twitchdrops/",
-    "account_link": "https://www.marvelrivals.com/twitchdrops/",
-    "twitch_campaign_id": "2af30b0f-945d-434b-9deb-8161fdae8229"
   },
   {
     "game": "MARVEL Strike Force",
@@ -1050,6 +1080,21 @@
     "twitch_campaign_id": "d6a79a3e-fd63-43ed-906d-3a8443cd8184"
   },
   {
+    "game": "PAYDAY 3",
+    "status": "live",
+    "campaign": "Payday 3 update",
+    "start": "2026-11-06T12:00:00Z",
+    "end": "2026-11-27T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The PAYDAY gang is back again! Support your favorite PAYDAY 3 creators and grab yourself some exclusive chat badges featuring Joy, Pearl, Clover, and the KawaiiDozer. Gift a sub to unlock the KawaiiDozer, or keep watching the streams to get the rest of the crew!",
+    "image": "/media/campaigns/images/7fd0b5de-69c5-4f30-924e-59adaa29a362.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "7fd0b5de-69c5-4f30-924e-59adaa29a362"
+  },
+  {
     "game": "Planet Zoo 2",
     "status": "live",
     "campaign": "Launch Clothing Set",
@@ -1078,6 +1123,21 @@
     "url": "https://www.plantsonfire.com/twitch-drops",
     "account_link": "https://www.plantsonfire.com/twitch-drops",
     "twitch_campaign_id": "2890acf3-fc66-4310-920e-f09980832da4"
+  },
+  {
+    "game": "Pokémon Trading Card Game Live",
+    "status": "live",
+    "campaign": "Pokémon Delta Reign Drop",
+    "start": "2026-11-06T08:00:00Z",
+    "end": "2026-11-16T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://trainer.pokemon.com/rewards   ",
+    "image": "/media/campaigns/images/55e0b074-0393-4be3-8586-3fb8b65b80e0.png",
+    "url": "https://trainer.pokemon.com/rewards",
+    "account_link": "https://trainer.pokemon.com/rewards",
+    "twitch_campaign_id": "55e0b074-0393-4be3-8586-3fb8b65b80e0"
   },
   {
     "game": "Predecessor",
@@ -1185,6 +1245,21 @@
     "twitch_campaign_id": "ea27e799-4ef8-4713-af8c-2d89d7875a94"
   },
   {
+    "game": "Sea of Thieves",
+    "status": "live",
+    "campaign": "Season 21 Drops 3",
+    "start": "2026-11-06T10:00:00Z",
+    "end": "2026-11-11T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "There’s nothing a pirate on the Sea of Thieves likes more than free loot – and with Twitch Drops, you can claim some just by linking your Twitch account to your Sea of Thieves account and tuning in to our special events! Twitch Drops are free items awarded to players for watching participating streamers during promotional activities. Sign up now to be eligible for the latest Twitch Drops event!",
+    "image": "/media/campaigns/images/1e876aca-9af6-451d-b744-21cdc44e73c9.jpeg",
+    "url": "https://www.seaofthieves.com/twitch-drops",
+    "account_link": "https://www.seaofthieves.com/twitch-drops",
+    "twitch_campaign_id": "1e876aca-9af6-451d-b744-21cdc44e73c9"
+  },
+  {
     "game": "Shakes and Fidget",
     "status": "live",
     "campaign": "S&F Drops 2/3",
@@ -1273,21 +1348,6 @@
     "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
     "account_link": "https://splinterlands.com/user/account-socials",
     "twitch_campaign_id": "bc94afa2-12e9-47aa-8200-6b860fd49c9b"
-  },
-  {
-    "game": "STALZONE",
-    "status": "live",
-    "campaign": "Fall 2026, Week 1",
-    "start": "2026-10-29T14:00:00Z",
-    "end": "2026-11-06T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "By linking your Twitch account with your EXBO account, you can earn a variety of rewards, including exclusive in-game items. Receive claimed items by talking with the Courier NPC on any safe zones (except for Swamps)",
-    "image": "/media/campaigns/images/97e14443-0090-4a91-ab42-01cce98d8d56.png",
-    "url": "https://support.exbo.net/help-center/articles/8/19/168/",
-    "account_link": "https://exbo.net/user",
-    "twitch_campaign_id": "97e14443-0090-4a91-ab42-01cce98d8d56"
   },
   {
     "game": "Stella Sora",
