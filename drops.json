@@ -137,21 +137,6 @@
   {
     "game": "Call of Duty: Modern Warfare 4",
     "status": "live",
-    "campaign": "Modern Warfare 4 Launch",
-    "start": "2026-10-23T17:00:00Z",
-    "end": "2026-11-05T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Modern Warfare 4 Launch Rewards",
-    "image": "/media/campaigns/images/eb8ad6af-ae8e-453f-9324-004e23f65a1a.png",
-    "url": "https://www.twitch.tv/drops/inventory",
-    "account_link": "https://profile.callofduty.com/cod/twitch/reauth",
-    "twitch_campaign_id": "eb8ad6af-ae8e-453f-9324-004e23f65a1a"
-  },
-  {
-    "game": "Call of Duty: Modern Warfare 4",
-    "status": "live",
     "campaign": "Modern Warfare 4 Badge",
     "start": "2026-10-23T17:00:00Z",
     "end": "2026-11-13T17:59:59.999Z",
@@ -163,6 +148,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "8fbafdec-31ee-4878-a9ca-9ebbe07ca74d"
+  },
+  {
+    "game": "Call of Duty: Warzone",
+    "status": "live",
+    "campaign": "Modern Warfare 4 Season 1",
+    "start": "2026-11-06T05:00:00Z",
+    "end": "2026-12-04T04:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Modern Warfare 4 Season 1",
+    "image": "/media/campaigns/images/a0e134ff-e391-46bc-9ac6-0b1b2c826795.png",
+    "url": "https://www.twitch.tv/drops/inventory",
+    "account_link": "https://profile.callofduty.com/cod/twitch/reauth",
+    "twitch_campaign_id": "a0e134ff-e391-46bc-9ac6-0b1b2c826795"
   },
   {
     "game": "Captain's Call",
@@ -690,6 +690,21 @@
     "twitch_campaign_id": "de187dc2-1549-44a6-8fe1-118efd83a38a"
   },
   {
+    "game": "Madden NFL 27",
+    "status": "live",
+    "campaign": "Madden Live",
+    "start": "2026-11-05T18:00:00Z",
+    "end": "2026-11-06T17:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch your favorite creators play Madden NFL 27 and earn some Twitch Drops to power up your Ultimate Team!",
+    "image": "/media/campaigns/images/89483dd6-c9f5-47cb-9581-5449def6338c.png",
+    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+    "twitch_campaign_id": "89483dd6-c9f5-47cb-9581-5449def6338c"
+  },
+  {
     "game": "Marbles on Stream",
     "status": "live",
     "campaign": "Marble Day 272",
@@ -1095,6 +1110,21 @@
     "twitch_campaign_id": "3ed1adc1-8f12-4d18-82ac-fd543f08722d"
   },
   {
+    "game": "Rainbow Six Siege",
+    "status": "live",
+    "campaign": "Osaka 2026 Play-ins",
+    "start": "2026-11-06T00:30:00Z",
+    "end": "2026-11-07T13:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Rainbow Six Siege - OSAKA MAJOR 2026",
+    "image": "/media/campaigns/images/9eaa7756-e42b-4c55-b10f-52f46b746f38.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/#/en-US",
+    "twitch_campaign_id": "9eaa7756-e42b-4c55-b10f-52f46b746f38"
+  },
+  {
     "game": "Ravendawn",
     "status": "live",
     "campaign": "November 01",
@@ -1127,32 +1157,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 209",
-    "start": "2026-11-04T17:59:00Z",
-    "end": "2026-11-05T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/3efe070c-1b1c-4eb1-b15e-4962d86ca7a0.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "3efe070c-1b1c-4eb1-b15e-4962d86ca7a0"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "ROW Drop 638",
-    "start": "2026-11-04T17:59:00Z",
-    "end": "2026-11-05T17:56:59.999Z",
+    "campaign": "ROW Drop 639",
+    "start": "2026-11-05T17:59:00Z",
+    "end": "2026-11-06T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/3315f32f-05c4-47cd-981c-66fd965b4ce7.png",
+    "image": "/media/campaigns/images/97251f98-af4a-4860-ad8a-e3dd496504c4.jpeg",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "3315f32f-05c4-47cd-981c-66fd965b4ce7"
+    "twitch_campaign_id": "97251f98-af4a-4860-ad8a-e3dd496504c4"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 210",
+    "start": "2026-11-05T17:59:00Z",
+    "end": "2026-11-06T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/ea27e799-4ef8-4713-af8c-2d89d7875a94.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "ea27e799-4ef8-4713-af8c-2d89d7875a94"
   },
   {
     "game": "Shakes and Fidget",
@@ -1183,21 +1213,6 @@
     "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
     "account_link": "https://sfgame.net/",
     "twitch_campaign_id": "5a95b2e1-245a-41ba-8005-377c7dd562bb"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Droplets",
-    "start": "2026-10-30T15:00:00Z",
-    "end": "2026-11-05T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Droplets are additional drops to our main drop campaigns.",
-    "image": "/media/campaigns/images/bbcf1935-8dd7-4495-bc63-b80c04766c84.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "bbcf1935-8dd7-4495-bc63-b80c04766c84"
   },
   {
     "game": "Shroud of the Avatar: Forsaken Virtues",
@@ -1243,6 +1258,21 @@
     "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
     "account_link": "https://link.smite2.com/",
     "twitch_campaign_id": "6b1d7942-ec4d-49de-b545-ec3c7609e67a"
+  },
+  {
+    "game": "Splinterlands",
+    "status": "live",
+    "campaign": "November Week 1",
+    "start": "2026-11-03T17:00:00Z",
+    "end": "2026-11-17T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "November Week #1 Splinterlands Drop Campaign",
+    "image": "/media/campaigns/images/bc94afa2-12e9-47aa-8200-6b860fd49c9b.png",
+    "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
+    "account_link": "https://splinterlands.com/user/account-socials",
+    "twitch_campaign_id": "bc94afa2-12e9-47aa-8200-6b860fd49c9b"
   },
   {
     "game": "STALZONE",
@@ -1323,16 +1353,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-05T00:00:00Z",
-    "end": "2026-11-05T23:59:59.999Z",
+    "start": "2026-11-06T00:00:00Z",
+    "end": "2026-11-06T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/f04fd8a3-b633-4e32-89c6-f5439902aced.png",
+    "image": "/media/campaigns/images/cbea3282-61bc-4e9c-a42f-794cb5610c79.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "f04fd8a3-b633-4e32-89c6-f5439902aced"
+    "twitch_campaign_id": "cbea3282-61bc-4e9c-a42f-794cb5610c79"
   },
   {
     "game": "Tom Clancy's The Division 2",
@@ -1363,21 +1393,6 @@
     "url": "https://portal.uflgame.com/twitch/drops",
     "account_link": "https://portal.uflgame.com/twitch",
     "twitch_campaign_id": "ffa5ab03-fb38-4291-9516-c3ddf43c8bca"
-  },
-  {
-    "game": "UFL",
-    "status": "live",
-    "campaign": "Nov #1",
-    "start": "2026-10-29T09:10:00Z",
-    "end": "2026-11-05T23:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
-    "image": "/media/campaigns/images/2274bda1-377a-4d98-a7c6-837b08ab7fd0.png",
-    "url": "https://portal.uflgame.com/twitch/drops",
-    "account_link": "https://portal.uflgame.com/twitch",
-    "twitch_campaign_id": "2274bda1-377a-4d98-a7c6-837b08ab7fd0"
   },
   {
     "game": "UNO! Mobile",
@@ -1425,21 +1440,6 @@
     "twitch_campaign_id": "7e53b036-f71b-4d07-a71a-578ed77c9332"
   },
   {
-    "game": "Vaultbreakers",
-    "status": "live",
-    "campaign": "Vaultbreakers",
-    "start": "2026-10-08T17:00:00Z",
-    "end": "2026-11-05T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Come watch your favourite streamers playing Vaultbreakers and grab yourself exclusive chat badges! #Vaultbreakers",
-    "image": "/media/campaigns/images/773f4909-b958-455c-be7a-641ade4067c5.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "773f4909-b958-455c-be7a-641ade4067c5"
-  },
-  {
     "game": "Viking Rise",
     "status": "live",
     "campaign": "Twitch Drops",
@@ -1485,21 +1485,6 @@
     "twitch_campaign_id": "3df8df9c-6a8d-4c62-9e60-7809ec3d1e2e"
   },
   {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "Prime Time #503",
-    "start": "2026-11-04T20:00:00Z",
-    "end": "2026-11-06T01:14:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch this week's Prime Time livestream for 30 minutes to receive a Relic Pack!",
-    "image": "/media/campaigns/images/48b84c3b-7ab4-45ec-b3cf-a20becd778b3.jpeg",
-    "url": "https://forums.warframe.com/topic/1531432-community-stream-schedule-november-2-8-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "48b84c3b-7ab4-45ec-b3cf-a20becd778b3"
-  },
-  {
     "game": "Where Winds Meet",
     "status": "live",
     "campaign": "Where Winds Meet November",
@@ -1528,6 +1513,21 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "c1b9bd2e-98cd-4ffe-b748-c2b3e48c5ecf"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Dune Drops #1",
+    "start": "2026-11-05T16:00:00Z",
+    "end": "2026-11-09T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Dune Drops #1",
+    "image": "/media/campaigns/images/3edfcdf2-5ec2-403b-946f-a64f9cd94036.jpeg",
+    "url": "https://worldoftanks.eu/news/general-news/battle-pass-special-november-2026/",
+    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+    "twitch_campaign_id": "3edfcdf2-5ec2-403b-946f-a64f9cd94036"
   },
   {
     "game": "World of Tanks",
@@ -1588,6 +1588,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "3e27da93-de21-4977-91db-e889991c7ff1"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "Update 15.10 Drop: Week 1",
+    "start": "2026-11-05T15:00:00Z",
+    "end": "2026-11-12T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The earliest sharks appeared roughly 450 million years ago, while the first true trees (like Archaeopteris) didn’t show up until around 385 million years ago. That means sharks were cruising the oceans for something like 60 million years before there was a single forest on land.",
+    "image": "/media/campaigns/images/17edd537-6916-4cb2-8e72-d56cfb7ccda4.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "17edd537-6916-4cb2-8e72-d56cfb7ccda4"
   },
   {
     "game": "World of Warships",
