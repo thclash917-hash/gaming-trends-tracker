@@ -75,6 +75,21 @@
     "twitch_campaign_id": "853eaf12-2ecb-446c-b382-717c278f8af2"
   },
   {
+    "game": "Battlefield REDSEC",
+    "status": "live",
+    "campaign": "Open Series Cup #3",
+    "start": "2026-11-07T04:00:00Z",
+    "end": "2026-11-09T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune in and support your favorite creators streaming Battlefield REDSEC to unlock Twitch Drops celebrating the Open Series, where teams battle for a spot in the Elite Series.",
+    "image": "/media/campaigns/images/5783dd79-1058-4f98-b7e3-8768bb5750ef.png",
+    "url": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
+    "account_link": "https://ea.com/twitchlinking",
+    "twitch_campaign_id": "5783dd79-1058-4f98-b7e3-8768bb5750ef"
+  },
+  {
     "game": "Black Desert",
     "status": "live",
     "campaign": "Master Class 26 (Nov 6)",
@@ -270,21 +285,6 @@
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "November Drops",
-    "start": "2026-11-05T12:28:06Z",
-    "end": "2026-11-07T02:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/c5baa51c-8692-40a9-83a1-7c0e08b3a6d9.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "c5baa51c-8692-40a9-83a1-7c0e08b3a6d9"
-  },
-  {
     "game": "Crimson Desert",
     "status": "live",
     "campaign": "Crimson Desert DLC Week 2",
@@ -465,6 +465,21 @@
     "twitch_campaign_id": "20ad1ac0-78f4-4e4f-aadf-e59d8840b295"
   },
   {
+    "game": "Epic Seven",
+    "status": "live",
+    "campaign": "E7WC 2026 Knockout Stage",
+    "start": "2026-11-07T03:00:00Z",
+    "end": "2026-11-07T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+    "image": "/media/campaigns/images/5cadf2b4-ecb8-4da4-8bd7-7fddf6f08f52.png",
+    "url": "https://epic7.onstove.com/drops/twitch",
+    "account_link": "https://epic7.onstove.com/drops/twitch",
+    "twitch_campaign_id": "5cadf2b4-ecb8-4da4-8bd7-7fddf6f08f52"
+  },
+  {
     "game": "Escape from Tarkov",
     "status": "live",
     "campaign": "Echoes of Halloween day 1",
@@ -478,6 +493,21 @@
     "url": "https://www.twitch.tv/",
     "account_link": "https://www.escapefromtarkov.com/profile",
     "twitch_campaign_id": "352e8eef-95c4-4e12-8835-e66f4ccda4ef"
+  },
+  {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "KEL CHAMPIONSHIP DAY 1",
+    "start": "2026-11-07T04:00:00Z",
+    "end": "2026-11-07T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "/media/campaigns/images/cb8174f6-3ce9-46b2-82c6-fa3a44581500.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "cb8174f6-3ce9-46b2-82c6-fa3a44581500"
   },
   {
     "game": "ExileCon",
@@ -1260,6 +1290,21 @@
     "twitch_campaign_id": "3ed1adc1-8f12-4d18-82ac-fd543f08722d"
   },
   {
+    "game": "Ragnarok Online",
+    "status": "live",
+    "campaign": "觀看Festa掉寶活動",
+    "start": "2026-11-07T04:00:00Z",
+    "end": "2026-11-07T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "觀看Festa掉寶活動",
+    "image": "/media/campaigns/images/fb2dea70-185f-4960-8cdc-91eea87de9f5.png",
+    "url": "https://ro.gnjoy.com.tw/Notice/Notice_View?id=219544",
+    "account_link": "https://event.gnjoy.com.tw/Ro/ACT_TwitchLogin",
+    "twitch_campaign_id": "fb2dea70-185f-4960-8cdc-91eea87de9f5"
+  },
+  {
     "game": "Rainbow Six Siege",
     "status": "live",
     "campaign": "Osaka 2026 Play-ins",
@@ -1533,16 +1578,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-06T00:00:00Z",
-    "end": "2026-11-06T23:59:59.999Z",
+    "start": "2026-11-07T00:00:00Z",
+    "end": "2026-11-07T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/cbea3282-61bc-4e9c-a42f-794cb5610c79.png",
+    "image": "/media/campaigns/images/cbd8582b-483a-4155-953e-273b47d38498.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "cbea3282-61bc-4e9c-a42f-794cb5610c79"
+    "twitch_campaign_id": "cbd8582b-483a-4155-953e-273b47d38498"
   },
   {
     "game": "Tom Clancy's The Division 2",
