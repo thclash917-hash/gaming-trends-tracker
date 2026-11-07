@@ -32,17 +32,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 10 - #5/7",
-    "start": "2026-11-06T10:00:00Z",
-    "end": "2026-11-07T09:29:59.999Z",
+    "campaign": "Dragonfire 10 - #6/7",
+    "start": "2026-11-07T10:00:00Z",
+    "end": "2026-11-08T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/23478ed9-c65f-4ef6-b613-c5aad2ff7eec.png",
+    "image": "/media/campaigns/images/05dbc750-28b1-4953-bbbd-5d69cf67c719.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "23478ed9-c65f-4ef6-b613-c5aad2ff7eec"
+    "twitch_campaign_id": "05dbc750-28b1-4953-bbbd-5d69cf67c719"
   },
   {
     "game": "Anno 117: Pax Romana",
@@ -92,17 +92,62 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "Master Class 26 (Nov 6)",
-    "start": "2026-11-06T12:00:00Z",
-    "end": "2026-11-07T11:59:59.999Z",
+    "campaign": "Master Class 26 (Nov 7)",
+    "start": "2026-11-07T12:00:00Z",
+    "end": "2026-11-08T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
-    "image": "/media/campaigns/images/c9a2d89c-b52a-4fcb-8a84-0655364cde69.jpeg",
+    "image": "/media/campaigns/images/4c023132-021e-4012-b0c5-8350a5d6e5b3.jpeg",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "c9a2d89c-b52a-4fcb-8a84-0655364cde69"
+    "twitch_campaign_id": "4c023132-021e-4012-b0c5-8350a5d6e5b3"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "[NAEU] 2026 Master Class",
+    "start": "2026-11-07T09:00:00Z",
+    "end": "2026-11-08T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10763",
+    "image": "/media/campaigns/images/6e583986-2e3e-484b-9e77-f337d1157bfd.jpeg",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10763",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "6e583986-2e3e-484b-9e77-f337d1157bfd"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "[TW] Master Class Finals",
+    "start": "2026-11-07T05:00:00Z",
+    "end": "2026-11-07T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.tw.playblackdesert.com/zh-TW/News/Detail?groupContentNo=20423&countryType=zh-TW",
+    "image": "/media/campaigns/images/e555d819-c934-4347-88e4-a1b08b359308.png",
+    "url": "https://www.tw.playblackdesert.com/zh-TW/News/Detail?groupContentNo=20423&countryType=zh-TW",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "e555d819-c934-4347-88e4-a1b08b359308"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "[AS] 2026 Master Class",
+    "start": "2026-11-07T05:00:00Z",
+    "end": "2026-11-07T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
+    "image": "/media/campaigns/images/36f72445-b369-46a1-87a5-591b37a536ad.jpeg",
+    "url": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=19874",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "36f72445-b369-46a1-87a5-591b37a536ad"
   },
   {
     "game": "Black Desert",
@@ -283,6 +328,21 @@
     "url": "https://littygames.net/drops",
     "account_link": "https://littygames.net/drops",
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
+  },
+  {
+    "game": "Coryphaeus Championships",
+    "status": "live",
+    "campaign": "November Drops",
+    "start": "2026-11-07T08:53:57Z",
+    "end": "2026-11-09T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Coryphaeus Fall Drops",
+    "image": "/media/campaigns/images/b4e6bc78-533b-47a4-8e4f-c87b9d3468c8.png",
+    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+    "twitch_campaign_id": "b4e6bc78-533b-47a4-8e4f-c87b9d3468c8"
   },
   {
     "game": "Crimson Desert",
@@ -615,6 +675,21 @@
     "twitch_campaign_id": "3fbad26b-3224-4246-ad9d-0a2c56e39d2b"
   },
   {
+    "game": "Halo Infinite",
+    "status": "live",
+    "campaign": "EHL LAN - November 7-8",
+    "start": "2026-11-07T09:00:00Z",
+    "end": "2026-11-08T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune into the European Halo Championship 2026 event to earn in-game content in Halo Infinite!",
+    "image": "/media/campaigns/images/15f5f529-dbda-4e54-8774-c8253851bc72.jpeg",
+    "url": "https://www.halowaypoint.com",
+    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
+    "twitch_campaign_id": "15f5f529-dbda-4e54-8774-c8253851bc72"
+  },
+  {
     "game": "HITMAN World of Assassination",
     "status": "live",
     "campaign": "The Host Drop #1",
@@ -823,6 +898,21 @@
     "url": "https://event.igg.com/twitch/drops?code=lo_drops",
     "account_link": "https://event.igg.com/twitch/drops?code=lo_drops",
     "twitch_campaign_id": "de187dc2-1549-44a6-8fe1-118efd83a38a"
+  },
+  {
+    "game": "Marble Racing Manager",
+    "status": "live",
+    "campaign": "MrM Streamer Wars Launch",
+    "start": "2026-11-07T04:00:00Z",
+    "end": "2026-11-14T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Race, build, and climb the leaderboards in Marble Manager — the interactive marble racing game where your Twitch community races alongside you in real time! During this campaign, watching eligible Marble Manager streams earns you Resource Cache crates loaded with base-building materials: Bronze Bars, Silver Bars, Repair Tools, and a shot at Gold Bars or the coveted Crystal Skull. Watch more streams to stack more caches, then link your Twitch account at marblemanager.fun to claim everything automatically. Whether you're a seasoned racer managing your track economy or a newcomer looking to build your first base, these drops give you a head start. Tune in, earn your cache, and join the race today!",
+    "image": "/media/campaigns/images/968791a4-0188-4af8-8edc-8d6e92b941bb.png",
+    "url": "https://marblemanager.fun/drops",
+    "account_link": "https://marblemanager.fun/drops",
+    "twitch_campaign_id": "968791a4-0188-4af8-8edc-8d6e92b941bb"
   },
   {
     "game": "Marbles on Stream",
@@ -1230,21 +1320,6 @@
     "twitch_campaign_id": "fc782035-c5b0-4790-a5dd-c57f12469331"
   },
   {
-    "game": "Plants on Fire",
-    "status": "live",
-    "campaign": "Plants on Fire",
-    "start": "2026-10-28T08:00:00Z",
-    "end": "2026-11-07T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch livestreams & earn rewards",
-    "image": "/media/campaigns/images/2890acf3-fc66-4310-920e-f09980832da4.png",
-    "url": "https://www.plantsonfire.com/twitch-drops",
-    "account_link": "https://www.plantsonfire.com/twitch-drops",
-    "twitch_campaign_id": "2890acf3-fc66-4310-920e-f09980832da4"
-  },
-  {
     "game": "Pokémon Trading Card Game Live",
     "status": "live",
     "campaign": "Pokémon Delta Reign Drop",
@@ -1352,21 +1427,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 211",
-    "start": "2026-11-06T17:59:00Z",
-    "end": "2026-11-07T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/e6b8330a-321a-4cd5-98e9-32f2068780b4.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "e6b8330a-321a-4cd5-98e9-32f2068780b4"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "ROW Drop 640",
     "start": "2026-11-06T17:59:00Z",
     "end": "2026-11-07T17:56:59.999Z",
@@ -1378,6 +1438,21 @@
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "d5558c27-2f3f-428a-a06d-e9944b3e01b1"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 211",
+    "start": "2026-11-06T17:59:00Z",
+    "end": "2026-11-07T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/e6b8330a-321a-4cd5-98e9-32f2068780b4.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "e6b8330a-321a-4cd5-98e9-32f2068780b4"
   },
   {
     "game": "Sea of Thieves",
@@ -1487,17 +1562,17 @@
   {
     "game": "SMITE 2",
     "status": "live",
-    "campaign": "Nov Wk Hachiman!",
-    "start": "2026-10-31T11:00:00Z",
-    "end": "2026-11-07T10:57:59.999Z",
+    "campaign": "Nov Week 2!",
+    "start": "2026-11-07T11:00:00Z",
+    "end": "2026-11-14T10:57:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
-    "image": "/media/campaigns/images/6b1d7942-ec4d-49de-b545-ec3c7609e67a.png",
+    "image": "/media/campaigns/images/f8f01b79-8d12-4d05-99c4-dabee7759897.jpeg",
     "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
     "account_link": "https://link.smite2.com/",
-    "twitch_campaign_id": "6b1d7942-ec4d-49de-b545-ec3c7609e67a"
+    "twitch_campaign_id": "f8f01b79-8d12-4d05-99c4-dabee7759897"
   },
   {
     "game": "Splinterlands",
@@ -1742,6 +1817,21 @@
   {
     "game": "World of Tanks",
     "status": "live",
+    "campaign": "Opera GX CS APAC D1",
+    "start": "2026-11-07T08:00:00Z",
+    "end": "2026-11-07T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Opera GX CS APAC D1",
+    "image": "/media/campaigns/images/2b546d5c-ec9b-46a3-859f-5513034fedc8.jpeg",
+    "url": "https://worldoftanks.asia/news/live-streams/clan-showdown-finals-november-2026/",
+    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+    "twitch_campaign_id": "2b546d5c-ec9b-46a3-859f-5513034fedc8"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
     "campaign": "WoT A Thrill Store #11",
     "start": "2026-11-06T16:00:00Z",
     "end": "2026-11-09T15:59:59.999Z",
@@ -1813,6 +1903,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "3e27da93-de21-4977-91db-e889991c7ff1"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "KOTS XIX Finals Week 1",
+    "start": "2026-11-07T12:00:00Z",
+    "end": "2026-11-08T18:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+    "image": "/media/campaigns/images/252322a0-7a24-4d4c-9404-72c58d99fc0a.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "252322a0-7a24-4d4c-9404-72c58d99fc0a"
   },
   {
     "game": "World of Warships",
