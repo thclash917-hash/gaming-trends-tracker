@@ -92,21 +92,6 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "[SA] MC Qualifiers",
-    "start": "2026-11-07T18:00:00Z",
-    "end": "2026-11-07T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.sa.playblackdesert.com/News/Detail?groupContentNo=8828",
-    "image": "/media/campaigns/images/85981c97-5efb-4924-8f16-ed814ee80ec4.jpeg",
-    "url": "https://www.sa.playblackdesert.com/News/Detail?groupContentNo=8828",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "85981c97-5efb-4924-8f16-ed814ee80ec4"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
     "campaign": "Master Class 26 (Nov 7)",
     "start": "2026-11-07T12:00:00Z",
     "end": "2026-11-08T11:59:59.999Z",
@@ -510,6 +495,21 @@
     "twitch_campaign_id": "20ad1ac0-78f4-4e4f-aadf-e59d8840b295"
   },
   {
+    "game": "Epic Seven",
+    "status": "live",
+    "campaign": "E7WC 2026 Knockout Stage",
+    "start": "2026-11-08T03:00:00Z",
+    "end": "2026-11-08T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+    "image": "/media/campaigns/images/45c068a6-b8c5-4fee-bc56-6973a7bc7d4f.png",
+    "url": "https://epic7.onstove.com/drops/twitch",
+    "account_link": "https://epic7.onstove.com/drops/twitch",
+    "twitch_campaign_id": "45c068a6-b8c5-4fee-bc56-6973a7bc7d4f"
+  },
+  {
     "game": "Escape from Tarkov",
     "status": "live",
     "campaign": "Echoes of Halloween day 2",
@@ -527,17 +527,17 @@
   {
     "game": "Eternal Return",
     "status": "live",
-    "campaign": "ERCC S12 LCQ",
-    "start": "2026-11-07T17:00:00Z",
-    "end": "2026-11-08T02:59:59.999Z",
+    "campaign": "KEL CHAMPIONSHIP DAY 2",
+    "start": "2026-11-08T04:00:00Z",
+    "end": "2026-11-08T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/81ed4ff3-d1fa-47a3-8ed5-ad8d174eef57.png",
+    "image": "/media/campaigns/images/8a82fc07-89b5-4676-bcdf-b2e3646aff22.png",
     "url": "https://twitch.playeternalreturn.com/",
     "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "81ed4ff3-d1fa-47a3-8ed5-ad8d174eef57"
+    "twitch_campaign_id": "8a82fc07-89b5-4676-bcdf-b2e3646aff22"
   },
   {
     "game": "ExileCon",
@@ -643,6 +643,21 @@
     "url": "https://nikke-en.com/act/a2026twitchdrops/index.html",
     "account_link": "https://nikke-en.com/act/a2026twitchdrops/index.html",
     "twitch_campaign_id": "3fbad26b-3224-4246-ad9d-0a2c56e39d2b"
+  },
+  {
+    "game": "Halo Infinite",
+    "status": "live",
+    "campaign": "RLS 11/7",
+    "start": "2026-11-07T22:00:00Z",
+    "end": "2026-11-08T04:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Real Life Spartan is a real life awesome dude - support by watching and earn some drops!",
+    "image": "/media/campaigns/images/3bf9c98a-c18a-49fa-9ba4-b3e760fb1f79.jpeg",
+    "url": "https://www.halowaypoint.com",
+    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
+    "twitch_campaign_id": "3bf9c98a-c18a-49fa-9ba4-b3e760fb1f79"
   },
   {
     "game": "Halo Infinite",
@@ -1217,21 +1232,6 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "CWhit 11/7/26",
-    "start": "2026-11-07T14:00:00Z",
-    "end": "2026-11-08T13:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/0052dfc2-fb68-43ae-aa17-037351ad5951.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "0052dfc2-fb68-43ae-aa17-037351ad5951"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
     "campaign": "Carini 11/7/26",
     "start": "2026-11-07T14:00:00Z",
     "end": "2026-11-08T13:59:59.999Z",
@@ -1277,17 +1277,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "MaxLP 11/7/26",
+    "campaign": "Comey 11/7/26",
     "start": "2026-11-07T14:00:00Z",
     "end": "2026-11-08T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/f19349e3-8dfb-447c-a608-6ba88876c8f4.png",
+    "image": "/media/campaigns/images/5b7e61d8-a359-42e7-9028-f5030566f494.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "f19349e3-8dfb-447c-a608-6ba88876c8f4"
+    "twitch_campaign_id": "5b7e61d8-a359-42e7-9028-f5030566f494"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1307,6 +1307,21 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
+    "campaign": "CWhit 11/7/26",
+    "start": "2026-11-07T14:00:00Z",
+    "end": "2026-11-08T13:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/0052dfc2-fb68-43ae-aa17-037351ad5951.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "0052dfc2-fb68-43ae-aa17-037351ad5951"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
     "campaign": "EVCinNYC 11/7/26",
     "start": "2026-11-07T14:00:00Z",
     "end": "2026-11-08T13:59:59.999Z",
@@ -1322,17 +1337,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Comey 11/7/26",
+    "campaign": "MaxLP 11/7/26",
     "start": "2026-11-07T14:00:00Z",
     "end": "2026-11-08T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/5b7e61d8-a359-42e7-9028-f5030566f494.png",
+    "image": "/media/campaigns/images/f19349e3-8dfb-447c-a608-6ba88876c8f4.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "5b7e61d8-a359-42e7-9028-f5030566f494"
+    "twitch_campaign_id": "f19349e3-8dfb-447c-a608-6ba88876c8f4"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1500,6 +1515,21 @@
     "twitch_campaign_id": "3ed1adc1-8f12-4d18-82ac-fd543f08722d"
   },
   {
+    "game": "Rainbow Six Siege",
+    "status": "live",
+    "campaign": "Osaka 2026 Swiss 1",
+    "start": "2026-11-08T01:08:00Z",
+    "end": "2026-11-09T13:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Rainbow Six Siege - OSAKA MAJOR 2026",
+    "image": "/media/campaigns/images/171c05a1-d758-4af6-822e-77d7d271e236.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/#/en-US",
+    "twitch_campaign_id": "171c05a1-d758-4af6-822e-77d7d271e236"
+  },
+  {
     "game": "Ravendawn",
     "status": "live",
     "campaign": "November 01",
@@ -1532,21 +1562,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 641",
-    "start": "2026-11-07T17:59:00Z",
-    "end": "2026-11-08T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/d2a1402c-e187-4ac2-9318-a646ec2813ee.jpeg",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "d2a1402c-e187-4ac2-9318-a646ec2813ee"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "Mobile Drop 212",
     "start": "2026-11-07T17:59:00Z",
     "end": "2026-11-08T17:56:59.999Z",
@@ -1558,6 +1573,21 @@
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "12c487ad-af42-4c4d-98f1-c14d84eae798"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 641",
+    "start": "2026-11-07T17:59:00Z",
+    "end": "2026-11-08T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/d2a1402c-e187-4ac2-9318-a646ec2813ee.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "d2a1402c-e187-4ac2-9318-a646ec2813ee"
   },
   {
     "game": "Sea of Thieves",
@@ -1758,16 +1788,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-07T00:00:00Z",
-    "end": "2026-11-07T23:59:59.999Z",
+    "start": "2026-11-08T00:00:00Z",
+    "end": "2026-11-08T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/cbd8582b-483a-4155-953e-273b47d38498.png",
+    "image": "/media/campaigns/images/1af8e524-43a1-446e-a7c2-7090f02238cf.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "cbd8582b-483a-4155-953e-273b47d38498"
+    "twitch_campaign_id": "1af8e524-43a1-446e-a7c2-7090f02238cf"
   },
   {
     "game": "Tom Clancy's The Division 2",
@@ -1922,17 +1952,17 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "Opera GX CS EU D1",
-    "start": "2026-11-07T15:00:00Z",
-    "end": "2026-11-07T23:59:59.999Z",
+    "campaign": "Opera GX CS NA D1",
+    "start": "2026-11-08T00:00:00Z",
+    "end": "2026-11-08T07:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Opera GX CS EU D1",
-    "image": "/media/campaigns/images/3dabe9aa-bb00-44e2-aa7e-ab24411d8da4.jpeg",
-    "url": "https://worldoftanks.eu/de/news/live-streams/clan-showdown-finals-november-2026/",
+    "description": "Opera GX CS NA D1",
+    "image": "/media/campaigns/images/7bdb3a40-1021-40f7-957f-521723aae04f.jpeg",
+    "url": "https://worldoftanks.com/en/news/live-streams/clan-showdown-finals-november-2026/",
     "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-    "twitch_campaign_id": "3dabe9aa-bb00-44e2-aa7e-ab24411d8da4"
+    "twitch_campaign_id": "7bdb3a40-1021-40f7-957f-521723aae04f"
   },
   {
     "game": "World of Tanks",
