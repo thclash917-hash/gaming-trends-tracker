@@ -1,20 +1,5 @@
 [
   {
-    "game": "007 First Light",
-    "status": "live",
-    "campaign": "007 Free Starter Pack",
-    "start": "2026-11-05T14:00:00Z",
-    "end": "2026-11-13T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earning this reward is simple. You only need to link your IOI Account to your Twitch account and then watch a 007 FIrst Light stream on Twitch during the drop campaign duration.",
-    "image": "/media/campaigns/images/0bfcc7fb-d3e0-4718-9098-9e58c44b9c49.jpeg",
-    "url": "https://account.ioi.dk/",
-    "account_link": "https://account.ioi.dk/",
-    "twitch_campaign_id": "0bfcc7fb-d3e0-4718-9098-9e58c44b9c49"
-  },
-  {
     "game": "AION 2",
     "status": "live",
     "campaign": "Ludra Awakens",
@@ -32,32 +17,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 7 - #4/7",
-    "start": "2026-11-12T10:00:00Z",
-    "end": "2026-11-13T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/538f595f-3fac-49f6-866d-bb0a4e4bebae.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "538f595f-3fac-49f6-866d-bb0a4e4bebae"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "Dragonfire 11 - #4/7",
-    "start": "2026-11-12T10:00:00Z",
-    "end": "2026-11-13T09:29:59.999Z",
+    "campaign": "Dragonfire 11 - #5/7",
+    "start": "2026-11-13T10:00:00Z",
+    "end": "2026-11-14T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/42cf5e43-c50b-4c9f-8daf-60e1e142d261.png",
+    "image": "/media/campaigns/images/1f68edff-b53c-4030-a8d4-daa700db50da.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "42cf5e43-c50b-4c9f-8daf-60e1e142d261"
+    "twitch_campaign_id": "1f68edff-b53c-4030-a8d4-daa700db50da"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 7 - #5/7",
+    "start": "2026-11-13T10:00:00Z",
+    "end": "2026-11-14T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/3692aff1-55ba-49f9-aa8a-db9ec32eb1e9.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "3692aff1-55ba-49f9-aa8a-db9ec32eb1e9"
   },
   {
     "game": "Anno 117: Pax Romana",
@@ -107,17 +92,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "2026 BDO Drops (Nov 12)",
-    "start": "2026-11-12T12:00:00Z",
-    "end": "2026-11-13T11:59:59.999Z",
+    "campaign": "Master Class 26 (Nov 13)",
+    "start": "2026-11-13T12:00:00Z",
+    "end": "2026-11-14T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/62fc3b75-04f2-4ddc-adf6-1cf7269400c1.png",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+    "image": "/media/campaigns/images/d5832a25-01fa-4bae-bc3d-f669dfdc55e5.jpeg",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "62fc3b75-04f2-4ddc-adf6-1cf7269400c1"
+    "twitch_campaign_id": "d5832a25-01fa-4bae-bc3d-f669dfdc55e5"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -148,6 +133,36 @@
     "url": "https://borderlands.2k.com/twitch-drops/",
     "account_link": "https://shift.gearbox.com/associations",
     "twitch_campaign_id": "df576175-0f22-467e-8ba7-955603a16567"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "Brawlhalla World Champ. 1",
+    "start": "2026-11-13T11:00:00Z",
+    "end": "2026-11-14T03:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Brawlhalla World Championship Day 1  Orion v6 1 Hour, Ezio v6 2 Hours, Loki v6 3Hours, Priya v6 4 Hours,  \"Your Rival\" In-Game Title 5 Hours",
+    "image": "/media/campaigns/images/13c7c040-e40b-40c8-b041-3ddb14098683.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "13c7c040-e40b-40c8-b041-3ddb14098683"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "Brawlhalla BCX - Day 1",
+    "start": "2026-11-13T11:00:00Z",
+    "end": "2026-11-14T03:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "1H = v6 Tezca | 2H = v6 Cassidy | 3H = v6 Vector | 4H = v7 Kor | 5H = Neo-City Boots ",
+    "image": "/media/campaigns/images/62dd594c-cfac-4892-8078-0939ac798bc5.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in-game,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/#/en-US",
+    "twitch_campaign_id": "62dd594c-cfac-4892-8078-0939ac798bc5"
   },
   {
     "game": "Brawlhalla",
@@ -225,6 +240,21 @@
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
   },
   {
+    "game": "Coryphaeus Championships",
+    "status": "live",
+    "campaign": "November Drops",
+    "start": "2026-11-13T10:53:40Z",
+    "end": "2026-11-13T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Coryphaeus Fall Drops",
+    "image": "/media/campaigns/images/68590093-81f7-432c-b613-d43020c61dca.png",
+    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+    "twitch_campaign_id": "68590093-81f7-432c-b613-d43020c61dca"
+  },
+  {
     "game": "Cyberpunk 2077",
     "status": "live",
     "campaign": "Cyberpunk 2077 Chat Badge",
@@ -257,21 +287,6 @@
   {
     "game": "Delta Force",
     "status": "live",
-    "campaign": "SEASON AURORA-OPERATIONS",
-    "start": "2026-11-10T02:00:00Z",
-    "end": "2026-11-25T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate Delta Force’s new Season: AURORA — good vibes & Twitch Drops included!",
-    "image": "/media/campaigns/images/6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc.png",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc"
-  },
-  {
-    "game": "Delta Force",
-    "status": "live",
     "campaign": "SEASON AURORA - WARFARE",
     "start": "2026-11-10T02:00:00Z",
     "end": "2026-11-25T23:59:59.999Z",
@@ -283,6 +298,21 @@
     "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "twitch_campaign_id": "e35e85d5-d647-4906-a3df-5a4d0620a58b"
+  },
+  {
+    "game": "Delta Force",
+    "status": "live",
+    "campaign": "SEASON AURORA-OPERATIONS",
+    "start": "2026-11-10T02:00:00Z",
+    "end": "2026-11-25T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate Delta Force’s new Season: AURORA — good vibes & Twitch Drops included!",
+    "image": "/media/campaigns/images/6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc"
   },
   {
     "game": "Don't Starve Together",
@@ -677,6 +707,21 @@
   {
     "game": "Marvel Rivals",
     "status": "live",
+    "campaign": "Season 11 Twitch Drops",
+    "start": "2026-11-13T12:00:00Z",
+    "end": "2026-12-11T08:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune into your favorite streamers and gain exclusive drop rewards",
+    "image": "/media/campaigns/images/06d7e4d2-74a8-45f2-8a46-428186ed6560.png",
+    "url": "https://www.marvelrivals.com/twitchdrops/",
+    "account_link": "https://www.marvelrivals.com/twitchdrops/",
+    "twitch_campaign_id": "06d7e4d2-74a8-45f2-8a46-428186ed6560"
+  },
+  {
+    "game": "Marvel Rivals",
+    "status": "live",
     "campaign": "Ignite Stage2 W5",
     "start": "2026-10-18T15:00:00Z",
     "end": "2026-11-15T08:59:59.999Z",
@@ -705,19 +750,19 @@
     "twitch_campaign_id": "ce1d6b04-a088-4e28-8bcf-a6db477b8a7b"
   },
   {
-    "game": "Mir Korabley",
+    "game": "Metin2",
     "status": "live",
-    "campaign": "Lestakorabli - 26.11 #2",
-    "start": "2026-11-06T15:00:00Z",
-    "end": "2026-11-13T14:59:59.999Z",
+    "campaign": "M2: Yohara Server 2026",
+    "start": "2026-11-13T11:00:00Z",
+    "end": "2026-11-22T23:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
-    "image": "/media/campaigns/images/38d7e4f1-7737-4482-93d1-ce9c20c6b0c6.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "38d7e4f1-7737-4482-93d1-ce9c20c6b0c6"
+    "description": "Stream on the upcoming Winter servers and enjoy some extra drops for your community! As the adventure continues in Metin2, it’s the perfect time to hop into the action, discover new rewards, and share the journey together. Don’t miss the Hero Drops campaign, where you have the chance to earn giveaway coupons for your community! Coupons are available in limited quantities and will be distributed until they run out. https://gf.link/m2creators",
+    "image": "/media/campaigns/images/5895dfbc-6083-4d01-a4cc-5217bc02dfe8.png",
+    "url": "https://play.metin2.gameforge.com/twitchdrops?kid=e-02007-a0w07-2408-e90000be",
+    "account_link": "https://play.metin2.gameforge.com/twitchdrops?kid=e-02007-a0w07-2408-e90000be",
+    "twitch_campaign_id": "5895dfbc-6083-4d01-a4cc-5217bc02dfe8"
   },
   {
     "game": "Mir Korabley",
@@ -735,19 +780,19 @@
     "twitch_campaign_id": "c328eccb-9098-4ad8-a487-a637816196af"
   },
   {
-    "game": "Mistfall Hunter",
+    "game": "Mir Korabley",
     "status": "live",
-    "campaign": "CreatorDrop 11/11-11/17",
-    "start": "2026-11-11T08:00:00Z",
-    "end": "2026-11-17T07:59:59.999Z",
+    "campaign": "Lestakorabli - 26.11 #2",
+    "start": "2026-11-06T15:00:00Z",
+    "end": "2026-11-13T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "CreatorDrop 11/11-11/17",
-    "image": "/media/campaigns/images/c81e1c5b-b7b1-4308-9098-5505cec75f69.jpeg",
-    "url": "https://mistfallhunter.com/twitchdrops",
-    "account_link": "https://mistfallhunter.com/twitchdrops",
-    "twitch_campaign_id": "c81e1c5b-b7b1-4308-9098-5505cec75f69"
+    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
+    "image": "/media/campaigns/images/38d7e4f1-7737-4482-93d1-ce9c20c6b0c6.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "38d7e4f1-7737-4482-93d1-ce9c20c6b0c6"
   },
   {
     "game": "Mistfall Hunter",
@@ -763,6 +808,21 @@
     "url": "https://mistfallhunter.com/twitchdrops",
     "account_link": "https://mistfallhunter.com/twitchdrops",
     "twitch_campaign_id": "c4ce70e7-0f5e-48e6-9cc0-e71272244966"
+  },
+  {
+    "game": "Mistfall Hunter",
+    "status": "live",
+    "campaign": "CreatorDrop 11/11-11/17",
+    "start": "2026-11-11T08:00:00Z",
+    "end": "2026-11-17T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "CreatorDrop 11/11-11/17",
+    "image": "/media/campaigns/images/c81e1c5b-b7b1-4308-9098-5505cec75f69.jpeg",
+    "url": "https://mistfallhunter.com/twitchdrops",
+    "account_link": "https://mistfallhunter.com/twitchdrops",
+    "twitch_campaign_id": "c81e1c5b-b7b1-4308-9098-5505cec75f69"
   },
   {
     "game": "Mobile Dungeon",
@@ -885,21 +945,6 @@
     "twitch_campaign_id": "b42d9f22-e860-4f26-bdd8-bd0a6b8a4b9f"
   },
   {
-    "game": "NextWorld2",
-    "status": "live",
-    "campaign": "NW2 FALL DROPS",
-    "start": "2026-11-06T15:00:00Z",
-    "end": "2026-11-13T10:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "NextWorld2 Őszi Twitch dropok! Nézd a streameket és zsákmányolj jobbnál jobb tárgyakat, hogy igazi legendává válj! ",
-    "image": "/media/campaigns/images/b4d05519-a47b-4e40-830a-dd085f241545.png",
-    "url": "https://twitch.nextworld2.com/",
-    "account_link": "https://twitch.nextworld2.com/login",
-    "twitch_campaign_id": "b4d05519-a47b-4e40-830a-dd085f241545"
-  },
-  {
     "game": "NTE: Neverness to Everness",
     "status": "live",
     "campaign": "NTE Twitch Drops Event",
@@ -932,17 +977,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate11/12/26",
-    "start": "2026-11-12T14:00:00Z",
-    "end": "2026-11-13T13:59:59.999Z",
+    "campaign": "Affiliate11/13/26",
+    "start": "2026-11-13T14:00:00Z",
+    "end": "2026-11-14T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/fdceaa42-10eb-4f45-ad61-62f2b3beb378.png",
+    "image": "/media/campaigns/images/166beece-c0b2-4241-b955-0926eccf8af2.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "fdceaa42-10eb-4f45-ad61-62f2b3beb378"
+    "twitch_campaign_id": "166beece-c0b2-4241-b955-0926eccf8af2"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1127,21 +1172,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 217",
-    "start": "2026-11-12T17:59:00Z",
-    "end": "2026-11-13T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/1fb68249-d356-4813-8828-a562bc739153.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "1fb68249-d356-4813-8828-a562bc739153"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "ROW Drop 646",
     "start": "2026-11-12T17:59:00Z",
     "end": "2026-11-13T17:56:59.999Z",
@@ -1153,6 +1183,21 @@
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "9f6420e8-d46a-446a-8fbd-73193396671b"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 217",
+    "start": "2026-11-12T17:59:00Z",
+    "end": "2026-11-13T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/1fb68249-d356-4813-8828-a562bc739153.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "1fb68249-d356-4813-8828-a562bc739153"
   },
   {
     "game": "Scape",
@@ -1262,17 +1307,17 @@
   {
     "game": "STALZONE",
     "status": "live",
-    "campaign": "Fall 2026, Week 2",
-    "start": "2026-11-06T14:00:00Z",
-    "end": "2026-11-13T12:59:59.999Z",
+    "campaign": "Fall 2026, Week 3",
+    "start": "2026-11-13T14:00:00Z",
+    "end": "2026-11-20T12:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "By linking your Twitch account with your EXBO account, you can earn a variety of rewards, including exclusive in-game items. Receive claimed items by talking with the Courier NPC on any safe zones (except for Swamps)",
-    "image": "/media/campaigns/images/fcddef70-46d6-4ff6-b1a0-c8dc7ed21fdc.png",
+    "image": "/media/campaigns/images/f2bf1aeb-5833-4fe9-a330-dba1f4248eb3.png",
     "url": "https://support.exbo.net/help-center/articles/8/19/168/",
     "account_link": "https://exbo.net/user",
-    "twitch_campaign_id": "fcddef70-46d6-4ff6-b1a0-c8dc7ed21fdc"
+    "twitch_campaign_id": "f2bf1aeb-5833-4fe9-a330-dba1f4248eb3"
   },
   {
     "game": "Stream Bakery",
@@ -1288,6 +1333,21 @@
     "url": "https://streambakery.com",
     "account_link": "https://streambakery.com",
     "twitch_campaign_id": "3fa90209-0c10-45ba-9758-186b4c9d1ef5"
+  },
+  {
+    "game": "Teamfight Tactics",
+    "status": "live",
+    "campaign": "Enchanted Wilds Tac Crown",
+    "start": "2026-11-13T12:00:00Z",
+    "end": "2026-11-13T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive in-game emotes during the TFT Enchanted Wilds Tactician's Crown!  You're invited to celebrate the mystical conclusion to Enchanted Wilds! We're giving away three unique in-game emote drops throughout the event: \"Womp Gromp\": Available to claim November 13 \"Murkwolf, Shmurkwolf\": Available to claim November 14 \"Golden Crab-tula\": Available to claim November 15 Tune in during the competition to unlock the wild emotes. Make sure your Riot ID is linked to your account, and join in on the fun!",
+    "image": "/media/campaigns/images/3e87f645-f151-4292-8a2b-9f0817e8e58a.png",
+    "url": "https://competetft.com/en-US/",
+    "account_link": "https://twitch.tv/settings/connections#riot-connection",
+    "twitch_campaign_id": "3e87f645-f151-4292-8a2b-9f0817e8e58a"
   },
   {
     "game": "THE FINALS",
@@ -1318,36 +1378,6 @@
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
     "twitch_campaign_id": "27edc93c-a3ff-459f-9c17-7d5cd175c2fd"
-  },
-  {
-    "game": "The Streamer Awards",
-    "status": "live",
-    "campaign": "Golden Frog Badge",
-    "start": "2026-11-13T03:00:00Z",
-    "end": "2026-11-13T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch 15 minutes of The Streamer Awards 2026 on /QTCinderella's channel to receive the Minecraft Golden Frog Badge!",
-    "image": "/media/campaigns/images/84510cda-e097-4a12-8011-33b2441dc344.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "84510cda-e097-4a12-8011-33b2441dc344"
-  },
-  {
-    "game": "The Streamer Awards",
-    "status": "live",
-    "campaign": "Streamer Awards 2026 Vote",
-    "start": "2026-11-12T17:00:00Z",
-    "end": "2026-11-13T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned by watching and voting on the 2026 Streamer Awards!",
-    "image": "/media/campaigns/images/75c720c5-2d82-4163-b7c1-18537404585e.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "75c720c5-2d82-4163-b7c1-18537404585e"
   },
   {
     "game": "Tom Clancy's The Division 2",
@@ -1393,6 +1423,21 @@
     "url": "https://uno.mattel163.com/twitchdrops",
     "account_link": "https://uno.mattel163.com/twitchdrops",
     "twitch_campaign_id": "69f32da3-7abf-4716-b051-085a879cb112"
+  },
+  {
+    "game": "War Thunder",
+    "status": "live",
+    "campaign": "WTCS Challenger  Finals",
+    "start": "2026-11-13T11:28:38Z",
+    "end": "2026-11-19T09:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "WTCS Challenger League  Grand Finals - Twitch Drops Campaign",
+    "image": "/media/campaigns/images/6a7a897d-616f-4226-ae75-91846afbe2b3.jpeg",
+    "url": "https://warthunder.com/en/news/10331/current",
+    "account_link": "https://gss.gaijin.net/en/",
+    "twitch_campaign_id": "6a7a897d-616f-4226-ae75-91846afbe2b3"
   },
   {
     "game": "WARDOGS",
