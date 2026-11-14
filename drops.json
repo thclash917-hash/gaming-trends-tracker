@@ -17,32 +17,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 7 - #5/7",
-    "start": "2026-11-13T10:00:00Z",
-    "end": "2026-11-14T09:29:59.999Z",
+    "campaign": "AOCP Flamescale 7 - #6/7",
+    "start": "2026-11-14T10:00:00Z",
+    "end": "2026-11-15T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/3692aff1-55ba-49f9-aa8a-db9ec32eb1e9.png",
+    "image": "/media/campaigns/images/1930244b-2ce0-474c-8b7a-d1341049ca3b.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "3692aff1-55ba-49f9-aa8a-db9ec32eb1e9"
+    "twitch_campaign_id": "1930244b-2ce0-474c-8b7a-d1341049ca3b"
   },
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 11 - #5/7",
-    "start": "2026-11-13T10:00:00Z",
-    "end": "2026-11-14T09:29:59.999Z",
+    "campaign": "Dragonfire 11 - #6/7",
+    "start": "2026-11-14T10:00:00Z",
+    "end": "2026-11-15T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/1f68edff-b53c-4030-a8d4-daa700db50da.png",
+    "image": "/media/campaigns/images/81e203ab-56a6-44be-b56c-b6af6a58b61a.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "1f68edff-b53c-4030-a8d4-daa700db50da"
+    "twitch_campaign_id": "81e203ab-56a6-44be-b56c-b6af6a58b61a"
   },
   {
     "game": "Anno 117: Pax Romana",
@@ -107,6 +107,51 @@
   {
     "game": "Black Desert",
     "status": "live",
+    "campaign": "Master Class 26 (Nov 14)",
+    "start": "2026-11-14T12:00:00Z",
+    "end": "2026-11-15T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+    "image": "/media/campaigns/images/95734b3f-f2bf-4a27-a42f-a43464ea7484.jpeg",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "95734b3f-f2bf-4a27-a42f-a43464ea7484"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "[RU] MC Finals",
+    "start": "2026-11-14T10:00:00Z",
+    "end": "2026-11-14T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.ru.playblackdesert.com/News/Notice/Detail?boardNo=13201",
+    "image": "/media/campaigns/images/10ecb7d6-ce1c-401e-b2ec-ee2b4ef3437f.jpeg",
+    "url": "https://www.ru.playblackdesert.com/News/Notice/Detail?boardNo=13201",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "10ecb7d6-ce1c-401e-b2ec-ee2b4ef3437f"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "[TW] MC Qualifiers",
+    "start": "2026-11-14T10:00:00Z",
+    "end": "2026-11-14T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.tw.playblackdesert.com/zh-TW/News/Detail?groupContentNo=20448&countryType=zh-TW",
+    "image": "/media/campaigns/images/21b0184c-ff47-4e37-8c99-e0183389e3be.jpeg",
+    "url": "https://www.tw.playblackdesert.com/zh-TW/News/Detail?groupContentNo=20448&countryType=zh-TW",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "21b0184c-ff47-4e37-8c99-e0183389e3be"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
     "campaign": "[ASIA] MC Finals",
     "start": "2026-11-14T05:00:00Z",
     "end": "2026-11-14T16:59:59.999Z",
@@ -133,21 +178,6 @@
     "url": "https://www.jp.playblackdesert.com/ja-JP/News/Detail?groupContentNo=12843",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
     "twitch_campaign_id": "c4eaae4f-1da6-49c7-a307-36067416a6c8"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "Master Class 26 (Nov 13)",
-    "start": "2026-11-13T12:00:00Z",
-    "end": "2026-11-14T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
-    "image": "/media/campaigns/images/d5832a25-01fa-4bae-bc3d-f669dfdc55e5.jpeg",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "d5832a25-01fa-4bae-bc3d-f669dfdc55e5"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -178,6 +208,36 @@
     "url": "https://borderlands.2k.com/twitch-drops/",
     "account_link": "https://shift.gearbox.com/associations",
     "twitch_campaign_id": "df576175-0f22-467e-8ba7-955603a16567"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "Brawlhalla BCX - Day 2",
+    "start": "2026-11-14T11:00:00Z",
+    "end": "2026-11-15T03:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "1H | v6 Queen Nai - 2H | v6 Brynn - 3H | v6 Arcadia - 4H | v7 Mordex - 5H | Neo-City Axe",
+    "image": "/media/campaigns/images/4e25f6ab-2d77-4e27-b583-d7d71e002452.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in-game,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/#/en-US",
+    "twitch_campaign_id": "4e25f6ab-2d77-4e27-b583-d7d71e002452"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "Brawlhalla World Champ. 2",
+    "start": "2026-11-14T11:00:00Z",
+    "end": "2026-11-15T03:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Brawlhalla World Championship Day 2  Diana v6 1 Hour, Xull v6 2 Hours, Ragnir v6 3Hours, Gnash v6 4 Hours,  \"Frame Perfect\" In-Game Title 5 Hours",
+    "image": "/media/campaigns/images/a830d9b0-8a46-47bd-aa8a-b836bf4fc11f.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "a830d9b0-8a46-47bd-aa8a-b836bf4fc11f"
   },
   {
     "game": "Brawlhalla",
@@ -302,21 +362,6 @@
   {
     "game": "Delta Force",
     "status": "live",
-    "campaign": "SEASON AURORA - WARFARE",
-    "start": "2026-11-10T02:00:00Z",
-    "end": "2026-11-25T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate Delta Force’s new Season: AURORA — good vibes & Twitch Drops included!",
-    "image": "/media/campaigns/images/e35e85d5-d647-4906-a3df-5a4d0620a58b.png",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "e35e85d5-d647-4906-a3df-5a4d0620a58b"
-  },
-  {
-    "game": "Delta Force",
-    "status": "live",
     "campaign": "SEASON AURORA-OPERATIONS",
     "start": "2026-11-10T02:00:00Z",
     "end": "2026-11-25T23:59:59.999Z",
@@ -328,6 +373,21 @@
     "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "twitch_campaign_id": "6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc"
+  },
+  {
+    "game": "Delta Force",
+    "status": "live",
+    "campaign": "SEASON AURORA - WARFARE",
+    "start": "2026-11-10T02:00:00Z",
+    "end": "2026-11-25T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate Delta Force’s new Season: AURORA — good vibes & Twitch Drops included!",
+    "image": "/media/campaigns/images/e35e85d5-d647-4906-a3df-5a4d0620a58b.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "e35e85d5-d647-4906-a3df-5a4d0620a58b"
   },
   {
     "game": "Don't Starve Together",
@@ -422,17 +482,17 @@
   {
     "game": "EVE Online",
     "status": "live",
-    "campaign": "Fractured Skies Drop 1",
-    "start": "2026-11-10T11:00:00Z",
-    "end": "2026-11-14T10:57:59.999Z",
+    "campaign": "Fractured Skies Drop 2",
+    "start": "2026-11-14T11:00:00Z",
+    "end": "2026-11-18T10:57:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Upon opening you will receive an Agency Support Drop plus one of the following: a random GalNet StreamCast Unit SKIN, a Sunesis Violet Vellication SKIN, PLEX, Metamorphosis, Gnosis, Praxis.",
-    "image": "/media/campaigns/images/b48884ce-bb67-4d72-99cb-0e800492f721.jpeg",
+    "description": "The shiny Mandate of Faith SKIN for your Dragoon Navy Issue!",
+    "image": "/media/campaigns/images/e62191e6-7839-40cb-969c-e76b6593bd0b.jpeg",
     "url": "https://www.eveonline.com/twitch",
     "account_link": "https://www.eveonline.com/twitch",
-    "twitch_campaign_id": "b48884ce-bb67-4d72-99cb-0e800492f721"
+    "twitch_campaign_id": "e62191e6-7839-40cb-969c-e76b6593bd0b"
   },
   {
     "game": "Exterminauts",
@@ -570,21 +630,6 @@
     "twitch_campaign_id": "a013ca5d-a41b-4ead-a282-c78f6c2c3183"
   },
   {
-    "game": "IRL",
-    "status": "live",
-    "campaign": "Jordan x Space Jam",
-    "start": "2026-11-13T23:10:00Z",
-    "end": "2026-11-14T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned by watching Jordan x Space Jam streams during TwitchCon San Diego 2026!",
-    "image": "/media/campaigns/images/25dbc31a-9c1b-4cb6-b635-fa2c1dcd056c.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "25dbc31a-9c1b-4cb6-b635-fa2c1dcd056c"
-  },
-  {
     "game": "Kakele Online - MMORPG",
     "status": "live",
     "campaign": "Kakele Online - Nov 1",
@@ -660,21 +705,6 @@
     "twitch_campaign_id": "b66c6ae7-42bc-4e67-b0ad-8ab0d9897d26"
   },
   {
-    "game": "League of Legends: Wild Rift",
-    "status": "live",
-    "campaign": "Wild Rift Worlds Fan Fest",
-    "start": "2026-11-13T16:00:00Z",
-    "end": "2026-11-14T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate Worlds Fan Fest with Wild Rift and Mrs. Chim Chim! Join us live from New York City as we bring the Wild Rift community together for a special K/DA-themed celebration. Tune in for the festivities, catch the action, and earn exclusive in-game rewards just for watching!",
-    "image": "/media/campaigns/images/89928a5f-910f-4be9-b46c-f652d60df981.png",
-    "url": "https://wildrift.leagueoflegends.com/en-us/",
-    "account_link": "https://twitch.tv/settings/connections#riot-connection\t\t\t\t\t",
-    "twitch_campaign_id": "89928a5f-910f-4be9-b46c-f652d60df981"
-  },
-  {
     "game": "Legion TD 2",
     "status": "live",
     "campaign": "26.11 Patch",
@@ -718,21 +748,6 @@
     "url": "https://loftia.gg/twitch-drops",
     "account_link": "https://loftia.gg/account?tab=home#twitch-drops",
     "twitch_campaign_id": "d31f0a01-c61e-4170-bf68-60c9132efaaf"
-  },
-  {
-    "game": "Marble Racing Manager",
-    "status": "live",
-    "campaign": "MrM Streamer Wars Launch",
-    "start": "2026-11-07T04:00:00Z",
-    "end": "2026-11-14T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Race, build, and climb the leaderboards in Marble Manager — the interactive marble racing game where your Twitch community races alongside you in real time! During this campaign, watching eligible Marble Manager streams earns you Resource Cache crates loaded with base-building materials: Bronze Bars, Silver Bars, Repair Tools, and a shot at Gold Bars or the coveted Crystal Skull. Watch more streams to stack more caches, then link your Twitch account at marblemanager.fun to claim everything automatically. Whether you're a seasoned racer managing your track economy or a newcomer looking to build your first base, these drops give you a head start. Tune in, earn your cache, and join the race today!",
-    "image": "/media/campaigns/images/968791a4-0188-4af8-8edc-8d6e92b941bb.png",
-    "url": "https://marblemanager.fun/drops",
-    "account_link": "https://marblemanager.fun/drops",
-    "twitch_campaign_id": "968791a4-0188-4af8-8edc-8d6e92b941bb"
   },
   {
     "game": "Marbles on Stream",
@@ -1382,17 +1397,17 @@
   {
     "game": "SMITE 2",
     "status": "live",
-    "campaign": "Nov Week 2!",
-    "start": "2026-11-07T11:00:00Z",
-    "end": "2026-11-14T10:57:59.999Z",
+    "campaign": "Nov Week 3!",
+    "start": "2026-11-14T11:00:00Z",
+    "end": "2026-11-21T10:57:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Viewers will receive 50 Wandering Market Coins for each two hours spent viewing participating streams. Watch to earn 7 drops for a total of 350 Wandering Market Coins for the week!",
-    "image": "/media/campaigns/images/f8f01b79-8d12-4d05-99c4-dabee7759897.jpeg",
+    "image": "/media/campaigns/images/97008006-0e00-4be0-bc75-fd37f92e4880.png",
     "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
     "account_link": "https://link.smite2.com/",
-    "twitch_campaign_id": "f8f01b79-8d12-4d05-99c4-dabee7759897"
+    "twitch_campaign_id": "97008006-0e00-4be0-bc75-fd37f92e4880"
   },
   {
     "game": "Splinterlands",
@@ -1453,6 +1468,21 @@
     "url": "https://stonestorm.gg/twitch/connect",
     "account_link": "https://stonestorm.gg/twitch/connect",
     "twitch_campaign_id": "0cadcb05-0cc3-4da2-a440-8d6b595fb5e6"
+  },
+  {
+    "game": "Teamfight Tactics",
+    "status": "live",
+    "campaign": "Enchanted Wilds Tac Crown",
+    "start": "2026-11-14T12:00:00Z",
+    "end": "2026-11-14T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive in-game emotes during the TFT Enchanted Wilds Tactician's Crown!  You're invited to celebrate the mystical conclusion to Enchanted Wilds! We're giving away three unique in-game emote drops throughout the event: \n\"Womp Gromp\": Available to claim November 13 \n\"Murkwolf, Shmurkwolf\": Available to claim November 14 \n\"Golden Crab-tula\": Available to claim November 15 \nTune in during the competition to unlock the wild emotes. Make sure your Riot ID is linked to your account, and join in on the fun!",
+    "image": "/media/campaigns/images/e2e62852-a98a-420f-a984-52a0f15ca55e.png",
+    "url": "https://competetft.com/en-US/",
+    "account_link": "https://twitch.tv/settings/connections#riot-connection",
+    "twitch_campaign_id": "e2e62852-a98a-420f-a984-52a0f15ca55e"
   },
   {
     "game": "THE FINALS",
@@ -1607,21 +1637,6 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "Cygan",
-    "start": "2026-11-13T16:00:00Z",
-    "end": "2026-11-14T15:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Cygan",
-    "image": "/media/campaigns/images/e634fbd7-bc8e-42b4-b960-d1a89d99965d.png",
-    "url": "https://worldoftanks.eu/news/specials/polish-independence-day-2026/",
-    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
-    "twitch_campaign_id": "e634fbd7-bc8e-42b4-b960-d1a89d99965d"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
     "campaign": "WoT A Thrill Store #14",
     "start": "2026-11-13T16:00:00Z",
     "end": "2026-11-16T15:59:59.999Z",
@@ -1633,6 +1648,21 @@
     "url": "https://worldoftanks.eu/news/live-streams/wot-a-thrill-token-store-october-2026/",
     "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
     "twitch_campaign_id": "abbf79f8-49a8-401a-b2eb-13389d7ebf52"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Cygan",
+    "start": "2026-11-13T16:00:00Z",
+    "end": "2026-11-14T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Cygan",
+    "image": "/media/campaigns/images/e634fbd7-bc8e-42b4-b960-d1a89d99965d.png",
+    "url": "https://worldoftanks.eu/news/specials/polish-independence-day-2026/",
+    "account_link": "https://worldoftanks.eu/content/guide/twitch-drops/",
+    "twitch_campaign_id": "e634fbd7-bc8e-42b4-b960-d1a89d99965d"
   },
   {
     "game": "World of Tanks",
@@ -1678,6 +1708,21 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "3e27da93-de21-4977-91db-e889991c7ff1"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
+    "campaign": "KOTS XIX Finals Week 2",
+    "start": "2026-11-14T12:00:00Z",
+    "end": "2026-11-15T18:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Oxford University is older than the Aztec Empire.  Teaching was going on at Oxford by 1096, and it grew quickly after 1167, when Henry II banned English students from attending the University of Paris. The Aztecs founded their capital, Tenochtitlan, in 1325, more than two centuries later.",
+    "image": "/media/campaigns/images/5942fa86-b357-498c-b8ee-61a9848ad29d.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-october-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "5942fa86-b357-498c-b8ee-61a9848ad29d"
   },
   {
     "game": "World of Warships",
