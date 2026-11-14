@@ -107,6 +107,36 @@
   {
     "game": "Black Desert",
     "status": "live",
+    "campaign": "[ASIA] MC Finals",
+    "start": "2026-11-14T05:00:00Z",
+    "end": "2026-11-14T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=20059",
+    "image": "/media/campaigns/images/199b7b47-c236-4efe-a146-5a974a7f60bc.jpeg",
+    "url": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=20059",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "199b7b47-c236-4efe-a146-5a974a7f60bc"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "[JP] MC Finals",
+    "start": "2026-11-14T03:00:00Z",
+    "end": "2026-11-14T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.jp.playblackdesert.com/ja-JP/News/Detail?groupContentNo=12843",
+    "image": "/media/campaigns/images/c4eaae4f-1da6-49c7-a307-36067416a6c8.jpeg",
+    "url": "https://www.jp.playblackdesert.com/ja-JP/News/Detail?groupContentNo=12843",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "c4eaae4f-1da6-49c7-a307-36067416a6c8"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
     "campaign": "Master Class 26 (Nov 13)",
     "start": "2026-11-13T12:00:00Z",
     "end": "2026-11-14T11:59:59.999Z",
@@ -148,36 +178,6 @@
     "url": "https://borderlands.2k.com/twitch-drops/",
     "account_link": "https://shift.gearbox.com/associations",
     "twitch_campaign_id": "df576175-0f22-467e-8ba7-955603a16567"
-  },
-  {
-    "game": "Brawlhalla",
-    "status": "live",
-    "campaign": "Brawlhalla BCX - Day 1",
-    "start": "2026-11-13T11:00:00Z",
-    "end": "2026-11-14T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "1H = v6 Tezca | 2H = v6 Cassidy | 3H = v6 Vector | 4H = v7 Kor | 5H = Neo-City Boots ",
-    "image": "/media/campaigns/images/62dd594c-cfac-4892-8078-0939ac798bc5.png",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in-game,stream%20from%20a%20participating%20channel.",
-    "account_link": "https://drops-register.ubi.com/#/en-US",
-    "twitch_campaign_id": "62dd594c-cfac-4892-8078-0939ac798bc5"
-  },
-  {
-    "game": "Brawlhalla",
-    "status": "live",
-    "campaign": "Brawlhalla World Champ. 1",
-    "start": "2026-11-13T11:00:00Z",
-    "end": "2026-11-14T03:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Brawlhalla World Championship Day 1  Orion v6 1 Hour, Ezio v6 2 Hours, Loki v6 3Hours, Priya v6 4 Hours,  \"Your Rival\" In-Game Title 5 Hours",
-    "image": "/media/campaigns/images/13c7c040-e40b-40c8-b041-3ddb14098683.png",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "13c7c040-e40b-40c8-b041-3ddb14098683"
   },
   {
     "game": "Brawlhalla",
@@ -388,6 +388,21 @@
     "url": "https://enshrouded.com/twitch-drops",
     "account_link": "https://enshrouded.com/en-US/twitch-drops",
     "twitch_campaign_id": "20ad1ac0-78f4-4e4f-aadf-e59d8840b295"
+  },
+  {
+    "game": "Epic Seven",
+    "status": "live",
+    "campaign": "E7WC 2026 Knockout Stage",
+    "start": "2026-11-14T03:00:00Z",
+    "end": "2026-11-14T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "PROVE YOUR TURN!\nEpic Seven World Arena Championship 2026 featuring Heirs from around the world! \nWho will be crowned the ultimate champion of E7WC 2026?\nWe ask for your continued interest and support for the players competing in the E7WC 2026 Knockout Stage.",
+    "image": "/media/campaigns/images/a8202fdf-11e9-4834-a629-d79fb20f2481.png",
+    "url": "https://epic7.onstove.com/drops/twitch",
+    "account_link": "https://epic7.onstove.com/drops/twitch",
+    "twitch_campaign_id": "a8202fdf-11e9-4834-a629-d79fb20f2481"
   },
   {
     "game": "Eternal Return",
@@ -842,21 +857,6 @@
   {
     "game": "Mistfall Hunter",
     "status": "live",
-    "campaign": "Drop 11/11-11/17",
-    "start": "2026-11-11T08:00:00Z",
-    "end": "2026-11-17T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Drop 11/11-11/17",
-    "image": "/media/campaigns/images/c4ce70e7-0f5e-48e6-9cc0-e71272244966.jpeg",
-    "url": "https://mistfallhunter.com/twitchdrops",
-    "account_link": "https://mistfallhunter.com/twitchdrops",
-    "twitch_campaign_id": "c4ce70e7-0f5e-48e6-9cc0-e71272244966"
-  },
-  {
-    "game": "Mistfall Hunter",
-    "status": "live",
     "campaign": "CreatorDrop 11/11-11/17",
     "start": "2026-11-11T08:00:00Z",
     "end": "2026-11-17T07:59:59.999Z",
@@ -868,6 +868,21 @@
     "url": "https://mistfallhunter.com/twitchdrops",
     "account_link": "https://mistfallhunter.com/twitchdrops",
     "twitch_campaign_id": "c81e1c5b-b7b1-4308-9098-5505cec75f69"
+  },
+  {
+    "game": "Mistfall Hunter",
+    "status": "live",
+    "campaign": "Drop 11/11-11/17",
+    "start": "2026-11-11T08:00:00Z",
+    "end": "2026-11-17T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Drop 11/11-11/17",
+    "image": "/media/campaigns/images/c4ce70e7-0f5e-48e6-9cc0-e71272244966.jpeg",
+    "url": "https://mistfallhunter.com/twitchdrops",
+    "account_link": "https://mistfallhunter.com/twitchdrops",
+    "twitch_campaign_id": "c4ce70e7-0f5e-48e6-9cc0-e71272244966"
   },
   {
     "game": "Mobile Dungeon",
@@ -958,21 +973,6 @@
     "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
     "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
     "twitch_campaign_id": "7dc538f3-cfb6-4346-850c-058b900b9777"
-  },
-  {
-    "game": "Neighbors: Suburban Warfare",
-    "status": "live",
-    "campaign": "NeighbOooOos Halloween",
-    "start": "2026-10-23T12:00:00Z",
-    "end": "2026-11-13T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Halloween has reached the neighborhood. Commit light vandalism and get treats in the shape of the Gwen and Kevin ghost skins",
-    "image": "/media/campaigns/images/b42d9f22-e860-4f26-bdd8-bd0a6b8a4b9f.png",
-    "url": "https://neighborsgame.com/drops",
-    "account_link": "https://neighborsgame.com/drops",
-    "twitch_campaign_id": "b42d9f22-e860-4f26-bdd8-bd0a6b8a4b9f"
   },
   {
     "game": "NextWorld2",
@@ -1473,16 +1473,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-13T00:00:00Z",
-    "end": "2026-11-13T23:59:59.999Z",
+    "start": "2026-11-14T00:00:00Z",
+    "end": "2026-11-14T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/27edc93c-a3ff-459f-9c17-7d5cd175c2fd.png",
+    "image": "/media/campaigns/images/32d9f384-1cf8-490c-ade3-b614db397a23.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "27edc93c-a3ff-459f-9c17-7d5cd175c2fd"
+    "twitch_campaign_id": "32d9f384-1cf8-490c-ade3-b614db397a23"
   },
   {
     "game": "Tom Clancy's The Division 2",
@@ -1558,21 +1558,6 @@
     "url": "https://account.wardogs.com",
     "account_link": "https://account.wardogs.com",
     "twitch_campaign_id": "2965fe2b-6ebb-4547-929c-e70112337fda"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "Community Drops #221",
-    "start": "2026-11-13T23:00:00Z",
-    "end": "2026-11-14T00:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch EMOVJ for 30 minutes to receive a Bird 3 Floof decoration!",
-    "image": "/media/campaigns/images/705193db-edb8-45d2-90dd-2f967600a60f.jpeg",
-    "url": "https://forums.warframe.com/topic/1532109-community-stream-schedule-november-9-13-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "705193db-edb8-45d2-90dd-2f967600a60f"
   },
   {
     "game": "Where Winds Meet",
