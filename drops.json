@@ -17,32 +17,32 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 7 - #6/7",
-    "start": "2026-11-14T10:00:00Z",
-    "end": "2026-11-15T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/1930244b-2ce0-474c-8b7a-d1341049ca3b.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "1930244b-2ce0-474c-8b7a-d1341049ca3b"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "Dragonfire 11 - #6/7",
-    "start": "2026-11-14T10:00:00Z",
-    "end": "2026-11-15T09:29:59.999Z",
+    "campaign": "Dragonfire 11 - #7/7",
+    "start": "2026-11-15T10:00:00Z",
+    "end": "2026-11-16T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/81e203ab-56a6-44be-b56c-b6af6a58b61a.png",
+    "image": "/media/campaigns/images/12ca9da7-1fef-450c-bdf3-0998ea3a9b68.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "81e203ab-56a6-44be-b56c-b6af6a58b61a"
+    "twitch_campaign_id": "12ca9da7-1fef-450c-bdf3-0998ea3a9b68"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 7 - #7/7",
+    "start": "2026-11-15T10:00:00Z",
+    "end": "2026-11-16T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/d586b502-ed74-4f6f-bf9b-12b89fa10318.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "d586b502-ed74-4f6f-bf9b-12b89fa10318"
   },
   {
     "game": "Anno 117: Pax Romana",
@@ -107,6 +107,36 @@
   {
     "game": "Black Desert",
     "status": "live",
+    "campaign": "Master Class 26 (Nov 15)",
+    "start": "2026-11-15T12:00:00Z",
+    "end": "2026-11-16T11:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+    "image": "/media/campaigns/images/93f96f73-cd25-4e00-be5b-6b9afaa2481b.jpeg",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "93f96f73-cd25-4e00-be5b-6b9afaa2481b"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "[RU] MC Finals",
+    "start": "2026-11-15T10:00:00Z",
+    "end": "2026-11-15T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://www.ru.playblackdesert.com/News/Notice/Detail?boardNo=13201",
+    "image": "/media/campaigns/images/cfde0276-cd50-4ba1-b4d8-5c87f28362df.jpeg",
+    "url": "https://www.ru.playblackdesert.com/News/Notice/Detail?boardNo=13201",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "cfde0276-cd50-4ba1-b4d8-5c87f28362df"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
     "campaign": "[ASIA] MC Finals",
     "start": "2026-11-15T05:00:00Z",
     "end": "2026-11-15T16:59:59.999Z",
@@ -133,21 +163,6 @@
     "url": "https://www.jp.playblackdesert.com/ja-JP/News/Detail?groupContentNo=12843",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
     "twitch_campaign_id": "4af005b0-eb4f-4704-bc04-b9882cad29c7"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "Master Class 26 (Nov 14)",
-    "start": "2026-11-14T12:00:00Z",
-    "end": "2026-11-15T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
-    "image": "/media/campaigns/images/95734b3f-f2bf-4a27-a42f-a43464ea7484.jpeg",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "95734b3f-f2bf-4a27-a42f-a43464ea7484"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -178,6 +193,36 @@
     "url": "https://borderlands.2k.com/twitch-drops/",
     "account_link": "https://shift.gearbox.com/associations",
     "twitch_campaign_id": "df576175-0f22-467e-8ba7-955603a16567"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "Brawlhalla BCX - Day 3",
+    "start": "2026-11-15T11:00:00Z",
+    "end": "2026-11-16T03:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "1H | v7 Bodvar - 2H | Neo-City Bow - 3H | Neo-City UI - 4H | Neo-City Loading Frame - 5H | Watch Party Emote",
+    "image": "/media/campaigns/images/f325756f-1fdf-49fd-8f7c-122e6b2a48c8.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in-game,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/#/en-US",
+    "twitch_campaign_id": "f325756f-1fdf-49fd-8f7c-122e6b2a48c8"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "Brawlhalla World Final",
+    "start": "2026-11-15T11:00:00Z",
+    "end": "2026-11-16T03:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Brawlhalla World Championship Final  Thea v6 1 Hour, Hattori v6 2 Hours, Seven v6 3Hours, Ransom v6 4 Hours,  \"Ascendant\" In-Game Title 5 Hours",
+    "image": "/media/campaigns/images/8bca2aad-f638-4aa1-bb8f-58e3695d0813.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "8bca2aad-f638-4aa1-bb8f-58e3695d0813"
   },
   {
     "game": "Brawlhalla",
@@ -540,21 +585,6 @@
     "twitch_campaign_id": "a013ca5d-a41b-4ead-a282-c78f6c2c3183"
   },
   {
-    "game": "Kakele Online - MMORPG",
-    "status": "live",
-    "campaign": "Kakele Online - Nov 1",
-    "start": "2026-11-01T06:00:00Z",
-    "end": "2026-11-15T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "🎮 Announcing Kakele Online's Epic Twitch Drops!  Embark on a unique journey in Kakele's realm. Dive into mystical lands, conquer quests, and enjoy our exciting Twitch Drops for enhanced gaming. Unlock rewards, including teleports, herbs, potions, and materials.  🕒 Timed Rewards: Enjoy cities Teleports, Ultra potions, Gold Refiner Kits and collect Dog Cards and Trophies.  💰 Prosperity Path: Gain Copper, Tin, Silver, Iron, Gold, Life Herbs, Mana Herbs for success. Accumulate Reputation Coins.  🎈 Grand Finale: End with an exclusive Twitch Drop and Bacon Extravaganza surprise! Link accounts, watch streams, and claim rewards for an unforgettable RPG experience.  🌟 How to Join:  Link Accounts: Connect your account and Twitch in the game app. Watch Streams: Tune in during to your favorite Kakele streamer. Claim Rewards: Receive Twitch Drop notifications claim in the game app.  Influencers: To enable drops on your stream, email us!  Don't miss the chance to enrich your journey with Twitch Drops!",
-    "image": "/media/campaigns/images/bb7b5e2e-8e95-4dc0-adda-95ac84afe2f7.png",
-    "url": "https://www.kakele.io/?utm_source=drops",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?client_id=9awx3xtp59477gdaslg318amuimqp8&redirect_uri=https%3A%2F%2Fwww.kakele.io%2Fdrops&response_type=code&scope=user:read:email",
-    "twitch_campaign_id": "bb7b5e2e-8e95-4dc0-adda-95ac84afe2f7"
-  },
-  {
     "game": "Kirka.io",
     "status": "live",
     "campaign": "Sour Kandy",
@@ -705,21 +735,6 @@
     "twitch_campaign_id": "06d7e4d2-74a8-45f2-8a46-428186ed6560"
   },
   {
-    "game": "Marvel Rivals",
-    "status": "live",
-    "campaign": "Ignite Stage2 W5",
-    "start": "2026-10-18T15:00:00Z",
-    "end": "2026-11-15T08:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch exciting Ignite tournaments and earn exclusive drop rewards",
-    "image": "/media/campaigns/images/90273492-0fd5-46d0-b1cf-60084d901adf.png",
-    "url": "https://www.marvelrivals.com/twitchdrops/",
-    "account_link": "https://www.marvelrivals.com/twitchdrops/",
-    "twitch_campaign_id": "90273492-0fd5-46d0-b1cf-60084d901adf"
-  },
-  {
     "game": "MARVEL Strike Force",
     "status": "live",
     "campaign": "MSF | Nov Week 2",
@@ -767,21 +782,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Обновление 26.11: Часть 3",
-    "start": "2026-11-13T15:00:00Z",
-    "end": "2026-11-20T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
-    "image": "/media/campaigns/images/291dd3a3-5876-482e-a594-923b4a55f935.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "291dd3a3-5876-482e-a594-923b4a55f935"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Lestakorabli - 26.11 #3",
     "start": "2026-11-13T15:00:00Z",
     "end": "2026-11-20T14:59:59.999Z",
@@ -793,6 +793,21 @@
     "url": "https://krbli.ru/3RW8D27",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "288b218b-6e89-469a-bcf1-0176b1006af5"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Обновление 26.11: Часть 3",
+    "start": "2026-11-13T15:00:00Z",
+    "end": "2026-11-20T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
+    "image": "/media/campaigns/images/291dd3a3-5876-482e-a594-923b4a55f935.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "291dd3a3-5876-482e-a594-923b4a55f935"
   },
   {
     "game": "Mistfall Hunter",
@@ -958,21 +973,6 @@
     "url": "https://ntetest.perfectworld.com/nte/net/261111twitch/index.html",
     "account_link": "https://ntetest.perfectworld.com/nte/net/261111twitch/index.html",
     "twitch_campaign_id": "3dd46351-a277-4276-8702-01f02882dbcc"
-  },
-  {
-    "game": "Once Human",
-    "status": "live",
-    "campaign": "Ocean Expansion Drops",
-    "start": "2026-10-22T02:00:00Z",
-    "end": "2026-11-15T11:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Once Human Ocean Expansion Twitch Drops event will be live on Oct 22 - Nov 15, 2026. Connect your Once Human character and Twitch account to receive the reward. Watch a participating stream channel to join the activity. You need to watch Once Human for 6 hours to claim all the rewards. The rewards will be sent to your account in 24 hours.",
-    "image": "/media/campaigns/images/4b249954-342f-4a19-bfa1-0421ecf735a4.png",
-    "url": "https://www.oncehuman.game/twitch/",
-    "account_link": "https://www.oncehuman.game/twitch/",
-    "twitch_campaign_id": "4b249954-342f-4a19-bfa1-0421ecf735a4"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1423,6 +1423,21 @@
     "url": "https://stonestorm.gg/twitch/connect",
     "account_link": "https://stonestorm.gg/twitch/connect",
     "twitch_campaign_id": "0cadcb05-0cc3-4da2-a440-8d6b595fb5e6"
+  },
+  {
+    "game": "Teamfight Tactics",
+    "status": "live",
+    "campaign": "Enchanted Wilds Tac Crown",
+    "start": "2026-11-15T12:00:00Z",
+    "end": "2026-11-15T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive in-game emotes during the TFT Enchanted Wilds Tactician's Crown!  You're invited to celebrate the mystical conclusion to Enchanted Wilds! We're giving away three unique in-game emote drops throughout the event: \n\"Womp Gromp\": Available to claim November 13 \n\"Murkwolf, Shmurkwolf\": Available to claim November 14 \n\"Golden Crab-tula\": Available to claim November 15 \nTune in during the competition to unlock the wild emotes. Make sure your Riot ID is linked to your account, and join in on the fun!",
+    "image": "/media/campaigns/images/30449f1f-1b7d-4eab-8944-6e71631f285c.png",
+    "url": "https://competetft.com/en-US/",
+    "account_link": "https://twitch.tv/settings/connections#riot-connection",
+    "twitch_campaign_id": "30449f1f-1b7d-4eab-8944-6e71631f285c"
   },
   {
     "game": "THE FINALS",
