@@ -107,21 +107,6 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "[NAEU] MC Finals",
-    "start": "2026-11-15T14:00:00Z",
-    "end": "2026-11-16T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10818",
-    "image": "/media/campaigns/images/4f573555-6a5b-4298-a98f-c860f3c0ac94.jpeg",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10818",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "4f573555-6a5b-4298-a98f-c860f3c0ac94"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
     "campaign": "Master Class 26 (Nov 15)",
     "start": "2026-11-15T12:00:00Z",
     "end": "2026-11-16T11:59:59.999Z",
@@ -163,36 +148,6 @@
     "url": "https://borderlands.2k.com/twitch-drops/",
     "account_link": "https://shift.gearbox.com/associations",
     "twitch_campaign_id": "df576175-0f22-467e-8ba7-955603a16567"
-  },
-  {
-    "game": "Brawlhalla",
-    "status": "live",
-    "campaign": "Brawlhalla World Final",
-    "start": "2026-11-15T11:00:00Z",
-    "end": "2026-11-16T03:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Brawlhalla World Championship Final  Thea v6 1 Hour, Hattori v6 2 Hours, Seven v6 3Hours, Ransom v6 4 Hours,  \"Ascendant\" In-Game Title 5 Hours",
-    "image": "/media/campaigns/images/8bca2aad-f638-4aa1-bb8f-58e3695d0813.png",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
-    "account_link": "https://drops-register.ubi.com/",
-    "twitch_campaign_id": "8bca2aad-f638-4aa1-bb8f-58e3695d0813"
-  },
-  {
-    "game": "Brawlhalla",
-    "status": "live",
-    "campaign": "Brawlhalla BCX - Day 3",
-    "start": "2026-11-15T11:00:00Z",
-    "end": "2026-11-16T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "1H | v7 Bodvar - 2H | Neo-City Bow - 3H | Neo-City UI - 4H | Neo-City Loading Frame - 5H | Watch Party Emote",
-    "image": "/media/campaigns/images/f325756f-1fdf-49fd-8f7c-122e6b2a48c8.png",
-    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in-game,stream%20from%20a%20participating%20channel.",
-    "account_link": "https://drops-register.ubi.com/#/en-US",
-    "twitch_campaign_id": "f325756f-1fdf-49fd-8f7c-122e6b2a48c8"
   },
   {
     "game": "Brawlhalla",
@@ -268,21 +223,6 @@
     "url": "https://littygames.net/drops",
     "account_link": "https://littygames.net/drops",
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
-  },
-  {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "November Drops",
-    "start": "2026-11-15T21:16:16Z",
-    "end": "2026-11-16T01:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/fde5520c-917d-428b-8f01-5b57d33268ce.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "fde5520c-917d-428b-8f01-5b57d33268ce"
   },
   {
     "game": "Cyberpunk 2077",
@@ -557,21 +497,6 @@
   {
     "game": "Kirka.io",
     "status": "live",
-    "campaign": "Sour Kandy",
-    "start": "2026-11-14T18:17:39Z",
-    "end": "2026-11-15T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Kirka.io drop for the Sour Kandy Unobtainable",
-    "image": "/media/campaigns/images/8b74a8ed-7d06-48cd-b135-58d68f0d7fa3.png",
-    "url": "https://kirka.io/connectTwitch=1",
-    "account_link": "https://kirka.io/connectTwitch=1",
-    "twitch_campaign_id": "8b74a8ed-7d06-48cd-b135-58d68f0d7fa3"
-  },
-  {
-    "game": "Kirka.io",
-    "status": "live",
     "campaign": "Veronica",
     "start": "2026-11-10T21:20:59Z",
     "end": "2026-11-17T23:29:59.999Z",
@@ -598,21 +523,6 @@
     "url": "https://lolesports.com/en-US/",
     "account_link": "https://twitch.tv/settings/connections#riot-connection",
     "twitch_campaign_id": "53c80198-fa33-485d-9cc7-2af5c4771602"
-  },
-  {
-    "game": "Legion TD 2",
-    "status": "live",
-    "campaign": "26.11 Patch",
-    "start": "2026-11-09T08:00:00Z",
-    "end": "2026-11-16T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Patch Release Twitch Drops for v26.11",
-    "image": "/media/campaigns/images/f126a55c-acae-4369-ae75-69278bc6a724.png",
-    "url": "https://beta.legiontd2.com/twitchdrops/",
-    "account_link": "https://beta.legiontd2.com/twitchdrops/",
-    "twitch_campaign_id": "f126a55c-acae-4369-ae75-69278bc6a724"
   },
   {
     "game": "Loftia",
@@ -780,6 +690,36 @@
     "twitch_campaign_id": "c4ce70e7-0f5e-48e6-9cc0-e71272244966"
   },
   {
+    "game": "Mobile Dungeon",
+    "status": "live",
+    "campaign": "MD Drops Set 3",
+    "start": "2026-11-16T00:00:00Z",
+    "end": "2026-11-22T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/67d2e841-2419-48ec-876e-de8dfe2b1e1f.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
+    "account_link": "https://mobiledungeon.com/",
+    "twitch_campaign_id": "67d2e841-2419-48ec-876e-de8dfe2b1e1f"
+  },
+  {
+    "game": "Modern Warships",
+    "status": "live",
+    "campaign": "Weekly Supply Drops #42",
+    "start": "2026-11-16T00:00:00Z",
+    "end": "2026-11-22T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "MW Weekly Supply Drops — watch Modern Warships streams and earn weekly useful bonuses with no long watch-time marathons.",
+    "image": "/media/campaigns/images/f4a93507-95a8-40b3-8671-db13af2b0519.png",
+    "url": "https://artstorm.com/news/weekly-supply-drops-on-twitch",
+    "account_link": "https://artstorm.com/cabinet/connect-twitch",
+    "twitch_campaign_id": "f4a93507-95a8-40b3-8671-db13af2b0519"
+  },
+  {
     "game": "Modern Warships",
     "status": "live",
     "campaign": "MW: The Big Deal",
@@ -793,21 +733,6 @@
     "url": "https://artstorm.com/news/twitch-drops-the-big-deal",
     "account_link": "https://artstorm.com/cabinet/connect-twitch",
     "twitch_campaign_id": "a8b29630-1150-4bab-bdf5-176062225b55"
-  },
-  {
-    "game": "Modern Warships",
-    "status": "live",
-    "campaign": "Weekly Supply Drops #41",
-    "start": "2026-11-09T11:21:31Z",
-    "end": "2026-11-15T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "MW Weekly Supply Drops — watch Modern Warships streams and earn weekly useful bonuses with no long watch-time marathons.",
-    "image": "/media/campaigns/images/f4b471b4-9ab9-4c69-83cc-93ca52cd2663.png",
-    "url": "https://artstorm.com/news/weekly-supply-drops-on-twitch",
-    "account_link": "https://artstorm.com/cabinet/connect-twitch",
-    "twitch_campaign_id": "f4b471b4-9ab9-4c69-83cc-93ca52cd2663"
   },
   {
     "game": "Monster Hunter Outlanders",
@@ -827,17 +752,17 @@
   {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
-    "campaign": "JS2 Weekly 11.9",
-    "start": "2026-11-09T04:00:00Z",
-    "end": "2026-11-16T03:59:59.999Z",
+    "campaign": "JS2 Weekly 11.16",
+    "start": "2026-11-16T04:00:00Z",
+    "end": "2026-11-23T03:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/b1f5b0fc-ed53-41c5-86b8-067b3a0a11b2.png",
+    "image": "/media/campaigns/images/53320415-7aab-41eb-84cd-f59a9e448cef.png",
     "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
     "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "b1f5b0fc-ed53-41c5-86b8-067b3a0a11b2"
+    "twitch_campaign_id": "53320415-7aab-41eb-84cd-f59a9e448cef"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1140,21 +1065,6 @@
     "twitch_campaign_id": "a1f49e9b-379b-43dc-8b57-533f8913222f"
   },
   {
-    "game": "Rocket League",
-    "status": "live",
-    "campaign": "Club Kick-off - NA Opens",
-    "start": "2026-11-13T17:30:00Z",
-    "end": "2026-11-15T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the RLCS Club Championship Kick-off Opens to earn Drops!",
-    "image": "/media/campaigns/images/1a0b9038-7c83-4949-b559-4f64011e315e.png",
-    "url": "https://www.epicgames.com/account/connections",
-    "account_link": "https://www.epicgames.com/account/connections",
-    "twitch_campaign_id": "1a0b9038-7c83-4949-b559-4f64011e315e"
-  },
-  {
     "game": "Scape",
     "status": "live",
     "campaign": "Scape Launch: Cloud Nine",
@@ -1183,51 +1093,6 @@
     "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
     "account_link": "https://sfgame.net/",
     "twitch_campaign_id": "903bdd2c-ec10-4bfb-b55a-7614349e2a7f"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Drops 3/3",
-    "start": "2026-11-13T15:00:00Z",
-    "end": "2026-11-15T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/5e0a0cab-2650-4eea-baed-e84fa2a70da2.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "5e0a0cab-2650-4eea-baed-e84fa2a70da2"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Drops 2/3",
-    "start": "2026-11-11T15:00:00Z",
-    "end": "2026-11-15T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/105f31ff-4815-45a7-9bce-71695fcdc21c.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "105f31ff-4815-45a7-9bce-71695fcdc21c"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Drops 1/3",
-    "start": "2026-11-09T15:00:00Z",
-    "end": "2026-11-15T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/9205d5a4-acdb-47ad-84e0-756fe28aa515.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "9205d5a4-acdb-47ad-84e0-756fe28aa515"
   },
   {
     "game": "Shroud of the Avatar: Forsaken Virtues",
@@ -1335,21 +1200,6 @@
     "twitch_campaign_id": "0cadcb05-0cc3-4da2-a440-8d6b595fb5e6"
   },
   {
-    "game": "Teamfight Tactics",
-    "status": "live",
-    "campaign": "Enchanted Wilds Tac Crown",
-    "start": "2026-11-15T12:00:00Z",
-    "end": "2026-11-15T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive in-game emotes during the TFT Enchanted Wilds Tactician's Crown!  You're invited to celebrate the mystical conclusion to Enchanted Wilds! We're giving away three unique in-game emote drops throughout the event: \n\"Womp Gromp\": Available to claim November 13 \n\"Murkwolf, Shmurkwolf\": Available to claim November 14 \n\"Golden Crab-tula\": Available to claim November 15 \nTune in during the competition to unlock the wild emotes. Make sure your Riot ID is linked to your account, and join in on the fun!",
-    "image": "/media/campaigns/images/30449f1f-1b7d-4eab-8944-6e71631f285c.png",
-    "url": "https://competetft.com/en-US/",
-    "account_link": "https://twitch.tv/settings/connections#riot-connection",
-    "twitch_campaign_id": "30449f1f-1b7d-4eab-8944-6e71631f285c"
-  },
-  {
     "game": "THE FINALS",
     "status": "live",
     "campaign": "STREAM TANGERINE",
@@ -1368,16 +1218,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-15T00:00:00Z",
-    "end": "2026-11-15T23:59:59.999Z",
+    "start": "2026-11-16T00:00:00Z",
+    "end": "2026-11-16T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/4d82c7a0-bbe9-4916-9692-fab5682212f1.png",
+    "image": "/media/campaigns/images/1e28183f-cfd6-4d82-851e-ea946aafc923.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "4d82c7a0-bbe9-4916-9692-fab5682212f1"
+    "twitch_campaign_id": "1e28183f-cfd6-4d82-851e-ea946aafc923"
   },
   {
     "game": "Tom Clancy's The Division 2",
