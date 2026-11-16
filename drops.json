@@ -17,32 +17,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 11 - #7/7",
-    "start": "2026-11-15T10:00:00Z",
-    "end": "2026-11-16T09:29:59.999Z",
+    "campaign": "Dragonfire 12 - #1/7",
+    "start": "2026-11-16T10:00:00Z",
+    "end": "2026-11-17T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/12ca9da7-1fef-450c-bdf3-0998ea3a9b68.png",
+    "image": "/media/campaigns/images/93813527-8d39-45cf-9665-ed7b8642287b.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "12ca9da7-1fef-450c-bdf3-0998ea3a9b68"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
-    "campaign": "AOCP Flamescale 7 - #7/7",
-    "start": "2026-11-15T10:00:00Z",
-    "end": "2026-11-16T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/d586b502-ed74-4f6f-bf9b-12b89fa10318.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "d586b502-ed74-4f6f-bf9b-12b89fa10318"
+    "twitch_campaign_id": "93813527-8d39-45cf-9665-ed7b8642287b"
   },
   {
     "game": "Anno 117: Pax Romana",
@@ -107,17 +92,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "Master Class 26 (Nov 15)",
-    "start": "2026-11-15T12:00:00Z",
-    "end": "2026-11-16T11:59:59.999Z",
+    "campaign": "2026 BDO Drops (Nov 16)",
+    "start": "2026-11-16T12:00:00Z",
+    "end": "2026-11-17T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
-    "image": "/media/campaigns/images/93f96f73-cd25-4e00-be5b-6b9afaa2481b.jpeg",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10777",
+    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
+    "image": "/media/campaigns/images/02a962d1-686c-442a-a3df-938bdeb7e4c2.png",
+    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "93f96f73-cd25-4e00-be5b-6b9afaa2481b"
+    "twitch_campaign_id": "02a962d1-686c-442a-a3df-938bdeb7e4c2"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -133,21 +118,6 @@
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
     "twitch_campaign_id": "94263f50-6ae7-45a8-bd72-5f612c5b1243"
-  },
-  {
-    "game": "Borderlands 4",
-    "status": "live",
-    "campaign": "Borderlands 4 x The Hunt",
-    "start": "2026-11-06T15:00:00Z",
-    "end": "2026-11-16T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Log in and link your SHiFT Account and Twitch Account, then tune in using your linked Twitch Account and watch Twitch Drops enabled livestreams of Borderlands 4 for 30 minutes or more between November 6–15, 2026 to unlock \"The Horns\" Vault Hunter Head usable by all Vault Hunters in Borderlands 4.* Please remember to claim your rewards on Twitch within 24 hours!",
-    "image": "/media/campaigns/images/df576175-0f22-467e-8ba7-955603a16567.png",
-    "url": "https://borderlands.2k.com/twitch-drops/",
-    "account_link": "https://shift.gearbox.com/associations",
-    "twitch_campaign_id": "df576175-0f22-467e-8ba7-955603a16567"
   },
   {
     "game": "Brawlhalla",
@@ -223,6 +193,21 @@
     "url": "https://littygames.net/drops",
     "account_link": "https://littygames.net/drops",
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
+  },
+  {
+    "game": "Coryphaeus Championships",
+    "status": "live",
+    "campaign": "November Drops",
+    "start": "2026-11-16T15:00:00Z",
+    "end": "2026-11-16T19:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Coryphaeus Fall Drops",
+    "image": "/media/campaigns/images/cc4589e7-a6d3-4ee8-9974-55d61dc22ab9.png",
+    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+    "twitch_campaign_id": "cc4589e7-a6d3-4ee8-9974-55d61dc22ab9"
   },
   {
     "game": "Cyberpunk 2077",
@@ -330,6 +315,21 @@
     "twitch_campaign_id": "20ad1ac0-78f4-4e4f-aadf-e59d8840b295"
   },
   {
+    "game": "Escape from Tarkov",
+    "status": "live",
+    "campaign": "Tarkov City day 1",
+    "start": "2026-11-16T15:00:00Z",
+    "end": "2026-11-17T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Word has it that everyone on the other side of the world is going crazy over palm trees, neon lights, and sunny coastlines right now. Palm trees are hard to come by in Tarkov, but there’s still a way to bring in some resort vibes! We are launching a Twitch Drops campaign where the main trophies will be two unique shirts for your PMC.",
+    "image": "/media/campaigns/images/287866c3-d11d-4f04-a4a3-a5c811ea2a63.jpeg",
+    "url": "https://www.escapefromtarkov.com/news/id/419",
+    "account_link": "https://www.escapefromtarkov.com/profile",
+    "twitch_campaign_id": "287866c3-d11d-4f04-a4a3-a5c811ea2a63"
+  },
+  {
     "game": "Eternal Return",
     "status": "live",
     "campaign": "S13 Glory Drops Tokens",
@@ -433,21 +433,6 @@
     "url": "https://nikke-en.com/act/a2026twitchdrops/index.html",
     "account_link": "https://nikke-en.com/act/a2026twitchdrops/index.html",
     "twitch_campaign_id": "3fbad26b-3224-4246-ad9d-0a2c56e39d2b"
-  },
-  {
-    "game": "Halo Infinite",
-    "status": "live",
-    "campaign": "LVT LAN-NOV13-15",
-    "start": "2026-11-13T17:00:00Z",
-    "end": "2026-11-16T06:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune into this HCS Grassroots event to earn in-game content in Halo Infinite!",
-    "image": "/media/campaigns/images/671c1ec5-a1fe-4fe4-9581-fc1b02ebf276.png",
-    "url": "https://www.halowaypoint.com",
-    "account_link": "https://www.halowaypoint.com/settings/linked-accounts",
-    "twitch_campaign_id": "671c1ec5-a1fe-4fe4-9581-fc1b02ebf276"
   },
   {
     "game": "Honkai Impact 3rd",
@@ -827,62 +812,47 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate11/15/26",
-    "start": "2026-11-15T14:00:00Z",
-    "end": "2026-11-16T13:59:59.999Z",
+    "campaign": "Affiliate11/16/26",
+    "start": "2026-11-16T14:00:00Z",
+    "end": "2026-11-17T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/152f0594-636d-49fe-943a-d9eb8c128142.png",
+    "image": "/media/campaigns/images/0c95cbdb-174b-4db5-a50c-f256bb67252a.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "152f0594-636d-49fe-943a-d9eb8c128142"
+    "twitch_campaign_id": "0c95cbdb-174b-4db5-a50c-f256bb67252a"
   },
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Official 27",
-    "start": "2026-11-09T14:00:00Z",
-    "end": "2026-11-16T13:59:59.999Z",
+    "campaign": "Official 28",
+    "start": "2026-11-16T14:00:00Z",
+    "end": "2026-11-23T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/0ffa233a-60b9-41e2-b284-2a1c4fb47cb2.png",
+    "image": "/media/campaigns/images/0437a509-0322-4126-ae95-b860f5360364.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "0ffa233a-60b9-41e2-b284-2a1c4fb47cb2"
+    "twitch_campaign_id": "0437a509-0322-4126-ae95-b860f5360364"
   },
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Laptophound 27",
-    "start": "2026-11-09T14:00:00Z",
-    "end": "2026-11-16T13:59:59.999Z",
+    "campaign": "Laptophound 28",
+    "start": "2026-11-16T14:00:00Z",
+    "end": "2026-11-23T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/c43c3164-ed55-43b4-97bb-74285cce4bbd.png",
+    "image": "/media/campaigns/images/ab9c695d-dc4a-482e-be9a-ddc933984c53.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "c43c3164-ed55-43b4-97bb-74285cce4bbd"
-  },
-  {
-    "game": "Overwatch",
-    "status": "live",
-    "campaign": "Collegiate Playoffs",
-    "start": "2026-11-14T18:00:00Z",
-    "end": "2026-11-16T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate the start of the Overwatch Collegiate Homecoming Playoffs with  special viewer rewards! Watch 1 hour to get the A+ Icon, watch 2 hours to get the Pachizuki Mascot Spray, watch 3 hours to get the Pachiriko Mascot Spray and watch 5 hours to get 1 Esports Loot Box.",
-    "image": "/media/campaigns/images/bc8886f8-d546-4349-92a4-f56264521a66.png",
-    "url": "https://esports.overwatch.com/en-us/rewards",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "bc8886f8-d546-4349-92a4-f56264521a66"
+    "twitch_campaign_id": "ab9c695d-dc4a-482e-be9a-ddc933984c53"
   },
   {
     "game": "Overwatch",
@@ -962,17 +932,17 @@
   {
     "game": "Pokémon Trading Card Game Live",
     "status": "live",
-    "campaign": "Pokémon Delta Reign Drop",
-    "start": "2026-11-06T08:00:00Z",
-    "end": "2026-11-16T07:59:59.999Z",
+    "campaign": "Delta Reign ETB",
+    "start": "2026-11-16T08:00:00Z",
+    "end": "2026-11-30T07:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "https://trainer.pokemon.com/rewards   ",
-    "image": "/media/campaigns/images/55e0b074-0393-4be3-8586-3fb8b65b80e0.png",
+    "description": "https://trainer.pokemon.com/rewards",
+    "image": "/media/campaigns/images/e9058a21-33e0-44c1-8d56-8ab9a5f2be92.png",
     "url": "https://trainer.pokemon.com/rewards",
     "account_link": "https://trainer.pokemon.com/rewards",
-    "twitch_campaign_id": "55e0b074-0393-4be3-8586-3fb8b65b80e0"
+    "twitch_campaign_id": "e9058a21-33e0-44c1-8d56-8ab9a5f2be92"
   },
   {
     "game": "Predecessor",
@@ -1037,21 +1007,6 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 220",
-    "start": "2026-11-15T17:59:00Z",
-    "end": "2026-11-16T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/fb8f1f94-f7aa-4a03-9cfe-35b113040857.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "fb8f1f94-f7aa-4a03-9cfe-35b113040857"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
     "campaign": "ROW Drop 649",
     "start": "2026-11-15T17:59:00Z",
     "end": "2026-11-16T17:56:59.999Z",
@@ -1063,6 +1018,21 @@
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
     "twitch_campaign_id": "a1f49e9b-379b-43dc-8b57-533f8913222f"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 220",
+    "start": "2026-11-15T17:59:00Z",
+    "end": "2026-11-16T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/fb8f1f94-f7aa-4a03-9cfe-35b113040857.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "fb8f1f94-f7aa-4a03-9cfe-35b113040857"
   },
   {
     "game": "Scape",
@@ -1078,6 +1048,21 @@
     "url": "https://scapethegame.com",
     "account_link": "https://portal.scapethegame.com/connect/twitch",
     "twitch_campaign_id": "2c5e5162-f8bb-478a-a78a-610f7036f729"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "S&F Drops 1/2",
+    "start": "2026-11-16T15:00:00Z",
+    "end": "2026-11-18T22:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/35e2271a-c7df-4ac8-872e-080dfb7d6779.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "35e2271a-c7df-4ac8-872e-080dfb7d6779"
   },
   {
     "game": "Shakes and Fidget",
