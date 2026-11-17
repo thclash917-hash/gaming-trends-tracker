@@ -2,7 +2,7 @@
   {
     "name": "Counter-Strike 2",
     "platform": "Steam",
-    "metric": 1047176,
+    "metric": 455557,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
@@ -16,7 +16,7 @@
   {
     "name": "Dota 2",
     "platform": "Steam",
-    "metric": 771929,
+    "metric": 414739,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
@@ -30,7 +30,7 @@
   {
     "name": "PUBG: BATTLEGROUNDS",
     "platform": "Steam",
-    "metric": 585724,
+    "metric": 94572,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
@@ -42,58 +42,9 @@
     "id": 3
   },
   {
-    "name": "Apex Legends",
-    "platform": "Steam",
-    "metric": 183630,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
-    "appid": 1172470,
-    "drops_enabled": true,
-    "drops": [
-      {
-        "game": "Apex Legends",
-        "status": "live",
-        "campaign": "Apex Legends | Godzilla",
-        "start": "2026-11-10T18:00:00Z",
-        "end": "2026-12-01T17:59:59.999Z",
-        "watch_time": "",
-        "requirements": [],
-        "rewards": [],
-        "description": "Tune in to select Apex Legend streams between November 10 and December 1 to earn cosmetics.",
-        "image": "/media/campaigns/images/4eeaa002-6d1c-4a43-a195-a1b3de88b3c4.png",
-        "url": "https://www.ea.com/games/apex-legends/news/godzilla-event",
-        "account_link": "https://www.ea.com/twitchlinking",
-        "twitch_campaign_id": "4eeaa002-6d1c-4a43-a195-a1b3de88b3c4"
-      }
-    ],
-    "badges": [
-      {
-        "name": "Drop actif",
-        "icon": "🎁"
-      }
-    ],
-    "emotes": [],
-    "id": 4
-  },
-  {
-    "name": "Rust",
-    "platform": "Steam",
-    "metric": 91305,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
-    "appid": 252490,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 5
-  },
-  {
     "name": "Cyberpunk 2077",
     "platform": "Steam",
-    "metric": 76700,
+    "metric": 66786,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
@@ -138,26 +89,61 @@
       }
     ],
     "emotes": [],
-    "id": 6
+    "id": 4
   },
   {
-    "name": "Grand Theft Auto V",
+    "name": "Rust",
     "platform": "Steam",
-    "metric": 59737,
+    "metric": 61259,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
-    "appid": 271590,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
+    "appid": 252490,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
     "emotes": [],
-    "id": 7
+    "id": 5
+  },
+  {
+    "name": "Apex Legends",
+    "platform": "Steam",
+    "metric": 53676,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+    "appid": 1172470,
+    "drops_enabled": true,
+    "drops": [
+      {
+        "game": "Apex Legends",
+        "status": "live",
+        "campaign": "Apex Legends | Godzilla",
+        "start": "2026-11-10T18:00:00Z",
+        "end": "2026-12-01T17:59:59.999Z",
+        "watch_time": "",
+        "requirements": [],
+        "rewards": [],
+        "description": "Tune in to select Apex Legend streams between November 10 and December 1 to earn cosmetics.",
+        "image": "/media/campaigns/images/4eeaa002-6d1c-4a43-a195-a1b3de88b3c4.png",
+        "url": "https://www.ea.com/games/apex-legends/news/godzilla-event",
+        "account_link": "https://www.ea.com/twitchlinking",
+        "twitch_campaign_id": "4eeaa002-6d1c-4a43-a195-a1b3de88b3c4"
+      }
+    ],
+    "badges": [
+      {
+        "name": "Drop actif",
+        "icon": "🎁"
+      }
+    ],
+    "emotes": [],
+    "id": 6
   },
   {
     "name": "Dead by Daylight",
     "platform": "Steam",
-    "metric": 46638,
+    "metric": 36110,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
@@ -166,40 +152,12 @@
     "drops": [],
     "badges": [],
     "emotes": [],
-    "id": 8
-  },
-  {
-    "name": "Palworld",
-    "platform": "Steam",
-    "metric": 32481,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
-    "appid": 1623730,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 9
-  },
-  {
-    "name": "Terraria",
-    "platform": "Steam",
-    "metric": 30798,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
-    "appid": 105600,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 10
+    "id": 7
   },
   {
     "name": "Baldur's Gate 3",
     "platform": "Steam",
-    "metric": 29547,
+    "metric": 32710,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
@@ -208,12 +166,26 @@
     "drops": [],
     "badges": [],
     "emotes": [],
-    "id": 11
+    "id": 8
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "platform": "Steam",
+    "metric": 27075,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+    "appid": 271590,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 9
   },
   {
     "name": "Left 4 Dead 2",
     "platform": "Steam",
-    "metric": 27607,
+    "metric": 25911,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
@@ -222,16 +194,44 @@
     "drops": [],
     "badges": [],
     "emotes": [],
-    "id": 12
+    "id": 10
   },
   {
     "name": "Helldivers 2",
     "platform": "Steam",
-    "metric": 26094,
+    "metric": 21495,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
     "appid": 553850,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 11
+  },
+  {
+    "name": "Palworld",
+    "platform": "Steam",
+    "metric": 18558,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
+    "appid": 1623730,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 12
+  },
+  {
+    "name": "Terraria",
+    "platform": "Steam",
+    "metric": 17802,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "appid": 105600,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -241,7 +241,7 @@
   {
     "name": "Elden Ring",
     "platform": "Steam",
-    "metric": 24753,
+    "metric": 16497,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
@@ -276,7 +276,7 @@
   {
     "name": "Monster Hunter: World",
     "platform": "Steam",
-    "metric": 15586,
+    "metric": 5461,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
