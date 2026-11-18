@@ -1,33 +1,18 @@
 [
   {
-    "game": "AION 2",
-    "status": "live",
-    "campaign": "Ludra Awakens",
-    "start": "2026-11-04T14:00:00Z",
-    "end": "2026-11-18T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Ludra has arrived! Watch any AION 2 stream to earn exclusive in-game rewards and get ready for the fight.",
-    "image": "/media/campaigns/images/fab904fd-96c0-4b4c-8775-d2cb829f4563.png",
-    "url": "https://aion2.plaync.com/en-us/twitchdrops/index",
-    "account_link": "https://id.plaync.com/account/connect/twitch?appGroupCode=aion2global",
-    "twitch_campaign_id": "fab904fd-96c0-4b4c-8775-d2cb829f4563"
-  },
-  {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 12 - #2/7",
-    "start": "2026-11-17T10:00:00Z",
-    "end": "2026-11-18T09:29:59.999Z",
+    "campaign": "Dragonfire 12 - #3/7",
+    "start": "2026-11-18T10:00:00Z",
+    "end": "2026-11-19T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/7879dc5f-9fa6-4a50-a680-aeac8e6e4ba2.png",
+    "image": "/media/campaigns/images/d6bcd23c-c0b5-41e3-af62-a74fce88a140.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "7879dc5f-9fa6-4a50-a680-aeac8e6e4ba2"
+    "twitch_campaign_id": "d6bcd23c-c0b5-41e3-af62-a74fce88a140"
   },
   {
     "game": "Apex Legends",
@@ -43,21 +28,6 @@
     "url": "https://www.ea.com/games/apex-legends/news/godzilla-event",
     "account_link": "https://www.ea.com/twitchlinking",
     "twitch_campaign_id": "4eeaa002-6d1c-4a43-a195-a1b3de88b3c4"
-  },
-  {
-    "game": "Battlefield 6",
-    "status": "live",
-    "campaign": "BF Creator Program Drops",
-    "start": "2026-11-10T12:00:00Z",
-    "end": "2026-11-18T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Tune in and support your favorite creators streaming Battlefield 6 to unlock Twitch Drops.",
-    "image": "/media/campaigns/images/c67997fb-e0e5-4678-afe7-aea6528bc126.png",
-    "url": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
-    "account_link": "https://ea.com/twitchlinking",
-    "twitch_campaign_id": "c67997fb-e0e5-4678-afe7-aea6528bc126"
   },
   {
     "game": "BitCraft Online",
@@ -77,17 +47,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "2026 BDO Drops (Nov 17)",
-    "start": "2026-11-17T12:00:00Z",
-    "end": "2026-11-18T11:59:59.999Z",
+    "campaign": "2026 BDO Drops (Nov 18)",
+    "start": "2026-11-18T12:00:00Z",
+    "end": "2026-11-19T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/1f613a15-b700-4880-bdcd-abacb89511a0.png",
+    "image": "/media/campaigns/images/fc1f2b5b-db22-433d-a545-a5f19ba319a7.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "1f613a15-b700-4880-bdcd-abacb89511a0"
+    "twitch_campaign_id": "fc1f2b5b-db22-433d-a545-a5f19ba319a7"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -103,6 +73,21 @@
     "url": "https://www.playbpsr.com/twitch_bind",
     "account_link": "https://www.playbpsr.com/twitch_bind",
     "twitch_campaign_id": "94263f50-6ae7-45a8-bd72-5f612c5b1243"
+  },
+  {
+    "game": "Brawlhalla",
+    "status": "live",
+    "campaign": "Brawl Esport New Legend",
+    "start": "2026-11-18T11:00:00Z",
+    "end": "2026-12-08T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "BRAWLHALLA ESPORT UCP New Legend Celebration1h | Lord Vraxx Community Colors v2 Color Scheme |  2h | Dusk Community Colors v2 Color Scheme |  3h | Ransom Community Colors v2 Color Scheme|  4h | Morgwyn Community Colors v3 Color Scheme |  5h | Soulless In-game title | ",
+    "image": "/media/campaigns/images/19dca767-724a-4117-ab36-c04f05018a80.png",
+    "url": "https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/information-about-twitch-drops-for-ubisoft-games/000065532#:~:text=You%20can%20earn%20in%2Dgame,stream%20from%20a%20participating%20channel.",
+    "account_link": "https://drops-register.ubi.com/",
+    "twitch_campaign_id": "19dca767-724a-4117-ab36-c04f05018a80"
   },
   {
     "game": "Brawlhalla",
@@ -180,6 +165,21 @@
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
   },
   {
+    "game": "Coryphaeus Championships",
+    "status": "live",
+    "campaign": "November Drops",
+    "start": "2026-11-18T12:33:36Z",
+    "end": "2026-11-18T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Coryphaeus Fall Drops",
+    "image": "/media/campaigns/images/73603262-18b0-491f-bbf5-3a61b008e917.png",
+    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
+    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
+    "twitch_campaign_id": "73603262-18b0-491f-bbf5-3a61b008e917"
+  },
+  {
     "game": "Cyberpunk 2077",
     "status": "live",
     "campaign": "Cyberpunk 2077 Chat Badge",
@@ -255,6 +255,21 @@
     "twitch_campaign_id": "e35e85d5-d647-4906-a3df-5a4d0620a58b"
   },
   {
+    "game": "Disney Dreamlight Valley",
+    "status": "live",
+    "campaign": "DDV: The Keepsake Sea",
+    "start": "2026-11-18T14:00:00Z",
+    "end": "2026-12-03T04:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive in-game rewards by watching any participating streams of Disney Dreamlight Valley!",
+    "image": "/media/campaigns/images/7ff32cbb-45b1-42c3-95a4-ff18bd42277b.png",
+    "url": "https://disneydreamlightvalley.com/twitch-drops",
+    "account_link": "https://disneydreamlightvalley.com/twitch-drops",
+    "twitch_campaign_id": "7ff32cbb-45b1-42c3-95a4-ff18bd42277b"
+  },
+  {
     "game": "Don't Starve Together",
     "status": "live",
     "campaign": "Butterfly Wardrobe",
@@ -302,17 +317,17 @@
   {
     "game": "Escape from Tarkov",
     "status": "live",
-    "campaign": "Tarkov City day 2",
-    "start": "2026-11-17T15:00:00Z",
-    "end": "2026-11-18T14:59:59.999Z",
+    "campaign": "Tarkov City day 3",
+    "start": "2026-11-18T15:00:00Z",
+    "end": "2026-11-19T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Word has it that everyone on the other side of the world is going crazy over palm trees, neon lights, and sunny coastlines right now. Palm trees are hard to come by in Tarkov, but there’s still a way to bring in some resort vibes! We are launching a Twitch Drops campaign where the main trophies will be two unique shirts for your PMC.",
-    "image": "/media/campaigns/images/51d79d4f-fa56-4dff-9ff2-b133ebde6566.jpeg",
+    "image": "/media/campaigns/images/205df32c-52db-44be-aa8d-847f9663fa65.jpeg",
     "url": "https://www.escapefromtarkov.com/news/id/419",
     "account_link": "https://www.escapefromtarkov.com/profile",
-    "twitch_campaign_id": "51d79d4f-fa56-4dff-9ff2-b133ebde6566"
+    "twitch_campaign_id": "205df32c-52db-44be-aa8d-847f9663fa65"
   },
   {
     "game": "Eternal Return",
@@ -332,17 +347,17 @@
   {
     "game": "EVE Online",
     "status": "live",
-    "campaign": "Fractured Skies Drop 2",
-    "start": "2026-11-14T11:00:00Z",
-    "end": "2026-11-18T10:57:59.999Z",
+    "campaign": "Fractured Skies Drop 3",
+    "start": "2026-11-18T11:00:00Z",
+    "end": "2026-11-22T10:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "The shiny Mandate of Faith SKIN for your Dragoon Navy Issue!",
-    "image": "/media/campaigns/images/e62191e6-7839-40cb-969c-e76b6593bd0b.jpeg",
+    "description": "Pick up this gorgeous State Regulator SKIN for the Corax Navy Issue!",
+    "image": "/media/campaigns/images/07958242-3e68-4552-8133-ffec41b7647d.jpeg",
     "url": "https://www.eveonline.com/twitch",
     "account_link": "https://www.eveonline.com/twitch",
-    "twitch_campaign_id": "e62191e6-7839-40cb-969c-e76b6593bd0b"
+    "twitch_campaign_id": "07958242-3e68-4552-8133-ffec41b7647d"
   },
   {
     "game": "Exterminauts",
@@ -403,21 +418,6 @@
     "url": "https://www.team17.com/goblin-cleanup-twitch-drops",
     "account_link": "https://drops.getrekt.stream/api/redeem/d9b63ead-daec-40a7-b137-06b8eed6c0ff/54fa74eb-e659-4db0-8205-c67767d821d3/linking?redirect_url=https%3A%2F%2Fwww.team17.com%2Fgoblin-cleanup-twitch-drops%3Flinked%3Dtrue",
     "twitch_campaign_id": "e5de4c1a-c015-4b69-b1fd-d07786986c25"
-  },
-  {
-    "game": "GODDESS OF VICTORY: NIKKE",
-    "status": "live",
-    "campaign": "NIKKE 4th Anniv. Drops",
-    "start": "2026-10-28T15:00:00Z",
-    "end": "2026-11-18T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate the 4th Anniversary of GODDESS OF VICTORY: NIKKE with Twitch Drops!\nFrom October 29 to November 18, 2026 (UTC+9), watch Drops-enabled streams in the GODDESS OF VICTORY: NIKKE category to earn exclusive in-game rewards!\nWatch for up to 2 hours to earn Gems, Ultra Boost Modules, and more!\nPlease Note: Rewards can only be claimed from either the Twitch Drops event or the CHZZK Drops event, not both. ",
-    "image": "/media/campaigns/images/3fbad26b-3224-4246-ad9d-0a2c56e39d2b.png",
-    "url": "https://nikke-en.com/act/a2026twitchdrops/index.html",
-    "account_link": "https://nikke-en.com/act/a2026twitchdrops/index.html",
-    "twitch_campaign_id": "3fbad26b-3224-4246-ad9d-0a2c56e39d2b"
   },
   {
     "game": "Honkai Impact 3rd",
@@ -810,34 +810,34 @@
     "twitch_campaign_id": "3dd46351-a277-4276-8702-01f02882dbcc"
   },
   {
-    "game": "Out of the Park Baseball 27",
+    "game": "Old School RuneScape",
     "status": "live",
-    "campaign": "Affiliate11/17/26",
-    "start": "2026-11-17T14:00:00Z",
-    "end": "2026-11-18T13:59:59.999Z",
+    "campaign": "OSRS Hardcore Worlds",
+    "start": "2026-11-18T13:06:33Z",
+    "end": "2026-11-30T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/eb33870b-d88d-4578-8ddb-bf47ca7d01aa.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "eb33870b-d88d-4578-8ddb-bf47ca7d01aa"
+    "description": "This badge was awarded to people who viewed any eligible channel in the Old School RuneScape category for one hour.",
+    "image": "/media/campaigns/images/a8ce1281-5c82-4fbe-9a18-3e7d02e1e7b6.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "a8ce1281-5c82-4fbe-9a18-3e7d02e1e7b6"
   },
   {
-    "game": "Out of the Park Baseball 27",
+    "game": "Old School RuneScape",
     "status": "live",
-    "campaign": "Laptophound 28",
-    "start": "2026-11-16T14:00:00Z",
-    "end": "2026-11-23T13:59:59.999Z",
+    "campaign": "OSRS Hardcore Worlds",
+    "start": "2026-11-18T13:04:32Z",
+    "end": "2026-11-30T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/ab9c695d-dc4a-482e-be9a-ddc933984c53.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "ab9c695d-dc4a-482e-be9a-ddc933984c53"
+    "description": "This badge was earned by subscribing or gifting a sub to any Old School RuneScape broadcast in 2026 during the release of Hardcore Worlds.",
+    "image": "/media/campaigns/images/1f04121b-9c6b-4ae8-bdd5-9833c96a64ae.png",
+    "url": "https://www.twitch.tv/drops/campaigns",
+    "account_link": "https://www.twitch.tv",
+    "twitch_campaign_id": "1f04121b-9c6b-4ae8-bdd5-9833c96a64ae"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -853,6 +853,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "0437a509-0322-4126-ae95-b860f5360364"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "Laptophound 28",
+    "start": "2026-11-16T14:00:00Z",
+    "end": "2026-11-23T13:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/ab9c695d-dc4a-482e-be9a-ddc933984c53.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "ab9c695d-dc4a-482e-be9a-ddc933984c53"
   },
   {
     "game": "Overwatch",
@@ -945,21 +960,6 @@
     "twitch_campaign_id": "83430dc1-1cf2-4da0-b645-3aa07dbbf406"
   },
   {
-    "game": "QSMP",
-    "status": "live",
-    "campaign": "Quackity's QSMP2 Season 2",
-    "start": "2026-10-21T13:00:00Z",
-    "end": "2026-11-18T12:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned for watching QSMP during the initial 2026 launch!",
-    "image": "/media/campaigns/images/3ed1adc1-8f12-4d18-82ac-fd543f08722d.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-    "account_link": "https://twitch.tv",
-    "twitch_campaign_id": "3ed1adc1-8f12-4d18-82ac-fd543f08722d"
-  },
-  {
     "game": "Ravendawn",
     "status": "live",
     "campaign": "November 03",
@@ -1033,6 +1033,21 @@
     "url": "https://scapethegame.com",
     "account_link": "https://portal.scapethegame.com/connect/twitch",
     "twitch_campaign_id": "2c5e5162-f8bb-478a-a78a-610f7036f729"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "S&F Drops 2/2",
+    "start": "2026-11-18T15:00:00Z",
+    "end": "2026-11-18T22:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/3ab3b4b3-60bf-4cd6-bfa9-971638a449be.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "3ab3b4b3-60bf-4cd6-bfa9-971638a449be"
   },
   {
     "game": "Shakes and Fidget",
@@ -1168,6 +1183,21 @@
     "url": "https://www.reachthefinals.com/twitch",
     "account_link": "https://embark-games.embark.net/",
     "twitch_campaign_id": "64bc1f39-ec81-4066-969a-4297a0afff67"
+  },
+  {
+    "game": "The First Descendant",
+    "status": "live",
+    "campaign": "Season 4 Episode 2 Drops",
+    "start": "2026-11-18T05:00:00Z",
+    "end": "2026-12-09T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The First Descendant's Season 4 Episode 2 is now available! Tune in to our Twitch livestreams and earn exclusive Drops while you watch. Don't miss out on all the rewards waiting for you.",
+    "image": "/media/campaigns/images/101c5286-f541-4183-bfa7-dd8eea691ed9.png",
+    "url": "https://tfd.nexon.com/drops/twitch",
+    "account_link": "https://tfd.nexon.com/drops/twitch",
+    "twitch_campaign_id": "101c5286-f541-4183-bfa7-dd8eea691ed9"
   },
   {
     "game": "The Quinfall",
