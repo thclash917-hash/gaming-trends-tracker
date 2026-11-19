@@ -165,21 +165,6 @@
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "November Drops",
-    "start": "2026-11-18T21:00:00Z",
-    "end": "2026-11-19T00:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/1cc8f5d4-eebb-4cb5-a092-fd9c0912cff4.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "1cc8f5d4-eebb-4cb5-a092-fd9c0912cff4"
-  },
-  {
     "game": "Cyberpunk 2077",
     "status": "live",
     "campaign": "Cyberpunk 2077 Chat Badge",
@@ -354,25 +339,10 @@
     "requirements": [],
     "rewards": [],
     "description": "Pick up this gorgeous State Regulator SKIN for the Corax Navy Issue!",
-    "image": "/media/campaigns/images/07958242-3e68-4552-8133-ffec41b7647d.jpeg",
+    "image": "/media/campaigns/images/07958242-3e68-4552-8133-ffec41b7647d_BerIEgy.jpeg",
     "url": "https://www.eveonline.com/twitch",
     "account_link": "https://www.eveonline.com/twitch",
     "twitch_campaign_id": "07958242-3e68-4552-8133-ffec41b7647d"
-  },
-  {
-    "game": "Exterminauts",
-    "status": "live",
-    "campaign": "Exterminauts: First drops",
-    "start": "2026-11-13T02:00:00Z",
-    "end": "2026-11-19T01:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch eligible Exterminauts livestreams on Twitch and get beta access! Suit up and join Exterminauts, the ultimate 3-player co-op PvE shooter! Dive into alien nests, exterminate deadly infestations, and get paid for the dirty work. Link your Level Infinite Pass and Twitch accounts to get started!",
-    "image": "/media/campaigns/images/7755dd9f-b2aa-4745-8250-b76587881383.png",
-    "url": "https://www.exterminauts.com/twitchdrops/en/index.html",
-    "account_link": "https://www.exterminauts.com/twitchdrops/en/index.html",
-    "twitch_campaign_id": "7755dd9f-b2aa-4745-8250-b76587881383"
   },
   {
     "game": "FragPunk",
@@ -418,6 +388,21 @@
     "url": "https://www.team17.com/goblin-cleanup-twitch-drops",
     "account_link": "https://drops.getrekt.stream/api/redeem/d9b63ead-daec-40a7-b137-06b8eed6c0ff/54fa74eb-e659-4db0-8205-c67767d821d3/linking?redirect_url=https%3A%2F%2Fwww.team17.com%2Fgoblin-cleanup-twitch-drops%3Flinked%3Dtrue",
     "twitch_campaign_id": "e5de4c1a-c015-4b69-b1fd-d07786986c25"
+  },
+  {
+    "game": "GunZ: The Duel",
+    "status": "live",
+    "campaign": "Special Supply!",
+    "start": "2026-11-16T00:59:57Z",
+    "end": "2026-12-04T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official GunZ: The Duel stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/aa5f8e60-9485-42c4-8ae7-48538dcc8ffa.jpeg",
+    "url": "https://gz.ludenus.com/drops",
+    "account_link": "https://gz-drops.masanggames.com/link",
+    "twitch_campaign_id": "aa5f8e60-9485-42c4-8ae7-48538dcc8ffa"
   },
   {
     "game": "Honkai Impact 3rd",
@@ -510,21 +495,6 @@
     "twitch_campaign_id": "d31f0a01-c61e-4170-bf68-60c9132efaaf"
   },
   {
-    "game": "Madden NFL 27",
-    "status": "live",
-    "campaign": "Good Morning Madden",
-    "start": "2026-11-18T23:30:00Z",
-    "end": "2026-11-19T01:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the Good Morning Madden and earn some Twitch Drops to power up your Ultimate Team!",
-    "image": "/media/campaigns/images/6e7d43a1-ed66-4864-bab1-11e5207d84f2.png",
-    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
-    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
-    "twitch_campaign_id": "6e7d43a1-ed66-4864-bab1-11e5207d84f2"
-  },
-  {
     "game": "Mahjong Soul",
     "status": "live",
     "campaign": "26/11 Frieren Collab",
@@ -579,7 +549,7 @@
     "requirements": [],
     "rewards": [],
     "description": "Tune into your favorite streamers and gain exclusive drop rewards",
-    "image": "/media/campaigns/images/06d7e4d2-74a8-45f2-8a46-428186ed6560.png",
+    "image": "/media/campaigns/images/06d7e4d2-74a8-45f2-8a46-428186ed6560_ojj7dD6.png",
     "url": "https://www.marvelrivals.com/twitchdrops/",
     "account_link": "https://www.marvelrivals.com/twitchdrops/",
     "twitch_campaign_id": "06d7e4d2-74a8-45f2-8a46-428186ed6560"
@@ -632,21 +602,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Lestakorabli - 26.11 #3",
-    "start": "2026-11-13T15:00:00Z",
-    "end": "2026-11-20T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
-    "image": "/media/campaigns/images/288b218b-6e89-469a-bcf1-0176b1006af5.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "288b218b-6e89-469a-bcf1-0176b1006af5"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Обновление 26.11: Часть 3",
     "start": "2026-11-13T15:00:00Z",
     "end": "2026-11-20T14:59:59.999Z",
@@ -658,6 +613,21 @@
     "url": "https://krbli.ru/3RW8D27",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "291dd3a3-5876-482e-a594-923b4a55f935"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Lestakorabli - 26.11 #3",
+    "start": "2026-11-13T15:00:00Z",
+    "end": "2026-11-20T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Смотрите трансляции на официальном канале Lestakorabli. За просмотр 60 минут вы получайте уникальный «Малый набор», где гарантированно лежит 1 корабельного премиум аккаунта, а также одна из наград:\n\n• 250 штурманских жетонов;\n• 1000 ед. золота;\n• Контейнер «Ремонтный»;\n• Линкор IX Sun Yat-Sen;\n• Крейсер VIII Mainz;\n• Эсминец VIII Kidd.\n\nЖмите «Отслеживать» и получайте награду!",
+    "image": "/media/campaigns/images/288b218b-6e89-469a-bcf1-0176b1006af5.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "288b218b-6e89-469a-bcf1-0176b1006af5"
   },
   {
     "game": "Mistfall Hunter",
@@ -855,6 +825,21 @@
     "twitch_campaign_id": "1f04121b-9c6b-4ae8-bdd5-9833c96a64ae"
   },
   {
+    "game": "Once Human",
+    "status": "live",
+    "campaign": "Once Human S5 Drops",
+    "start": "2026-11-19T01:00:00Z",
+    "end": "2026-12-03T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Once Human S5 Drops event will be live on Nov 19 - Dec 3, 2026.Connect your Once Human character and Twitch account to receive the reward. Watch a participating stream channel to join the activity. You need to watch Once Human for 6 hours to claim all the rewards. The rewards will be sent to your account in 24 hours.",
+    "image": "/media/campaigns/images/4a77ccb5-95e6-4bc6-8567-de0eb09b0214.png",
+    "url": "https://www.oncehuman.game/twitch/",
+    "account_link": "https://www.oncehuman.game/twitch/",
+    "twitch_campaign_id": "4a77ccb5-95e6-4bc6-8567-de0eb09b0214"
+  },
+  {
     "game": "Out of the Park Baseball 27",
     "status": "live",
     "campaign": "Affiliate11/18/26",
@@ -872,21 +857,6 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Official 28",
-    "start": "2026-11-16T14:00:00Z",
-    "end": "2026-11-23T13:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/0437a509-0322-4126-ae95-b860f5360364.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "0437a509-0322-4126-ae95-b860f5360364"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
     "campaign": "Laptophound 28",
     "start": "2026-11-16T14:00:00Z",
     "end": "2026-11-23T13:59:59.999Z",
@@ -898,6 +868,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "ab9c695d-dc4a-482e-be9a-ddc933984c53"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "Official 28",
+    "start": "2026-11-16T14:00:00Z",
+    "end": "2026-11-23T13:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/0437a509-0322-4126-ae95-b860f5360364_2LQna5E.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "0437a509-0322-4126-ae95-b860f5360364"
   },
   {
     "game": "Overwatch",
@@ -1185,6 +1170,21 @@
     "twitch_campaign_id": "101c5286-f541-4183-bfa7-dd8eea691ed9"
   },
   {
+    "game": "The Quinfall",
+    "status": "live",
+    "campaign": "November Drops",
+    "start": "2026-11-19T00:00:00Z",
+    "end": "2026-11-19T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
+    "image": "/media/campaigns/images/a9e539e9-2e1e-4c53-8327-f0eee4d77ca2.png",
+    "url": "https://www.quinfall.com/twitch-drops",
+    "account_link": "https://www.quinfall.com/twitch-drops",
+    "twitch_campaign_id": "a9e539e9-2e1e-4c53-8327-f0eee4d77ca2"
+  },
+  {
     "game": "War Thunder",
     "status": "live",
     "campaign": "WTCS Challenger  Finals",
@@ -1213,21 +1213,6 @@
     "url": "https://account.wardogs.com",
     "account_link": "https://account.wardogs.com",
     "twitch_campaign_id": "2965fe2b-6ebb-4547-929c-e70112337fda"
-  },
-  {
-    "game": "Warframe",
-    "status": "live",
-    "campaign": "Community Drops #224",
-    "start": "2026-11-18T23:00:00Z",
-    "end": "2026-11-19T00:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Asura_Tenshi for 30 minutes to receive a Protector Stalker Floof decoration!",
-    "image": "/media/campaigns/images/14b3d7b9-6ba3-44b3-91dc-9f6911fad493.jpeg",
-    "url": "https://forums.warframe.com/topic/1532757-community-stream-schedule-november-16-22-2026/",
-    "account_link": "https://www.warframe.com/user",
-    "twitch_campaign_id": "14b3d7b9-6ba3-44b3-91dc-9f6911fad493"
   },
   {
     "game": "Where Winds Meet",
