@@ -2,17 +2,17 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "Dragonfire 12 - #3/7",
-    "start": "2026-11-18T10:00:00Z",
-    "end": "2026-11-19T09:29:59.999Z",
+    "campaign": "Dragonfire 12 - #4/7",
+    "start": "2026-11-19T10:00:00Z",
+    "end": "2026-11-20T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/d6bcd23c-c0b5-41e3-af62-a74fce88a140.png",
+    "image": "/media/campaigns/images/f99b87ac-0b54-4402-9209-78a5d4d27744.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "d6bcd23c-c0b5-41e3-af62-a74fce88a140"
+    "twitch_campaign_id": "f99b87ac-0b54-4402-9209-78a5d4d27744"
   },
   {
     "game": "Apex Legends",
@@ -47,17 +47,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "2026 BDO Drops (Nov 18)",
-    "start": "2026-11-18T12:00:00Z",
-    "end": "2026-11-19T11:59:59.999Z",
+    "campaign": "2026 BDO Drops (Nov 19)",
+    "start": "2026-11-19T12:00:00Z",
+    "end": "2026-11-20T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/fc1f2b5b-db22-433d-a545-a5f19ba319a7.png",
+    "image": "/media/campaigns/images/c9810921-317d-4dba-875f-3884e9c4b0a2.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "fc1f2b5b-db22-433d-a545-a5f19ba319a7"
+    "twitch_campaign_id": "c9810921-317d-4dba-875f-3884e9c4b0a2"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -165,36 +165,6 @@
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
   },
   {
-    "game": "Cyberpunk 2077",
-    "status": "live",
-    "campaign": "Cyberpunk 2077 Chat Badge",
-    "start": "2026-10-22T10:00:00Z",
-    "end": "2026-11-19T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Subscribe to any channel streaming Cyberpunk 2077 to get The Mox Chat Badge!",
-    "image": "/media/campaigns/images/a9c2f298-5a53-439a-9a8c-41b4d88937e1.png",
-    "url": "https://www.twitch.tv/drops/campaigns",
-    "account_link": "https://www.twitch.tv",
-    "twitch_campaign_id": "a9c2f298-5a53-439a-9a8c-41b4d88937e1"
-  },
-  {
-    "game": "Cyberpunk 2077",
-    "status": "live",
-    "campaign": "Quadra Paintjobs",
-    "start": "2026-10-22T10:00:00Z",
-    "end": "2026-11-19T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch 120 mins to get all 4 paintjobs for Quadra Turbo-R V-Tech!",
-    "image": "/media/campaigns/images/17de3088-e3f3-423d-aa84-101002ac41df.jpeg",
-    "url": "https://cyberpunk.net/twitch-drops",
-    "account_link": "https://accounts.cdprojektred.com/realms/cdp/account/#/connected/twitch",
-    "twitch_campaign_id": "17de3088-e3f3-423d-aa84-101002ac41df"
-  },
-  {
     "game": "Delta Force",
     "status": "live",
     "campaign": "Streamer Ladder Season2",
@@ -212,21 +182,6 @@
   {
     "game": "Delta Force",
     "status": "live",
-    "campaign": "SEASON AURORA-OPERATIONS",
-    "start": "2026-11-10T02:00:00Z",
-    "end": "2026-11-25T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate Delta Force’s new Season: AURORA — good vibes & Twitch Drops included!",
-    "image": "/media/campaigns/images/6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc.png",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc"
-  },
-  {
-    "game": "Delta Force",
-    "status": "live",
     "campaign": "SEASON AURORA - WARFARE",
     "start": "2026-11-10T02:00:00Z",
     "end": "2026-11-25T23:59:59.999Z",
@@ -238,6 +193,21 @@
     "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
     "twitch_campaign_id": "e35e85d5-d647-4906-a3df-5a4d0620a58b"
+  },
+  {
+    "game": "Delta Force",
+    "status": "live",
+    "campaign": "SEASON AURORA-OPERATIONS",
+    "start": "2026-11-10T02:00:00Z",
+    "end": "2026-11-25T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate Delta Force’s new Season: AURORA — good vibes & Twitch Drops included!",
+    "image": "/media/campaigns/images/6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc.png",
+    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
+    "twitch_campaign_id": "6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc"
   },
   {
     "game": "Disney Dreamlight Valley",
@@ -253,21 +223,6 @@
     "url": "https://disneydreamlightvalley.com/twitch-drops",
     "account_link": "https://disneydreamlightvalley.com/twitch-drops",
     "twitch_campaign_id": "7ff32cbb-45b1-42c3-95a4-ff18bd42277b"
-  },
-  {
-    "game": "Don't Starve Together",
-    "status": "live",
-    "campaign": "Butterfly Wardrobe",
-    "start": "2026-10-22T17:00:00Z",
-    "end": "2026-11-19T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The Butterfly Wardrobe is the sixth campaign in the Chitinous Collection. The campaign includes a Profile Icon, Portrait Frame, and Wardrobe skin.",
-    "image": "/media/campaigns/images/2519eaa5-981e-4861-8b03-361dd002cfa4.png",
-    "url": "https://accounts.klei.com/account/rewards",
-    "account_link": "https://accounts.klei.com/account/rewards",
-    "twitch_campaign_id": "2519eaa5-981e-4861-8b03-361dd002cfa4"
   },
   {
     "game": "DOOM: The Dark Ages",
@@ -302,32 +257,17 @@
   {
     "game": "Escape from Tarkov",
     "status": "live",
-    "campaign": "Tarkov City day 3",
-    "start": "2026-11-18T15:00:00Z",
-    "end": "2026-11-19T14:59:59.999Z",
+    "campaign": "Tarkov City day 4",
+    "start": "2026-11-19T15:00:00Z",
+    "end": "2026-11-20T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Word has it that everyone on the other side of the world is going crazy over palm trees, neon lights, and sunny coastlines right now. Palm trees are hard to come by in Tarkov, but there’s still a way to bring in some resort vibes! We are launching a Twitch Drops campaign where the main trophies will be two unique shirts for your PMC.",
-    "image": "/media/campaigns/images/205df32c-52db-44be-aa8d-847f9663fa65.jpeg",
+    "image": "/media/campaigns/images/4eb1e31f-a997-4517-ac91-dc32223c6bd3.jpeg",
     "url": "https://www.escapefromtarkov.com/news/id/419",
     "account_link": "https://www.escapefromtarkov.com/profile",
-    "twitch_campaign_id": "205df32c-52db-44be-aa8d-847f9663fa65"
-  },
-  {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "S13 Glory Drops Tokens",
-    "start": "2026-11-18T20:00:00Z",
-    "end": "2026-11-19T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/c5174cca-7588-4ed2-a07a-9aa4d59bdffb.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "c5174cca-7588-4ed2-a07a-9aa4d59bdffb"
+    "twitch_campaign_id": "4eb1e31f-a997-4517-ac91-dc32223c6bd3"
   },
   {
     "game": "EVE Online",
@@ -403,21 +343,6 @@
     "url": "https://gz.ludenus.com/drops",
     "account_link": "https://gz-drops.masanggames.com/link",
     "twitch_campaign_id": "aa5f8e60-9485-42c4-8ae7-48538dcc8ffa"
-  },
-  {
-    "game": "Honkai Impact 3rd",
-    "status": "live",
-    "campaign": "V9.1 Special Drops",
-    "start": "2026-10-22T10:00:00Z",
-    "end": "2026-11-19T09:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "V9.1 Special Drops",
-    "image": "/media/campaigns/images/2592aee8-8a94-469d-8731-db914c197367.png",
-    "url": "https://act.hoyoverse.com/puzzle/bh3/pz_gg2nWmyfbo/index.html?game_biz=bh3_global&utm_source=web&utm_medium=twitchdrops",
-    "account_link": "https://act.hoyoverse.com/puzzle/bh3/pz_gg2nWmyfbo/index.html?game_biz=bh3_global&utm_source=web&utm_medium=twitchdrops",
-    "twitch_campaign_id": "2592aee8-8a94-469d-8731-db914c197367"
   },
   {
     "game": "Honkai: Star Rail",
@@ -842,32 +767,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate11/18/26",
-    "start": "2026-11-18T14:00:00Z",
-    "end": "2026-11-19T13:59:59.999Z",
+    "campaign": "Affiliate11/19/26",
+    "start": "2026-11-19T14:00:00Z",
+    "end": "2026-11-20T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/1cfc0de5-159f-4f98-973a-468a0afb0178.png",
+    "image": "/media/campaigns/images/0415d6f4-42b8-43e7-b896-8fd8cbc8cc20.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "1cfc0de5-159f-4f98-973a-468a0afb0178"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
-    "campaign": "Laptophound 28",
-    "start": "2026-11-16T14:00:00Z",
-    "end": "2026-11-23T13:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/ab9c695d-dc4a-482e-be9a-ddc933984c53.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "ab9c695d-dc4a-482e-be9a-ddc933984c53"
+    "twitch_campaign_id": "0415d6f4-42b8-43e7-b896-8fd8cbc8cc20"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -883,6 +793,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "0437a509-0322-4126-ae95-b860f5360364"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
+    "campaign": "Laptophound 28",
+    "start": "2026-11-16T14:00:00Z",
+    "end": "2026-11-23T13:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/ab9c695d-dc4a-482e-be9a-ddc933984c53.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "ab9c695d-dc4a-482e-be9a-ddc933984c53"
   },
   {
     "game": "Overwatch",
@@ -1005,34 +930,19 @@
     "twitch_campaign_id": "18bbdb90-e83b-4a8e-9587-417442c88880"
   },
   {
-    "game": "Rise Online",
+    "game": "Shakes and Fidget",
     "status": "live",
-    "campaign": "ROW Drop 652",
-    "start": "2026-11-18T17:59:00Z",
-    "end": "2026-11-19T17:56:59.999Z",
+    "campaign": "Hellevator Drops 1/4",
+    "start": "2026-11-19T15:00:00Z",
+    "end": "2026-11-22T22:58:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/4b5790f8-1bcc-4875-a339-616256e204ef.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "4b5790f8-1bcc-4875-a339-616256e204ef"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "Mobile Drop 223",
-    "start": "2026-11-18T17:59:00Z",
-    "end": "2026-11-19T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/b4e0d09a-927c-4093-a8a5-4794803d011e.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "b4e0d09a-927c-4093-a8a5-4794803d011e"
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/6305a395-8e88-4513-9ea1-cb18d81ee112.jpeg",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "6305a395-8e88-4513-9ea1-cb18d81ee112"
   },
   {
     "game": "Shakes and Fidget",
@@ -1185,19 +1095,34 @@
     "twitch_campaign_id": "a9e539e9-2e1e-4c53-8327-f0eee4d77ca2"
   },
   {
+    "game": "UFL",
+    "status": "live",
+    "campaign": "Nov #4",
+    "start": "2026-11-19T09:05:00Z",
+    "end": "2026-11-25T23:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
+    "image": "/media/campaigns/images/447ee0fb-93da-47e6-8d2c-e4b87a40f1cf.png",
+    "url": "https://portal.uflgame.com/twitch/drops",
+    "account_link": "https://portal.uflgame.com/twitch",
+    "twitch_campaign_id": "447ee0fb-93da-47e6-8d2c-e4b87a40f1cf"
+  },
+  {
     "game": "War Thunder",
     "status": "live",
-    "campaign": "WTCS Challenger  Finals",
-    "start": "2026-11-13T11:28:38Z",
-    "end": "2026-11-19T09:59:59.999Z",
+    "campaign": "WTCS Challenger Finals",
+    "start": "2026-11-19T12:03:13Z",
+    "end": "2026-11-26T12:02:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "WTCS Challenger League  Grand Finals - Twitch Drops Campaign",
-    "image": "/media/campaigns/images/6a7a897d-616f-4226-ae75-91846afbe2b3.jpeg",
+    "image": "/media/campaigns/images/5c9a0912-49dd-4c03-8391-d7970d6d3476.jpeg",
     "url": "https://warthunder.com/en/news/10331/current",
     "account_link": "https://gss.gaijin.net/en/",
-    "twitch_campaign_id": "6a7a897d-616f-4226-ae75-91846afbe2b3"
+    "twitch_campaign_id": "5c9a0912-49dd-4c03-8391-d7970d6d3476"
   },
   {
     "game": "WARDOGS",
@@ -1292,6 +1217,21 @@
   {
     "game": "World of Warships",
     "status": "live",
+    "campaign": "Update 15.10 Drop: Week 3",
+    "start": "2026-11-19T17:00:00Z",
+    "end": "2026-11-26T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The earliest sharks appeared roughly 450 million years ago, while the first true trees (like Archaeopteris) didn’t show up until around 385 million years ago. That means sharks were cruising the oceans for something like 60 million years before there was a single forest on land.",
+    "image": "/media/campaigns/images/e3d43de4-f705-4bcd-b626-d9dcae1abb88.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "e3d43de4-f705-4bcd-b626-d9dcae1abb88"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
     "campaign": "15.10 WOWS Channel Drop",
     "start": "2026-11-18T23:00:00Z",
     "end": "2026-11-25T22:59:59.999Z",
@@ -1303,21 +1243,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "9526362b-ca8e-4c99-9e87-4422ffc19865"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "Update 15.10 Drop: Week 2",
-    "start": "2026-11-12T17:00:00Z",
-    "end": "2026-11-19T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The earliest sharks appeared roughly 450 million years ago, while the first true trees (like Archaeopteris) didn’t show up until around 385 million years ago. That means sharks were cruising the oceans for something like 60 million years before there was a single forest on land.",
-    "image": "/media/campaigns/images/b8b6ea03-90ad-4426-a095-87283d6b8b2e.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "b8b6ea03-90ad-4426-a095-87283d6b8b2e"
   },
   {
     "game": "Wuthering Waves",
