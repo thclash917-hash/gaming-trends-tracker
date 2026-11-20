@@ -270,6 +270,21 @@
     "twitch_campaign_id": "4eb1e31f-a997-4517-ac91-dc32223c6bd3"
   },
   {
+    "game": "Eternal Return",
+    "status": "live",
+    "campaign": "S13 Glory Drops Tokens",
+    "start": "2026-11-19T20:00:00Z",
+    "end": "2026-11-20T19:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://twitch.playeternalreturn.com/",
+    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/378f12fe-3bee-4eea-adcf-c8df1e8b5920.png",
+    "url": "https://twitch.playeternalreturn.com/",
+    "account_link": "https://twitch.playeternalreturn.com/",
+    "twitch_campaign_id": "3ad64497-d3b8-4743-8aa4-5e3868686a5d"
+  },
+  {
     "game": "EVE Online",
     "status": "live",
     "campaign": "Fractured Skies Drop 3",
@@ -279,7 +294,7 @@
     "requirements": [],
     "rewards": [],
     "description": "Pick up this gorgeous State Regulator SKIN for the Corax Navy Issue!",
-    "image": "/media/campaigns/images/07958242-3e68-4552-8133-ffec41b7647d_BerIEgy.jpeg",
+    "image": "/media/campaigns/images/07958242-3e68-4552-8133-ffec41b7647d_oxBP8nr.jpeg",
     "url": "https://www.eveonline.com/twitch",
     "account_link": "https://www.eveonline.com/twitch",
     "twitch_campaign_id": "07958242-3e68-4552-8133-ffec41b7647d"
@@ -330,6 +345,21 @@
     "twitch_campaign_id": "e5de4c1a-c015-4b69-b1fd-d07786986c25"
   },
   {
+    "game": "Grand Theft Auto VI",
+    "status": "live",
+    "campaign": "Jordan x Space Jam",
+    "start": "2026-11-19T20:00:00Z",
+    "end": "2026-11-20T19:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by watching Jordan x Space Jam streams during TwitchCon San Diego 2026!",
+    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/d893f366-93d0-43ed-aafc-d71655b5d24e.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "f2c668e9-7d9c-46ca-9d30-2411679d26aa"
+  },
+  {
     "game": "GunZ: The Duel",
     "status": "live",
     "campaign": "Special Supply!",
@@ -375,6 +405,21 @@
     "twitch_campaign_id": "a013ca5d-a41b-4ead-a282-c78f6c2c3183"
   },
   {
+    "game": "Just Chatting",
+    "status": "live",
+    "campaign": "Jordan x Space Jam",
+    "start": "2026-11-19T19:40:00Z",
+    "end": "2026-11-20T19:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "This badge was earned by watching Jordan x Space Jam streams during TwitchCon San Diego 2026!",
+    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/f53a97db-49a8-413e-b372-5924bf3a2f43.png",
+    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
+    "account_link": "https://www.twitch.tv/",
+    "twitch_campaign_id": "eca86515-695e-4986-b3f5-ac8216ae025b"
+  },
+  {
     "game": "Kakele Online - MMORPG",
     "status": "live",
     "campaign": "Kakele Online - Nov 2",
@@ -418,6 +463,21 @@
     "url": "https://loftia.gg/twitch-drops",
     "account_link": "https://loftia.gg/account?tab=home#twitch-drops",
     "twitch_campaign_id": "d31f0a01-c61e-4170-bf68-60c9132efaaf"
+  },
+  {
+    "game": "Madden NFL 27",
+    "status": "live",
+    "campaign": "The Heist Open Directory",
+    "start": "2026-11-19T18:30:00Z",
+    "end": "2026-11-23T18:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch your favorite creators play Madden NFL 27 and earn some Twitch Drops to power up your Ultimate Team!",
+    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/3c3d1901-110b-435d-b490-e6cd67b1f913.png",
+    "url": "https://help.twitch.tv/s/article/mission-based-drops?language=en_US",
+    "account_link": "https://signin.ea.com/p/thirdparty/login?client_id=twitch_client&platformId=twitch",
+    "twitch_campaign_id": "67d1a94d-4cd7-4be7-9a00-45562682aae9"
   },
   {
     "game": "Mahjong Soul",
@@ -474,7 +534,7 @@
     "requirements": [],
     "rewards": [],
     "description": "Tune into your favorite streamers and gain exclusive drop rewards",
-    "image": "/media/campaigns/images/06d7e4d2-74a8-45f2-8a46-428186ed6560_ojj7dD6.png",
+    "image": "/media/campaigns/images/06d7e4d2-74a8-45f2-8a46-428186ed6560_WQOyy5Q.png",
     "url": "https://www.marvelrivals.com/twitchdrops/",
     "account_link": "https://www.marvelrivals.com/twitchdrops/",
     "twitch_campaign_id": "06d7e4d2-74a8-45f2-8a46-428186ed6560"
@@ -789,7 +849,7 @@
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/0437a509-0322-4126-ae95-b860f5360364_2LQna5E.png",
+    "image": "/media/campaigns/images/0437a509-0322-4126-ae95-b860f5360364_GVbk8FG.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "0437a509-0322-4126-ae95-b860f5360364"
@@ -930,6 +990,36 @@
     "twitch_campaign_id": "18bbdb90-e83b-4a8e-9587-417442c88880"
   },
   {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 224",
+    "start": "2026-11-19T17:59:00Z",
+    "end": "2026-11-20T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/ce93fffa-2fc0-47a8-92f4-5dadf792f1f4.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "156b3069-8ade-47d4-beed-fe2fc1ac89ff"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 653",
+    "start": "2026-11-19T17:59:00Z",
+    "end": "2026-11-20T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/02d090b3-8c71-4412-b04e-384db09f8b54.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "3afbb8f9-c259-41d6-b990-07adefea8067"
+  },
+  {
     "game": "Shakes and Fidget",
     "status": "live",
     "campaign": "Hellevator Drops 1/4",
@@ -943,21 +1033,6 @@
     "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
     "account_link": "https://sfgame.net/",
     "twitch_campaign_id": "6305a395-8e88-4513-9ea1-cb18d81ee112"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Droplets",
-    "start": "2026-11-13T15:00:00Z",
-    "end": "2026-11-19T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Droplets are additional drops to our main drop campaigns.",
-    "image": "/media/campaigns/images/903bdd2c-ec10-4bfb-b55a-7614349e2a7f.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "903bdd2c-ec10-4bfb-b55a-7614349e2a7f"
   },
   {
     "game": "Shroud of the Avatar: Forsaken Virtues",
@@ -1003,6 +1078,21 @@
     "url": "https://www.smite2.com/news/closed-alpha-twitch-drops/",
     "account_link": "https://link.smite2.com/",
     "twitch_campaign_id": "97008006-0e00-4be0-bc75-fd37f92e4880"
+  },
+  {
+    "game": "Splinterlands",
+    "status": "live",
+    "campaign": "November Week 3",
+    "start": "2026-11-17T17:00:00Z",
+    "end": "2026-12-01T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "November Week #3 Splinterlands Drop Campaign",
+    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/4cd0c801-d66e-4daa-8312-aab463982868.png",
+    "url": "https://peakd.com/splinterlands/@splinterlands/arena-fanatic-influencer-card-plus-twitch-drops",
+    "account_link": "https://splinterlands.com/user/account-socials",
+    "twitch_campaign_id": "5d8244aa-ac0f-4a98-9147-41a86e2e51b7"
   },
   {
     "game": "STALZONE",
@@ -1083,16 +1173,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-19T00:00:00Z",
-    "end": "2026-11-19T23:59:59.999Z",
+    "start": "2026-11-20T00:00:00Z",
+    "end": "2026-11-20T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/a9e539e9-2e1e-4c53-8327-f0eee4d77ca2.png",
+    "image": "https://static-cdn.jtvnw.net/twitch-quests-assets/CAMPAIGN/a9077f39-2f76-4ce8-b8f5-459512c9508f.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "a9e539e9-2e1e-4c53-8327-f0eee4d77ca2"
+    "twitch_campaign_id": "990b09d7-b352-4fc3-968d-2752a91395b9"
   },
   {
     "game": "UFL",
