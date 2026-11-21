@@ -30,6 +30,21 @@
     "twitch_campaign_id": "4eeaa002-6d1c-4a43-a195-a1b3de88b3c4"
   },
   {
+    "game": "Battlefield REDSEC",
+    "status": "live",
+    "campaign": "Open Series Finals",
+    "start": "2026-11-21T03:00:00Z",
+    "end": "2026-11-22T12:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Tune in and support your favorite creators streaming Battlefield REDSEC to unlock Twitch Drops celebrating the Open Series, where teams battle for a spot in the Elite Series.",
+    "image": "/media/campaigns/images/297d52d7-7960-4421-bab5-eda36a877039.png",
+    "url": "https://www.ea.com/games/battlefield/battlefield-6/event/bf6-twitch-drops",
+    "account_link": "https://ea.com/twitchlinking",
+    "twitch_campaign_id": "297d52d7-7960-4421-bab5-eda36a877039"
+  },
+  {
     "game": "BitCraft Online",
     "status": "live",
     "campaign": "1.0 Release",
@@ -43,6 +58,21 @@
     "url": "https://bitcraftonline.com/news/twitch-drops-november-13th-to-november-30th",
     "account_link": "https://bitcraftonline.com/account/settings",
     "twitch_campaign_id": "77f1b5a5-b1f1-4973-b252-65beb58b6693"
+  },
+  {
+    "game": "Black Desert",
+    "status": "live",
+    "campaign": "[ASIA] MC Qualifiers",
+    "start": "2026-11-21T05:00:00Z",
+    "end": "2026-11-21T16:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=20059",
+    "image": "/media/campaigns/images/8acc4fbf-77a1-483b-8627-6ba2f3531390.jpeg",
+    "url": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=20059",
+    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
+    "twitch_campaign_id": "8acc4fbf-77a1-483b-8627-6ba2f3531390"
   },
   {
     "game": "Black Desert",
@@ -255,6 +285,21 @@
     "twitch_campaign_id": "5acbe8a4-35f3-45c8-afaa-3f0483fd17bb"
   },
   {
+    "game": "Dragon Ball Legends",
+    "status": "live",
+    "campaign": "DRAGON BALL LEGEND: Vol.1",
+    "start": "2026-11-21T05:00:00Z",
+    "end": "2026-12-07T05:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "\"DRAGON BALL LEGENDS\" LEGENDS FESTIVAL 2026 Twitch Drops: Vol.1 is Here! \nDon't miss out on the chance to get in-game items such as Chrono Crystals!",
+    "image": "/media/campaigns/images/cb35d877-6cdc-469b-a540-a110082c829b.png",
+    "url": "https://dble.bn-ent.net/news/en/other/8381/",
+    "account_link": "https://account.bandainamcoid.com/sns.html?client_id=lgndsdt_ww&redirect_uri=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&backto=https%3A%2F%2Fwww.twitch.tv%2Fdrops%2Fcampaigns&sns=twitch",
+    "twitch_campaign_id": "cb35d877-6cdc-469b-a540-a110082c829b"
+  },
+  {
     "game": "EA Sports College Football 27",
     "status": "live",
     "campaign": "The Heist Open Directory",
@@ -303,16 +348,16 @@
     "game": "Eternal Return",
     "status": "live",
     "campaign": "S13 Glory Drops Tokens",
-    "start": "2026-11-19T20:00:00Z",
-    "end": "2026-11-20T19:59:59.999Z",
+    "start": "2026-11-20T20:00:00Z",
+    "end": "2026-11-21T19:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/3ad64497-d3b8-4743-8aa4-5e3868686a5d.png",
+    "image": "/media/campaigns/images/5ca03212-a6e8-4bae-ab60-4d07a1d02504.png",
     "url": "https://twitch.playeternalreturn.com/",
     "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "3ad64497-d3b8-4743-8aa4-5e3868686a5d"
+    "twitch_campaign_id": "5ca03212-a6e8-4bae-ab60-4d07a1d02504"
   },
   {
     "game": "EVE Online",
@@ -390,21 +435,6 @@
     "twitch_campaign_id": "e5de4c1a-c015-4b69-b1fd-d07786986c25"
   },
   {
-    "game": "Grand Theft Auto VI",
-    "status": "live",
-    "campaign": "Jordan x Space Jam",
-    "start": "2026-11-19T20:00:00Z",
-    "end": "2026-11-20T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned by watching Jordan x Space Jam streams during TwitchCon San Diego 2026!",
-    "image": "/media/campaigns/images/f2c668e9-7d9c-46ca-9d30-2411679d26aa.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "f2c668e9-7d9c-46ca-9d30-2411679d26aa"
-  },
-  {
     "game": "GunZ: The Duel",
     "status": "live",
     "campaign": "Special Supply!",
@@ -448,21 +478,6 @@
     "url": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
     "account_link": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
     "twitch_campaign_id": "a013ca5d-a41b-4ead-a282-c78f6c2c3183"
-  },
-  {
-    "game": "Just Chatting",
-    "status": "live",
-    "campaign": "Jordan x Space Jam",
-    "start": "2026-11-19T19:40:00Z",
-    "end": "2026-11-20T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "This badge was earned by watching Jordan x Space Jam streams during TwitchCon San Diego 2026!",
-    "image": "/media/campaigns/images/eca86515-695e-4986-b3f5-ac8216ae025b.png",
-    "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
-    "account_link": "https://www.twitch.tv/",
-    "twitch_campaign_id": "eca86515-695e-4986-b3f5-ac8216ae025b"
   },
   {
     "game": "Kakele Online - MMORPG",
@@ -1200,6 +1215,21 @@
     "twitch_campaign_id": "6305a395-8e88-4513-9ea1-cb18d81ee112"
   },
   {
+    "game": "SharkAttack",
+    "status": "live",
+    "campaign": "1000 Pearls Drop",
+    "start": "2026-11-21T01:30:34Z",
+    "end": "2026-11-26T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch VisionZ44 play SharkAttack to earn 1,000 Pearls - the in-game currency used to buy Shark DNA, combat buffs, and shop items. Connect your Twitch account below so your Pearls get credited automatically once you've watched long enough to unlock the drop.",
+    "image": "/media/campaigns/images/597acc95-f2c2-4e54-8f42-b99764967174.png",
+    "url": "https://visionz44.com",
+    "account_link": "https://visionz44.com/login",
+    "twitch_campaign_id": "597acc95-f2c2-4e54-8f42-b99764967174"
+  },
+  {
     "game": "Shroud of the Avatar: Forsaken Virtues",
     "status": "live",
     "campaign": "Spectator's Collection",
@@ -1338,16 +1368,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-20T00:00:00Z",
-    "end": "2026-11-20T23:59:59.999Z",
+    "start": "2026-11-21T00:00:00Z",
+    "end": "2026-11-21T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/990b09d7-b352-4fc3-968d-2752a91395b9.png",
+    "image": "/media/campaigns/images/ea854506-75d6-4ba9-aa30-9cb0b0fd4e37.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "990b09d7-b352-4fc3-968d-2752a91395b9"
+    "twitch_campaign_id": "ea854506-75d6-4ba9-aa30-9cb0b0fd4e37"
   },
   {
     "game": "UFL",
