@@ -90,36 +90,6 @@
     "twitch_campaign_id": "fbc82242-78b1-456a-8d97-1ab8facd990c"
   },
   {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "[RU] MC Qualifiers",
-    "start": "2026-11-21T10:00:00Z",
-    "end": "2026-11-21T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.ru.playblackdesert.com/News/Notice/Detail?boardNo=13255",
-    "image": "/media/campaigns/images/a1ad4800-5bac-41b3-953e-c3a3a5d673d5.jpeg",
-    "url": "https://www.ru.playblackdesert.com/News/Notice/Detail?boardNo=13255",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "a1ad4800-5bac-41b3-953e-c3a3a5d673d5"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
-    "campaign": "[ASIA] MC Qualifiers",
-    "start": "2026-11-21T05:00:00Z",
-    "end": "2026-11-21T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=20059",
-    "image": "/media/campaigns/images/8acc4fbf-77a1-483b-8627-6ba2f3531390.jpeg",
-    "url": "https://blackdesert.pearlabyss.com/Asia/en-US/News/Notice/Detail?_boardNo=20059",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "8acc4fbf-77a1-483b-8627-6ba2f3531390"
-  },
-  {
     "game": "Blue Protocol: Star Resonance",
     "status": "live",
     "campaign": "Season 4 Special Drops",
@@ -238,21 +208,6 @@
     "url": "https://littygames.net/drops",
     "account_link": "https://littygames.net/drops",
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
-  },
-  {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "November Drops",
-    "start": "2026-11-21T13:30:00Z",
-    "end": "2026-11-21T17:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/51e247cf-aeb5-4e09-ae34-2240bb531598.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "51e247cf-aeb5-4e09-ae34-2240bb531598"
   },
   {
     "game": "Delta Force",
@@ -377,32 +332,32 @@
   {
     "game": "Escape from Tarkov",
     "status": "live",
-    "campaign": "Tarkov City day 5",
-    "start": "2026-11-20T15:00:00Z",
-    "end": "2026-11-21T14:59:59.999Z",
+    "campaign": "Tarkov City day 6",
+    "start": "2026-11-21T15:00:00Z",
+    "end": "2026-11-22T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Word has it that everyone on the other side of the world is going crazy over palm trees, neon lights, and sunny coastlines right now. Palm trees are hard to come by in Tarkov, but there’s still a way to bring in some resort vibes! We are launching a Twitch Drops campaign where the main trophies will be two unique shirts for your PMC.",
-    "image": "/media/campaigns/images/e4ef3d44-7adf-45b4-bc11-f81a091473e0.jpeg",
+    "image": "/media/campaigns/images/734c8c5c-e538-478a-a200-c9c47c24b6bd.jpeg",
     "url": "https://www.escapefromtarkov.com/news/id/419",
     "account_link": "https://www.escapefromtarkov.com/profile",
-    "twitch_campaign_id": "e4ef3d44-7adf-45b4-bc11-f81a091473e0"
+    "twitch_campaign_id": "734c8c5c-e538-478a-a200-c9c47c24b6bd"
   },
   {
     "game": "Eternal Return",
     "status": "live",
     "campaign": "S13 Glory Drops Tokens",
-    "start": "2026-11-20T20:00:00Z",
-    "end": "2026-11-21T19:59:59.999Z",
+    "start": "2026-11-21T20:00:00Z",
+    "end": "2026-11-22T19:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/5ca03212-a6e8-4bae-ab60-4d07a1d02504.png",
+    "image": "/media/campaigns/images/726be8b2-61ed-4d08-89e9-40fd60b2161d.png",
     "url": "https://twitch.playeternalreturn.com/",
     "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "5ca03212-a6e8-4bae-ab60-4d07a1d02504"
+    "twitch_campaign_id": "726be8b2-61ed-4d08-89e9-40fd60b2161d"
   },
   {
     "game": "EVE Online",
@@ -433,6 +388,21 @@
     "url": "https://fishingplanet.com/around-the-planet-drops/",
     "account_link": "https://twitch.fishingplanet.com/",
     "twitch_campaign_id": "ed6f5985-31f5-4c33-99f6-883c00cc9e95"
+  },
+  {
+    "game": "Fortnite",
+    "status": "live",
+    "campaign": "Solo FNCS Reload",
+    "start": "2026-11-21T18:00:00Z",
+    "end": "2026-11-22T20:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "We're back with Solo FNCS! Watch for 30 minutes to get the Teal Knight's Kick Spray!",
+    "image": "/media/campaigns/images/a99cd3ff-5d55-4047-913f-bca0429d6c14.png",
+    "url": "https://www.fortnite.com/twitch-drops",
+    "account_link": "https://www.fortnite.com/twitch-drops",
+    "twitch_campaign_id": "a99cd3ff-5d55-4047-913f-bca0429d6c14"
   },
   {
     "game": "FragPunk",
@@ -553,6 +523,21 @@
     "url": "https://lolesports.com/en-US/",
     "account_link": "https://twitch.tv/settings/connections#riot-connection",
     "twitch_campaign_id": "53c80198-fa33-485d-9cc7-2af5c4771602"
+  },
+  {
+    "game": "Legion TD 2",
+    "status": "live",
+    "campaign": "November Nova Cup",
+    "start": "2026-11-21T17:30:00Z",
+    "end": "2026-11-22T23:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Nova Cup - Featuring 6000 Essence and a Random Card!",
+    "image": "/media/campaigns/images/d23ecd72-5922-4792-b207-399ca60a2d51.png",
+    "url": "https://store.steampowered.com/news/app/469600/view/703284199845528143",
+    "account_link": "https://beta.legiontd2.com/twitchdrops/",
+    "twitch_campaign_id": "d23ecd72-5922-4792-b207-399ca60a2d51"
   },
   {
     "game": "Madden NFL 27",
@@ -977,17 +962,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Comey 11/21/26",
+    "campaign": "JBiggs 11/21/26",
     "start": "2026-11-21T14:00:00Z",
     "end": "2026-11-22T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/65f9399d-2ded-43fb-a202-ea650d9b01eb.png",
+    "image": "/media/campaigns/images/03cbb73d-a22e-43bb-9a97-de157e62b799.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "65f9399d-2ded-43fb-a202-ea650d9b01eb"
+    "twitch_campaign_id": "03cbb73d-a22e-43bb-9a97-de157e62b799"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1007,6 +992,21 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
+    "campaign": "Comey 11/21/26",
+    "start": "2026-11-21T14:00:00Z",
+    "end": "2026-11-22T13:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
+    "image": "/media/campaigns/images/65f9399d-2ded-43fb-a202-ea650d9b01eb.png",
+    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
+    "account_link": "https://pt27.ootpdevelopments.com/twitch",
+    "twitch_campaign_id": "65f9399d-2ded-43fb-a202-ea650d9b01eb"
+  },
+  {
+    "game": "Out of the Park Baseball 27",
+    "status": "live",
     "campaign": "MaxLP 11/21/26",
     "start": "2026-11-21T14:00:00Z",
     "end": "2026-11-22T13:59:59.999Z",
@@ -1018,21 +1018,6 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "09c9e3de-f3a3-41eb-bdf4-c52417567068"
-  },
-  {
-    "game": "Out of the Park Baseball 27",
-    "status": "live",
-    "campaign": "JBiggs 11/21/26",
-    "start": "2026-11-21T14:00:00Z",
-    "end": "2026-11-22T13:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/03cbb73d-a22e-43bb-9a97-de157e62b799.png",
-    "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
-    "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "03cbb73d-a22e-43bb-9a97-de157e62b799"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1078,6 +1063,21 @@
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
     "twitch_campaign_id": "ab9c695d-dc4a-482e-be9a-ddc933984c53"
+  },
+  {
+    "game": "Overwatch",
+    "status": "live",
+    "campaign": "Collegiate Finals",
+    "start": "2026-11-21T18:00:00Z",
+    "end": "2026-11-23T07:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Celebrate the start of the Overwatch Collegiate Homecoming Playoffs with  special viewer rewards! Watch 30 minutes to get the Overwatch Collegiate 2026 Icon, watch 1 hours Zero-grav Studying Spray, watch 2 hours to get the Pachimarchives Name Card, watch 4 hours to get 1 Esports Loot Box, and watch 5 hours to get 1 Esports Loot Box",
+    "image": "/media/campaigns/images/3ff79c12-67c2-4a76-97f0-a2af9287efde.png",
+    "url": "https://esports.overwatch.com/en-us/rewards",
+    "account_link": "https://account.battle.net/connections",
+    "twitch_campaign_id": "3ff79c12-67c2-4a76-97f0-a2af9287efde"
   },
   {
     "game": "Overwatch",
@@ -1292,32 +1292,17 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 225",
-    "start": "2026-11-20T17:59:00Z",
-    "end": "2026-11-21T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/1819b0a0-9232-4cb2-b26d-f2e9f62d122e.png",
-    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "1819b0a0-9232-4cb2-b26d-f2e9f62d122e"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "ROW Drop 654",
-    "start": "2026-11-20T17:59:00Z",
-    "end": "2026-11-21T17:56:59.999Z",
+    "campaign": "ROW Drop 655",
+    "start": "2026-11-21T17:59:00Z",
+    "end": "2026-11-22T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/e7dd0bd2-77f6-4da0-8abb-69ef332a44a9.png",
+    "image": "/media/campaigns/images/1c12f665-2eaa-461d-aa8a-4323ed84d99f.jpeg",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "e7dd0bd2-77f6-4da0-8abb-69ef332a44a9"
+    "twitch_campaign_id": "1c12f665-2eaa-461d-aa8a-4323ed84d99f"
   },
   {
     "game": "Rocket League",
@@ -1603,21 +1588,6 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "c1b9bd2e-98cd-4ffe-b748-c2b3e48c5ecf"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "WCI Drops #1",
-    "start": "2026-11-21T08:30:00Z",
-    "end": "2026-11-21T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "WCI Drops #1",
-    "image": "/media/campaigns/images/8e425718-7d57-417d-9d86-78974a501534.jpeg",
-    "url": "https://worldoftanks.eu//news/competitive-gaming/wci-announcement-2026/",
-    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-    "twitch_campaign_id": "8e425718-7d57-417d-9d86-78974a501534"
   },
   {
     "game": "World of Tanks",
