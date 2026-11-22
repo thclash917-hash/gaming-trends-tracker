@@ -62,21 +62,6 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "[NAEU] MC Qualifiers",
-    "start": "2026-11-21T14:00:00Z",
-    "end": "2026-11-22T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10818",
-    "image": "/media/campaigns/images/b4d651cd-b2bf-4508-bc3b-693527b6bad9.jpeg",
-    "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=10818",
-    "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "b4d651cd-b2bf-4508-bc3b-693527b6bad9"
-  },
-  {
-    "game": "Black Desert",
-    "status": "live",
     "campaign": "Master Class 26 (Nov 21)",
     "start": "2026-11-21T12:00:00Z",
     "end": "2026-11-22T11:59:59.999Z",
@@ -1305,6 +1290,21 @@
     "twitch_campaign_id": "1c12f665-2eaa-461d-aa8a-4323ed84d99f"
   },
   {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "Mobile Drop 226",
+    "start": "2026-11-21T17:59:00Z",
+    "end": "2026-11-22T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/733663ed-f43e-47a7-9def-e9b9a200ada4.png",
+    "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "733663ed-f43e-47a7-9def-e9b9a200ada4"
+  },
+  {
     "game": "Rocket League",
     "status": "live",
     "campaign": "Club Kick-Off EU Opens",
@@ -1503,16 +1503,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-21T00:00:00Z",
-    "end": "2026-11-21T23:59:59.999Z",
+    "start": "2026-11-22T00:00:00Z",
+    "end": "2026-11-22T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/ea854506-75d6-4ba9-aa30-9cb0b0fd4e37.png",
+    "image": "/media/campaigns/images/afdd5f19-0305-4714-87a4-b5102b4bcbee.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "ea854506-75d6-4ba9-aa30-9cb0b0fd4e37"
+    "twitch_campaign_id": "afdd5f19-0305-4714-87a4-b5102b4bcbee"
   },
   {
     "game": "UFL",
