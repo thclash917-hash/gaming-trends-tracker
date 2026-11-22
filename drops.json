@@ -105,21 +105,6 @@
     "twitch_campaign_id": "e8c223e0-ea31-4313-ac42-f4fa3d589bc1"
   },
   {
-    "game": "Caliber",
-    "status": "live",
-    "campaign": "Пятница 20.11.2026",
-    "start": "2026-11-20T15:00:00Z",
-    "end": "2026-11-22T20:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Смотри прямые трансляции и получай награды!",
-    "image": "/media/campaigns/images/1c350e0c-d329-4347-8d62-39362db8bb5d.png",
-    "url": "https://playcaliber.com/",
-    "account_link": "https://playcaliber.com/",
-    "twitch_campaign_id": "1c350e0c-d329-4347-8d62-39362db8bb5d"
-  },
-  {
     "game": "Call of Duty: Warzone",
     "status": "live",
     "campaign": "Modern Warfare 4 Season 1",
@@ -183,16 +168,16 @@
     "game": "Coryphaeus Championships",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-22T13:00:00Z",
-    "end": "2026-11-22T17:29:59.999Z",
+    "start": "2026-11-22T22:00:00Z",
+    "end": "2026-11-23T01:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/12cf6a1b-aa3c-46b1-a836-c928e5825209.png",
+    "image": "/media/campaigns/images/6d460443-6a28-4552-a6a1-4eed0efdbeae.png",
     "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
     "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "12cf6a1b-aa3c-46b1-a836-c928e5825209"
+    "twitch_campaign_id": "6d460443-6a28-4552-a6a1-4eed0efdbeae"
   },
   {
     "game": "Delta Force",
@@ -317,32 +302,32 @@
   {
     "game": "Escape from Tarkov",
     "status": "live",
-    "campaign": "Tarkov City day 6",
-    "start": "2026-11-21T15:00:00Z",
-    "end": "2026-11-22T14:59:59.999Z",
+    "campaign": "Tarkov City day 7",
+    "start": "2026-11-22T15:00:00Z",
+    "end": "2026-11-23T14:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Word has it that everyone on the other side of the world is going crazy over palm trees, neon lights, and sunny coastlines right now. Palm trees are hard to come by in Tarkov, but there’s still a way to bring in some resort vibes! We are launching a Twitch Drops campaign where the main trophies will be two unique shirts for your PMC.",
-    "image": "/media/campaigns/images/734c8c5c-e538-478a-a200-c9c47c24b6bd.jpeg",
+    "image": "/media/campaigns/images/1f8ed4f5-06d1-4311-a2d8-9cca3987ecb6.jpeg",
     "url": "https://www.escapefromtarkov.com/news/id/419",
     "account_link": "https://www.escapefromtarkov.com/profile",
-    "twitch_campaign_id": "734c8c5c-e538-478a-a200-c9c47c24b6bd"
+    "twitch_campaign_id": "1f8ed4f5-06d1-4311-a2d8-9cca3987ecb6"
   },
   {
     "game": "Eternal Return",
     "status": "live",
     "campaign": "S13 Glory Drops Tokens",
-    "start": "2026-11-21T20:00:00Z",
-    "end": "2026-11-22T19:59:59.999Z",
+    "start": "2026-11-22T20:00:00Z",
+    "end": "2026-11-23T19:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/726be8b2-61ed-4d08-89e9-40fd60b2161d.png",
+    "image": "/media/campaigns/images/7f737bca-e7c6-4d92-82bd-40d063d66680.png",
     "url": "https://twitch.playeternalreturn.com/",
     "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "726be8b2-61ed-4d08-89e9-40fd60b2161d"
+    "twitch_campaign_id": "7f737bca-e7c6-4d92-82bd-40d063d66680"
   },
   {
     "game": "EVE Online",
@@ -373,21 +358,6 @@
     "url": "https://fishingplanet.com/around-the-planet-drops/",
     "account_link": "https://twitch.fishingplanet.com/",
     "twitch_campaign_id": "ed6f5985-31f5-4c33-99f6-883c00cc9e95"
-  },
-  {
-    "game": "Fortnite",
-    "status": "live",
-    "campaign": "Solo FNCS Reload",
-    "start": "2026-11-21T18:00:00Z",
-    "end": "2026-11-22T20:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "We're back with Solo FNCS! Watch for 30 minutes to get the Teal Knight's Kick Spray!",
-    "image": "/media/campaigns/images/a99cd3ff-5d55-4047-913f-bca0429d6c14.png",
-    "url": "https://www.fortnite.com/twitch-drops",
-    "account_link": "https://www.fortnite.com/twitch-drops",
-    "twitch_campaign_id": "a99cd3ff-5d55-4047-913f-bca0429d6c14"
   },
   {
     "game": "FragPunk",
@@ -718,21 +688,6 @@
     "url": "https://mistfallhunter.com/twitchdrops",
     "account_link": "https://mistfallhunter.com/twitchdrops",
     "twitch_campaign_id": "449b7d20-6674-46bd-930f-a8116d3e1024"
-  },
-  {
-    "game": "Mobile Dungeon",
-    "status": "live",
-    "campaign": "MD Drops Set 3",
-    "start": "2026-11-16T00:00:00Z",
-    "end": "2026-11-22T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/67d2e841-2419-48ec-876e-de8dfe2b1e1f.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
-    "account_link": "https://mobiledungeon.com/",
-    "twitch_campaign_id": "67d2e841-2419-48ec-876e-de8dfe2b1e1f"
   },
   {
     "game": "Modern Warships",
@@ -1172,47 +1127,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 655",
-    "start": "2026-11-21T17:59:00Z",
-    "end": "2026-11-22T17:56:59.999Z",
+    "campaign": "ROW Drop 656",
+    "start": "2026-11-22T17:59:00Z",
+    "end": "2026-11-23T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/1c12f665-2eaa-461d-aa8a-4323ed84d99f.jpeg",
+    "image": "/media/campaigns/images/abe3a8b2-e5ee-4e58-bd0c-7514f742961b.png",
     "url": "https://www.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "1c12f665-2eaa-461d-aa8a-4323ed84d99f"
+    "twitch_campaign_id": "abe3a8b2-e5ee-4e58-bd0c-7514f742961b"
   },
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "Mobile Drop 226",
-    "start": "2026-11-21T17:59:00Z",
-    "end": "2026-11-22T17:56:59.999Z",
+    "campaign": "Mobile Drop 227",
+    "start": "2026-11-22T17:59:00Z",
+    "end": "2026-11-23T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/733663ed-f43e-47a7-9def-e9b9a200ada4.png",
+    "image": "/media/campaigns/images/4aa62ddf-10d7-45cc-b153-483901e1104f.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "733663ed-f43e-47a7-9def-e9b9a200ada4"
-  },
-  {
-    "game": "Rocket League",
-    "status": "live",
-    "campaign": "Club Kick-Off EU Opens",
-    "start": "2026-11-20T14:30:00Z",
-    "end": "2026-11-22T20:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the RLCS Club Championship Kick-off to earn Drops!",
-    "image": "/media/campaigns/images/fde1ca04-981e-44d1-badb-a808983ccf45.png",
-    "url": "https://www.epicgames.com/account/connections",
-    "account_link": "https://www.epicgames.com/account/connections",
-    "twitch_campaign_id": "fde1ca04-981e-44d1-badb-a808983ccf45"
+    "twitch_campaign_id": "4aa62ddf-10d7-45cc-b153-483901e1104f"
   },
   {
     "game": "Shakes and Fidget",
@@ -1228,21 +1168,6 @@
     "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
     "account_link": "https://sfgame.net/",
     "twitch_campaign_id": "cc67d7be-14c9-4c14-a0db-a97db5763301"
-  },
-  {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "Hellevator Drops 1/4",
-    "start": "2026-11-19T15:00:00Z",
-    "end": "2026-11-22T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/6305a395-8e88-4513-9ea1-cb18d81ee112.jpeg",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "6305a395-8e88-4513-9ea1-cb18d81ee112"
   },
   {
     "game": "SharkAttack",
@@ -1483,21 +1408,6 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "c1b9bd2e-98cd-4ffe-b748-c2b3e48c5ecf"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "WCI Drops #2",
-    "start": "2026-11-22T08:30:00Z",
-    "end": "2026-11-22T18:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "WCI Drops #2",
-    "image": "/media/campaigns/images/2affb3ea-118a-471f-bcc5-ddd7f5e316ef.jpeg",
-    "url": "https://worldoftanks.eu//news/competitive-gaming/wci-announcement-2026/",
-    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-    "twitch_campaign_id": "2affb3ea-118a-471f-bcc5-ddd7f5e316ef"
   },
   {
     "game": "World of Tanks",
