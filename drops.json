@@ -165,36 +165,6 @@
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "November Drops",
-    "start": "2026-11-22T22:00:00Z",
-    "end": "2026-11-23T01:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/6d460443-6a28-4552-a6a1-4eed0efdbeae.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "6d460443-6a28-4552-a6a1-4eed0efdbeae"
-  },
-  {
-    "game": "Delta Force",
-    "status": "live",
-    "campaign": "Streamer Ladder Season2",
-    "start": "2026-11-18T00:00:00Z",
-    "end": "2026-11-22T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch DELTA FORCE STREAMER LADDER S2 live on Twitch. Streamers worldwide are climbing one Global Leaderboard through open matchmaking, competing for a share of $50,000 in cash prizes. 100+ streamers have already joined.",
-    "image": "/media/campaigns/images/dac9ae29-4844-4d8d-a515-791d55adb897.png",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "dac9ae29-4844-4d8d-a515-791d55adb897"
-  },
-  {
     "game": "Delta Force",
     "status": "live",
     "campaign": "SEASON AURORA - WARFARE",
@@ -480,21 +450,6 @@
     "twitch_campaign_id": "53c80198-fa33-485d-9cc7-2af5c4771602"
   },
   {
-    "game": "Legion TD 2",
-    "status": "live",
-    "campaign": "November Nova Cup",
-    "start": "2026-11-21T17:30:00Z",
-    "end": "2026-11-22T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Nova Cup - Featuring 6000 Essence and a Random Card!",
-    "image": "/media/campaigns/images/d23ecd72-5922-4792-b207-399ca60a2d51.png",
-    "url": "https://store.steampowered.com/news/app/469600/view/703284199845528143",
-    "account_link": "https://beta.legiontd2.com/twitchdrops/",
-    "twitch_campaign_id": "d23ecd72-5922-4792-b207-399ca60a2d51"
-  },
-  {
     "game": "Madden NFL 27",
     "status": "live",
     "campaign": "The Heist Open Directory",
@@ -615,21 +570,6 @@
     "twitch_campaign_id": "a1fbeb48-f98d-49d4-845c-9591328aae55"
   },
   {
-    "game": "Metin2",
-    "status": "live",
-    "campaign": "M2: Yohara Server 2026",
-    "start": "2026-11-13T11:00:00Z",
-    "end": "2026-11-22T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Stream on the upcoming Winter servers and enjoy some extra drops for your community! As the adventure continues in Metin2, it’s the perfect time to hop into the action, discover new rewards, and share the journey together. Don’t miss the Hero Drops campaign, where you have the chance to earn giveaway coupons for your community! Coupons are available in limited quantities and will be distributed until they run out. https://gf.link/m2creators",
-    "image": "/media/campaigns/images/5895dfbc-6083-4d01-a4cc-5217bc02dfe8.png",
-    "url": "https://play.metin2.gameforge.com/twitchdrops?kid=e-02007-a0w07-2408-e90000be",
-    "account_link": "https://play.metin2.gameforge.com/twitchdrops?kid=e-02007-a0w07-2408-e90000be",
-    "twitch_campaign_id": "5895dfbc-6083-4d01-a4cc-5217bc02dfe8"
-  },
-  {
     "game": "Mir Korabley",
     "status": "live",
     "campaign": "Обновление 26.11: Часть 4",
@@ -690,19 +630,34 @@
     "twitch_campaign_id": "449b7d20-6674-46bd-930f-a8116d3e1024"
   },
   {
-    "game": "Modern Warships",
+    "game": "Mobile Dungeon",
     "status": "live",
-    "campaign": "Weekly Supply Drops #42",
-    "start": "2026-11-16T00:00:00Z",
-    "end": "2026-11-22T23:29:59.999Z",
+    "campaign": "MD Drops Set 4",
+    "start": "2026-11-23T00:00:00Z",
+    "end": "2026-11-29T21:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "MW Weekly Supply Drops — watch Modern Warships streams and earn weekly useful bonuses with no long watch-time marathons.",
-    "image": "/media/campaigns/images/f4a93507-95a8-40b3-8671-db13af2b0519.png",
-    "url": "https://artstorm.com/news/weekly-supply-drops-on-twitch",
-    "account_link": "https://artstorm.com/cabinet/connect-twitch",
-    "twitch_campaign_id": "f4a93507-95a8-40b3-8671-db13af2b0519"
+    "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/49c5f79c-d28f-4196-98ed-2a194b00e01a.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
+    "account_link": "https://mobiledungeon.com/",
+    "twitch_campaign_id": "49c5f79c-d28f-4196-98ed-2a194b00e01a"
+  },
+  {
+    "game": "Mobile Dungeon",
+    "status": "live",
+    "campaign": "MD Drops Set 4",
+    "start": "2026-11-23T00:00:00Z",
+    "end": "2026-11-29T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/f8f2e316-2d4a-4469-b870-58ed7c102ee8.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
+    "account_link": "https://mobiledungeon.com/",
+    "twitch_campaign_id": "f8f2e316-2d4a-4469-b870-58ed7c102ee8"
   },
   {
     "game": "Modern Warships",
@@ -737,17 +692,17 @@
   {
     "game": "NARAKA: BLADEPOINT",
     "status": "live",
-    "campaign": "JS2 Weekly 11.16",
-    "start": "2026-11-16T04:00:00Z",
-    "end": "2026-11-23T03:59:59.999Z",
+    "campaign": "JS2 Weekly 11.23",
+    "start": "2026-11-23T04:00:00Z",
+    "end": "2026-11-30T03:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch livestreams to claim your drops!",
-    "image": "/media/campaigns/images/53320415-7aab-41eb-84cd-f59a9e448cef.png",
+    "image": "/media/campaigns/images/9b4955cb-d777-4cdf-aea7-5b6369ac0937.png",
     "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
     "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
-    "twitch_campaign_id": "53320415-7aab-41eb-84cd-f59a9e448cef"
+    "twitch_campaign_id": "9b4955cb-d777-4cdf-aea7-5b6369ac0937"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1323,16 +1278,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-22T00:00:00Z",
-    "end": "2026-11-22T23:59:59.999Z",
+    "start": "2026-11-23T00:00:00Z",
+    "end": "2026-11-23T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/afdd5f19-0305-4714-87a4-b5102b4bcbee.png",
+    "image": "/media/campaigns/images/b094def0-7132-4b44-b273-ff0b180cd282.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "afdd5f19-0305-4714-87a4-b5102b4bcbee"
+    "twitch_campaign_id": "b094def0-7132-4b44-b273-ff0b180cd282"
   },
   {
     "game": "UFL",
