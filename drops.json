@@ -2,21 +2,6 @@
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 8 - #1/7",
-    "start": "2026-11-23T10:00:00Z",
-    "end": "2026-11-24T09:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/3b864859-e4c7-42e4-a231-fafa2f32afd6.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "3b864859-e4c7-42e4-a231-fafa2f32afd6"
-  },
-  {
-    "game": "Albion Online",
-    "status": "live",
     "campaign": "Dragonfire 13 - #1/7",
     "start": "2026-11-23T10:00:00Z",
     "end": "2026-11-24T09:29:59.999Z",
@@ -28,6 +13,21 @@
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
     "twitch_campaign_id": "de4f964a-1f45-4866-a70d-4746b0d1f8f0"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 8 - #1/7",
+    "start": "2026-11-23T10:00:00Z",
+    "end": "2026-11-24T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
+    "image": "/media/campaigns/images/3b864859-e4c7-42e4-a231-fafa2f32afd6.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "3b864859-e4c7-42e4-a231-fafa2f32afd6"
   },
   {
     "game": "Apex Legends",
@@ -180,21 +180,6 @@
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "November Drops",
-    "start": "2026-11-23T20:30:00Z",
-    "end": "2026-11-24T00:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/32c8544e-c7b9-4155-a8b8-17d910d41ecc.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "32c8544e-c7b9-4155-a8b8-17d910d41ecc"
-  },
-  {
     "game": "Delta Force",
     "status": "live",
     "campaign": "SEASON AURORA - WARFARE",
@@ -343,21 +328,6 @@
     "url": "https://www.fragpunk.com/twitchdrops/",
     "account_link": "https://www.fragpunk.com/account/",
     "twitch_campaign_id": "171c990c-5259-4670-93d0-58fd6e167342"
-  },
-  {
-    "game": "Genshin Impact",
-    "status": "live",
-    "campaign": "V7.2 Genshin Impact Drops",
-    "start": "2026-11-04T03:00:00Z",
-    "end": "2026-11-24T03:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Genshin Impact Drops",
-    "image": "/media/campaigns/images/9844bbb4-2a3f-4525-80a6-e1b7c314d50c.png",
-    "url": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
-    "account_link": "https://act.hoyoverse.com/ys/event/e20220511twitchdrops/index.html?mhy_auth_required=true",
-    "twitch_campaign_id": "9844bbb4-2a3f-4525-80a6-e1b7c314d50c"
   },
   {
     "game": "Goblin Cleanup",
@@ -600,34 +570,19 @@
     "twitch_campaign_id": "38dafced-e09d-4f62-8228-80f179efc3fd"
   },
   {
-    "game": "Mistfall Hunter",
+    "game": "Mobile Dungeon",
     "status": "live",
-    "campaign": "Drop 11/17-11/24",
-    "start": "2026-11-17T08:00:00Z",
-    "end": "2026-11-24T07:59:59.999Z",
+    "campaign": "MD Drops Set 4",
+    "start": "2026-11-23T00:00:00Z",
+    "end": "2026-11-29T21:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Drop 11/17-11/24",
-    "image": "/media/campaigns/images/fb4fdeef-7147-48df-8e71-54fbb07bcc5f.jpeg",
-    "url": "https://mistfallhunter.com/twitchdrops",
-    "account_link": "https://mistfallhunter.com/twitchdrops",
-    "twitch_campaign_id": "fb4fdeef-7147-48df-8e71-54fbb07bcc5f"
-  },
-  {
-    "game": "Mistfall Hunter",
-    "status": "live",
-    "campaign": "CreatorDrop 11/17-11/24",
-    "start": "2026-11-17T08:00:00Z",
-    "end": "2026-11-24T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "CreatorDrop 11/17-11/24",
-    "image": "/media/campaigns/images/449b7d20-6674-46bd-930f-a8116d3e1024.png",
-    "url": "https://mistfallhunter.com/twitchdrops",
-    "account_link": "https://mistfallhunter.com/twitchdrops",
-    "twitch_campaign_id": "449b7d20-6674-46bd-930f-a8116d3e1024"
+    "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/f8f2e316-2d4a-4469-b870-58ed7c102ee8.png",
+    "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
+    "account_link": "https://mobiledungeon.com/",
+    "twitch_campaign_id": "f8f2e316-2d4a-4469-b870-58ed7c102ee8"
   },
   {
     "game": "Mobile Dungeon",
@@ -643,21 +598,6 @@
     "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
     "account_link": "https://mobiledungeon.com/",
     "twitch_campaign_id": "49c5f79c-d28f-4196-98ed-2a194b00e01a"
-  },
-  {
-    "game": "Mobile Dungeon",
-    "status": "live",
-    "campaign": "MD Drops Set 4",
-    "start": "2026-11-23T00:00:00Z",
-    "end": "2026-11-29T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch the official Mobile Dungeon stream on Twitch to obtain unique Drops.",
-    "image": "/media/campaigns/images/f8f2e316-2d4a-4469-b870-58ed7c102ee8.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/463-twitch-drops/",
-    "account_link": "https://mobiledungeon.com/",
-    "twitch_campaign_id": "f8f2e316-2d4a-4469-b870-58ed7c102ee8"
   },
   {
     "game": "Modern Warships",
@@ -703,6 +643,21 @@
     "url": "https://monsterhunteroutlanders.com/act/mhotwitchdrops/index.html ",
     "account_link": "https://monsterhunteroutlanders.com/act/mhotwitchdrops/index.html ",
     "twitch_campaign_id": "2cc95940-886e-42a2-9dee-23269cabfa47"
+  },
+  {
+    "game": "NARAKA: BLADEPOINT",
+    "status": "live",
+    "campaign": "J cup 11.24",
+    "start": "2026-11-24T08:00:00Z",
+    "end": "2026-11-24T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch livestreams to claim your drops!",
+    "image": "/media/campaigns/images/5b10e129-4cfd-4bfd-b4a0-818cb2bd30eb.png",
+    "url": "https://www.narakathegame.com/news/official/20250723/32172_1249209.html",
+    "account_link": "https://www.narakathegame.com/news/guide/20230710/35647_1097721.html",
+    "twitch_campaign_id": "5b10e129-4cfd-4bfd-b4a0-818cb2bd30eb"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -913,66 +868,6 @@
     "url": "https://pocoloco.app/",
     "account_link": "https://pocoloco.app/twitch-drops/connect",
     "twitch_campaign_id": "fc3593f1-d0b8-40f6-88ef-e407f4dc4877"
-  },
-  {
-    "game": "Pokémon Champions",
-    "status": "live",
-    "campaign": "2027 LAIC VGC Co-Stream",
-    "start": "2026-11-20T12:00:00Z",
-    "end": "2026-11-24T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://trainer.pokemon.com/rewards",
-    "image": "/media/campaigns/images/d759b9c2-a388-412e-8b2a-836853c68903.png",
-    "url": "https://trainer.pokemon.com/rewards",
-    "account_link": "https://trainer.pokemon.com/rewards",
-    "twitch_campaign_id": "d759b9c2-a388-412e-8b2a-836853c68903"
-  },
-  {
-    "game": "Pokémon Champions",
-    "status": "live",
-    "campaign": "2027 LAIC VGC Drops",
-    "start": "2026-11-20T11:30:00Z",
-    "end": "2026-11-24T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://trainer.pokemon.com/rewards",
-    "image": "/media/campaigns/images/ce0b00b7-4834-4ab2-b82a-485cd461c20f.png",
-    "url": "https://trainer.pokemon.com/rewards",
-    "account_link": "https://trainer.pokemon.com/rewards",
-    "twitch_campaign_id": "ce0b00b7-4834-4ab2-b82a-485cd461c20f"
-  },
-  {
-    "game": "Pokémon GO",
-    "status": "live",
-    "campaign": "2027 LAIC GO Drops",
-    "start": "2026-11-20T11:30:00Z",
-    "end": "2026-11-24T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://trainer.pokemon.com/rewards",
-    "image": "/media/campaigns/images/888ff71d-2e55-45a4-92a7-7df26ff827f6.png",
-    "url": "https://trainer.pokemon.com/rewards",
-    "account_link": "https://trainer.pokemon.com/rewards",
-    "twitch_campaign_id": "888ff71d-2e55-45a4-92a7-7df26ff827f6"
-  },
-  {
-    "game": "Pokémon Trading Card Game",
-    "status": "live",
-    "campaign": "2027 LAIC TCG Co-Stream",
-    "start": "2026-11-20T12:00:00Z",
-    "end": "2026-11-24T07:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://trainer.pokemon.com/rewards",
-    "image": "/media/campaigns/images/7adbf085-048e-44fe-8c22-0a82b44bb94d.png",
-    "url": "https://trainer.pokemon.com/rewards",
-    "account_link": "https://trainer.pokemon.com/rewards",
-    "twitch_campaign_id": "7adbf085-048e-44fe-8c22-0a82b44bb94d"
   },
   {
     "game": "Pokémon Trading Card Game Live",
@@ -1278,16 +1173,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-23T00:00:00Z",
-    "end": "2026-11-23T23:59:59.999Z",
+    "start": "2026-11-24T00:00:00Z",
+    "end": "2026-11-24T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/b094def0-7132-4b44-b273-ff0b180cd282.png",
+    "image": "/media/campaigns/images/2ca76aff-14bd-49ff-8c9a-ddfca4257233.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "b094def0-7132-4b44-b273-ff0b180cd282"
+    "twitch_campaign_id": "2ca76aff-14bd-49ff-8c9a-ddfca4257233"
   },
   {
     "game": "UFL",
