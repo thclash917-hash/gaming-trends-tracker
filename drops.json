@@ -45,6 +45,21 @@
     "twitch_campaign_id": "4eeaa002-6d1c-4a43-a195-a1b3de88b3c4"
   },
   {
+    "game": "ARKNIGHTS: ENDFIELD",
+    "status": "live",
+    "campaign": "In The World o'Shrooms",
+    "start": "2026-11-25T02:00:00Z",
+    "end": "2026-12-23T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Join the Arknights: Endfield Twitch Drops event and treat your community to exclusive rewards just for watching!",
+    "image": "/media/campaigns/images/523c63f8-d18c-4cad-8ca6-ad2500fee934.png",
+    "url": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
+    "account_link": "https://endfield.gryphline.com/special/third-party-binding?channel=twitch",
+    "twitch_campaign_id": "523c63f8-d18c-4cad-8ca6-ad2500fee934"
+  },
+  {
     "game": "BitCraft Online",
     "status": "live",
     "campaign": "1.0 Release",
@@ -193,21 +208,6 @@
     "url": "https://littygames.net/drops",
     "account_link": "https://littygames.net/drops",
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
-  },
-  {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "November Drops",
-    "start": "2026-11-24T18:00:00Z",
-    "end": "2026-11-24T22:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/c6947f48-f421-426d-b7b7-e2afeb7f842b.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "c6947f48-f421-426d-b7b7-e2afeb7f842b"
   },
   {
     "game": "Dead by Daylight",
@@ -418,21 +418,6 @@
     "url": "https://gz.ludenus.com/drops",
     "account_link": "https://gz-drops.masanggames.com/link",
     "twitch_campaign_id": "aa5f8e60-9485-42c4-8ae7-48538dcc8ffa"
-  },
-  {
-    "game": "Hearthstone",
-    "status": "live",
-    "campaign": "BGs Challenge Day 1",
-    "start": "2026-11-24T17:00:00Z",
-    "end": "2026-11-24T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Join host Shadybunny as 16 of your favorite Battlegrounds players put their skills to the test in Season 15! Earn up to 4 Battlegrounds tokens each day through Twitch Drops.",
-    "image": "/media/campaigns/images/3f0695b5-fd87-450a-9348-edfa7e022485.png",
-    "url": "https://hearthstone.blizzard.com/news/24301454",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "3f0695b5-fd87-450a-9348-edfa7e022485"
   },
   {
     "game": "Honkai: Star Rail",
@@ -1050,21 +1035,6 @@
     "twitch_campaign_id": "03e6e0fc-d810-471e-b703-02abb91fbe56"
   },
   {
-    "game": "Rocket League",
-    "status": "live",
-    "campaign": "The Chalked Rank $10K",
-    "start": "2026-11-24T20:32:56Z",
-    "end": "2026-11-25T00:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch The Chalked Rank $10k for a chance to earn drops!",
-    "image": "/media/campaigns/images/30bb9847-7b7e-47b2-b282-78c4846a44a4.jpeg",
-    "url": "https://www.epicgames.com/account/connections",
-    "account_link": "https://www.epicgames.com/account/connections",
-    "twitch_campaign_id": "30bb9847-7b7e-47b2-b282-78c4846a44a4"
-  },
-  {
     "game": "Rush Royale",
     "status": "live",
     "campaign": "Call of the Wild!",
@@ -1263,16 +1233,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-24T00:00:00Z",
-    "end": "2026-11-24T23:59:59.999Z",
+    "start": "2026-11-25T00:00:00Z",
+    "end": "2026-11-25T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/2ca76aff-14bd-49ff-8c9a-ddfca4257233.png",
+    "image": "/media/campaigns/images/93e93320-7bc9-40f9-9095-b991d4836175.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "2ca76aff-14bd-49ff-8c9a-ddfca4257233"
+    "twitch_campaign_id": "93e93320-7bc9-40f9-9095-b991d4836175"
   },
   {
     "game": "UFL",
@@ -1348,21 +1318,6 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "c1b9bd2e-98cd-4ffe-b748-c2b3e48c5ecf"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
-    "campaign": "Dakillzor Drops",
-    "start": "2026-11-24T12:00:00Z",
-    "end": "2026-11-24T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Dakillzor Drops",
-    "image": "/media/campaigns/images/4952f0ac-0ca8-4fc8-8638-86a66ee674d1.jpeg",
-    "url": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-    "twitch_campaign_id": "4952f0ac-0ca8-4fc8-8638-86a66ee674d1"
   },
   {
     "game": "World of Tanks",

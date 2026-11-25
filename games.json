@@ -2,7 +2,7 @@
   {
     "name": "Counter-Strike 2",
     "platform": "Steam",
-    "metric": 661576,
+    "metric": 503557,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
@@ -16,7 +16,7 @@
   {
     "name": "Dota 2",
     "platform": "Steam",
-    "metric": 511074,
+    "metric": 418987,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
@@ -30,7 +30,7 @@
   {
     "name": "PUBG: BATTLEGROUNDS",
     "platform": "Steam",
-    "metric": 121781,
+    "metric": 292939,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
@@ -42,86 +42,9 @@
     "id": 3
   },
   {
-    "name": "Dead by Daylight",
-    "platform": "Steam",
-    "metric": 63658,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
-    "appid": 381210,
-    "drops_enabled": true,
-    "drops": [
-      {
-        "game": "Dead by Daylight",
-        "status": "live",
-        "campaign": "DbD: Terrifier",
-        "start": "2026-11-24T16:01:00Z",
-        "end": "2026-12-22T16:00:59.999Z",
-        "watch_time": "",
-        "requirements": [],
-        "rewards": [],
-        "description": "Earn exclusive Twitch Drops by watching any channel streaming Dead by Daylight between November 24 - December 31 to celebrate the release of the new Terrifier Chapter.",
-        "image": "/media/campaigns/images/55b465d9-9e42-4720-a626-6abc6977eb24.jpeg",
-        "url": "https://account.bhvr.com/twitch/dbd",
-        "account_link": "https://account.bhvr.com/twitch/dbd",
-        "twitch_campaign_id": "55b465d9-9e42-4720-a626-6abc6977eb24"
-      }
-    ],
-    "badges": [
-      {
-        "name": "Drop actif",
-        "icon": "🎁"
-      }
-    ],
-    "emotes": [],
-    "id": 4
-  },
-  {
-    "name": "Cyberpunk 2077",
-    "platform": "Steam",
-    "metric": 63357,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
-    "appid": 1091500,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 5
-  },
-  {
-    "name": "Rust",
-    "platform": "Steam",
-    "metric": 62414,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
-    "appid": 252490,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 6
-  },
-  {
-    "name": "Grand Theft Auto V",
-    "platform": "Steam",
-    "metric": 51291,
-    "metric_label": "Joueurs actifs",
-    "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
-    "appid": 271590,
-    "drops_enabled": false,
-    "drops": [],
-    "badges": [],
-    "emotes": [],
-    "id": 7
-  },
-  {
     "name": "Apex Legends",
     "platform": "Steam",
-    "metric": 51287,
+    "metric": 86161,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
@@ -151,12 +74,89 @@
       }
     ],
     "emotes": [],
+    "id": 4
+  },
+  {
+    "name": "Rust",
+    "platform": "Steam",
+    "metric": 44729,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
+    "appid": 252490,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 5
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "platform": "Steam",
+    "metric": 43541,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+    "appid": 271590,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 6
+  },
+  {
+    "name": "Cyberpunk 2077",
+    "platform": "Steam",
+    "metric": 41661,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+    "appid": 1091500,
+    "drops_enabled": false,
+    "drops": [],
+    "badges": [],
+    "emotes": [],
+    "id": 7
+  },
+  {
+    "name": "Dead by Daylight",
+    "platform": "Steam",
+    "metric": 36458,
+    "metric_label": "Joueurs actifs",
+    "trend": "+0%",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
+    "appid": 381210,
+    "drops_enabled": true,
+    "drops": [
+      {
+        "game": "Dead by Daylight",
+        "status": "live",
+        "campaign": "DbD: Terrifier",
+        "start": "2026-11-24T16:01:00Z",
+        "end": "2026-12-22T16:00:59.999Z",
+        "watch_time": "",
+        "requirements": [],
+        "rewards": [],
+        "description": "Earn exclusive Twitch Drops by watching any channel streaming Dead by Daylight between November 24 - December 31 to celebrate the release of the new Terrifier Chapter.",
+        "image": "/media/campaigns/images/55b465d9-9e42-4720-a626-6abc6977eb24.jpeg",
+        "url": "https://account.bhvr.com/twitch/dbd",
+        "account_link": "https://account.bhvr.com/twitch/dbd",
+        "twitch_campaign_id": "55b465d9-9e42-4720-a626-6abc6977eb24"
+      }
+    ],
+    "badges": [
+      {
+        "name": "Drop actif",
+        "icon": "🎁"
+      }
+    ],
+    "emotes": [],
     "id": 8
   },
   {
     "name": "Baldur's Gate 3",
     "platform": "Steam",
-    "metric": 35479,
+    "metric": 19703,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
@@ -168,13 +168,13 @@
     "id": 9
   },
   {
-    "name": "Left 4 Dead 2",
+    "name": "Terraria",
     "platform": "Steam",
-    "metric": 19728,
+    "metric": 18771,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
-    "appid": 550,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "appid": 105600,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -182,13 +182,13 @@
     "id": 10
   },
   {
-    "name": "Helldivers 2",
+    "name": "Palworld",
     "platform": "Steam",
-    "metric": 19094,
+    "metric": 18023,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
-    "appid": 553850,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
+    "appid": 1623730,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -196,13 +196,13 @@
     "id": 11
   },
   {
-    "name": "Terraria",
+    "name": "Left 4 Dead 2",
     "platform": "Steam",
-    "metric": 18798,
+    "metric": 14022,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
-    "appid": 105600,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
+    "appid": 550,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -212,7 +212,7 @@
   {
     "name": "Elden Ring",
     "platform": "Steam",
-    "metric": 17688,
+    "metric": 13931,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
@@ -245,13 +245,13 @@
     "id": 13
   },
   {
-    "name": "Palworld",
+    "name": "Helldivers 2",
     "platform": "Steam",
-    "metric": 17372,
+    "metric": 13863,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
-    "appid": 1623730,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+    "appid": 553850,
     "drops_enabled": false,
     "drops": [],
     "badges": [],
@@ -261,7 +261,7 @@
   {
     "name": "Monster Hunter: World",
     "platform": "Steam",
-    "metric": 4822,
+    "metric": 7395,
     "metric_label": "Joueurs actifs",
     "trend": "+0%",
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
