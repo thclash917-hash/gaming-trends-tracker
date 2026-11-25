@@ -1,33 +1,48 @@
 [
   {
-    "game": "Albion Online",
+    "game": "AION 2",
     "status": "live",
-    "campaign": "Dragonfire 13 - #2/7",
-    "start": "2026-11-24T10:00:00Z",
-    "end": "2026-11-25T09:29:59.999Z",
+    "campaign": "Daevasgiving",
+    "start": "2026-11-25T14:00:00Z",
+    "end": "2026-12-10T07:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
-    "image": "/media/campaigns/images/7dcf4961-a6a2-4e38-890f-fa536d7d8ea4.png",
-    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
-    "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "7dcf4961-a6a2-4e38-890f-fa536d7d8ea4"
+    "description": "Watch any AION 2 stream to earn exclusive in-game rewards.",
+    "image": "/media/campaigns/images/adcacfb0-ca55-49cf-9f65-56efbcfc9334.png",
+    "url": "https://aion2.plaync.com/en-us/twitchdrops/index",
+    "account_link": "https://id.plaync.com/account/connect/twitch?appGroupCode=aion2global",
+    "twitch_campaign_id": "adcacfb0-ca55-49cf-9f65-56efbcfc9334"
   },
   {
     "game": "Albion Online",
     "status": "live",
-    "campaign": "AOCP Flamescale 8 - #2/7",
-    "start": "2026-11-24T10:00:00Z",
-    "end": "2026-11-25T09:29:59.999Z",
+    "campaign": "Dragonfire 13 - #3/7",
+    "start": "2026-11-25T10:00:00Z",
+    "end": "2026-11-26T09:29:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Earn exclusive rewards by watching Albion Online livestreams!",
+    "image": "/media/campaigns/images/c406d56c-e806-4b9d-be20-4af2a69c4f37.png",
+    "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
+    "account_link": "https://albiononline.com/twitch",
+    "twitch_campaign_id": "c406d56c-e806-4b9d-be20-4af2a69c4f37"
+  },
+  {
+    "game": "Albion Online",
+    "status": "live",
+    "campaign": "AOCP Flamescale 8 - #3/7",
+    "start": "2026-11-25T10:00:00Z",
+    "end": "2026-11-26T09:29:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Earn exclusive rewards by watching officially partnered Albion Online livestreams!",
-    "image": "/media/campaigns/images/af8631fd-2465-431a-8fb4-7f4e007319cc.png",
+    "image": "/media/campaigns/images/75f18f64-6b04-4b71-953e-b1732dfc1469.png",
     "url": "https://forum.albiononline.com/index.php/Thread/214756-New-Twitch-Drops-Launching-Monday-July-28-2025/",
     "account_link": "https://albiononline.com/twitch",
-    "twitch_campaign_id": "af8631fd-2465-431a-8fb4-7f4e007319cc"
+    "twitch_campaign_id": "75f18f64-6b04-4b71-953e-b1732dfc1469"
   },
   {
     "game": "Apex Legends",
@@ -77,17 +92,17 @@
   {
     "game": "Black Desert",
     "status": "live",
-    "campaign": "2026 BDO Drops (Nov 24)",
-    "start": "2026-11-24T12:00:00Z",
-    "end": "2026-11-25T11:59:59.999Z",
+    "campaign": "2026 BDO Drops (Nov 25)",
+    "start": "2026-11-25T12:00:00Z",
+    "end": "2026-11-26T11:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
-    "image": "/media/campaigns/images/1d0c31ca-e3aa-4e86-b00f-e5b4059658c5.png",
+    "image": "/media/campaigns/images/a495e687-8804-43ae-a51e-c7138882b27c.png",
     "url": "https://www.naeu.playblackdesert.com/News/Detail?groupContentNo=5878",
     "account_link": "https://blackdesert.pearlabyss.com/Console/Intro/twitchDrops",
-    "twitch_campaign_id": "1d0c31ca-e3aa-4e86-b00f-e5b4059658c5"
+    "twitch_campaign_id": "a495e687-8804-43ae-a51e-c7138882b27c"
   },
   {
     "game": "Blue Protocol: Star Resonance",
@@ -255,21 +270,6 @@
     "twitch_campaign_id": "6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc"
   },
   {
-    "game": "Diablo IV",
-    "status": "live",
-    "campaign": "S16 Dev Update",
-    "start": "2026-11-24T19:00:00Z",
-    "end": "2026-11-25T18:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Join us for the Developer Update Livestream, and earn the Noxoiect dagger! ",
-    "image": "/media/campaigns/images/b05faff4-2e8e-480a-aa30-8f42b43f747d.png",
-    "url": "https://news.blizzard.com/article/24315746/",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "b05faff4-2e8e-480a-aa30-8f42b43f747d"
-  },
-  {
     "game": "Disney Dreamlight Valley",
     "status": "live",
     "campaign": "DDV: The Keepsake Sea",
@@ -328,21 +328,6 @@
     "url": "https://help.twitch.tv/s/article/twitch-chat-badges-guide ",
     "account_link": "https://www.twitch.tv/",
     "twitch_campaign_id": "882ccb61-0d4c-4fe6-a5c5-3156e8a033ab"
-  },
-  {
-    "game": "Eternal Return",
-    "status": "live",
-    "campaign": "S13 Glory Drops Tokens",
-    "start": "2026-11-24T20:00:00Z",
-    "end": "2026-11-25T19:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "https://twitch.playeternalreturn.com/",
-    "image": "/media/campaigns/images/35a94b9f-ee2e-4172-a681-fffb9f47ccd3.png",
-    "url": "https://twitch.playeternalreturn.com/",
-    "account_link": "https://twitch.playeternalreturn.com/",
-    "twitch_campaign_id": "35a94b9f-ee2e-4172-a681-fffb9f47ccd3"
   },
   {
     "game": "EVE Online",
@@ -418,6 +403,21 @@
     "url": "https://gz.ludenus.com/drops",
     "account_link": "https://gz-drops.masanggames.com/link",
     "twitch_campaign_id": "aa5f8e60-9485-42c4-8ae7-48538dcc8ffa"
+  },
+  {
+    "game": "Hearthstone",
+    "status": "live",
+    "campaign": "BGs Challenge Day 2",
+    "start": "2026-11-25T17:00:00Z",
+    "end": "2026-11-25T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Join host Shadybunny as 16 of your favorite Battlegrounds players put their skills to the test in Season 15! Earn up to 4 Battlegrounds tokens each day through Twitch Drops.",
+    "image": "/media/campaigns/images/83fb2a9a-b6bb-4e61-972b-ea65315b37d5.png",
+    "url": "https://hearthstone.blizzard.com/news/24301454",
+    "account_link": "https://account.battle.net/connections",
+    "twitch_campaign_id": "83fb2a9a-b6bb-4e61-972b-ea65315b37d5"
   },
   {
     "game": "Honkai: Star Rail",
@@ -812,17 +812,17 @@
   {
     "game": "Out of the Park Baseball 27",
     "status": "live",
-    "campaign": "Affiliate11/24/26",
-    "start": "2026-11-24T14:00:00Z",
-    "end": "2026-11-25T13:59:59.999Z",
+    "campaign": "Affiliate11/25/26",
+    "start": "2026-11-25T14:00:00Z",
+    "end": "2026-11-26T13:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Win a free Perfect Team Card Pack while you watch us stream Out of the Park Baseball 27! Get up to five (5) packs per day!",
-    "image": "/media/campaigns/images/42349ab5-7b53-4f96-8ce8-eed1c3742fad.png",
+    "image": "/media/campaigns/images/c7867d8f-d133-49e1-854f-d6eaef35b611.png",
     "url": "https://forums.ootpdevelopments.com/showpost.php?p=5246508&postcount=1",
     "account_link": "https://pt27.ootpdevelopments.com/twitch",
-    "twitch_campaign_id": "42349ab5-7b53-4f96-8ce8-eed1c3742fad"
+    "twitch_campaign_id": "c7867d8f-d133-49e1-854f-d6eaef35b611"
   },
   {
     "game": "Out of the Park Baseball 27",
@@ -1007,32 +1007,32 @@
   {
     "game": "Rise Online",
     "status": "live",
-    "campaign": "ROW Drop 658",
-    "start": "2026-11-24T17:59:00Z",
-    "end": "2026-11-25T17:56:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/48b0bb71-4a5a-45ce-b823-519850ec430c.png",
-    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "48b0bb71-4a5a-45ce-b823-519850ec430c"
-  },
-  {
-    "game": "Rise Online",
-    "status": "live",
-    "campaign": "Mobile Drop 229",
-    "start": "2026-11-24T17:59:00Z",
-    "end": "2026-11-25T17:56:59.999Z",
+    "campaign": "Mobile Drop 230",
+    "start": "2026-11-25T17:59:00Z",
+    "end": "2026-11-26T17:56:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Twitch’e özel Rise Online Mobile Twitch Ödülleri elde etmek için talimatları tamamlayın.",
-    "image": "/media/campaigns/images/03e6e0fc-d810-471e-b703-02abb91fbe56.png",
+    "image": "/media/campaigns/images/a0173888-2161-4891-80f0-04ad779a3e3c.png",
     "url": "https://mobile.riseonlineworld.com/usercp?do=twitch",
     "account_link": "https://mobile.riseonlineworld.com/usercp?do=twitch",
-    "twitch_campaign_id": "03e6e0fc-d810-471e-b703-02abb91fbe56"
+    "twitch_campaign_id": "a0173888-2161-4891-80f0-04ad779a3e3c"
+  },
+  {
+    "game": "Rise Online",
+    "status": "live",
+    "campaign": "ROW Drop 659",
+    "start": "2026-11-25T17:59:00Z",
+    "end": "2026-11-26T17:56:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Twitch’e özel Rise Online World Twitch Ödülleri elde etmek için talimatları tamamlayın.",
+    "image": "/media/campaigns/images/df798a15-1fd9-4a09-bdcf-7578559b6e6f.jpeg",
+    "url": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "account_link": "https://www.riseonlineworld.com/usercp?do=twitch",
+    "twitch_campaign_id": "df798a15-1fd9-4a09-bdcf-7578559b6e6f"
   },
   {
     "game": "Rush Royale",
@@ -1048,6 +1048,21 @@
     "url": "https://rushroyale.my.games/en/twitch-drops",
     "account_link": "https://rushroyale.my.games/en/twitch-drops",
     "twitch_campaign_id": "23df043e-a405-4c4a-9b2a-f453dcfe1877"
+  },
+  {
+    "game": "Shakes and Fidget",
+    "status": "live",
+    "campaign": "Hellevator Drops 3/4",
+    "start": "2026-11-25T15:00:00Z",
+    "end": "2026-11-29T22:58:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch the official Shakes & Fidget stream on Twitch to obtain unique Drops.",
+    "image": "/media/campaigns/images/64149a15-1d3a-4342-8ef7-8ea1215c3d2f.jpeg",
+    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
+    "account_link": "https://sfgame.net/",
+    "twitch_campaign_id": "64149a15-1d3a-4342-8ef7-8ea1215c3d2f"
   },
   {
     "game": "Shakes and Fidget",
@@ -1093,36 +1108,6 @@
     "url": "https://visionz44.com",
     "account_link": "https://visionz44.com/login",
     "twitch_campaign_id": "597acc95-f2c2-4e54-8f42-b99764967174"
-  },
-  {
-    "game": "Shroud of the Avatar: Forsaken Virtues",
-    "status": "live",
-    "campaign": "Spectator's Collection",
-    "start": "2026-10-30T15:51:34Z",
-    "end": "2026-11-25T12:49:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch any Shroud of the Avatar stream on Twitch to earn in-game rewards. Link your Twitch account at community.catnipgames.net/twitch so we know which game account to send them to. Claims made before you link are kept and sent once you link. Claimed rewards arrive in the Rewards window in game, usually within 15 minutes while you are logged in. Rewards are bound to your account and cannot be traded, sold or salvaged.",
-    "image": "/media/campaigns/images/73d9b4ef-a628-432d-8d1d-198d9ce15350.png",
-    "url": "https://community.catnipgames.net/twitch/",
-    "account_link": "https://community.catnipgames.net/twitch/",
-    "twitch_campaign_id": "73d9b4ef-a628-432d-8d1d-198d9ce15350"
-  },
-  {
-    "game": "Shroud of the Avatar: Forsaken Virtues",
-    "status": "live",
-    "campaign": "Spectator's Collection",
-    "start": "2026-10-29T12:51:00Z",
-    "end": "2026-11-25T12:50:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch any Shroud of the Avatar stream on Twitch to earn in-game rewards. Link your Twitch account at community.catnipgames.net/twitch so we know which game account to send them to. Claims made before you link are kept and sent once you link. Claimed rewards arrive in the Rewards window in game, usually within 15 minutes while you are logged in. Rewards are bound to your account and cannot be traded, sold or salvaged.",
-    "image": "/media/campaigns/images/be794431-8dd5-4b79-bf11-53bb600711cb.png",
-    "url": "https://community.catnipgames.net/twitch/",
-    "account_link": "https://community.catnipgames.net/twitch/",
-    "twitch_campaign_id": "be794431-8dd5-4b79-bf11-53bb600711cb"
   },
   {
     "game": "SMITE 2",
@@ -1322,17 +1307,32 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "Thanksgiving Drops #1",
-    "start": "2026-11-23T16:00:00Z",
-    "end": "2026-11-25T15:59:59.999Z",
+    "campaign": "Digital Warriors Drop #2",
+    "start": "2026-11-25T18:00:00Z",
+    "end": "2026-11-25T21:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
-    "description": "Thanksgiving Drops #1",
-    "image": "/media/campaigns/images/8be470f7-e2d9-4816-868b-629b772dd4dc.jpeg",
+    "description": "Digital Warrior Drop #2",
+    "image": "/media/campaigns/images/48ce1395-cbfe-47e9-b024-fea8995f45a4.png",
+    "url": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "account_link": "https://worldoftanks.eu//content/guide/twitch-drops/",
+    "twitch_campaign_id": "48ce1395-cbfe-47e9-b024-fea8995f45a4"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Thanksgiving Drops #2",
+    "start": "2026-11-25T16:00:00Z",
+    "end": "2026-11-27T15:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Thanksgiving Drops #2",
+    "image": "/media/campaigns/images/525a2151-8b00-43c5-b349-bbcd687ba387.jpeg",
     "url": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
     "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
-    "twitch_campaign_id": "8be470f7-e2d9-4816-868b-629b772dd4dc"
+    "twitch_campaign_id": "525a2151-8b00-43c5-b349-bbcd687ba387"
   },
   {
     "game": "World of Tanks Console",
@@ -1348,21 +1348,6 @@
     "url": "https://modernarmor.worldoftanks.com/en/cms/notes/twitch-drops/",
     "account_link": "https://modernarmor.worldoftanks.com/accounts/management/",
     "twitch_campaign_id": "f776fcd2-0aec-4fd5-8c03-b051937c680d"
-  },
-  {
-    "game": "World of Tanks: HEAT",
-    "status": "live",
-    "campaign": "HEAT Season 2 - Week 12",
-    "start": "2026-11-18T17:00:00Z",
-    "end": "2026-11-25T16:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Season 2 Twitch Drops! Watch HEAT on Twitch to earn a Vehicle XP Booster and a Booster Pack. Link your Twitch and Wargaming accounts to claim your rewards.",
-    "image": "/media/campaigns/images/dba36145-f1ae-4a0d-9d11-f4d2173bb773.png",
-    "url": "https://cdn.wotheat.com/articles/twitch-drops-season-2-promo/index.html",
-    "account_link": "https://cdn.wotheat.com/articles/twitch-drops-technical-guide/index.html",
-    "twitch_campaign_id": "dba36145-f1ae-4a0d-9d11-f4d2173bb773"
   },
   {
     "game": "World of Warcraft",
