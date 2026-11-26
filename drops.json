@@ -225,6 +225,21 @@
     "twitch_campaign_id": "ae1677a9-1c2c-4e62-8009-33d57583ee4f"
   },
   {
+    "game": "Coin Pusher World",
+    "status": "live",
+    "campaign": "Everlight Collection",
+    "start": "2026-11-26T00:00:00Z",
+    "end": "2026-11-29T23:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "✨ The Everlight Collection | CPW Twitch Drops ✨ As autumn fades and winter draws near, a little magic begins to glow! Join participating CPW Games streamers November 26–30, 2026, and collect four enchanted lantern coins inspired by the magical lights of the changing seasons. 🏮 3 Hours: Amber Lantern | 🌹 6 Hours: Rose Lantern | 💠 9 Hours: Teal Lantern | 💜 12 Hours: Amethyst Lantern. Watch participating Twitch channels with Drops enabled, earn your watch time, and claim your rewards to add these limited-time collectibles to your CPW Coin Pusher collection. ✨ Let your Everlight shine! ",
+    "image": "/media/campaigns/images/a21b884e-8c27-435b-b2f6-617e3799f038.png",
+    "url": "https://coins.coinpusherworld.co.uk/drops/index.php",
+    "account_link": "https://coins.coinpusherworld.co.uk/drops/index.php",
+    "twitch_campaign_id": "a21b884e-8c27-435b-b2f6-617e3799f038"
+  },
+  {
     "game": "Dead by Daylight",
     "status": "live",
     "campaign": "DbD: Terrifier",
@@ -238,36 +253,6 @@
     "url": "https://account.bhvr.com/twitch/dbd",
     "account_link": "https://account.bhvr.com/twitch/dbd",
     "twitch_campaign_id": "55b465d9-9e42-4720-a626-6abc6977eb24"
-  },
-  {
-    "game": "Delta Force",
-    "status": "live",
-    "campaign": "SEASON AURORA - WARFARE",
-    "start": "2026-11-10T02:00:00Z",
-    "end": "2026-11-25T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate Delta Force’s new Season: AURORA — good vibes & Twitch Drops included!",
-    "image": "/media/campaigns/images/e35e85d5-d647-4906-a3df-5a4d0620a58b.png",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "e35e85d5-d647-4906-a3df-5a4d0620a58b"
-  },
-  {
-    "game": "Delta Force",
-    "status": "live",
-    "campaign": "SEASON AURORA-OPERATIONS",
-    "start": "2026-11-10T02:00:00Z",
-    "end": "2026-11-25T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Celebrate Delta Force’s new Season: AURORA — good vibes & Twitch Drops included!",
-    "image": "/media/campaigns/images/6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc.png",
-    "url": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "account_link": "https://www.playdeltaforce.com/act/twitchdrops/index.html",
-    "twitch_campaign_id": "6c9d7437-f6a9-4949-8b46-b2cb5b0d34cc"
   },
   {
     "game": "Disney Dreamlight Valley",
@@ -360,36 +345,6 @@
     "twitch_campaign_id": "ed6f5985-31f5-4c33-99f6-883c00cc9e95"
   },
   {
-    "game": "FragPunk",
-    "status": "live",
-    "campaign": "Farlands Drops Event",
-    "start": "2026-11-05T00:00:00Z",
-    "end": "2026-11-25T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch any FragPunk Farlands streaming and keep an eye out for FragPunk rewards!",
-    "image": "/media/campaigns/images/171c990c-5259-4670-93d0-58fd6e167342.png",
-    "url": "https://www.fragpunk.com/twitchdrops/",
-    "account_link": "https://www.fragpunk.com/account/",
-    "twitch_campaign_id": "171c990c-5259-4670-93d0-58fd6e167342"
-  },
-  {
-    "game": "Goblin Cleanup",
-    "status": "live",
-    "campaign": "Grime Scene",
-    "start": "2026-10-30T14:00:00Z",
-    "end": "2026-11-25T23:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Suit up, stand out, and show off your toxic style with these hazardous new cosmetics.",
-    "image": "/media/campaigns/images/e5de4c1a-c015-4b69-b1fd-d07786986c25.png",
-    "url": "https://www.team17.com/goblin-cleanup-twitch-drops",
-    "account_link": "https://drops.getrekt.stream/api/redeem/d9b63ead-daec-40a7-b137-06b8eed6c0ff/54fa74eb-e659-4db0-8205-c67767d821d3/linking?redirect_url=https%3A%2F%2Fwww.team17.com%2Fgoblin-cleanup-twitch-drops%3Flinked%3Dtrue",
-    "twitch_campaign_id": "e5de4c1a-c015-4b69-b1fd-d07786986c25"
-  },
-  {
     "game": "GunZ: The Duel",
     "status": "live",
     "campaign": "Special Supply!",
@@ -405,21 +360,6 @@
     "twitch_campaign_id": "aa5f8e60-9485-42c4-8ae7-48538dcc8ffa"
   },
   {
-    "game": "Hearthstone",
-    "status": "live",
-    "campaign": "BGs Challenge Day 2",
-    "start": "2026-11-25T17:00:00Z",
-    "end": "2026-11-25T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Join host Shadybunny as 16 of your favorite Battlegrounds players put their skills to the test in Season 15! Earn up to 4 Battlegrounds tokens each day through Twitch Drops.",
-    "image": "/media/campaigns/images/83fb2a9a-b6bb-4e61-972b-ea65315b37d5.png",
-    "url": "https://hearthstone.blizzard.com/news/24301454",
-    "account_link": "https://account.battle.net/connections",
-    "twitch_campaign_id": "83fb2a9a-b6bb-4e61-972b-ea65315b37d5"
-  },
-  {
     "game": "Honkai: Star Rail",
     "status": "live",
     "campaign": "V4.7 Honkai: Star Rail",
@@ -433,21 +373,6 @@
     "url": "https://act.hoyoverse.com/puzzle/hkrpg/pz_u8LiB2qvFN/index.html?game_biz=hkrpg_global&utm_source=twitch&utm_medium=push",
     "account_link": "https://act.hoyoverse.com/puzzle/hkrpg/pz_u8LiB2qvFN/index.html?game_biz=hkrpg_global&utm_source=twitch&utm_medium=push",
     "twitch_campaign_id": "a0a98fc0-ccc4-435c-bff4-877b5dc33902"
-  },
-  {
-    "game": "Infinity Nikki",
-    "status": "live",
-    "campaign": "V2.11 Infinity Nikki",
-    "start": "2026-11-02T03:00:00Z",
-    "end": "2026-11-26T01:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch Infinity Nikki on Twitch and earn exclusive in-game rewards! Watch Time Rewards: ⏱️ Watch 15 mins – Diamond ×10 ⏱️ Watch 30 mins – Diamond ×20 ⏱️ Watch 45 mins – Bling ×20,000 ⏱️ Watch 1 hour – Thread of Purity ×100 ⏱️ Watch 1.5 hours – Shining Particle ×100 ⏱️ Watch 2 hours – Shiny Bubbles x100",
-    "image": "/media/campaigns/images/a013ca5d-a41b-4ead-a282-c78f6c2c3183.png",
-    "url": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
-    "account_link": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
-    "twitch_campaign_id": "a013ca5d-a41b-4ead-a282-c78f6c2c3183"
   },
   {
     "game": "Kakele Online - MMORPG",
@@ -538,21 +463,6 @@
     "url": "https://kid.kabam.com/v1/kid/account/login",
     "account_link": "https://kid.kabam.com/v1/kid/account/login",
     "twitch_campaign_id": "ec4bff72-b535-4097-ac89-0fce0ab7fc6a"
-  },
-  {
-    "game": "Marvel Rivals",
-    "status": "live",
-    "campaign": "2026 Grand Finals I",
-    "start": "2026-11-23T13:00:00Z",
-    "end": "2026-11-25T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch exciting Ignite Grand Finals with your favorite streamers and gain exclusive drop rewards!",
-    "image": "/media/campaigns/images/fc7aea99-2ee9-4c92-b1d2-191228247a02.png",
-    "url": "https://www.marvelrivals.com/twitchdrops/",
-    "account_link": "https://www.marvelrivals.com/twitchdrops/",
-    "twitch_campaign_id": "fc7aea99-2ee9-4c92-b1d2-191228247a02"
   },
   {
     "game": "Marvel Rivals",
@@ -688,21 +598,6 @@
     "url": "https://artstorm.com/news/twitch-drops-the-big-deal",
     "account_link": "https://artstorm.com/cabinet/connect-twitch",
     "twitch_campaign_id": "a8b29630-1150-4bab-bdf5-176062225b55"
-  },
-  {
-    "game": "Monster Hunter Outlanders",
-    "status": "live",
-    "campaign": "MHO Twitch Drops",
-    "start": "2026-10-29T06:00:00Z",
-    "end": "2026-11-26T05:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Monster Hunter Outlanders Twitch Drops campaign, live Oct 29 – Nov 26, 2026 (UTC).\n\nMonster Hunter Outlanders is a Monster Hunter exploration hunting action game on mobile, officially licensed by CAPCOM and developed by TiMi Studio Group. The game preserves the classic weapons and hunting experience the series is known for, while introducing a brand-new world, original Adventurers, Buddies, and exclusive new Monsters. During this campaign, viewers who link their game account and Twitch account can earn exclusive in-game rewards just by watching any Monster Hunter Outlanders livestream on Twitch:\n\n- Watch 15 minutes → Dewberry x5\n- Watch 30 minutes → Zenny x2,000\n- Watch 60 minutes → Rutacoin x30\n\nWatch time accumulates across multiple viewing sessions. Rewards are claimed on Twitch and delivered to the linked in-game account. We'd love to have you join the hunt and share these rewards with your community!",
-    "image": "/media/campaigns/images/2cc95940-886e-42a2-9dee-23269cabfa47.png",
-    "url": "https://monsterhunteroutlanders.com/act/mhotwitchdrops/index.html ",
-    "account_link": "https://monsterhunteroutlanders.com/act/mhotwitchdrops/index.html ",
-    "twitch_campaign_id": "2cc95940-886e-42a2-9dee-23269cabfa47"
   },
   {
     "game": "NARAKA: BLADEPOINT",
@@ -1218,31 +1113,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-25T00:00:00Z",
-    "end": "2026-11-25T23:59:59.999Z",
+    "start": "2026-11-26T00:00:00Z",
+    "end": "2026-11-26T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/93e93320-7bc9-40f9-9095-b991d4836175.png",
+    "image": "/media/campaigns/images/eaed966d-d391-4548-bfd6-f23902992097.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "93e93320-7bc9-40f9-9095-b991d4836175"
-  },
-  {
-    "game": "UFL",
-    "status": "live",
-    "campaign": "Nov #4",
-    "start": "2026-11-19T09:05:00Z",
-    "end": "2026-11-25T23:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch any channel with drops enabled on Twitch in the UFL category and get cool rewards!",
-    "image": "/media/campaigns/images/447ee0fb-93da-47e6-8d2c-e4b87a40f1cf.png",
-    "url": "https://portal.uflgame.com/twitch/drops",
-    "account_link": "https://portal.uflgame.com/twitch",
-    "twitch_campaign_id": "447ee0fb-93da-47e6-8d2c-e4b87a40f1cf"
+    "twitch_campaign_id": "eaed966d-d391-4548-bfd6-f23902992097"
   },
   {
     "game": "War Thunder",
@@ -1307,21 +1187,6 @@
   {
     "game": "World of Tanks",
     "status": "live",
-    "campaign": "Digital Warriors Drop #2",
-    "start": "2026-11-25T18:00:00Z",
-    "end": "2026-11-25T21:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Digital Warrior Drop #2",
-    "image": "/media/campaigns/images/48ce1395-cbfe-47e9-b024-fea8995f45a4.png",
-    "url": "https://worldoftanks.eu//content/guide/twitch-drops/",
-    "account_link": "https://worldoftanks.eu//content/guide/twitch-drops/",
-    "twitch_campaign_id": "48ce1395-cbfe-47e9-b024-fea8995f45a4"
-  },
-  {
-    "game": "World of Tanks",
-    "status": "live",
     "campaign": "Thanksgiving Drops #2",
     "start": "2026-11-25T16:00:00Z",
     "end": "2026-11-27T15:59:59.999Z",
@@ -1367,6 +1232,21 @@
   {
     "game": "World of Warships",
     "status": "live",
+    "campaign": "15.10 WOWS Channel Drop",
+    "start": "2026-11-25T23:00:00Z",
+    "end": "2026-12-02T22:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "The earliest sharks appeared roughly 450 million years ago, while the first true trees (like Archaeopteris) didn’t show up until around 385 million years ago. That means sharks were cruising the oceans for something like 60 million years before there was a single forest on land.",
+    "image": "/media/campaigns/images/5ba41994-f762-4549-8320-55038a4111bd.png",
+    "url": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
+    "account_link": "https://wargaming.net/personal/",
+    "twitch_campaign_id": "5ba41994-f762-4549-8320-55038a4111bd"
+  },
+  {
+    "game": "World of Warships",
+    "status": "live",
     "campaign": "Update 15.10 Drop: Week 3",
     "start": "2026-11-19T17:00:00Z",
     "end": "2026-11-26T16:59:59.999Z",
@@ -1378,21 +1258,6 @@
     "url": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
     "account_link": "https://wargaming.net/personal/",
     "twitch_campaign_id": "e3d43de4-f705-4bcd-b626-d9dcae1abb88"
-  },
-  {
-    "game": "World of Warships",
-    "status": "live",
-    "campaign": "15.10 WOWS Channel Drop",
-    "start": "2026-11-18T23:00:00Z",
-    "end": "2026-11-25T22:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "The earliest sharks appeared roughly 450 million years ago, while the first true trees (like Archaeopteris) didn’t show up until around 385 million years ago. That means sharks were cruising the oceans for something like 60 million years before there was a single forest on land.",
-    "image": "/media/campaigns/images/9526362b-ca8e-4c99-9e87-4422ffc19865.png",
-    "url": "https://worldofwarships.com/en/news/community/community-drops-november-26/",
-    "account_link": "https://wargaming.net/personal/",
-    "twitch_campaign_id": "9526362b-ca8e-4c99-9e87-4422ffc19865"
   },
   {
     "game": "Wuthering Waves",
