@@ -270,21 +270,6 @@
     "twitch_campaign_id": "9211ec4c-39e8-4a21-a164-d8b4ac5b4286"
   },
   {
-    "game": "Coryphaeus Championships",
-    "status": "live",
-    "campaign": "November Drops",
-    "start": "2026-11-26T17:00:00Z",
-    "end": "2026-11-26T21:29:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Coryphaeus Fall Drops",
-    "image": "/media/campaigns/images/b160a4b1-d8d8-4154-ad63-6ab0ca5ace1e.png",
-    "url": "https://sites.google.com/view/playcoryphaeus/twitch-drops-info",
-    "account_link": "https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=qkxawi9g89zrh5p6kyzzxsysgq7g3h&redirect_uri=https%3A%2F%2Fwww.playcoryphaeus.com/twitch-drops&scope=channel%3Amanage%3Aredemptions+channel%3Aread%3Aredemptions+channel%3Aread%3Asubscriptions+moderator%3Aread%3Achatters+channel%3Aread%3Ahype_train+bits%3Aread",
-    "twitch_campaign_id": "b160a4b1-d8d8-4154-ad63-6ab0ca5ace1e"
-  },
-  {
     "game": "Crossout Remastered",
     "status": "live",
     "campaign": "Update Drops I",
@@ -450,6 +435,21 @@
     "twitch_campaign_id": "a0a98fc0-ccc4-435c-bff4-877b5dc33902"
   },
   {
+    "game": "Infinity Nikki",
+    "status": "live",
+    "campaign": "V3.0 Infinity Nikki",
+    "start": "2026-11-27T03:00:00Z",
+    "end": "2026-12-25T01:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Watch Infinity Nikki on Twitch and earn exclusive in-game rewards! Watch Time Rewards: ⏱️ Watch 15 mins – Diamond ×10 ⏱️ Watch 30 mins – Diamond ×20 ⏱️ Watch 45 mins – Bling ×20,000 ⏱️ Watch 1 hour – Thread of Purity ×100 ⏱️ Watch 1.5 hours – Shining Particle ×100 ⏱️ Watch 2 hours – Shiny Bubbles x100",
+    "image": "/media/campaigns/images/a67d3f57-02bd-4b1e-817a-fa917c9c8f90.png",
+    "url": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
+    "account_link": "https://infinitynikki.infoldgames.com/proj/en/twitch-drops.html",
+    "twitch_campaign_id": "a67d3f57-02bd-4b1e-817a-fa917c9c8f90"
+  },
+  {
     "game": "Kakele Online - MMORPG",
     "status": "live",
     "campaign": "Kakele Online - Nov 2",
@@ -587,21 +587,6 @@
   {
     "game": "Mir Korabley",
     "status": "live",
-    "campaign": "Обновление 26.11: Часть 4",
-    "start": "2026-11-20T15:00:00Z",
-    "end": "2026-11-27T14:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
-    "image": "/media/campaigns/images/8399837c-ff40-4603-8d85-a63c852b4fa3.jpeg",
-    "url": "https://krbli.ru/3RW8D27",
-    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
-    "twitch_campaign_id": "8399837c-ff40-4603-8d85-a63c852b4fa3"
-  },
-  {
-    "game": "Mir Korabley",
-    "status": "live",
     "campaign": "Lestakorabli - 26.11 #4",
     "start": "2026-11-20T15:00:00Z",
     "end": "2026-11-27T14:59:59.999Z",
@@ -613,6 +598,21 @@
     "url": "https://krbli.ru/3RW8D27",
     "account_link": "https://lesta.ru/personal/?bind-external=twitch",
     "twitch_campaign_id": "38dafced-e09d-4f62-8228-80f179efc3fd"
+  },
+  {
+    "game": "Mir Korabley",
+    "status": "live",
+    "campaign": "Обновление 26.11: Часть 4",
+    "start": "2026-11-20T15:00:00Z",
+    "end": "2026-11-27T14:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "• Смотрите прямые трансляции в категории Mir korabley и получайте боевые задачи прямо в игре. • Подробности на портале «Мир кораблей».",
+    "image": "/media/campaigns/images/8399837c-ff40-4603-8d85-a63c852b4fa3.jpeg",
+    "url": "https://krbli.ru/3RW8D27",
+    "account_link": "https://lesta.ru/personal/?bind-external=twitch",
+    "twitch_campaign_id": "8399837c-ff40-4603-8d85-a63c852b4fa3"
   },
   {
     "game": "Mobile Dungeon",
@@ -1050,36 +1050,6 @@
     "twitch_campaign_id": "da0bed28-861c-412f-b008-74166ceb9a9b"
   },
   {
-    "game": "Shakes and Fidget",
-    "status": "live",
-    "campaign": "S&F Droplets",
-    "start": "2026-11-20T15:00:00Z",
-    "end": "2026-11-26T22:58:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Droplets are additional drops to our main drop campaigns.",
-    "image": "/media/campaigns/images/cc67d7be-14c9-4c14-a0db-a97db5763301.png",
-    "url": "https://playa-games.helpshift.com/hc/faq/255-twitch-drops/",
-    "account_link": "https://sfgame.net/",
-    "twitch_campaign_id": "cc67d7be-14c9-4c14-a0db-a97db5763301"
-  },
-  {
-    "game": "SharkAttack",
-    "status": "live",
-    "campaign": "1000 Pearls Drop",
-    "start": "2026-11-21T01:30:34Z",
-    "end": "2026-11-26T23:59:59.999Z",
-    "watch_time": "",
-    "requirements": [],
-    "rewards": [],
-    "description": "Watch VisionZ44 play SharkAttack to earn 1,000 Pearls - the in-game currency used to buy Shark DNA, combat buffs, and shop items. Connect your Twitch account below so your Pearls get credited automatically once you've watched long enough to unlock the drop.",
-    "image": "/media/campaigns/images/597acc95-f2c2-4e54-8f42-b99764967174.png",
-    "url": "https://visionz44.com",
-    "account_link": "https://visionz44.com/login",
-    "twitch_campaign_id": "597acc95-f2c2-4e54-8f42-b99764967174"
-  },
-  {
     "game": "SMITE 2",
     "status": "live",
     "campaign": "Nov Week 4! Nike!",
@@ -1173,16 +1143,16 @@
     "game": "The Quinfall",
     "status": "live",
     "campaign": "November Drops",
-    "start": "2026-11-26T00:00:00Z",
-    "end": "2026-11-26T23:59:59.999Z",
+    "start": "2026-11-27T00:00:00Z",
+    "end": "2026-11-27T23:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Watch Twitch streams under The Quinfall category and earn special in-game rewards!",
-    "image": "/media/campaigns/images/eaed966d-d391-4548-bfd6-f23902992097.png",
+    "image": "/media/campaigns/images/fe8949cb-2683-4e89-a81e-f32933ab718b.png",
     "url": "https://www.quinfall.com/twitch-drops",
     "account_link": "https://www.quinfall.com/twitch-drops",
-    "twitch_campaign_id": "eaed966d-d391-4548-bfd6-f23902992097"
+    "twitch_campaign_id": "fe8949cb-2683-4e89-a81e-f32933ab718b"
   },
   {
     "game": "Tom Clancy's The Division 2",
@@ -1217,17 +1187,17 @@
   {
     "game": "WAKFU",
     "status": "live",
-    "campaign": "Viewer Box 1.94 - D1",
-    "start": "2026-11-26T15:00:00Z",
-    "end": "2026-11-26T22:59:59.999Z",
+    "campaign": "Viewer Box 1.94 - D2",
+    "start": "2026-11-26T23:00:00Z",
+    "end": "2026-11-27T22:59:59.999Z",
     "watch_time": "",
     "requirements": [],
     "rewards": [],
     "description": "Les Bellaphones arrivent… Et cela tombe bien, car non seulement vos streamers préférés vont tout vous expliquer sur le sujet, mais en plus, les regarder vous permettra peut-être de gagner une Viewer Box 1.94 !",
-    "image": "/media/campaigns/images/a73ad74e-cb22-4158-a232-5c93f32d62bf.png",
+    "image": "/media/campaigns/images/2012f3de-14c0-47e5-ab58-a76bb753d789.png",
     "url": "https://account.ankama.com/fr/twitch",
     "account_link": "https://account.ankama.com/fr/twitch",
-    "twitch_campaign_id": "a73ad74e-cb22-4158-a232-5c93f32d62bf"
+    "twitch_campaign_id": "2012f3de-14c0-47e5-ab58-a76bb753d789"
   },
   {
     "game": "WAKFU",
@@ -1273,6 +1243,21 @@
     "url": "https://wolvesville.com/",
     "account_link": "https://wolvesville.com/",
     "twitch_campaign_id": "c1b9bd2e-98cd-4ffe-b748-c2b3e48c5ecf"
+  },
+  {
+    "game": "World of Tanks",
+    "status": "live",
+    "campaign": "Thanksgiving Drops",
+    "start": "2026-11-26T22:00:00Z",
+    "end": "2026-11-27T21:59:59.999Z",
+    "watch_time": "",
+    "requirements": [],
+    "rewards": [],
+    "description": "Thanksgiving Drops",
+    "image": "/media/campaigns/images/d828da66-4497-4f08-90fe-b9708fa20486.jpeg",
+    "url": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+    "account_link": "https://worldoftanks.eu//news/guides-reviews/twitch-drops-guide/",
+    "twitch_campaign_id": "d828da66-4497-4f08-90fe-b9708fa20486"
   },
   {
     "game": "World of Tanks",
